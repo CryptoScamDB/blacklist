@@ -1,5 +1,7 @@
 language: node_js
 node_js:
   - "10.11"
-scripts:
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; else npm test; fi
+
+deploy:
+  provider: script
+  script: `if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; else npm test; fi`
