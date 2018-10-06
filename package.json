@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "node ./scripts/build.js",
-    "test": "mocha ./tests/validate_data.js"
+    "test": "mocha ./scripts/test.js"
   },
   "dependencies": {
     "js-yaml": "^3.12.0",
