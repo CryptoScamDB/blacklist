@@ -9,9 +9,9 @@ if (fs.existsSync("./commands")) {
 			if(command.type == "ADD") {
 				urls.push(command.data);
 			}
-			//fs.unlinkSync('./commands/' + item);
+			fs.unlinkSync('./commands/' + item);
 		});
 		fs.writeFileSync('./data/urls.yaml',yaml.safeDump(urls,{ lineWidth: 99999999, indent: 4 }));
-		//fs.unlinkSync('./commands');
+		fs.unlinkSync('./commands');
 	});
 }
