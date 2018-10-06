@@ -1,25 +1,12 @@
 {
-  "name": "blacklist",
+  "name": "@cryptoscamdb/blacklist",
   "version": "1.0.0",
-  "description": "TODO: write contribution guide",
-  "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node ./scripts/build.js",
+    "test": "mocha ./tests/validate_data.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CryptoScamDB/blacklist.git"
-  },
-  "author": "CryptoScamDB",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/CryptoScamDB/blacklist/issues"
-  },
-  "homepage": "https://github.com/CryptoScamDB/blacklist#readme",
   "dependencies": {
-    "js-yaml": "^3.12.0"
+    "js-yaml": "^3.12.0",
+    "mocha": "^5.2.0"
   }
 }

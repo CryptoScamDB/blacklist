@@ -1,0 +1,5 @@
+language: node_js
+node_js:
+  - "10.11"
+scripts:
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; else npm test; fi

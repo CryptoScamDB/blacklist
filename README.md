@@ -1,3 +1,3 @@
-# @CryptoScamDB/blacklist
+# blacklist
 
 TODO: write contribution guide
