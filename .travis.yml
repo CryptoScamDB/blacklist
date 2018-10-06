@@ -4,7 +4,8 @@ node_js:
 install:
   - npm install
 script:
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; else npm test; fi
+  - npm test
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then npm run build; fi
 deploy:
   provider: pages
   skip-cleanup: true
