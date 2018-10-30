@@ -1,0 +1,8 @@
+type: ADD
+data:
+    url: 'http://promocrypt.com/'
+    name: promocrypt.com
+    addresses:
+        - '0xAc73CE5F0756C908dAFfEA721B65D887C1814E21'
+    coin: eth
+    reporter: MyCrypto
