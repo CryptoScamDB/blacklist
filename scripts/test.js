@@ -14,7 +14,7 @@ describe('YAML Validator', function() {
 			assert.deepEqual(yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => !entry.url.startsWith('http://') && !entry.url.startsWith('https://') && !entry.url.startsWith('mailto:')),[]);
 		});
 		it('every entry should have valid keys (url/category/subcategory/description/addresses)', function() {
-			assert.deepEqual(yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => Object.keys(entry).some(key => !['null','id','name','coin','url','category','subcategory','description','addresses'].includes(key))),[]);
+			assert.deepEqual(yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => Object.keys(entry).some(key => !['null','name','coin','url','category','subcategory','description','addresses'].includes(key))),[]);
 		});
 	});
 	describe('Additions', function() {
