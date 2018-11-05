@@ -1,0 +1,7 @@
+type: ADD
+data:
+    url: 'http://ethpromonodes.com/'
+    name: ethpromonode.com
+    category: Scamming
+    subcategory: Trust-Trading
+    reporter: Tester
