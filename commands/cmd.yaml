@@ -1,0 +1,5 @@
+type: ADD
+data:
+    url: 'http://malicious.test/'
+    name: malicious.test
+    reporter: Tester
