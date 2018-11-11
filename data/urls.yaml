@@ -32674,10 +32674,12 @@
 -
     name: btcs-share.com
     url: 'http://btcs-share.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1N2GSugUiQ9bgG94YFhexLqdEXrLZ9CQXa'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1N2GSugUiQ9bgG94YFhexLqdEXrLZ9CQXa'
     reporter: MyCrypto
 -
     name: etherepromo.win
@@ -34368,10 +34370,12 @@
 -
     name: bitcoin-promo.club
     url: 'http://bitcoin-promo.club'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 14Sfnn3jveSPvZgHcpG7c15m58sM4KeAqD'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '14Sfnn3jveSPvZgHcpG7c15m58sM4KeAqD'
     reporter: MyCrypto
 -
     name: ethereumgw.org
@@ -34802,10 +34806,12 @@
 -
     name: c-kamowski.fr
     url: 'http://c-kamowski.fr'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 19DBRq4M98XaeBjnjx2NuU9MMrTK3u259L'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '19DBRq4M98XaeBjnjx2NuU9MMrTK3u259L'
     reporter: MyCrypto
 -
     name: eosprivate.io
@@ -35017,10 +35023,12 @@
 -
     name: btcfast.io
     url: 'http://btcfast.io'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 33RRw7sdn6SQsNGPAb4fGUuAM9yHfL2ecH'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '33RRw7sdn6SQsNGPAb4fGUuAM9yHfL2ecH'
     reporter: MyCrypto
 -
     name: idexxsoftload.com
@@ -35210,10 +35218,12 @@
 -
     name: btc-give.org
     url: 'http://btc-give.org'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1KXLXfdFS7aKZJWwVxH9im9WyzA9SBBEed'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1KXLXfdFS7aKZJWwVxH9im9WyzA9SBBEed'
     reporter: MyCrypto
 -
     name: e.airdropeos.com
@@ -35337,10 +35347,12 @@
 -
     name: btc.etherfree.info
     url: 'http://btc.etherfree.info'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 18b7PTLaa2TPtn5V5moBwSsWTEm6Ny2n8Y'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '18b7PTLaa2TPtn5V5moBwSsWTEm6Ny2n8Y'
     reporter: MyCrypto
 -
     name: etherfree.info
@@ -35606,10 +35618,12 @@
 -
     name: binance-btc.github.io
     url: 'http://binance-btc.github.io'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1ERg3Gb3TwcTkGNQo5cHKNAHEgpLBRf4KQ'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1ERg3Gb3TwcTkGNQo5cHKNAHEgpLBRf4KQ'
     reporter: MyCrypto
 -
     name: w-tron.org
@@ -35848,10 +35862,12 @@
 -
     name: gelepo.com
     url: 'http://gelepo.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1BMWrDwudPBKoFDVJ57K6THR2QAEVkbvok'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1BMWrDwudPBKoFDVJ57K6THR2QAEVkbvok'
     reporter: MyCrypto
 -
     name: ethgift.net
@@ -36100,10 +36116,12 @@
 -
     name: btcdrop.org
     url: 'https://btcdrop.org'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1CCNs3rQwZbqhECphevW6HvSxVrXx6Bkeq'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1CCNs3rQwZbqhECphevW6HvSxVrXx6Bkeq'
     reporter: MyCrypto
 -
     name: myehferwallet.com
@@ -36975,10 +36993,12 @@
 -
     name: node82.btc-giveaway.info
     url: 'https://node82.btc-giveaway.info'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 17ntyMTNJpM6JDdS9M5G2eKgKELuGfzZkr'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '17ntyMTNJpM6JDdS9M5G2eKgKELuGfzZkr'
     reporter: MyCrypto
 -
     name: texacon-verify-547fcd.bitballoon.com
@@ -37215,34 +37235,42 @@
 -
     name: btcpramengyve.com
     url: 'https://btcpramengyve.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 34oxKKuq8g7W23gvDD6K3bpbTVCg1FLYGb'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '34oxKKuq8g7W23gvDD6K3bpbTVCg1FLYGb'
     reporter: MyCrypto
 -
     name: claim-btc.org
     url: 'https://claim-btc.org'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1FVwwp98FBKJV8MzSFNN38afSHqiYrxXjs'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1FVwwp98FBKJV8MzSFNN38afSHqiYrxXjs'
     reporter: MyCrypto
 -
     name: btcbig.org
     url: 'https://btcbig.org'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 15HM6dXaUvDdXri3rz44wKv13No57h4TN'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '15HM6dXaUvDdXri3rz44wKv13No57h4TN'
     reporter: MyCrypto
 -
     name: btcbonus.win
     url: 'https://btcbonus.win'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1Co5gnEn1wBTyigfH9udnuUgha27pdETS9'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1Co5gnEn1wBTyigfH9udnuUgha27pdETS9'
     reporter: MyCrypto
 -
     name: btcpromogiveback.com
@@ -37250,15 +37278,19 @@
     coin: ETH
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3LfmhNmuE3vXuruFG9nHwT9heMYvceahhQ'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3LfmhNmuE3vXuruFG9nHwT9heMYvceahhQ'
     reporter: MyCrypto
 -
     name: btcpromoget.com
     url: 'https://btcpromoget.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 34oxKKuq8g7W23gvDD6K3bpbTVCg1FLYGb'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '34oxKKuq8g7W23gvDD6K3bpbTVCg1FLYGb'
     reporter: MyCrypto
 -
     name: etherdeltha.info
@@ -37662,10 +37694,12 @@
 -
     name: btcpromofree.com
     url: 'https://btcpromofree.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1c9setx5UAxgSy4VqvksfErUdZn5fa4vQ'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1c9setx5UAxgSy4VqvksfErUdZn5fa4vQ'
     reporter: MyCrypto
 -
     name: ethcryptopromos.com
@@ -38201,18 +38235,22 @@
 -
     name: claimyour-btc.org
     url: 'https://claimyour-btc.org'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1FVwwp98FBKJV8MzSFNN38afSHqiYrxXjs'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1FVwwp98FBKJV8MzSFNN38afSHqiYrxXjs'
     reporter: MyCrypto
 -
     name: btcpromo.win
     url: 'https://btcpromo.win'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1Co5gnEn1wBTyigfH9udnuUgha27pdETS9'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1Co5gnEn1wBTyigfH9udnuUgha27pdETS9'
     reporter: MyCrypto
 -
     name: indexmarkket-site.com
@@ -38279,10 +38317,12 @@
 -
     name: btcpromotion.info
     url: 'https://btcpromotion.info'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1FEt2GWxEidTKz1PkFuiccKTMD5AHkdRdq'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1FEt2GWxEidTKz1PkFuiccKTMD5AHkdRdq'
     reporter: MyCrypto
 -
     name: betaclient-rzcoinwaps.cf
@@ -38950,10 +38990,12 @@
 -
     name: bounty-btc.com
     url: 'http://bounty-btc.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1ANTZ2dGkfEm1GYquVk1eMa62R1edBDT98'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1ANTZ2dGkfEm1GYquVk1eMa62R1edBDT98'
     reporter: MyCrypto
 -
     name: ether-event.com
@@ -39074,18 +39116,22 @@
 -
     name: btcgiveaway.org
     url: 'http://btcgiveaway.org'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 17mKwVQHq7YXk9bwocPjnnypbzPEWTnN2o'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '17mKwVQHq7YXk9bwocPjnnypbzPEWTnN2o'
     reporter: MyCrypto
 -
     name: btcpromogivegroup.com
     url: 'http://btcpromogivegroup.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3LfmhNmuE3vXuruFG9nHwT9heMYvceahhQ'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3LfmhNmuE3vXuruFG9nHwT9heMYvceahhQ'
     reporter: MyCrypto
 -
     name: metamaskpro.io
@@ -39186,10 +39232,13 @@
 -
     name: bdinamce.com
     url: 'http://bdinamce.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 34oxKKuq8g7W23gvDD6K3bpbTVCg1FLYGb 3LfmhNmuE3vXuruFG9nHwT9heMYvceahhQ'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3LfmhNmuE3vXuruFG9nHwT9heMYvceahhQ'
+        - '34oxKKuq8g7W23gvDD6K3bpbTVCg1FLYGb'
     reporter: MyCrypto
 -
     name: go.ether10000.win
@@ -39735,10 +39784,12 @@
 -
     name: binance.claims
     url: 'http://binance.claims'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 13XzbaQV6k21yfbS5WDkzwSPkAxQ1AsbQ3'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '13XzbaQV6k21yfbS5WDkzwSPkAxQ1AsbQ3'
     reporter: MyCrypto
 -
     name: verify.mediumpromos.top
@@ -40076,10 +40127,12 @@
 -
     name: btc-binance.com
     url: 'http://btc-binance.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 12z4fAETZTXehv8Y2v3GcD7jjdgG38Ppor'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '12z4fAETZTXehv8Y2v3GcD7jjdgG38Ppor'
     reporter: MyCrypto
 -
     name: eth-away.com
@@ -40744,10 +40797,12 @@
 -
     name: btcbonus-binance.com
     url: 'http://btcbonus-binance.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 12z4fAETZTXehv8Y2v3GcD7jjdgG38Ppor'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '12z4fAETZTXehv8Y2v3GcD7jjdgG38Ppor'
     reporter: MyCrypto
 -
     name: betaclient-wbtcgwap.cf
@@ -40794,10 +40849,12 @@
 -
     name: btcdrop.top
     url: 'http://btcdrop.top'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 187R5KKL5oT2hUrdGH3yJv8H36N3BSnsii'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '187R5KKL5oT2hUrdGH3yJv8H36N3BSnsii'
     reporter: MyCrypto
 -
     name: johnmcafee.promo
@@ -41162,10 +41219,12 @@
 -
     name: clubbtc.live
     url: 'http://clubbtc.live'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 18dCxtGHAzWbrGBxPQyW4WqSV7N94HQuHt'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '18dCxtGHAzWbrGBxPQyW4WqSV7N94HQuHt'
     reporter: MyCrypto
 -
     name: binance-official.com
@@ -44346,10 +44405,12 @@
 -
     name: btc-promo.xf.cz
     url: 'http://btc-promo.xf.cz'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 16zc22GFYyJf8XSN2TSUzDtUDZ4CQtmKcb'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '16zc22GFYyJf8XSN2TSUzDtUDZ4CQtmKcb'
     reporter: MyCrypto
 -
     name: coinbase.tx-pr0.com
@@ -46226,18 +46287,22 @@
 -
     name: claim-giftwaves.com
     url: 'http://claim-giftwaves.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1FiqK1ycxsiRVHgpQXq7Es4xNbft57doc1'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1FiqK1ycxsiRVHgpQXq7Es4xNbft57doc1'
     reporter: MyCrypto
 -
     name: btcdrop.cn
     url: 'http://btcdrop.cn'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1Lu8bgEScgkSZBTsLqZKsKQK3QEdyhEBcH'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1Lu8bgEScgkSZBTsLqZKsKQK3QEdyhEBcH'
     reporter: MyCrypto
 -
     name: blokclnain.com
@@ -46407,10 +46472,12 @@
 -
     name: btc-bonus-live2-binance.com
     url: 'http://btc-bonus-live2-binance.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 13pz3N4ug6M3VZ4gKUnPjNpPJFyXEeniPd'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '13pz3N4ug6M3VZ4gKUnPjNpPJFyXEeniPd'
     reporter: MyCrypto
 -
     name: monero-my.com
@@ -47187,10 +47254,12 @@
 -
     name: blockhaine.blogspot.com
     url: 'http://blockhaine.blogspot.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1F7rKpK5VWVzBqgw8qHGNpYC2MBdTph6Ta'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1F7rKpK5VWVzBqgw8qHGNpYC2MBdTph6Ta'
     reporter: MyCrypto
 -
     name: geteth.cn
@@ -48644,10 +48713,12 @@
 -
     name: cryptobtc.club
     url: 'http://cryptobtc.club'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1NZrzg9CPa5hMQkJBYrY9v6ReitdNgSFJE'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1NZrzg9CPa5hMQkJBYrY9v6ReitdNgSFJE'
     reporter: MyCrypto
 -
     name: idex-market.pro
@@ -49133,10 +49204,12 @@
 -
     name: getfreebitcoin.network
     url: 'http://getfreebitcoin.network'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1FVwwp98FBKJV8MzSFNN38afSHqiYrxXjs'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1FVwwp98FBKJV8MzSFNN38afSHqiYrxXjs'
     reporter: MyCrypto
 -
     name: coinaction.xyz
@@ -49581,10 +49654,12 @@
 -
     name: btcgive.kissr.com
     url: 'http://btcgive.kissr.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. bitcoin address: 19Q7FZ4FLNYP4rW1fewzR3v2fcBzRVHZ9f'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '19Q7FZ4FLNYP4rW1fewzR3v2fcBzRVHZ9f'
     reporter: MyCrypto
 -
     name: ethgive.kissr.com
@@ -49669,10 +49744,12 @@
 -
     name: top-deals.pro
     url: 'http://top-deals.pro'
-    coin: //btc-gifts.info'
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1DNmKrDCrqvc4L4D9gtWM23QEUTRjKUH1M'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1DNmKrDCrqvc4L4D9gtWM23QEUTRjKUH1M'
     reporter: MyCrypto
 -
     name: bittrexl.in.us.bix-l.com
@@ -49706,7 +49783,9 @@
     coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3FyxFjxq1RGg6JEKSoCsMoMruFaTc8QmVB'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3FyxFjxq1RGg6JEKSoCsMoMruFaTc8QmVB'
     reporter: MyCrypto
 -
     name: bnbethereumairdroppevent.com
@@ -49758,7 +49837,9 @@
     coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3FyxFjxq1RGg6JEKSoCsMoMruFaTc8QmVB'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3FyxFjxq1RGg6JEKSoCsMoMruFaTc8QmVB'
     reporter: MyCrypto
 -
     name: mnyicthervwvallct.com
@@ -49774,7 +49855,9 @@
     coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3FyxFjxq1RGg6JEKSoCsMoMruFaTc8QmVB'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3FyxFjxq1RGg6JEKSoCsMoMruFaTc8QmVB'
     reporter: MyCrypto
 -
     name: bortnarnce.com
@@ -49888,7 +49971,9 @@
     coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 19Q7FZ4FLNYP4rW1fewzR3v2fcBzRVHZ9f'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '19Q7FZ4FLNYP4rW1fewzR3v2fcBzRVHZ9f'
     reporter: MyCrypto
 -
     name: santechstroywalker.site
@@ -50093,7 +50178,9 @@
     coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1FTTAPLngxjdc3Vt2woFAJhdkwiZM2Soog'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1FTTAPLngxjdc3Vt2woFAJhdkwiZM2Soog'
     reporter: MyCrypto
 -
     name: binance.com6537261.ml
@@ -50193,7 +50280,9 @@
     coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 36CfVjvns6ce1ijpdKB8YKeBVzVpxCfRrH'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '36CfVjvns6ce1ijpdKB8YKeBVzVpxCfRrH'
     reporter: MyCrypto
 -
     name: binachaincompetition.com
@@ -50201,7 +50290,9 @@
     coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 36CfVjvns6ce1ijpdKB8YKeBVzVpxCfRrH'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '36CfVjvns6ce1ijpdKB8YKeBVzVpxCfRrH'
     reporter: MyCrypto
 -
     name: binacompetition.com
@@ -50209,7 +50300,9 @@
     coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 36CfVjvns6ce1ijpdKB8YKeBVzVpxCfRrH'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '36CfVjvns6ce1ijpdKB8YKeBVzVpxCfRrH'
     reporter: MyCrypto
 -
     name: xn--biinanc-z8a.com
@@ -50285,7 +50378,9 @@
     coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 1AZXBeoGtCnK5jVHaDBoNphsND2dLWtRE2'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '1AZXBeoGtCnK5jVHaDBoNphsND2dLWtRE2'
     reporter: MyCrypto
 -
     name: apexone.online
@@ -50489,18 +50584,22 @@
 -
     name: dexchainevent.com
     url: 'http://dexchainevent.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3FasziSrvWpZi8Wn8atj73Jtv4ZxqNNYb6'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3FasziSrvWpZi8Wn8atj73Jtv4ZxqNNYb6'
     reporter: MyCrypto
 -
     name: bnbethairdropp.com
     url: 'http://bnbethairdropp.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
     reporter: MyCrypto
 -
     name: mniyehtcwallict.com
@@ -50513,58 +50612,72 @@
 -
     name: okexcampaign.info
     url: 'http://okexcampaign.info'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
     reporter: MyCrypto
 -
     name: okexspecialcampaign.info
     url: 'http://okexspecialcampaign.info'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
     reporter: MyCrypto
 -
     name: bnbchaincompetition.info
     url: 'http://bnbchaincompetition.info'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3FasziSrvWpZi8Wn8atj73Jtv4ZxqNNYb6'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3FasziSrvWpZi8Wn8atj73Jtv4ZxqNNYb6'
     reporter: MyCrypto
 -
     name: bnbetherairdropp.com
     url: 'http://bnbetherairdropp.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
     reporter: MyCrypto
 -
     name: dexchaincompetition.info
     url: 'http://dexchaincompetition.info'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3FasziSrvWpZi8Wn8atj73Jtv4ZxqNNYb6'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3FasziSrvWpZi8Wn8atj73Jtv4ZxqNNYb6'
     reporter: MyCrypto
 -
     name: okexspecialcampaign.com
     url: 'http://okexspecialcampaign.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
     reporter: MyCrypto
 -
     name: okexcampaign.com
     url: 'http://okexcampaign.com'
-    coin: ETH
+    coin: BTC
     category: Scamming
     subcategory: Trust-Trading
-    description: 'Trust trading scam site. Bitcoin address: 3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
+    description: 'Trust trading scam site.'
+    addresses:
+        - '3Bx287cHkqzt1uGmw71v4GuEsqHvBpANgY'
     reporter: MyCrypto
 -
     name: ethereum-corporation.org
