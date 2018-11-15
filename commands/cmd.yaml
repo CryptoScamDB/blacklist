@@ -1,0 +1,7 @@
+type: ADD
+data:
+    url: 'http://ethpromonode.com/'
+    name: ethpromonode.com
+    category: Scamming
+    subcategory: Trust-Trading
+    reporter: '{"statusCode":200,"input":"skn2zw23ad","headers":{"Access-Control-Allow-Origin":"*"},"body":{"success":true,"name":"TestUser"}}'
