@@ -1,0 +1,8 @@
+type: ADD
+data:
+    url: 'http://malicious.test'
+    name: malicious.test
+    category: Malicious
+    subcategory: MaliciousTest
+    description: A malicious test example input
+    reporter: API-CryptoScamDB
