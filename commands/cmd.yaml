@@ -1,0 +1,11 @@
+type: ADD
+data:
+    url: 'http://maliciouss.test'
+    name: maliciouss.test
+    category: Malicious
+    subcategory: MaliciousssTest
+    description: A maliciousssss test example input
+    coin: ETH
+    addresses:
+        - '0x7c030200a2e8abab418bc58b4f43c46ceb5d9202'
+    reporter: Michael
