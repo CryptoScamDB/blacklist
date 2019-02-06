@@ -50762,3 +50762,13 @@
         - '0x55B775Ea2CA493c082F3e17A8433e4D220FBB8d8'
     description: Trust trading scam site.
     reporter: MyCrypto
+-
+    url: 'http://get-freecrypto.blogspot.com'
+    name: get-freecrypto.blogspot.com
+    category: Scamming
+    subcategory: Trust-Trading
+    coin: ETH
+    addresses:
+        - '0x55B775Ea2CA493c082F3e17A8433e4D220FBB8d8'
+    description: Trust trading scam site.
+    reporter: MyCrypto
