@@ -1,0 +1,1 @@
+url: '{"type":"ADD","data":{"url":"http://malicious.test","name":"malicious.test","category":"Malicious","subcategory":"MaliciousTest","addresses":["0xa7dd81e9ebc96b613143c4f988b5b01bdb43dc34"],"description":"A malicious test example input","coin":"ETH","reporter":"Michael"}}'
