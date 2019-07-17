@@ -42502,9 +42502,9 @@
   url: http://freecryptogift.org
   category: Scamming
   subcategory: Trust-Trading
-  description: 'Trust trading scam site. XRP address: rCozquBhPba8D4hnCJh5DzJVZxZtNFGbV '
+  description: 'Trust trading scam site. XRP address: rCozquBhPba8D4hnCJh5DzJVZxZtNFGbV'
   addresses:
-    UNKNOWN:
+    XRP:
     - rCozquBhPba8D4hnCJh5DzJVZxZtNFGbV
     BTC:
     - 189p87dMz7FeFdp98AGkmYo4ScMYgqUAkh
@@ -48111,7 +48111,7 @@
   subcategory: Trust-Trading
   description: Trust trading scam site
   addresses:
-    UNKNOWN:
+    XRP:
     - rrSuJZZudhq4U9uS1uUQtxvJCHoa6ckaf
   reporter: MyCrypto
 - name: 6602c412-67f3-4725-92eb-5c2ebb2c6166.htmlpasta.com
