@@ -48632,4 +48632,154 @@
   subcategory: ICO
   description: Scam ICO project - see https://bitcointalk.org/index.php?topic=5165803.0
   reporter: MyCrypto
-...
+- name: dropbinance.com
+  url: http://dropbinance.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x1058afFcf5cd061abCAb30dD1bfeF82727F9e96F"
+    BTC:
+    - 1CdWQJMiQF1uYbwKc7fb5VBb9JBrhykcNf
+  reporter: MyCrypto
+- name: xrpx2july.blogspot.co.ke
+  url: http://xrpx2july.blogspot.co.ke
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    XRP:
+    - rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+  reporter: MyCrypto  
+- name: xrpx2july.blogspot.co.ke
+  url: http://xrpx2july.blogspot.co.ke
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    XRP:
+    - rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+  reporter: MyCrypto    
+- name: giftbinance.com
+  url: http://giftbinance.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x1058afFcf5cd061abCAb30dD1bfeF82727F9e96F"
+    BTC:
+    - 1CdWQJMiQF1uYbwKc7fb5VBb9JBrhykcNf
+  reporter: MyCrypto      
+- name: anniversary-eth.com
+  url: http://anniversary-eth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x71e10ec3021DC58fbfea484c6dA226E7B6f61507"
+    BTC:
+    - 14MPxfjhTaFF567XHZdkffMBAX72oxfWR7
+  reporter: MyCrypto        
+- name: binclic.com
+  url: http://binclic.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xe33086e461749C687c2DDC3ec4EB24EA591c0dc7"
+    BTC:
+    - 1BiyLYjfDNQSP81uvr5gzNW77P2viGWi8m
+  reporter: MyCrypto          
+- name: binancepro.epizy.com
+  url: http://binancepro.epizy.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x537C2bfbA6B1880a6B11D4B4E83d4489f163d520"
+    BTC:
+    - 1CK9kT35qZHGAb7kuqZeKfKQc3j6Ezt8JZ
+  reporter: MyCrypto            
+- name: mcafee-official-comeback.netlify.com
+  url: http://mcafee-official-comeback.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xB5004Cc4Faf99270356740Dd6AB217Ea89ed515f"
+    BTC:
+    - 1HhSTg2k8X6fQZQx9MN144LoUgY9Wfjb8a
+  reporter: MyCrypto            
+- name: julyneo.blogspot.com
+  url: http://julyneo.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    NEO:
+    - ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+  reporter: MyCrypto              
+- name: 20btc.net
+  url: http://20btc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - 1BCi89tDwsiocFz7Zyv6LUudJmruP2jdsL
+  reporter: MyCrypto      
+- name: binance-gift.pro
+  url: http://binance-gift.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - 1KeZSSoFnJjivDzwDAjQ2VF51vPCsMGAko
+  reporter: MyCrypto        
+- name: binancewin.com 
+  url: http://binancewin.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xF4c996752C0346dA4D290553fD58b3fcB6774ed6"
+    BTC:
+    - 1PPfhweDkV7q6S6p4kB4k3MJ1ooNaU16Zc
+  reporter: MyCrypto          
+- name: 20eth.com
+  url: http://20eth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x1058afFcf5cd061abCAb30dD1bfeF82727F9e96F"
+  reporter: MyCrypto            
+- name: innovamine.ltd
+  url: http://innovamine.ltd
+  category: Scamming
+  subcategory: Innovamine
+  description: Fake Innovamine site
+  addresses:
+    BTC:
+    - 15xtyNz3sxe65VTYpR2uyvYU6W4wUCB3S6
+  reporter: MyCrypto              
+- name: cryptoplay.world
+  url: http://cryptoplay.world
+  category: Scamming
+  subcategory: Gambling
+  description: Fake betting site
+  addresses:
+    ETH:
+    - "0x8084C9a98ebDd0314F77E738982859fE85380582"
+    BTC:
+    - 1Cra5UWznAbkTYFRrvwLarvmkyWiwRP64R
+  reporter: MyCrypto      
