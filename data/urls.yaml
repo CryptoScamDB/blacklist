@@ -48783,3 +48783,197 @@
     BTC:
     - 1Cra5UWznAbkTYFRrvwLarvmkyWiwRP64R
   reporter: MyCrypto      
+- name: binance2yo.com
+  url: http://binance2yo.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xF4c996752C0346dA4D290553fD58b3fcB6774ed6"
+  reporter: MyCrypto     
+- name: mybinance.net
+  url: http://mybinance.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x537C2bfbA6B1880a6B11D4B4E83d4489f163d520"
+    BTC:
+    - "1CK9kT35qZHGAb7kuqZeKfKQc3j6Ezt8JZ"
+  reporter: MyCrypto       
+- name: localbitcoins.com.digicerts.live
+  url: http://localbitcoins.com.digicerts.live
+  category: Scamming
+  subcategory: LocalBitcoins
+  description: Fake LocalBitcoins phishing for logins with POST /x.php
+  reporter: MyCrypto      
+- name: 20eth.org
+  url: http://20eth.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x295F3272645CaD969f71E2A8515cb1f871198D32"
+  reporter: MyCrypto   
+- name: binance2019.com 
+  url: http://binance2019.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x537C2bfbA6B1880a6B11D4B4E83d4489f163d520"
+    BTC:
+    - "1CK9kT35qZHGAb7kuqZeKfKQc3j6Ezt8JZ"
+  reporter: MyCrypto     
+- name: binancefeast.net
+  url: http://binancefeast.net 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "13mL2oP6y32456qUwVUaMVmFe4nwBQRE2G"
+  reporter: MyCrypto       
+- name: 2binance.com 
+  url: http://2binance.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1PUJDnBL3cu5rCLkCMygvNe5QwXWdpSND5"
+  reporter: MyCrypto         
+- name: btcpresent.net
+  url: http://btcpresent.net 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "13pisM9vRmrZCWs3EBSSDxOHdtPsmncpEx"
+    - "1AfCWw9cszJVtZ7JCXpJmB4cEZCNKr31UL"
+  reporter: MyCrypto    
+- name: binancevisit.net
+  url: http://binancevisit.net 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1Mn386ue8o3mW9866octLNP8HFqcYsphJC"
+  reporter: MyCrypto    
+- name: thecryptobonus.com
+  url: http://thecryptobonus.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x06105bF02b36dd91bC12C9AC2f1c8858cf3acC26"
+  reporter: MyCrypto      
+- name: mdl3.org
+  url: http://mdl3.org 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xDf283eF5c8BAAA03C70CE3E7A554ca06719B5F17"
+    - "0x54EF7CB98fE97ed02ECFEF1726B1a3EF9f6382e9"
+    BTC:
+    - "1Fdvg6r5yqRn2PHbkdK8EAgiabz95FXctv"
+    - "1LxryPKta1XELN7RXeBLLpC38BL5xJDU2f"
+  reporter: MyCrypto     
+- name: easybinance.com 
+  url: http://easybinance.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1Mn386ue8o3mW9866octLNP8HFqcYsphJC"
+  reporter: MyCrypto     
+- name: crypto-promotion-get.online
+  url: http://crypto-promotion-get.online 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x3414801E9D6Bdf352d4d21a30cBB9a178d28381F"
+    BTC:
+    - "1Hj2r8SnVim48qG3E4QwZ6td8PMcUiXnGU"
+  reporter: MyCrypto       
+- name: tesla-promo.netlify.com
+  url: http://tesla-promo.netlify.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xcdA93EfBDE45fc661Fe07ec0E42885bd498D7AD7"
+    BTC:
+    - "1LV3ie84CfH3v9k9bnYknvo8n9g9ce8BsH"
+  reporter: MyCrypto         
+- name: binancegiveaway.top
+  url: http://binancegiveaway.top 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1KeZSSoFnJjivDzwDAjQ2VF51vPCsMGAko"
+  reporter: MyCrypto           
+- name: drop5000.com
+  url: http://drop5000.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1DNZSZz1Hr1f7pNZun2jSTUr8p2SjCZf7M"
+  reporter: MyCrypto    
+- name: crypto-promotion-get.tech 
+  url: http://crypto-promotion-get.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x2A1c52252043257EB84228a90457772D870c0994"
+    - "0xfeDC43d08F2df67bb9087b461DB0298Ba95D5d3b"
+    BTC:
+    - "16kfeWSRmwoUWLyBwSawQTpFiaeEGr552u"
+    - "17cEKLcX8pTUCuxtTZkc633bJepaA6WDLQ"
+  reporter: MyCrypto      
+- name: 5000btc.net
+  url: http://5000btc.net 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "14CcftBcHmQwPwhgd9e2dVdURqVtP2hQW3"
+  reporter: MyCrypto     
+- name: binance-giveaway.top
+  url: http://binance-giveaway.top 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1KeZSSoFnJjivDzwDAjQ2VF51vPCsMGAko"
+  reporter: MyCrypto       
+- name: blockchain-exploit.site
+  url: http://blockchain-exploit.site 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site - btc generator
+  addresses:
+    BTC:
+    - "1HqDooDzSqZJnTsxD9brZxpdr6ZWEKsecV"
+  reporter: MyCrypto         
