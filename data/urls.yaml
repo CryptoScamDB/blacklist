@@ -49013,3 +49013,65 @@
     BTC:
     - "3Qs6oJa5riYu8sKtikq2eNLiVX2h9YCNFM"
   reporter: MyCrypto    
+- name: tron-official-btc-promo.netlify.com
+  url: http://tron-official-btc-promo.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "12X9Q49dfza81tAXsXTSRb3zxmbQXMpKNy"
+  reporter: MyCrypto   
+- name: crypto-promo-get.tech
+  url: http://crypto-promo-get.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "18TCgcp5DrvdbpZefWnVSQtm4FXHjq2jsy"
+    ETH:
+    - "0x2E8243757a3E4c829fEe9EBb672Bdb5b0dE4085F"
+  reporter: MyCrypto     
+- name: tron-foundation-redeem.netlify.com
+  url: http://tron-foundation-redeem.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1QCGKLAivaAWgJg1cBqZM6vV3iH2k7WUtd"
+    ETH:
+    - "0x36b64Bb5b3850c1A412F422f36Ab30C11b6B94b3"
+    TRX:
+    - "TEvcFV6mrRPLTWBCeCtEB4QKwjUPj4trWk"
+  reporter: MyCrypto       
+- name: 5000giveaway.com
+  url: http://5000giveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "13APwXbfA4JSG1ewPSsURtshndfR7JfASq"
+  reporter: MyCrypto     
+- name: coinbasegift.com
+  url: http://coinbasegift.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1FZWiRH5zSwsaFY5gUFXVGML6NHsADngRp"
+  reporter: MyCrypto       
+- name: binance-margin-new.com
+  url: http://binance-margin-new.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1GroEK1FM5yF76ebrvT7F3mJeFwzoYT5ht"
+    ETH:
+    - "0x2189B1EEA27F1D19Bc2c61D991068ec947d8Ec7b"
+  reporter: MyCrypto         
