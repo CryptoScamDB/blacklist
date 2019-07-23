@@ -48977,3 +48977,39 @@
     BTC:
     - "1HqDooDzSqZJnTsxD9brZxpdr6ZWEKsecV"
   reporter: MyCrypto         
+- name: 5000promo.net 
+  url: http://5000promo.net  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1HFAzdeYk6jNtvY1uuyCexz7UAJjehRUNx"
+  reporter: MyCrypto           
+- name: get3tesla.org
+  url: http://get3tesla.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x79949b5353006b12CC0d739190d492c577bEd080"
+  reporter: MyCrypto     
+- name: 5000get.com
+  url: http://5000get.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1PUJDnBL3cu5rCLkCMygvNe5QwXWdpSND5"
+  reporter: MyCrypto       
+- name: litenet.ltd
+  url: http://litenet.ltd
+  category: Scamming
+  subcategory: Investments
+  description: Scam investment site - ponzi scheme (company no.12055460)
+  addresses:
+    BTC:
+    - "3Qs6oJa5riYu8sKtikq2eNLiVX2h9YCNFM"
+  reporter: MyCrypto    
