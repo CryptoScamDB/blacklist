@@ -49075,3 +49075,80 @@
     ETH:
     - "0x2189B1EEA27F1D19Bc2c61D991068ec947d8Ec7b"
   reporter: MyCrypto         
+- name: bakkt-btc-event.netlify.com
+  url: http://bakkt-btc-event.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "15KdnGGRXUWBkqfi36UPc1pnCcb5ZyosSs"
+    ETH:
+    - "0x71D663DE2Df38D61A1871Bb8eF503d18D19964d6"
+  reporter: MyCrypto           
+- name: mcafee-official.net
+  url: http://mcafee-official.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "15N9barRVSvgjA3XYcP7nhUZ7zHUVN13GA"
+    ETH:
+    - "0x6441363696BB5377477E96D3DF05604732E7eC35"
+  reporter: MyCrypto           
+- name: mcafee-eth.netlify.com
+  url: http://mcafee-eth.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x25381a98c848c445c21211b0e365175435c1ea8f"
+  reporter: MyCrypto       
+- name: mcafee-btc.netlify.com
+  url: http://mcafee-btc.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1CjmkL2oAdFVSwjPJv6WAJydNytK3XCerp"
+  reporter: MyCrypto         
+- name: buylibracoins.com
+  url: http://buylibracoins.com
+  category: Phishing
+  subcategory: Libra
+  description: Fake Libra crowdsale site
+  addresses:
+    ETH:
+    - "0xc859d7753a0295d8b88be34014a4956e15a2b745"
+    BTC:
+    - "3JENwnLp6QbVqiFdzXhkRa2zzPckbFzxj8"
+    LTC:
+    - "MVK1QtUxYT2h6zQDFXgtTmmkFShbPX6hxV"
+    BCH:
+    - "qr80gxxwgmvw708ac72pn88f03wte4ypyq6kecf9e0"
+  reporter: MyCrypto         
+- name: calibra-ico.net 
+  url: http://calibra-ico.net 
+  category: Phishing
+  subcategory: Libra
+  description: Fake Libra crowdsale site
+  addresses:
+    ETH:
+    - "0xdd68910e9fc5b71d4f0f5eceb4ec57742bcc3cd5"
+    BTC:
+    - "1PSHt9agWavn4mf44d8rH6HPfaVpkdV75A"
+  reporter: MyCrypto           
+- name: calibra-token.com
+  url: http://calibra-token.com
+  category: Phishing
+  subcategory: Libra
+  description: Fake Libra crowdsale site
+  addresses:
+    ETH:
+    - "0xdd68910e9fc5b71d4f0f5eceb4ec57742bcc3cd5"
+    BTC:
+    - "1PSHt9agWavn4mf44d8rH6HPfaVpkdV75A"
+  reporter: MyCrypto             
