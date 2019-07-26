@@ -49243,3 +49243,56 @@
     ETH:
     - "0x7b8583C2d1A5B66eF6CD377B10130B20D09fc04b"
   reporter: CryptoScamDB        
+- name: btc5000.epizy.com
+  url: http://btc5000.epizy.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x537C2bfbA6B1880a6B11D4B4E83d4489f163d520"
+    BTC:
+    - "1E8J5U1vBSiTK8KsKbTHbouLqzqkgnnL3g"
+  reporter: CryptoScamDB          
+- name: promobinance.net 
+  url: http://promobinance.net  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "19tBJTK4YowE87rxCLS626NdoR3B28mEKx"
+  reporter: CryptoScamDB         
+- name: 30f3000f-5f1f-4dee-af2d-0b7a6159f4c0.htmlpasta.com
+  url: http://30f3000f-5f1f-4dee-af2d-0b7a6159f4c0.htmlpasta.com  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site - redirect via bit.ly/binancegive+
+  reporter: CryptoScamDB            
+- name: 3365cad5-455b-4ed0-a944-2b9bd0191501.htmlpasta.com
+  url: http://3365cad5-455b-4ed0-a944-2b9bd0191501.htmlpasta.com  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xD83d2B3C816F3923867F4C4a5fdE46224E919236"
+  reporter: CryptoScamDB    
+- name: 0978f655-465b-4434-99fb-f8357c7bca4b.htmlpasta.com
+  url: http://0978f655-465b-4434-99fb-f8357c7bca4b.htmlpasta.com  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "12cXaMMhtWA2Y9kbEF7f9m2pBip72DbzPr"
+  reporter: CryptoScamDB      
+- name: airdrop2.com
+  url: http://airdrop2.com  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1F3jofkLZR8NLzdaN8Ycuf6qLLaz81LhUm"
+  reporter: CryptoScamDB        
