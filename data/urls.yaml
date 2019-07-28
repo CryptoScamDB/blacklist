@@ -49296,3 +49296,41 @@
     BTC:
     - "1F3jofkLZR8NLzdaN8Ycuf6qLLaz81LhUm"
   reporter: CryptoScamDB        
+- name: binancebtc.epizy.com
+  url: http://binancebtc.epizy.com  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1CK9kT35qZHGAb7kuqZeKfKQc3j6Ezt8JZ"
+  reporter: CryptoScamDB          
+- name: upbit.sale
+  url: http://upbit.sale  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x22ffb8cf9871cb143575effea5524a19d0bd72f6"
+  reporter: CryptoScamDB         
+- name: binance-updates.com
+  url: http://binance-updates.com  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "18ZLv7gCDmzXVgCfQhDoT3DfmuiT3vhVCx"
+    ETH:
+    - "0x2189B1EEA27F1D19Bc2c61D991068ec947d8Ec7b"
+  reporter: CryptoScamDB           
+- name: huobiglobal.ltd
+  url: http://huobiglobal.ltd  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xe2e4B53A1324F5a7368724eA73e532c626517f19"
+  reporter: CryptoScamDB         
