@@ -49334,3 +49334,79 @@
     ETH:
     - "0xe2e4B53A1324F5a7368724eA73e532c626517f19"
   reporter: CryptoScamDB         
+- name: gift-binance.com
+  url: http://gift-binance.com  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xF4c996752C0346dA4D290553fD58b3fcB6774ed6"
+    BTC:
+    - "16FVNrp2nfsRH9cWRidV6ZVZf4mDPBnJG9"
+  reporter: CryptoScamDB        
+- name: huobipartners.com
+  url: http://huobipartners.com  
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xe2e4B53A1324F5a7368724eA73e532c626517f19"
+  reporter: CryptoScamDB          
+- name: coinbasepromo.epizy.com
+  url: http://coinbasepromo.epizy.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1E8J5U1vBSiTK8KsKbTHbouLqzqkgnnL3g"
+  reporter: CryptoScamDB            
+- name: win-binance.com
+  url: http://win-binance.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "16wd9B1LiXmTNf9hxQyb3Q9fbVHzP3NvSV"
+  reporter: CryptoScamDB              
+- name: crypto-extravaganza.store
+  url: http://crypto-extravaganza.store
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "12E6S5wUtzofn1mivoNYS3Wm5Z8Ld4FwK1"
+    ETH:
+    - "0xd9356A97016Bfe90eD4B793289fEB812C58aC127"
+  reporter: CryptoScamDB                
+- name: drop-binance.com
+  url: http://drop-binance.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1NuZ4rxsQPU4izgtkScs793Uxx2c6ADRQo"
+  reporter: CryptoScamDB                  
+- name: biitmrt.com
+  url: http://biitmrt.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xb25f138CE264d5FE52a64F97FCdc1804C98017dB"
+  reporter: CryptoScamDB                    
+- name: donalt.livetrades.vip
+  url: http://donalt.livetrades.vip
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Fake DonAlt paid investment group https://twitter.com/CryptoDonAII/status/1155849569902759943 twitter id: 701212188694986752"
+  addresses:
+    BTC:
+    - "3Lqi9MFvmBVRuc1yNsLdm2eB1t6XkgL96p"
+  reporter: CryptoScamDB                      
