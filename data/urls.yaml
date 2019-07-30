@@ -49410,3 +49410,91 @@
     BTC:
     - "3Lqi9MFvmBVRuc1yNsLdm2eB1t6XkgL96p"
   reporter: CryptoScamDB                      
+- name: now5000.com
+  url: http://now5000.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1Q5XatyemWqDo7aytzExFho9YvayaNQhwp"
+  reporter: CryptoScamDB      
+- name: crypto-drop.org
+  url: http://crypto-drop.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1JRprezHFY97JEJo55t8wRnuNkAcVkB4uY"
+  reporter: CryptoScamDB        
+- name: crypto-promo.net
+  url: http://crypto-promo.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1212Egq4bLw3FLQx5EWcu7fmJoJkvh3RrB"
+  reporter: CryptoScamDB      
+- name: cryptoextravaganza.online
+  url: http://cryptoextravaganza.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "12E6S5wUtzofn1mivoNYS3Wm5Z8Ld4FwK1"
+    ETH:
+    - "0xd9356A97016Bfe90eD4B793289fEB812C58aC127"
+  reporter: CryptoScamDB      
+- name: xn--blockcain-lmb.com
+  url: http://xn--blockcain-lmb.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake blockchain phishing for logins - https://twitter.com/PhishingAi/status/1156192065518231552"
+  reporter: CryptoScamDB        
+- name: hiverzone.com
+  url: http://hiverzone.com
+  category: Scamming
+  subcategory: Investments
+  description: "Scam investment (108% profit in 24hrs) using coinpayments merhcant 72ef49e64a72d984cb253bc7c297ccd7"
+  reporter: CryptoScamDB          
+- name: elonmuskcrypto.webcindario.com
+  url: http://elonmuskcrypto.webcindario.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x738a8589924B5C924997DDFB23238064eD238920"
+  reporter: CryptoScamDB      
+- name: anycoins.club
+  url: http://anycoins.club
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site  - fake bitcoin miner
+  addresses:
+    BTC:
+    - "36NMVtTqxvBq19fiowCcuJKtiR56hdAayy"
+  reporter: CryptoScamDB        
+- name: mcafees-redemption.netlify.com
+  url: http://mcafees-redemption.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "1BpUU4YDuZGXQkrW3hawXhRGGPzs2Zxivb"
+  reporter: CryptoScamDB        
+- name: calibra-token.info
+  url: http://calibra-token.info
+  category: Phishing
+  subcategory: Libra
+  description: Fake Calibra crowdsale site
+  addresses:
+    ETH:
+    - "0xdd68910e9fc5b71d4f0f5eceb4ec57742bcc3cd5"
+    BTC:
+    - "1PSHt9agWavn4mf44d8rH6HPfaVpkdV75A (btc)"
+  reporter: CryptoScamDB          
