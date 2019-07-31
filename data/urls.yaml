@@ -49498,3 +49498,99 @@
     BTC:
     - "1PSHt9agWavn4mf44d8rH6HPfaVpkdV75A (btc)"
   reporter: CryptoScamDB          
+- name: eventbinance.com
+  url: http://eventbinance.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x812EE157C915Dd8f2FDCAaee453C5B0Aee1F27Ac"
+  reporter: CryptoScamDB        
+- name: news-bnb.org
+  url: http://news-bnb.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0x97ef8A1EFCb356A76318bf0603890e18ae73d2DC"
+    BTC:
+    - "17qWPbf7SY4AYzaRUAkCZTCQHAxbh52wu1"
+  reporter: CryptoScamDB          
+- name: neofoundation.blogspot.com
+  url: http://neofoundation.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    NEO:
+    - "APrEuwGuqbZF57K8CMto1GEbbV1FgKHY6s"
+  reporter: CryptoScamDB            
+- name: top-binance.com
+  url: http://top-binance.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+    - "16wd9B1LiXmTNf9hxQyb3Q9fbVHzP3NvSV"
+  reporter: CryptoScamDB              
+- name: fastprofitableoptiontrade.com
+  url: http://fastprofitableoptiontrade.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform using coinpayments (merchant id: 8476b541a9d47e28ed1bfcbb0ad4b6a8)"
+  reporter: CryptoScamDB                
+- name: ethereum4th.com
+  url: http://ethereum4th.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+    - "0xB3805B7A3098F9E8E4C0A4bFa212d2C8d7d072a6"
+    - "0x9c381E161fd6c53bC1eF83949731368501443A35"
+  reporter: CryptoScamDB        
+- name: mcafeebtc.net
+  url: http://mcafeebtc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - redirected via bit.ly/319CYuH+"
+  addresses:
+    BTC:
+    - "1MNuqDXUZYN6dqheCHWFxjQyGgRb7thavU"
+  reporter: CryptoScamDB          
+- name: buterineth.net
+  url: http://buterineth.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - redirected via bit.ly/2MsMl4f+"
+  addresses:
+    ETH:
+    - "0xf9e2f408676d1D7a08378ee879AfF6c0556086D3"
+  reporter: CryptoScamDB         
+- name: promo-binance.netlify.com
+  url: http://promo-binance.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3NGgWDD5xrr1Af2FnyCYHhzg5WQmVZEaqG"
+  reporter: CryptoScamDB           
+- name: btc.wz.sk
+  url: http://btc.wz.sk
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "16WJFGc5z5j3VYj2EpSExkxdcGrj28BNCh"
+  reporter: CryptoScamDB             
+- name: myellthevwaallet.com
+  url: http://myellthevwaallet.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet stealing secrets with POST My/sending.php"
+  reporter: CryptoScamDB              
