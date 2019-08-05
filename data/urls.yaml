@@ -49594,3 +49594,141 @@
   subcategory: MyEtherWallet
   description: "Fake MyEtherWallet stealing secrets with POST My/sending.php"
   reporter: CryptoScamDB              
+- name: coinbasetop.com
+  url: http://coinbasetop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "16wd9B1LiXmTNf9hxQyb3Q9fbVHzP3NvSV"
+  reporter: CryptoScamDB      
+- name: 100kbtc.com
+  url: http://100kbtc.com
+  category: Scamming
+  subcategory: Investments
+  description: "Scam investment platform using coinpayments"
+  addresses:
+    ETH: 
+    - "0xa3431f8648fc1307ee7435e56cbb14d9c7a13724"
+    LTC:
+    - "MGWDUg5HsHESfioTK9toC4jNW5dHqszTTH"
+    BTC:
+    - "1JnLi6rhCqSzk2VCpZ5fZw8hMdzB88d28H"
+    BCH:
+    - "qzaeulsm2h6rtazuejhnp98ct2dx47eh8c2zdxgfem"
+  reporter: CryptoScamDB        
+- name: binance10x.epizy.com
+  url: http://binance10x.epizy.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - redirect via bit.do/promo10x and bit.do/vitalik10x "
+  addresses:
+    ETH:
+    - "0x537C2bfbA6B1880a6B11D4B4E83d4489f163d520"
+    BTC:
+    - "1CK9kT35qZHGAb7kuqZeKfKQc3j6Ezt8JZ"
+  reporter: CryptoScamDB     
+- name: ethereumpromo.epizy.com
+  url: http://ethereumpromo.epizy.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x808BE229F98FD0f22D90008Bff6bF77CCA15D229"
+  reporter: CryptoScamDB    
+- name: "167.71.210.238"
+  url: http://167.71.210.238
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - redirect via cryp.li/mSty0q8"
+  addresses:
+    ETH:
+    - "16FVNrp2nfsRH9cWRidV6ZVZf4mDPBnJG9"
+  reporter: CryptoScamDB      
+- name: gram-net.org
+  url: http://gram-net.org 
+  category: Phishing
+  subcategory: Telegram
+  description: "Fake Telegram crowdsale site"
+  addresses:
+    BTC:
+    - "1JRnX3w2K43ezBx5p4uYgBBnA7VUNWVjwi"
+    ETH:
+    - "0x06d0bab6af8fcb162f044a0fe5eb56dad29735d6"
+    XRP:
+    - "raHtX9jJf2ytdLPFivn9pjuvHNsvB4hRYf"
+  reporter: CryptoScamDB        
+- name: drop-crypto.com
+  url: http://drop-crypto.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JRprezHFY97JEJo55t8wRnuNkAcVkB4uY"
+  reporter: CryptoScamDB  
+- name: promotion-crypto.com
+  url: http://promotion-crypto.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LDhw8MefBidkbqPW9RsUePigt47deSrGH"
+  reporter: CryptoScamDB    
+- name: coinbasegift.net
+  url: http://coinbasegift.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1HMC6jvM7WSEAM5pQpWotYErJs5k2qAHxN"
+  reporter: CryptoScamDB      
+- name: ethereum4th.org 
+  url: http://ethereum4th.org 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xF3Df0Ed1B1E25fce934eC9216d9Fac59659d5678"
+  reporter: CryptoScamDB        
+- name: muskelon547776.webcindario.com
+  url: http://muskelon547776.webcindario.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13gyBExvYbc4tEjqPHmAznXF5QDxFHgrZZ"
+  reporter: CryptoScamDB      
+- name: airdrop-crypto.com 
+  url: http://airdrop-crypto.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LDhw8MefBidkbqPW9RsUePigt47deSrGH"
+  reporter: CryptoScamDB        
+- name: coinbase-team.com
+  url: http://coinbase-team.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FGZE75bUCHkoEcaoQLRzBuPYB9NA8XRCQ"
+  reporter: CryptoScamDB     
+- name: btc-generator.club 
+  url: http://btc-generator.club 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake btc generator"
+  addresses:
+    BTC:
+    - "3AqmwvMXNfA7NhCLGup34JHKa7LWNhakqk"
+  reporter: CryptoScamDB    
