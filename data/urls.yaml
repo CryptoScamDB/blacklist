@@ -49732,3 +49732,78 @@
     BTC:
     - "3AqmwvMXNfA7NhCLGup34JHKa7LWNhakqk"
   reporter: CryptoScamDB    
+- name: binancefree2018.droppages.com
+  url: http://binancefree2018.droppages.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x40949225c4a1745a9946F6AAf763241c082cb9ac"
+  reporter: CryptoScamDB      
+- name: binance.newrelease.site
+  url: http://binance.newrelease.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3ENbaDnoy6GF25ttwwwncwvvuAX1ifsmCp"
+  reporter: CryptoScamDB        
+- name: 5000coinbase.com
+  url: http://5000coinbase.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12u54UVjvwVmzxNBBjTHtC6dgsVeZdr6RR"
+  reporter: CryptoScamDB          
+- name: coinbasebtc.atspace.cc 
+  url: http://coinbasebtc.atspace.cc 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Adc3NV2kFGRAaC5QeXN9veYxpLB4ZQn8t"
+  reporter: CryptoScamDB        
+- name: coinbasebonus.net 
+  url: http://coinbasebonus.net 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15vTQrRKX4bVztcjg8i7xmPuS6pmj9DPFd"
+  reporter: CryptoScamDB          
+- name: coinbasegift.epizy.com
+  url: http://coinbasegift.epizy.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1CK9kT35qZHGAb7kuqZeKfKQc3j6Ezt8JZ"
+  reporter: CryptoScamDB            
+- name: transaction-verification.tech
+  url: http://transaction-verification.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xAD853d8a602C44E9b126fB6E0a4228Ea91C486F6"
+    - "0xBBC0825f36f3e3DEC3b6499F02f609BeA542e74f"
+  reporter: CryptoScamDB            
+- name: calibra-ico.info
+  url: http://calibra-ico.info
+  category: Phishing
+  subcategory: Calibra
+  description: "Fake Calibra crowdsale site"
+  addresses:
+    ETH:
+    - "0x00067010f3Ae17aa53e2B4d5142DDA35380cf72D"
+    BTC:
+    - "1D6MaXsxxT7DQYDrVv8VKyEZ2KL64jTP3Y"
+  reporter: CryptoScamDB              
