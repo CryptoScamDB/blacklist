@@ -49807,3 +49807,125 @@
     BTC:
     - "1D6MaXsxxT7DQYDrVv8VKyEZ2KL64jTP3Y"
   reporter: CryptoScamDB              
+- name: neoaugust.blogspot.com
+  url: http://neoaugust.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    NEO:
+    - "APrEuwGuqbZF57K8CMto1GEbbV1FgKHY6s"
+  reporter: CryptoScamDB    
+- name: litecoinpromo.netlify.com
+  url: http://litecoinpromo.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    LTC:
+    - "Lgv4JCcoaiNmSRkY2R9YRywephdcxMfoaJ"
+  reporter: CryptoScamDB      
+- name: exchange.webdexlaunch.top
+  url: http://exchange.webdexlaunch.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "39h6d1xLqYLCLypoRmsnxjkukNfcmoNP7z"
+  reporter: CryptoScamDB        
+- name: get3tesla.space
+  url: http://get3tesla.space
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FSbJofJABUpNajBBWuVmM5Zp4TimCYeC7"
+    ETH:
+    - "0x1D49428C8D20FD5F22ef44DE07D09612800B24aB"
+  reporter: CryptoScamDB   
+- name: coinbase-promo.com
+  url: http://coinbase-promo.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13tsX2zBiPz3P2nt5HgyFKxXTQFWRqXEuj"
+  reporter: CryptoScamDB        
+- name: coinbase.gift
+  url: http://coinbase.gift
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1QAhk976LEnwMyMNbbqaWtkWmiEQDBFVDJ"
+  reporter: CryptoScamDB      
+- name: coinbase.promo
+  url: http://coinbase.promo
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NjQ2rSB21Kb3vyUf1A8yGxJV67jxzKNw1"
+  reporter: CryptoScamDB        
+- name: 5000bitcoin.net
+  url: http://5000bitcoin.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14CcftBcHmQwPwhgd9e2dVdURqVtP2hQW3"
+  reporter: CryptoScamDB        
+- name: 2019giveaway.com
+  url: http://2019giveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1F3jofkLZR8NLzdaN8Ycuf6qLLaz81LhUm"
+    - "1DNZSZz1Hr1f7pNZun2jSTUr8p2SjCZf7M"
+  reporter: CryptoScamDB         
+- name: coinbase5000.com
+  url: http://coinbase5000.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FZWiRH5zSwsaFY5gUFXVGML6NHsADngRp"
+    - "15FFKTWv6gmT7Wkvsbw1oEUBAxpekcHCdb"
+  reporter: CryptoScamDB           
+- name: 2019airdrop.com
+  url: http://2019airdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1F3jofkLZR8NLzdaN8Ycuf6qLLaz81LhUm"
+  reporter: CryptoScamDB             
+- name: promo5000.com
+  url: http://promo5000.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1F3jofkLZR8NLzdaN8Ycuf6qLLaz81LhUm"
+    - "1DSiqjgxHPvFqCN5KiYqUsqZuC8qh1n1Bt"
+  reporter: CryptoScamDB           
+- name: muskelon.net
+  url: http://muskelon.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JMimK5EWomziHVVognk7kvk8EHZVsMf8Z"
+  reporter: CryptoScamDB             
