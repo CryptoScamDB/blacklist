@@ -49929,3 +49929,57 @@
     BTC:
     - "1JMimK5EWomziHVVognk7kvk8EHZVsMf8Z"
   reporter: CryptoScamDB             
+- name: coinbase-drop.com
+  url: http://coinbase-drop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1q580e7qhrzt7gpfmmcm0etdedacnjdt22eh4s93"
+  reporter: CryptoScamDB               
+- name: teamofbinance.com
+  url: http://teamofbinance.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1M2KACJTaautJ6BM3a563LraYNmD6LjcdU"
+  reporter: CryptoScamDB        
+- name: 5000crypto.com
+  url: http://5000crypto.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1qerc6yxzre8xrcdfjx4zkgprafde30lr89vpd5s"
+  reporter: CryptoScamDB        
+- name: coinbasegives.com
+  url: http://coinbasegives.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1q580e7qhrzt7gpfmmcm0etdedacnjdt22eh4s93"
+  reporter: CryptoScamDB      
+- name: coinbasegold.com
+  url: http://coinbasegold.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NDewuhwPYoGiv8zyG2wCh5aQKeWfStVhK"
+  reporter: CryptoScamDB     
+- name: coinbase-5000.com
+  url: http://coinbase-5000.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1qerc6yxzre8xrcdfjx4zkgprafde30lr89vpd5s"
+  reporter: CryptoScamDB       
