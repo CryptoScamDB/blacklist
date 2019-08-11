@@ -49983,3 +49983,109 @@
     BTC:
     - "bc1qerc6yxzre8xrcdfjx4zkgprafde30lr89vpd5s"
   reporter: CryptoScamDB       
+- name: brave-bounty.com
+  url: http://brave-bounty.com
+  category: Malware
+  subcategory: Brave
+  description: "Fake Brave website"
+  reporter: CryptoScamDB         
+- name: www-ldax.market
+  url: http://www-ldax.market
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex market phishing for secrets"
+  reporter: CryptoScamDB           
+- name: mcafeedrop.com
+  url: http://mcafeedrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NPUbSwZNsCRkgCth3QwQBTmD8qmacPgmt"
+  reporter: CryptoScamDB    
+- name: airdrop-mcafee.online
+  url: http://airdrop-mcafee.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19jkqrDiPhASs51X82ZxzWQ5RwnNgrbWVD"
+    ETH:
+    - "0x1b5eab73aEd3e7C9B889C0Fb55ECB44a0Dcb5a6E"
+  reporter: CryptoScamDB      
+- name: get-mcafee.space
+  url: http://get-mcafee.space
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EW3oMjCkNPXqEaHT974FJGPtJAmQ5g99C"
+    ETH:
+    - "0x5e29fe8997059E766819055a2c10D2EA305ba92A"
+  reporter: CryptoScamDB        
+- name: mcafeegroup.org
+  url: http://mcafeegroup.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1KuptffPt8bPwcwfP91ag5A9KzmMNyG6hF"
+  reporter: CryptoScamDB          
+- name: xn--localbtcoins-jfbb.net
+  url: http://xn--localbtcoins-jfbb.net
+  category: Phishing
+  subcategory: LocalBitcoins
+  description: "Fake LocalBitcoins phishing for logins"
+  reporter: CryptoScamDB    
+- name: blonckhian.com
+  url: http://blonckhian.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake BlockchainInfo phishing for secrets with POST /"
+  reporter: CryptoScamDB      
+- name: perlin.in 
+  url: http://perlin.in 
+  category: Phishing
+  subcategory: Perlin
+  description: "Fake Perlin crowdsale site"
+  addresses:
+    ETH:
+    - "0xe0ff829cd4909e8e8680e9e0d9189b479c3bc5b8"
+  reporter: CryptoScamDB    
+- name: giveaway-transfer.com
+  url: http://giveaway-transfer.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1J1ubTbSfExkCL2EmXPDV7pWDFXk8kJCtz"
+    ETH:
+    - "0x3c7C92bBcD9dE6D93c04c2F3544C837dA567D805"
+  reporter: CryptoScamDB      
+- name: decentralized-exchange.info 
+  url: http://decentralized-exchange.info 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1CX3DJTKHx52L1AbV58oo98XZAKi7XF3Dg"
+    ETH:
+    - "0x20696795BF2e4de3145A795209232d817baA7a21"
+  reporter: CryptoScamDB    
+- name: mcafeenow.net
+  url: http://mcafeenow.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NjcfMQpGdZTT4RunourC3hc1mkHohcXri"
+    ETH:
+    - "0x69C24164B73693656747759181FDBe24Ac9607C3"
+  reporter: CryptoScamDB      
