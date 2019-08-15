@@ -50089,3 +50089,85 @@
     ETH:
     - "0x69C24164B73693656747759181FDBe24Ac9607C3"
   reporter: CryptoScamDB      
+- name: ethereum-mixer.org
+  url: http://ethereum-mixer.org
+  category: Scamming
+  subcategory: Mixer
+  description: "Fake Mixer"
+  addresses:
+    ETH:
+    - "0xD49ff3BBB2b2B82538BAF25Fd5551186BC4994D2"
+  reporter: CryptoScamDB        
+- name: feathercoin.top
+  url: http://feathercoin.top
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake Exxchange"
+  addresses:
+    BTC:
+    - "1M8pbSE9EToe6afQsPLZYuGxYuGTHwAwBh"
+  reporter: CryptoScamDB          
+- name: myethdex.com
+  url: http://myethdex.com
+  category: Phishing
+  subcategory: DEX
+  description: "Fake DEX phishing for secrets with POST /reward/private.php"
+  reporter: CryptoScamDB            
+- name: forkdelta.id
+  url: http://forkdelta.id
+  category: Phishing
+  subcategory: ForkDelta
+  description: "Fake Forkdelta phishing for keys with POST /script.php"
+  reporter: CryptoScamDB              
+- name: forkdelta.id
+  url: http://forkdelta.co.uk
+  category: Phishing
+  subcategory: ForkDelta
+  description: "Fake Forkdelta phishing for keys with POST /script.php"
+  reporter: CryptoScamDB    
+- name: myetherverify.com
+  url: http://myetherverify.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for keys with POST /access-my-wallet/email.php"
+  reporter: CryptoScamDB      
+- name: cryptofans2019.com
+  url: http://cryptofans2019.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NYiYR86bBbbGkMQiboxjhsCUy21FQ2MqX"
+    ETH:
+    - "0xBb8fbca74cF891B8B91D719D6C3f2fFC5345482F"
+    LTC:
+    - "LfuKcuVfdLn4bPHp2epe9QEA6XJ722L2cu"
+  reporter: CryptoScamDB    
+- name: coinbase-promotion.com
+  url: http://coinbase-promotion.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1qmjwhdlz2wvdfrpmrgeydkej5eyv9djjqvsp3lz"
+  reporter: CryptoScamDB      
+- name: coinbase-news.com
+  url: http://coinbase-news.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13meEx92158wdczweN8yxZ8jbYKCwr146D"
+  reporter: CryptoScamDB        
+- name: btc-bonus.com
+  url: http://btc-bonus.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1q580e7qhrzt7gpfmmcm0etdedacnjdt22eh4s93"
+  reporter: CryptoScamDB          
