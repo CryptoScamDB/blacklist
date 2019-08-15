@@ -50171,3 +50171,139 @@
     BTC:
     - "bc1q580e7qhrzt7gpfmmcm0etdedacnjdt22eh4s93"
   reporter: CryptoScamDB          
+- name: plus-ethers.com
+  url: http://plus-ethers.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xE1bc77871849F3690cd9ba32fcc6aFb4aAcbE99B"
+  reporter: CryptoScamDB            
+- name: kucoin.live
+  url: http://kucoin.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC1841FCa71E31578f28B7787c12e9f1ae18956c6"
+  reporter: CryptoScamDB            
+- name: b-nance.com
+  url: http://b-nance.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12rnnsmLnNUXiQgoz2X9874P94WH6uQH4V"
+  reporter: CryptoScamDB         
+- name: coinbase.gifts
+  url: http://coinbase.gifts
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1q580e7qhrzt7gpfmmcm0etdedacnjdt22eh4s93"
+  reporter: CryptoScamDB           
+- name: btc-drop.com
+  url: http://btc-drop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1q580e7qhrzt7gpfmmcm0etdedacnjdt22eh4s93"
+  reporter: CryptoScamDB          
+- name: promo-coinbase.com 
+  url: http://promo-coinbase.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "16xwVY9mChAawi9TrpunpstPeyoGJ2k3kC"
+  reporter: CryptoScamDB           
+- name: get-mcafee.me 
+  url: http://get-mcafee.me
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xDEE993d994f06BC06144aEAC1E78BBAe3B06136A"
+    BTC:
+    - "bc1qmn2mlj6ca2f4lk4q78a9zvd8ceqkf9p3dke0x9"
+  reporter: CryptoScamDB       
+- name: mcafeegiveaway.net
+  url: http://mcafeegiveaway.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17sQ6GcXGsqzGfZ9Y5QsMaf1UUsNSL2VLF"
+  reporter: CryptoScamDB         
+- name: mcafeetoday.com
+  url: http://mcafeetoday.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1448UnuXjXwpD2eTUibVrx3CMMBQLQ7UMm"
+  reporter: CryptoScamDB           
+- name: john-mcafee-events.com
+  url: http://john-mcafee-events.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4b826ba0795b76d5f3596abe28a77e6d3cbc3a15"
+    BTC:
+    - "1LFnaimaMB69hDPCuSavJwEkkMVE8NVCX2"
+  reporter: CryptoScamDB     
+- name: get-mcafee.press
+  url: http://get-mcafee.press
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xDEE993d994f06BC06144aEAC1E78BBAe3B06136A"
+    BTC:
+    - "bc1qmn2mlj6ca2f4lk4q78a9zvd8ceqkf9p3dke0x9"
+  reporter: CryptoScamDB      
+- name: airdrop-mcafee.tech
+  url: http://airdrop-mcafee.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x8C3BD49eF2d468E80879eAa230538aeF08A44175"
+    BTC:
+    - "1GY94WXLS4B5bsGvtarvFaL2gV8KzLaWtn"
+  reporter: CryptoScamDB      
+- name: crypto-promo.store
+  url: http://crypto-promo.store
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xD2418A41A708676C450117cA1592Ebf435F01ee7"
+    BTC:
+    - "19AZTLM5C9ptH82y42UNw7D4fHfPBHyWC3"
+  reporter: CryptoScamDB        
+- name: ethereumprize.pro
+  url: http://ethereumprize.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x1E6A9ba05C5b538fB200056Db77d70c63f3D0193"
+  reporter: CryptoScamDB          
