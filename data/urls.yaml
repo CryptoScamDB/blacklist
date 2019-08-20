@@ -50307,3 +50307,224 @@
     ETH:
     - "0x1E6A9ba05C5b538fB200056Db77d70c63f3D0193"
   reporter: CryptoScamDB          
+- name: dropcoinbase.com
+  url: http://dropcoinbase.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Lkakee2QGSQ92uNBUCUD1LaL4RKQTobLG"
+  reporter: CryptoScamDB         
+- name: augustcontest.blogspot.com
+  url: http://augustcontest.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY"
+  reporter: CryptoScamDB           
+- name: xn--localbitcons-jfbf.net
+  url: http://xn--localbitcons-jfbf.net
+  category: Phishing
+  subcategory: LocalBitcoins
+  description: "Fake LocalBitcoins phishing for logins with POST /accounts/login"
+  reporter: CryptoScamDB             
+- name: binancekyc.com
+  url: http://binancekyc.com
+  category: Phishing
+  subcategory: Malware
+  description: "Hosting malware (hash 8a482f2271a42c5f54c96e816a84340a6f2357a5b81f927d07d00788f5140a41)"
+  reporter: CryptoScamDB               
+- name: coinkanon.com
+  url: http://coinkanon.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Hosting fake bitcoin generators - trust trading"
+  addresses:
+    BTC:
+    - "13xxUqbjNwu6NUn5ZG6cK5WwwRaN6TuwYv"
+  reporter: CryptoScamDB       
+- name: bit7880.com 
+  url: http://bit7880.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading - fake bitcoin generator"
+  addresses:
+    BTC:
+    - "1KRLRwWXSHQxQshEbEpf25a1dewEjjJ4gw"
+    - "1HWWKBtJabPtxtGbqsF6sdXNmGjMsPx28A"
+    - "1DgcFMXii1DmvkL4qobBfffKqU7KC5WXYa"
+    - "1H8xH6sMBUNwWS8DVRxgnJZyAKLQkZjYqi"
+  reporter: CryptoScamDB         
+- name: bitcoin-address-cracker.bit7880.com
+  url: http://bitcoin-address-cracker.bit7880.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading - fake bitcoin generator"
+  addresses:
+    BTC:
+    - "1FqRo1CWGxD2Y5XViccvarM3sZwss7jEmR"
+  reporter: CryptoScamDB           
+- name: bitmex-blog.info
+  url: http://bitmex-blog.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14YuYgfQoMLCKF5C5UJ9yNnyWsjdxLHHTn"
+    ETH:
+    - "0x4CbAe203EbDcB849Ad14278f318118ED44835Bd9"
+  reporter: CryptoScamDB          
+- name: eth-send.tech
+  url: http://eth-send.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2e8F621fa42331cdB8489b7048B5bF6a97284F85"
+  reporter: CryptoScamDB            
+- name: binance.newproject.site
+  url: http://binance.newproject.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3McSsVLb4Sc8mmw9PCT4wS22Jiuqqv2y1v"
+  reporter: CryptoScamDB              
+- name: zendesk-binanc.com
+  url: http://zendesk-binanc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14UdyAnQ7dnmYkdm2h9dENyLnKuLG4rhjy"
+    ETH:
+    - "0x9514BB0Db553B15dF6d9E3C4c03620e4C5cb954a"
+  reporter: CryptoScamDB                
+- name: litecoin-giveaway.org
+  url: http://litecoin-giveaway.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    LTC:
+    - "LiP7zzggZpbL3yUqJ5UmNYXcj7NyaP13b6"
+  reporter: CryptoScamDB        
+- name: satoshi-litecoin.netlify.com
+  url: http://satoshi-litecoin.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    LTC:
+    - "MM4bVEjFvmzuypwJzji9h4yGHMBZpQATY7"
+  reporter: CryptoScamDB          
+- name: top-coinbase.com
+  url: http://top-coinbase.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EZyRriBqukH476hnuTYkpkyq4HXSeR3Kp"
+  reporter: CryptoScamDB            
+- name: pultegive.com 
+  url: http://pultegive.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4C6De024527Aa08f5f21848754Da4c88D090af14"
+  reporter: CryptoScamDB              
+- name: ethereum-bounty.live
+  url: http://ethereum-bounty.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x33d262cbb8d4bcc568f7809230ecf609dd31d379"
+  reporter: CryptoScamDB                
+- name: ripplebounty.live
+  url: http://ripplebounty.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rNWcQuC3Xi1PCWoAmJBgEU9knHKmXoMimt"
+  reporter: CryptoScamDB        
+- name: ripple-give.net
+  url: http://ripple-give.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rHuQGDmYx4sRCLYhc1bb7m2wsYh9LHZ5Pw"
+  reporter: CryptoScamDB          
+- name: medium.xrpairdrop.website
+  url: http://medium.xrpairdrop.website
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rfP9uxdeeYkUxUZL7gTFKFMj7rBXRCj95m"
+  reporter: CryptoScamDB            
+- name: best-event.host
+  url: http://best-event.host
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1233nPWyBpw2VRTKtyj5YsmThXxNnhuxck"
+    ETH:
+    - "0x9fE115c85DEe8B0A23EAF09aa0B004979494C1d8"
+  reporter: CryptoScamDB              
+- name: charlieleedrop.net 
+  url: http://charlieleedrop.net 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    LTC:
+    - "LN6RFwwfz85KH5nDAR7RetMA2eRjB7arY5"
+  reporter: CryptoScamDB          
+- name: ltc-give.org 
+  url: http://ltc-give.org 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    LTC:
+    - "LULgar8WqtnXSN1RZHpR3oUjuVqKokLM5w"
+  reporter: CryptoScamDB            
+- name: 2019giveaway.net
+  url: http://2019giveaway.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BdencTWBaDrxpVBK7PPDtb9cot5Ns8D1T"
+    ETH:
+    - "0x295F3272645CaD969f71E2A8515cb1f871198D32"
+  reporter: CryptoScamDB              
+- name: ctoken.info
+  url: http://ctoken.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xF58BfbC4955bD36B83a9FA9CBe353918Bd3a987D"
+  reporter: CryptoScamDB         
