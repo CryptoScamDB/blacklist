@@ -46897,7 +46897,8 @@
   description: Trust trading scam site - fake btc generator
   addresses:
     BTC:
-    - 1JyRhM9ndcqacWkJRRnn2mbmQZ3XxcN7wy
+    - "1JyRhM9ndcqacWkJRRnn2mbmQZ3XxcN7wy"
+    - "1LE3AgWv1UCPHZfmETzCAD51AWTCsWbA6Q"
   reporter: CryptoScamDB
 - name: walletgenerator.org
   url: http://walletgenerator.org
@@ -50760,3 +50761,174 @@
     BTC:
     - "15vWkvkHdDCcRoPpu7x9m31qHPUxEqeCsN"
   reporter: CryptoScamDB            
+- name: bitshumb.com
+  url: http://bitshumb.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange - min deposit from user to withdraw (you won 0.25btc)"
+  addresses:
+    BTC:
+    - "1LRiHvoGDTbC747TgswG54HsTSyntDPwdv"
+    ETH:
+    - "0x3f37442c8B76FD15E66BBE6865540A7D657712ba"
+    BCH:
+    - "qqsuxeq7u2ltxd0gg398w6a76fe3esa5sq2pxdku08"
+  reporter: CryptoScamDB              
+- name: exchange.bnbmarket.services
+  url: http://exchange.bnbmarket.services
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3EMoCw3GLp7JNDJwYNvbhrP3DUdv5JrJHM"
+  reporter: CryptoScamDB      
+- name: event.exchangejersey.top
+  url: http://event.exchangejersey.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3NgqA6ozXpP9zJ6EGyRmbgQZTWVkXPwxCU"
+  reporter: CryptoScamDB        
+- name: exchange.webjersey.top
+  url: http://exchange.webjersey.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "38v3GVTYbtHQMXpARnkTuNdjzrpT6Jjs9f"
+  reporter: CryptoScamDB          
+- name: binance.marketlaunch.site
+  url: http://binance.marketlaunch.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - reported address 3KuttnZ2JWteD7up8UnwSb9vJNVWozfKEt (btc)"
+  reporter: CryptoScamDB            
+- name: exchange.projectdex.top
+  url: http://exchange.projectdex.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3BHk5Kj4wLLPxy2B85DNQeyQ9CcFXNK4DG"
+  reporter: CryptoScamDB   
+- name: musk.ml
+  url: http://musk.ml
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13w23zFrq4ieQtL6tnPGWA5FgYY1sLocex"
+    ETH:
+    - "0xec4a36becffe26754a7158f2017285e8f2ba4543"
+  reporter: CryptoScamDB     
+- name: coinbasegiveaway.com
+  url: http://coinbasegiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19R9MWW88rZwivGWvvz15Ey9G7mpgJYesB"
+    - "13tS6tuk58StdmpjiAB8cWc5P5Ubyk1JJg"
+  reporter: CryptoScamDB       
+- name: lucky-binance.com 
+  url: http://lucky-binance.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1CHJmV6AJ8qZhMjB2K6kmGv9tSnfWyq37E"
+  reporter: CryptoScamDB   
+- name: bin-us.com
+  url: http://bin-us.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13df8kLmyjdxJTZRz8e3AkrP3cJsWHecxc"
+    ETH:
+    - "0x7a78F4361648b7f8e27c9d8e724d7b72Aec636db"
+  reporter: CryptoScamDB     
+- name: win-coinbase.com
+  url: http://win-coinbase.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1B8Ey4WNHgGNGJtmbGTUThykTQHQDvjTKk"
+  reporter: CryptoScamDB       
+- name: tokengiveaway.in
+  url: http://tokengiveaway.in
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17dbq21i6L2MMDB4zhS2QaAa4DVzwWdmNc"
+    - "1CpGNjoG15u2sKFznSkx91iVXWCrB7mws5"
+  reporter: CryptoScamDB         
+- name: finalgiveaway.com
+  url: http://finalgiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PaBm7d1yHPfbT3BcUFf9H61s1BA2o9bT4"
+    ETH:
+    - "0x5afE494BBc31A7e9A898D5C1d412664BD5aDe0b0"
+  reporter: CryptoScamDB           
+- name: coinbasewin.com 
+  url: http://coinbasewin.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MHQsN8wDaCxi1atoM1qQMg6SqS9aJGGmR"
+  reporter: CryptoScamDB             
+- name: coinbase-reward.com
+  url: http://coinbase-reward.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19R9MWW88rZwivGWvvz15Ey9G7mpgJYesB"
+  reporter: CryptoScamDB              
+- name: bttfinex.ru
+  url: http://bttfinex.ru
+  category: Phishing
+  subcategory: Bitfinex
+  description: "Fake Bitfinex phishing for logins with POST /login.php"
+  reporter: CryptoScamDB         
+- name: bitdegree-claims.bonus-client.com 
+  url: http://bitdegree-claims.bonus-client.com 
+  category: Phishing
+  subcategory: Bitdegree
+  description: "Fake bitdegree phishing for logins with POST /bitdegree.php"
+  reporter: CryptoScamDB           
+- name: cryptousd.host
+  url: http://cryptousd.host
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    BTC:
+    - "14PLsYB65Y6SyNeRwoSxrT6qyTXaUKabjF"  
+  reporter: CryptoScamDB          
+- name: etherdelta.net.ru
+  url: http://etherdelta.net.ru
+  category: Phishing
+  subcategory: EtherDelta
+  description: "Fake EtherDelta phishing for secrets with POST /api.php"
+  reporter: CryptoScamDB    
