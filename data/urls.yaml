@@ -50875,6 +50875,9 @@
     BTC:
     - "17dbq21i6L2MMDB4zhS2QaAa4DVzwWdmNc"
     - "1CpGNjoG15u2sKFznSkx91iVXWCrB7mws5"
+    - "1HRjt8fJ2kBjj3o2AFbjycYuweNwBQCwg2"
+    ETH:
+    - "0xeFDd858ed5c9Df1b977784C3041140EEA533B48C"
   reporter: CryptoScamDB         
 - name: finalgiveaway.com
   url: http://finalgiveaway.com
@@ -50932,3 +50935,144 @@
   subcategory: EtherDelta
   description: "Fake EtherDelta phishing for secrets with POST /api.php"
   reporter: CryptoScamDB    
+- name: gram-chain.com
+  url: http://gram-chain.com
+  category: Phishing
+  subcategory: Telegram
+  description: "Fake Telegram crowdsale site - usd payments though free-kassa.ru merchant id 158563"
+  addresses:
+    BTC:
+    - "38cSam9LTWzTRQ5YGBYkSYGJ1thaSc47aa"    
+    XRP:
+    - "rsPWJUSb4mheJqPYjBcvB9A15NGnXSBeay"
+    ETH:
+    - "0x181b89F4002d2CDE8AfF8D98aE7805EaDf690EA4"
+    LTC:
+    - "MEdS16jkeNpn1A1RSujUKL2HeDkTrL2riQ"
+  reporter: CryptoScamDB      
+- name: idex.net.ru
+  url: http://idex.net.ru
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex phishing for secrets with POST /log.php"
+  reporter: CryptoScamDB     
+- name: coinbase-prize.com 
+  url: http://coinbase-prize.com 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19R9MWW88rZwivGWvvz15Ey9G7mpgJYesB"
+  reporter: CryptoScamDB    
+- name: btcandeth.com
+  url: http://btcandeth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Gmk4V6HA9tKWzVoBaHKyAxHqVv493EnRt"
+    ETH:
+    - "0x0CE2EaF01543132b88e5e8156fCAd978994A9Cf6"
+  reporter: CryptoScamDB      
+- name: dropkraken.com
+  url: http://dropkraken.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MwYGftVPT5zKAg7mfXQmGFjMZHHxBqmYH"
+  reporter: CryptoScamDB        
+- name: binance-get.org
+  url: http://binance-get.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB         
+- name: bloclkchain.net 
+  url: http://bloclkchain.net 
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain phishing for logins with POST /blockchain/info/subd/wallet/sessions"
+  reporter: CryptoScamDB    
+- name: linkairdrop.com
+  url: http://linkairdrop.com
+  category: Phishing
+  subcategory: Chainlink
+  description: "Fake airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB      
+- name: vintage.myethewallet.online
+  url: http://vintage.myethewallet.online
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for keys with GET ____key?key=xxx"
+  reporter: CryptoScamDB        
+- name: login.blackchair.info
+  url: http://login.blackchair.info
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain phishing for logins with POST /"
+  reporter: CryptoScamDB          
+- name: bitcoingenerator.com.ru
+  url: http://bitcoingenerator.com.ru
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Q3TsYqcANifCWajzrKYvta4hLj7tm2dWV"
+    ETH:
+    - "0x051A4a9b07c393f735a84aA9b97b1eA65BbbEe18"
+    - "0xCDa94fEb23FbF1C4ca73b45de92E1a4CC2BD40aB"
+    LTC:
+    - "LWoXEDHuE2xb3NEKes3bXHxrh6sRetYt6p"
+    USDT:
+    - "19z2xhdqMAbi7cF3naNtHmPfidNTAwmY5o"
+    XLM:
+    - "GBMQINMPPDXXL2RLYTTX5MO4SPJJBAYJTVNOD76XEWTF7QIQSBKXPVZ4"
+    TRX:
+    - "TL3dg6jBox8kt2nVEs1A4wpNXFND3ZN4aN"
+  reporter: CryptoScamDB       
+- name: b-lockchian.com
+  url: http://b-lockchian.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain phishing for logins with POST /"
+  reporter: CryptoScamDB          
+- name: ehterdetla.com
+  url: http://ehterdetla.com
+  category: Phishing
+  subcategory: EtherDelta
+  description: "Fake EtherDelta phishing for secrets with POST /api.php"
+  reporter: CryptoScamDB            
+- name: btc10.org 
+  url: http://btc10.org 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12rnnsmLnNUXiQgoz2X9874P94WH6uQH4V"
+  reporter: CryptoScamDB     
+- name: tornado.best
+  url: http://tornado.best
+  category: Scamming
+  subcategory: Tornado
+  description: "Fake TornadoCash mixer"
+  addresses:
+    ETH:
+    - "0xd38f1a526A013D846B48beB642ceD2c49CC3d29f"
+  reporter: CryptoScamDB       
+- name: binance-test.org 
+  url: http://binance-test.org 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x20cbE0524157f564a5dCa1C18f376E72b4528e64"
+    BTC:
+    - "15tRrNcqaeUJDTU4ZchrDEKzZquHqxdhx7"
+  reporter: CryptoScamDB     
