@@ -50947,6 +50947,7 @@
     - "rsPWJUSb4mheJqPYjBcvB9A15NGnXSBeay"
     ETH:
     - "0x181b89F4002d2CDE8AfF8D98aE7805EaDf690EA4"
+    - "0x7aaF74Cdec6dA05f41451D6F2d1f17c1A84e5B14"
     LTC:
     - "MEdS16jkeNpn1A1RSujUKL2HeDkTrL2riQ"
   reporter: CryptoScamDB      
@@ -51076,3 +51077,68 @@
     BTC:
     - "15tRrNcqaeUJDTU4ZchrDEKzZquHqxdhx7"
   reporter: CryptoScamDB     
+- name: blockchailn.biz 
+  url: http://blockchailn.biz 
+  category: Phishing
+  subcategory: EtherDelta
+  description: "Fake Blockchain phishing for logins with /blockchain/info/subd/wallet/sessions (possible api code: 1770d5d9-bcea-4d28-ad21-6cbd5be018a8)"
+  reporter: CryptoScamDB     
+- name: blibra-coin.cc
+  url: http://libra-coin.cc
+  category: Phishing
+  subcategory: Calibra
+  description: "Fake Libra crowdsale site"
+  addresses:
+    ETH:
+    - "0xB51F4BC6159F0a97BEF80EdF3402577fbc75d799"
+    BTC:
+    - "1mpQxzjBPtPSA2QfezBCNmtPBNqyJBRAY"
+  reporter: CryptoScamDB    
+- name: thevidbit.com 
+  url: http://thevidbit.com 
+  category: Phishing
+  subcategory: Malware
+  description: "Hosting a miner trojan (winserv.exe 99fd9e75e6241eff30e01c5b59df9e901fb24d12bee89c069cc6158f78b3cc98) full report: https://any.run/report/cdd69b745c17e2a5b38e246f12d8af5727ae6f9f29cb05a13c476a547aa7b928/d354a0ec-6668-4d58-95e9-a53e3374a7ec"
+  reporter: CryptoScamDB    
+- name: binance.launch-usa.net 
+  url: http://binance.launch-usa.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - suspected addresses: 1NFn3RLhVM8dTGxoMLCNhcruDwEMkTvGcX (btc) 0xfb064ac90e16cE61Fd644652Be5F1959Eb5748b3 (eth)"
+  reporter: CryptoScamDB   
+- name: coinbase-bonus.net
+  url: http://coinbase-bonus.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DT83v9X1mwJNq55nPAX31VTnZ4ffmFAUo"
+  reporter: CryptoScamDB    
+- name: coinbase-promo.net
+  url: http://coinbase-promo.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DT83v9X1mwJNq55nPAX31VTnZ4ffmFAUo"
+  reporter: CryptoScamDB      
+- name: 5000-btc.com
+  url: http://5000-btc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LPo4GmbfCw8CJ3x5SLqm2yUpjz3b4JzvW"
+  reporter: CryptoScamDB     
+- name: ethereumboston.com
+  url: http://ethereumboston.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xba367D6445c181e4033BB2B49181d5c45868d975"
+  reporter: CryptoScamDB       
