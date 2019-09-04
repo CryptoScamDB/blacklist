@@ -51083,7 +51083,7 @@
   subcategory: Blockchain
   description: "Fake Blockchain phishing for logins with /blockchain/info/subd/wallet/sessions (possible api code: 1770d5d9-bcea-4d28-ad21-6cbd5be018a8)"
   reporter: CryptoScamDB     
-- name: blibra-coin.cc
+- name: libra-coin.cc
   url: http://libra-coin.cc
   category: Phishing
   subcategory: Calibra
