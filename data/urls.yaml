@@ -51222,3 +51222,20 @@
     ETH:
     - "0x27C57C58559D6e3752375981c499C05279FB68D2"
   reporter: CryptoScamDB      
+- name: go-testnet.com
+  url: http://go-testnet.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "16dy79qVp6vvAw9sxXHrdG7RcjBCsHxnqH"
+    ETH:
+    - "0x6AeF32C32c765df5eaBF10C56959297e62EcD68e"
+  reporter: CryptoScamDB        
+- name: atlantis-wallet.com
+  url: http://atlantis-wallet.com
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Ethereum wallet phishing for secrets with POST /atlantis_node.php"
+  reporter: CryptoScamDB   
