@@ -51142,3 +51142,83 @@
     ETH:
     - "0xba367D6445c181e4033BB2B49181d5c45868d975"
   reporter: CryptoScamDB       
+- name: medium-crypto.xyz 
+  url: http://medium-crypto.xyz 
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EZFPTfExR96daXncbi9BGRFC7KYaxJSdT"
+  reporter: CryptoScamDB         
+- name: hitbtc.su
+  url: http://hitbtc.su
+  category: Phishing
+  subcategory: HitBTC
+  description: "Fake HitBTC phishing for logins with POST /login.php"
+  reporter: CryptoScamDB           
+- name: doubleinv.com
+  url: http://doubleinv.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x379e2308268554DC930c235Ca6b6258920898cCe"
+    BTC:
+    - "1MNQ4yRmGmUMpzyXk1MmSumCgaHRQAbxuY"
+    BCH:
+    - "qr0kaq02jz96t23kyz3h5dmxk9d53p8wg5jqcfgez7"
+    XLM:
+    - "GBERM2TINERFTDQDVFSHZLGNWYT5KXTC32IUPGGLFANPDQLD2DOVT3A3"
+  reporter: CryptoScamDB     
+- name: trezor.blog
+  url: http://trezor.blog
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor website phishing for secrets with POST /ifu/upload.php"
+  reporter: CryptoScamDB   
+- name: toreovonline.uk
+  url: http://toreovonline.uk
+  category: Phishing
+  subcategory: General
+  description: "Phishing multiple webwallets (coinbase, localbitcoins, ...)"
+  reporter: CryptoScamDB     
+- name: blockcchain.ru
+  url: http://blockcchain.ru
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake blockchain phishing for logins with POST /sp/root/blockchain//wallet/sessions"
+  reporter: CryptoScamDB       
+- name: ethereumclassic.bonus-programs.com
+  url: http://ethereumclassic.bonus-programs.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST /login.php?input-privatekey"
+  reporter: CryptoScamDB         
+- name: myetherwallet.com-wallet-transactions.host
+  url: http://myetherwallet.com-wallet-transactions.host
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets"
+  reporter: CryptoScamDB        
+- name: info-dex.com 
+  url: http://info-dex.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6AeF32C32c765df5eaBF10C56959297e62EcD68e"
+    BTC:
+    - "15tRrNcqaeUJDTU4ZchrDEKzZquHqxdhx7"
+  reporter: CryptoScamDB    
+- name: biboxgive.com
+  url: http://biboxgive.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x27C57C58559D6e3752375981c499C05279FB68D2"
+  reporter: CryptoScamDB      
