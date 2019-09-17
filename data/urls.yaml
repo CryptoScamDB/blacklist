@@ -51239,3 +51239,90 @@
   subcategory: Wallet
   description: "Fake Ethereum wallet phishing for secrets with POST /atlantis_node.php"
   reporter: CryptoScamDB   
+- name: mcf2020.net
+  url: http://mcf2020.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1233nPWyBpw2VRTKtyj5YsmThXxNnhuxck"
+    ETH:
+    - "0x9fE115c85DEe8B0A23EAF09aa0B004979494C1d8"
+  reporter: CryptoScamDB     
+- name: tmdl.info
+  url: http://tmdl.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BQ8FqQuvuPwX7AGzSvsMxfiuMyWZHdCoQ"
+    ETH:
+    - "0x9DF28F9D9Fdf90495F51CEBB4E6eB00c480Cd57E"
+  reporter: CryptoScamDB       
+- name: xn--stellr-tta.org
+  url: http://xn--stellr-tta.org
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake giveaway phishing for secrets"
+  reporter: CryptoScamDB     
+- name: xrpgift.live
+  url: http://xrpgift.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rU7wDwnMFJJJF2RQMK2BotWpWvWJ3dSEeB"
+  reporter: CryptoScamDB      
+- name: login.blogchain.icu
+  url: http://login.blogchain.icu
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake blockchain phishing for logins with POST /"
+  reporter: CryptoScamDB     
+- name: yourlibra.net
+  url: http://yourlibra.net
+  category: Phishing
+  subcategory: Calibra
+  description: "Fake Calibra crowdsale site"
+  reporter: CryptoScamDB       
+- name: btcethgift.com
+  url: http://btcethgift.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC8428F2f654BCa80aD74d009a48c5C56fc85ab9f"
+    BTC:
+    - "1CkiDfpP794LGjRjeNq5tArzddw42ucvZi"
+  reporter: CryptoScamDB    
+- name: blockkchain.ru
+  url: http://blockkchain.ru
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake blockchain phishing for logins with POST /sp/root/blockchain//wallet/sessions (token 9383f19b-79a3-44ae-95a4-2b5269ab14a)"
+  reporter: CryptoScamDB     
+- name: ddexbit.com
+  url: http://ddexbit.com
+  category: Phishing
+  subcategory: Ddex
+  description: "Fake ddex phishing for deposits"
+  addresses:
+    BTC:
+    - "3AYGe1KZsEwmh8uMHGAsQEAHRmJxczPNMy"  
+  reporter: CryptoScamDB    
+- name: secure-ledger.com
+  url: http://secure-ledger.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for mnemonics with POST /wallet/save.php"
+  reporter: CryptoScamDB    
+- name: ethereumatlantis.network
+  url: http://ethereumatlantis.network
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake ETC wallet phishing for secrets with POST /etherwallet/log.php"
+  reporter: CryptoScamDB      
