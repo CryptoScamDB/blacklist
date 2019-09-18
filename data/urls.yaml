@@ -51326,3 +51326,32 @@
   subcategory: Wallet
   description: "Fake ETC wallet phishing for secrets with POST /etherwallet/log.php"
   reporter: CryptoScamDB      
+- name: tokenairdrops.net
+  url: http://tokenairdrops.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site  - redirect via bit.ly/2lUWADy+"
+  addresses:
+    XRP:
+    - "rP4bYxry6Eg9mfBmdsX7CcUMYnB3rnNdqt"
+    BTC:
+    - "12aqkn88dsTBrMParX9k9J1ZSjWpurCXxo"
+  reporter: CryptoScamDB     
+- name: idexmarket.info
+  url: http://idexmarket.info
+  category: Phishing
+  subcategory: Idex
+  description: "Fake idex phishing for secrets with POST /log.php"
+  reporter: CryptoScamDB    
+- name: xn--localitcoins-bh4f.net
+  url: http://xn--localitcoins-bh4f.net
+  category: Phishing
+  subcategory: LocalBitcoins
+  description: "Fake LocalBitcoins phishing for logins with POST /accounts/login/admm/rdy.php"
+  reporter: CryptoScamDB      
+- name: wallet.my-trezor.com
+  url: http://wallet.my-trezor.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /860CB68155563F4"
+  reporter: CryptoScamDB        
