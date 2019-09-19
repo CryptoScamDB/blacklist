@@ -51355,3 +51355,15 @@
   subcategory: Trezor
   description: "Fake Trezor site phishing for secrets with POST /860CB68155563F4"
   reporter: CryptoScamDB        
+- name: ledger-live.co
+  url: http://ledger-live.co
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB          
+- name: ledger-ad.com
+  url: http://ledger-ad.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB            
