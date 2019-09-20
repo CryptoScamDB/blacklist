@@ -51247,6 +51247,7 @@
   addresses:
     BTC:
     - "1233nPWyBpw2VRTKtyj5YsmThXxNnhuxck"
+    - "15nXgxcf8TpVD5FNm8hiJa962HHi7AjnSy"
     ETH:
     - "0x9fE115c85DEe8B0A23EAF09aa0B004979494C1d8"
   reporter: CryptoScamDB     
@@ -51366,4 +51367,110 @@
   category: Phishing
   subcategory: Ledger
   description: "Fake Ledger site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB            
+- name: highcoin.net
+  url: http://highcoin.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  addresses:
+    ETH:
+    - "0x1135a2f00edde3e66735ca31dcd4ca817348cb24"
+    BTC:
+    - "15YgKNxXpjUMDQezHYEX1v3X1Mxhe2XBZc"
+    BCH:
+    - "qqkwhkn47y6rzn6t53m3dxsra9zj8a4e4y2qj8lmq2"
+  reporter: CryptoScamDB             
+- name: coinbascet.com
+  url: http://coinbascet.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  addresses:
+    ETH:
+    - "0x1135a2f00edde3e66735ca31dcd4ca817348cb24"
+    BTC:
+    - "15YgKNxXpjUMDQezHYEX1v3X1Mxhe2XBZc"
+    BCH:
+    - "qqkwhkn47y6rzn6t53m3dxsra9zj8a4e4y2qj8lmq2"
+  reporter: CryptoScamDB       
+- name: chartrade.com
+  url: http://chartrade.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  addresses:
+    ETH:
+    - "0x32a4bbfa9f55cadeb0b8f33b2d9499c524987f40"
+    BTC:
+    - "1iegRUbqpT1qYLiJE2FHquNT4pouzuRbq"
+    BCH:
+    - "qzkerk46azyr7fcauf9k48pe8acg5ekpqqmcv5ngrr"
+  reporter: CryptoScamDB         
+- name: billaxy.com
+  url: http://billaxy.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  addresses:
+    ETH:
+    - "0x5fc2d416388fd1c07ae7e4a10b79a498eb4383c0"
+    BTC:
+    - "17GVN4B8c8BDLJ2e6qMQ9CDwWPGK5vQzi3"
+    BCH:
+    - "qzk0a6gkdgal4nv5t7vgg0ydnrfjwdxuucmlye0vus"
+  reporter: CryptoScamDB    
+- name: tradeberry.org
+  url: http://tradeberry.org
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  reporter: CryptoScamDB      
+- name: cryptonex.uk
+  url: http://cryptonex.uk
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  reporter: CryptoScamDB        
+- name: hyptrade.com
+  url: http://hyptrade.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  reporter: CryptoScamDB         
+- name: wintraders.net
+  url: http://wintraders.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  reporter: CryptoScamDB         
+- name: coinrexo.com
+  url: http://coinrexo.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  reporter: CryptoScamDB      
+- name: exmofit.com
+  url: http://exmofit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (promo code gives you 0.25btc) - https://redd.it/d6l97g"
+  reporter: CryptoScamDB        
+- name: xn--stllar-cva.org
+  url: http://xn--stllar-cva.org
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar giveaway phishing for secrets"
+  reporter: CryptoScamDB          
+- name: xn--stllr-6wa7j.org
+  url: http://xn--stllr-6wa7j.org
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar giveaway phishing for secrets with POST /account-viewer/ajax.php"
+  reporter: CryptoScamDB          
+- name: claimlumens.org
+  url: http://claimlumens.org
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar giveaway directing users to xn--stllr-6wa7j.org"
   reporter: CryptoScamDB            
