@@ -51474,3 +51474,59 @@
   subcategory: Stellar
   description: "Fake Stellar giveaway directing users to xn--stllr-6wa7j.org"
   reporter: CryptoScamDB            
+- name: netexcoins.com
+  url: http://netexcoins.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange (similar to highcoin.net)"
+  addresses:
+    ETH:
+    - "0xE75CB1646422dD9dB0b47647ee5545f6be341Fb9"
+    BTC:
+    - "353SVFnJhzL7F8ofFuDwq6hruoxVjbKW7M"
+    LTC:
+    - "MDF12vRXhgQ32uAF4NCpBaTiHSQda1bn9w"
+  reporter: CryptoScamDB  
+- name: yobit.website
+  url: http://yobit.website
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake yobit site (similar to highcoin.net)"
+  addresses:
+    ETH:
+    - "0x18f3c8cc8e628db33c56a22ddb092d1af9fc96b3"
+    BTC:
+    - "17HD8n2Pm1a17QKuJZxjeLDih51xYHHxqq"
+    BCH:
+    - "qz576ee91a05b194fe37103d0a42899664267bd90c"
+  reporter: CryptoScamDB    
+- name: delltrade.com
+  url: http://delltrade.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange (similar to highcoin.net)"
+  addresses:
+    ETH:
+    - "0x150f70875C0229Daa9c46E461498F81aB9a76A81"
+    BTC:
+    - "193DV6FpP1X5w9KLJmLqUHfUqNZFrw9NTW"
+    BCH:
+    - "qpvzcsnn66mzlxn03e58tra7sfelcaj7lq770mt5yg"
+  reporter: CryptoScamDB    
+- name: cryptogood.000webhostapp.com
+  url: http://cryptogood.000webhostapp.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  reporter: CryptoScamDB    
+- name: spacexfree.com
+  url: http://spacexfree.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xb7D8c320CB7d1de6F7e62Cf65146Ead4Be48aAEB"
+    BTC:
+    - "1ESJK4wspFSyGPmH64ZdKBSxZAxUtX4pAr"
+  reporter: CryptoScamDB    
