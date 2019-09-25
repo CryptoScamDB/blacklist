@@ -18329,6 +18329,14 @@
   category: Phishing
   subcategory: Telegram
   description: Fake Telegram crowdsale site
+  addresses:
+    BTC:
+    - "1JHfQT3iWZf1Us8gNPwMkwDeG8tLVsEkZS"  
+    ETH:
+    - "0xE870b6be09f4566B70b51D6413e048b744A5F449"
+    - "0x7EdA44E9C9D4B7711850Ab28B4be6887f4Ce3ddc"
+    XRP:
+    - "rpVYng4R452CbMxPuoL4oDjKi5To6ZxGmD"
   reporter: CryptoScamDB
 - name: myetherwallet.heliohost.org
   url: http://myetherwallet.heliohost.org
@@ -51530,3 +51538,68 @@
     BTC:
     - "1ESJK4wspFSyGPmH64ZdKBSxZAxUtX4pAr"
   reporter: CryptoScamDB    
+- name: freebakkt.com
+  url: http://freebakkt.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x925B2B9371fdf0E21597FAFC3D379Cf3d2160277"
+    BTC:
+    - "19zrZUdAF3zR2cPZnwhH4MbvozfKSjDSRQ"
+  reporter: CryptoScamDB      
+- name: libratokensale.com
+  url: http://libratokensale.com
+  category: Phishing
+  subcategory: Calibra
+  description: "Fake Libra token sale https://archive.st/archive/2019/9/libratokensale.com/apjn/libratokensale.com/index.html"
+  reporter: CryptoScamDB  
+- name: getbabb-claims.exclusive-extra-bonuses.com
+  url: http://getbabb-claims.exclusive-extra-bonuses.com
+  category: Scamming
+  subcategory: Babb
+  description: "Fake Babb giveaway directing users to a fake MyEtherWallet (claims-token-erc20.exclusive-extra-bonuses.com)"
+  reporter: CryptoScamDB  
+- name: claims-token-erc20.exclusive-extra-bonuses.com
+  url: http://claims-token-erc20.exclusive-extra-bonuses.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for keys with POST /myetherwallet.php/"
+  reporter: CryptoScamDB  
+- name: xrpcompetition.live
+  url: http://xrpcompetition.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rw9kHpRE52nza51KnG1ndDqw9Lo1mcQM6r"
+  reporter: CryptoScamDB    
+- name: bithumb.live
+  url: http://bithumb.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xe2e4B53A1324F5a7368724eA73e532c626517f19"
+  reporter: CryptoScamDB      
+- name: dogechain.org
+  url: http://dogechain.org
+  category: Phishing
+  subcategory: Dogechain
+  description: "Fake Dogechain wallet (mirrored from dogechains.info/overview/) phishing for details with POST /index.php"
+  reporter: CryptoScamDB        
+- name: exodus.icu
+  url: http://exodus.icu
+  category: Malware
+  subcategory: MyCrypto
+  description: "Fake MyCrypto download - https://app.any.run/tasks/6ddb8bf1-81f1-4cd4-9c86-ff26335d050f"
+  reporter: CryptoScamDB          
+- name: ton-telegram.net
+  url: http://ton-telegram.net
+  category: Phishing
+  subcategory: Telegram
+  description: "Fake Telegram crowdsale site - linking users to tg://resolve?domain=TonometerBot"
+  reporter: CryptoScamDB
