@@ -20321,6 +20321,7 @@
   addresses:
     ETH:
     - "0x88bDEB65eD500794118D0E5FDf5808d23Bb74E73"
+    - "0xc1ebbca5e7048d0c694377fe821bec6d4eeabe23"
   reporter: CryptoScamDB
 - name: ethgiveaway.live
   url: http://ethgiveaway.live
@@ -51603,3 +51604,173 @@
   subcategory: Telegram
   description: "Fake Telegram crowdsale site - linking users to tg://resolve?domain=TonometerBot"
   reporter: CryptoScamDB
+- name: muskbit.com
+  url: http://muskbit.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - reported address 1AyQwZYKU36yiFPPoqnC1Cn4LLHQ1DbTDX"
+  reporter: CryptoScamDB   
+- name: blockchain5th.com
+  url: http://blockchain5th.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB3805B7A3098F9E8E4C0A4bFa212d2C8d7d072a6"
+    - "0x201D2A68bfB83D4DED413A29bB3B7c5002d32772"
+  reporter: CryptoScamDB   
+- name: bakktlaunch.com
+  url: http://bakktlaunch.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x7A2BB19483e0df6fC7D5159e2F70480CfeF4C50A"
+    BTC:
+    - "18hYaDXFpx7zfKb8mo62gyScmwZGEoBDnE"
+  reporter: CryptoScamDB     
+- name: newcryptogift.com
+  url: http://newcryptogift.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x032Fb380D84917D408EA172383Cf214c28b4fE21"
+    BTC:
+    - "1PvTkqAPqscdZkt1sVLg2mvAhi6NqbJ53N"
+  reporter: CryptoScamDB       
+- name: dex-get.net
+  url: http://dex-get.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x574B7E93b755Fd36E6a62FfBC25bE94C65A929E8"
+    BTC:
+    - "16dy79qVp6vvAw9sxXHrdG7RcjBCsHxnqH"
+  reporter: CryptoScamDB         
+- name: bololckhain.com
+  url: http://bololckhain.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain phishing for logins with POST /"
+  reporter: CryptoScamDB     
+- name: medium-crypto.tech
+  url: http://medium-crypto.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xD2418A41A708676C450117cA1592Ebf435F01ee7"
+    BTC:
+    - "1PvqVpheWSrkQJdjfdpNQP9K1jGWxT7tAE"
+  reporter: CryptoScamDB    
+- name: bakktgift.info
+  url: http://bakktgift.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x126De4b8b4E10840e7931E5858425f35c99Bd323"
+    BTC:
+    - "1LfUDkZQF8bBX5LPBM69aCcRH1EX4q68y"
+  reporter: CryptoScamDB      
+- name: chainlink.webcindario.com
+  url: http://chainlink.webcindario.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x5d156EF9b1f8bBc3Ce1EFf16A3834e8cb3543c41"
+    BTC:
+    - "14BaoVpAWgvBDxA9b52buEsFm5rmeku5XP"
+  reporter: CryptoScamDB    
+- name: coinbasecrypto.tech
+  url: http://coinbasecrypto.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9Ac6ee80718C0E3f3eCe956cc52D02c6EC8A1DdE"
+    BTC:
+    - "1PNnKZepQgZcWRiTxB4ux59aP8epCMX6TW"
+  reporter: CryptoScamDB      
+- name: xrp-promo.tech
+  url: http://xrp-promo.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rn9BYSNzCSnBwSL2MeKaeWhyBwiY5FfiL9"
+  reporter: CryptoScamDB        
+- name: bakkt-celebration.netlify.com
+  url: http://bakkt-celebration.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x7A2BB19483e0df6fC7D5159e2F70480CfeF4C50A"
+    BTC:
+    - "1CEoEaRzV5afA5MSgNjkyp7YkdKaAakAaV"
+  reporter: CryptoScamDB    
+- name: bonuscoinbase.com
+  url: http://bonuscoinbase.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15a8CJS6j9tR749SviyBFyd8xG8q24Hoxe"
+  reporter: CryptoScamDB      
+- name: bakktget.com
+  url: http://bakktget.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xAa1eA8F6CdEEb491d9CF9fcDfC8FEC6B4040D1c4"
+    BTC:
+    - "1HCVNeWHsxsXvSQndDLVutRkSjyuSA8DVp"
+  reporter: CryptoScamDB     
+- name: bakkt.wz.cz
+  url: http://bakkt.wz.cz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EoJetE8rR5n3qY8HkCDnpffGLg3881jsH"
+  reporter: CryptoScamDB       
+- name: btcdrops.net
+  url: http://btcdrops.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xAa1eA8F6CdEEb491d9CF9fcDfC8FEC6B4040D1c4"
+    BTC:
+    - "1HCVNeWHsxsXvSQndDLVutRkSjyuSA8DVp"
+  reporter: CryptoScamDB  
+- name: promobakkt.com
+  url: http://promobakkt.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xAa1eA8F6CdEEb491d9CF9fcDfC8FEC6B4040D1c4"
+    BTC:
+    - "1HCVNeWHsxsXvSQndDLVutRkSjyuSA8DVp"
+  reporter: CryptoScamDB    
