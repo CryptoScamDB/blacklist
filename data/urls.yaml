@@ -51774,3 +51774,107 @@
     BTC:
     - "1HCVNeWHsxsXvSQndDLVutRkSjyuSA8DVp"
   reporter: CryptoScamDB    
+- name: earnbros.com
+  url: http://earnbros.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2E64d7d37133e505Ea50E813400Be7d105acf4ad"
+  reporter: CryptoScamDB      
+- name: m2020.me
+  url: http://m2020.me
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xe63E795F5eCBa36F57067Bd5579D0E15Be9E7E4C"
+    BTC:
+    - "1726ZXJuhgsJAgb3SJgEsJW7NnjjPzRbKF"
+  reporter: CryptoScamDB   
+- name: rippleinsights.pro
+  url: http://rippleinsights.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg"
+  reporter: CryptoScamDB   
+- name: ton-ico.com
+  url: http://ton-ico.com
+  category: Phishing
+  subcategory: Telegram
+  description: "Fake Telegram crowdsale site"
+  addresses:
+    ETH:
+    - "0x8ccC7e6cfcd15778dfC94D800Ee88bb5C41c2baD"
+    BTC:
+    - "15jzEr6xZTYJ1kro5C2nroe1QwSctsUfHc"
+  reporter: CryptoScamDB    
+- name: quickinv.com
+  url: http://quickinv.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake bitcoin doubler"
+  addresses:
+    BTC:
+    - "1DJPYPaRcYe782eoPah4JpvY18pvTZQZZN"
+  reporter: CryptoScamDB    
+- name: mcafee-prize.online
+  url: http://mcafee-prize.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xD2418A41A708676C450117cA1592Ebf435F01ee7"
+    BTC:
+    - "18WR6TiLrT76qz546UVEEjhR8UoR2wSxzi"
+  reporter: CryptoScamDB   
+- name: bakkt-event-start.netlify.com
+  url: http://bakkt-event-start.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x71D663DE2Df38D61A1871Bb8eF503d18D19964d6"
+    BTC:
+    - "1J1dss8NQVuezZ4GTUZNYMxueQhCN6XTGV"
+  reporter: CryptoScamDB     
+- name: spacexbit.com
+  url: http://spacexbit.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - linking users to unruffled-shockley-1db491.netlify.com"
+  addresses:
+    ETH:
+    - "0xeF79301402010f85b14ce5A931AB14e6DE60bCc0"
+    BTC:
+    - "18Q3MbqJyTJdxtjjACzkbP4qMDgRa4yYc8"
+  reporter: CryptoScamDB       
+- name: unruffled-shockley-1db491.netlify.com
+  url: http://unruffled-shockley-1db491.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xeF79301402010f85b14ce5A931AB14e6DE60bCc0"
+    BTC:
+    - "18Q3MbqJyTJdxtjjACzkbP4qMDgRa4yYc8"
+  reporter: CryptoScamDB         
+- name: t3md.net
+  url: http://t3md.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6194338943d1fB18C4399f042FE9790e4b80fbAc"
+    BTC:
+    - "1FQML5ZpPRJur5d4B7NdXBiCT6ktVCAodU"
+  reporter: CryptoScamDB           
