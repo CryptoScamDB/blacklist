@@ -51878,3 +51878,97 @@
     BTC:
     - "1FQML5ZpPRJur5d4B7NdXBiCT6ktVCAodU"
   reporter: CryptoScamDB           
+- name: xrpdrop.fun
+  url: http://xrpdrop.fun
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "r3Qqame8qwDGoejiMDEYHkmhkZCEwJqRjM"
+  reporter: CryptoScamDB         
+- name: rippleinsights.tech
+  url: http://rippleinsights.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg"
+  reporter: CryptoScamDB           
+- name: login.blolckchaln.com
+  url: http://login.blolckchaln.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain phishing for logins"
+  reporter: CryptoScamDB     
+- name: login-blockchain.com.mx
+  url: http://login-blockchain.com.mx
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake blockchain phishing for logins with POST /original/wallet/sessions (api code 1770d5d9-bcea-4d28-ad21-6cbd5be018a8)"
+  reporter: CryptoScamDB       
+- name: rippleinsights.live
+  url: http://rippleinsights.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg"
+  reporter: CryptoScamDB     
+- name: cryptogrowth.live
+  url: http://cryptogrowth.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - Fake webminer/investment platform"
+  addresses:
+    BTC:
+    - "1DTKauaQAeS24j3Qvw2JARQoMdhYLC761J"
+  reporter: CryptoScamDB       
+- name: ehterdelta.host
+  url: http://ehterdelta.host
+  category: Phishing
+  subcategory: EtherDelta
+  description: "Fake EtherDelta phishing for keys with POST /api.php"
+  reporter: CryptoScamDB   
+- name: thelibrasale.com
+  url: http://thelibrasale.com
+  category: Phishing
+  subcategory: Libra
+  description: "Fake Libra crowdsale site (coinpayments.net key:f80aa4883892649f632a43fbe9b66c44)"
+  addresses:
+    BTC:
+    - "3DRmcfpFZACAxJbWufuv2QpJ1Udy7Yisec"  
+    ETH:
+    - "0xbad41e5412ebaf22b8ec127521060fd9fa29bbdd"
+    BCH:
+    - "qr887wu5fmxfzap06qkt06539mnrgqnn6vyz96zles"
+  reporter: CryptoScamDB     
+- name: btcgen.io
+  url: http://btcgen.io
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EBuCoY3gkSazv1AScvZQgUdL5k2ez2cEG"
+  reporter: CryptoScamDB    
+- name: trx-ethgiveaway.com
+  url: http://trx-ethgiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB3805B7A3098F9E8E4C0A4bFa212d2C8d7d072a6"
+  reporter: CryptoScamDB      
+- name: upbitgift.com
+  url: http://upbitgift.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xbE2706E85f72F16C7121a5c03D0C87184A97C808"
+  reporter: CryptoScamDB        
