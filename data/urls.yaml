@@ -51972,3 +51972,41 @@
     ETH:
     - "0xbE2706E85f72F16C7121a5c03D0C87184A97C808"
   reporter: CryptoScamDB        
+- name: ildex.host
+  url: http://ildex.host
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex phishing for secrets with POST /log.php"
+  reporter: CryptoScamDB  
+- name: ethereumfreemining.com
+  url: http://ethereumfreemining.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake miner"
+  addresses:
+    ETH:
+    - "0xb3f63172A054cceF9809149b14bC125EF1e9f5BB"
+    BTC:
+    - "38xcBgiqVMcFCqnxFwrHJV7VoW4tDDfFAJ"
+  reporter: CryptoScamDB     
+- name: chianlink.com
+  url: http://chianlink.com
+  category: Phishing
+  subcategory: Chainlink
+  description: "Fake chainlink staking app phishing for secrets with POST wallet.chianlink.com/login.php?privateKey=xxx"
+  reporter: CryptoScamDB    
+- name: localbitcolns.net
+  url: http://localbitcolns.net
+  category: Phishing
+  subcategory: LocalBitcoins
+  description: "Fake LocalBitcoins phishing for logins with POST /"
+  reporter: CryptoScamDB    
+- name: binance.jerseyproject.site
+  url: http://binance.jerseyproject.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3NvgY7KqUbxAX1qjf2StYrUijLynbrBgBZ"
+  reporter: CryptoScamDB   
