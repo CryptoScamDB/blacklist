@@ -52010,3 +52010,90 @@
     BTC:
     - "3NvgY7KqUbxAX1qjf2StYrUijLynbrBgBZ"
   reporter: CryptoScamDB   
+- name: eth-charity.tech
+  url: http://beth-charity.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x69ff68516cB36384546786243E1F314D7b9C7E57"
+  reporter: CryptoScamDB     
+- name: ethget.org
+  url: http://ethget.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB3805B7A3098F9E8E4C0A4bFa212d2C8d7d072a6"
+  reporter: CryptoScamDB       
+- name: tonpresale.com
+  url: http://tonpresale.com
+  category: Phishing
+  subcategory: Telegram
+  description: Fake Telegram crowdsale site
+  addresses:
+    BTC:
+    - "1KCoVnnNv6UaqFJ9PogYwhPA2Rn9hPy4R"
+    ETH:
+    - "0xC25Fed458cd7Ee6948729faD58bEbC640BdbCD18"
+  reporter: CryptoScamDB  
+- name: investmentworld.site
+  url: http://investmentworld.site
+  category: Scamming
+  subcategory: Ponzi
+  description: "Ponzi scheme - fake team. Redirect from bondinvest.site"
+  addresses:
+    BTC:
+    - "1NnCo286LQGQMAsqPzmWkrGzV5nNWusHGi"
+    BCH:
+    - "qp40j4gcxsf40sutcgk2z0u57hgm6vycssy05th5q3"
+    ETH:
+    - "0xf34b357fE1538a67b88cD39b90C45AD36496Dc39"
+  reporter: CryptoScamDB    
+- name: lidex.market
+  url: http://lidex.market
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex market phishing for secrets with POST /log.php"
+  reporter: CryptoScamDB    
+- name: binancebnbgive.com
+  url: http://binancebnbgive.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BNB:
+    - "bnb18htn90crd0cjyzauagcx05grcg3wx70yphvqep"  
+  reporter: CryptoScamDB      
+- name: ethaget.com
+  url: http://ethaget.com
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake MyEtherWallet/Wallet phishing for secrets with POST /savekey.php"
+  reporter: CryptoScamDB      
+- name: coinxkeep.com
+  url: http://coinxkeep.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    BTC:
+    - "3KKEdyXwWL4XqXJ6ffQEBfTVWCs2cgwHMd"   
+    - "1JZGCSb7iiGMfH2xYwKQqbA7dvomYwrGrq"
+    ETH:
+    - "0x5FAe64a5306672c79E4654873960b20611eA548A"
+    - "0x2EA0D2F367eEEbd4cC9980ecDE8D228C726f5A2F"
+    BCH:
+    - "qrqfgg5c2zwyaleguh33gxrj2q0e266uzu2af4e62r"
+  reporter: CryptoScamDB        
+- name: claim-btc.com
+  url: http://claim-btc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DUEPJfr8ayZnHo8i3MxXVfu51Grpk6NwY"  
+  reporter: CryptoScamDB     
