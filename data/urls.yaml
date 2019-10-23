@@ -52097,3 +52097,87 @@
     BTC:
     - "1DUEPJfr8ayZnHo8i3MxXVfu51Grpk6NwY"  
   reporter: CryptoScamDB     
+- name: xrpinsights.live
+  url: http://xrpinsights.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - redirect via bit.ly/2Bl8Zot+"
+  reporter: CryptoScamDB     
+- name: claimbtc.org
+  url: http://claimbtc.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1J8NeCnr2WpNsjSFCGWmkWaSMt7TgnvdZr"  
+  reporter: CryptoScamDB    
+- name: elonspace.online
+  url: http://elonspace.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB52F5eA6DD9FC119f8195858f785C00c3B5e17Ba"
+    BTC:
+    - "1Hf37TQ8agT4y9g3d7fwjnv95hTp7wEYfW"  
+  reporter: CryptoScamDB      
+- name: earnxrp.live
+  url: http://earnxrp.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (xrp tag: 1245733673)"
+  addresses:
+    XRP:
+    - "rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg"  
+  reporter: CryptoScamDB   
+- name: tron-network.live
+  url: http://tron-network.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    TRX:
+    - "TGDeTUGJsEgrVD39NFadkaUCLP2qNz4ZT5"  
+  reporter: CryptoScamDB      
+- name: btc-titan.com
+  url: http://btc-titan.com
+  category: Phishing
+  subcategory: Malware
+  description: "Fake miner - malware https://www.virustotal.com/gui/url/48c57bd3f3482bdc8b804dd9168c5aa977137a3371456dd90c291b9efbe30194/detection"
+  reporter: CryptoScamDB    
+- name: uminer.net
+  url: http://uminer.net
+  category: Phishing
+  subcategory: Malware
+  description: "Fake miner - malware (darkcomet-rat) https://www.virustotal.com/gui/file/0679543ed4c57834bfbf9d60fbc8581f0aaa8435b71abb921fe6b3f856e58340/detection & https://app.any.run/tasks/4ceba803-bcc0-46a9-b455-d0e8ba3c667b"
+  reporter: CryptoScamDB      
+- name: 2xcoin.live
+  url: http://2xcoin.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB914DC808D62Fc9638D5B04a58Bdc831064e7d7A"  
+  reporter: CryptoScamDB   
+- name: multicoinsminer.fund
+  url: http://multicoinsminer.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake miner"
+  addresses:
+    ETH:
+    - "0x9735bA8D7374649d188AFaDEa5019e12d2587E00"  
+    BTC:
+    - "14yCFuUR9diSjXpo3jNXYsPH868ZtzGxGA"
+    BNB:
+    - "bnb1zufnlvnyaqxe2n7avk8we42rlvqejkn58a8n47"
+    BCH:
+    - "17MQivMUG426fBX8CQ7d4Bg5yyJXCZ9vQF"
+    LTC:
+    - "LiENPhDYHVPd6u1ci4BMVWFH5VLzpMPgmC"
+    XRP:
+    - "rMsiAxyaV76DxDFehXFCL677bjFVMXsfZy"
+  reporter: CryptoScamDB     
