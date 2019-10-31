@@ -52408,3 +52408,9 @@
     ETH:
     - "0xc1ebbca5e7048d0c694377fe821bec6d4eeabe23" 
   reporter: CryptoScamDB       
+- name: myetherwallet-extra-bonuses.000webhostapp.com
+  url: http://myetherwallet-extra-bonuses.000webhostapp.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST //next.extra-bonuses.gq/myether/claim.php (admin: pembrayadi@yandex.com)"
+  reporter: CryptoScamDB         
