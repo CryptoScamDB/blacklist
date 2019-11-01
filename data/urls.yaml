@@ -52413,4 +52413,48 @@
   category: Phishing
   subcategory: MyEtherWallet
   description: "Fake MyEtherWallet phishing for secrets with POST //next.extra-bonuses.gq/myether/claim.php (admin: pembrayadi@yandex.com)"
-  reporter: CryptoScamDB         
+  reporter: CryptoScamDB    
+- name: 4ltc.su
+  url: http://4ltc.su
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3FVpvKYn7Z2gXsLT7GeVrQSjWK8YqVijVq" 
+  reporter: CryptoScamDB          
+- name: get-xrp.online
+  url: http://get-xrp.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rfBQRHYS5uNJWoyciUYfNpskgTKLas5NsX" 
+  reporter: CryptoScamDB            
+- name: freebtceth.com
+  url: http://freebtceth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1HHtewWyoAeYgZA4udVoWHkuR5qG43so6B" 
+    ETH:
+    - "0x55c554986B60E9D78Ab6785E5829c75D252b1bbD"
+  reporter: CryptoScamDB              
+- name: wp.locallbittcoins.net
+  url: http://wp.locallbittcoins.net
+  category: Phishing
+  subcategory: LocalBitcoins
+  description: "Fake LocalBitcoins phishing for logins with POST /accounts/login"
+  reporter: CryptoScamDB     
+- name: coinbaseoffer.com
+  url: http://coinbaseoffer.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NNF5BfvtZNAciB5J5f434oeN3pijqfwg9" 
+  reporter: CryptoScamDB     
