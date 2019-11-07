@@ -52458,3 +52458,121 @@
     BTC:
     - "1NNF5BfvtZNAciB5J5f434oeN3pijqfwg9" 
   reporter: CryptoScamDB     
+- name: beentrade.org
+  url: http://beentrade.org
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    BTC:
+    - "3QSj3rZngHJMCg7Non8iUGH3YCPdythkDN" 
+    ETH:
+    - "0x5c4D6c7b7F7EfEbF6208e5677f652EefF9983B7F"
+    BCH:
+    - "qp2z0ammgxkyqfsgkpclzhg975dgstqnru93mnmqp2"
+  reporter: CryptoScamDB       
+- name: coinspin.net
+  url: http://coinspin.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  reporter: CryptoScamDB     
+- name: bitlare.com
+  url: http://bitlare.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  reporter: CryptoScamDB       
+- name: uni-pouch.com
+  url: http://uni-pouch.com
+  category: Scamming
+  subcategory: Wallet
+  description: "Scam site to buy Makebit tokens - backend errors are verbose, plaintext passwords in emails"
+  addresses:
+    BTC:
+    - "1DvR5n2kkJZW8GBF8TS69NuxMLQhXrvBQZ" 
+    ETH:
+    - "0x1a2893432d0615a0764a311b5d2a6062dc212c9d"
+    LTC:
+    - "LZnNkaMDTWJPSAW85B1WMEuXoWp1xaPA5f"  
+    USDT:
+    - "1AhAxx4Ma4dF2ic7HsGEvgykzvneNSx5Du"
+  reporter: CryptoScamDB        
+- name: elon-get.com
+  url: http://elon-get.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xE1336320e4F593A79C80CBA5d9F18F0657aFF1c4" 
+    BTC:
+    - "1HeAgFi38Qxd4qe9TG9GpTH7Wwtd3QyJGR"
+  reporter: CryptoScamDB    
+- name: lite.foundation
+  url: http://lite.foundation
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    LTC:
+    - "LhiXV7htHSWUSay6gkqGY2rWieVJagnb9U" 
+  reporter: CryptoScamDB      
+- name: ripple.expert
+  url: http://ripple.expert
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rsbV2MDsCXP384ruS6fb6not3vPEXDXaQP" 
+  reporter: CryptoScamDB        
+- name: 3tesla.info
+  url: http://3tesla.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xA8bCC7B96703a8b1A319ad6C73360aBE41DC2B71" 
+    - "0x121Bb154e76e252A804BeA23f875F1c25bB0A7be"
+    BTC:
+    - "1NK1tSkbhFXy5xCe3UC7ygwmgcpZDMxFcz"
+    - "1ELN8i1g5jwYTdJ8ocSg6CtLzjKfAHbWc"
+  reporter: CryptoScamDB          
+- name: coinsmax.live
+  url: http://coinsmax.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x848b73f8cb6778203edbe4aa18f293b238fd3712" 
+  reporter: CryptoScamDB   
+- name: login.bllockhaiin.com
+  url: http://login.bllockhaiin.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake blockchain phishing for logins"
+  reporter: CryptoScamDB     
+- name: idexmarket.art
+  url: http://idexmarket.art
+  category: Phishing
+  subcategory: Idex
+  description: "Fake idexmarket"
+  reporter: CryptoScamDB       
+- name: hellogold.in
+  url: http://hellogold.in
+  category: Phishing
+  subcategory: HelloGold
+  description: "Fake HelloGold site"
+  reporter: CryptoScamDB     
+- name: steemeth.com
+  url: http://steemeth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC85f7D1bb0f462D3AB2a2d83E4D5dd2C5ADfCe46" 
+  reporter: CryptoScamDB    
