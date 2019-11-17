@@ -52576,3 +52576,96 @@
     ETH:
     - "0xC85f7D1bb0f462D3AB2a2d83E4D5dd2C5ADfCe46" 
   reporter: CryptoScamDB    
+- name: myetherwallet-giveaway.000webhostapp.com
+  url: http://myetherwallet-giveaway.000webhostapp.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets, posting to next.extra-bonuses.ga/myether/claim.php"
+  reporter: CryptoScamDB      
+- name: official-ethers.com
+  url: http://official-ethers.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2f0509efAd8555012Ac770866FEce8d35E73A492" 
+  reporter: CryptoScamDB   
+- name: coinbaseteam.com
+  url: http://coinbaseteam.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JmRqtCoRkhep9K5ZspJRC9zKDmTn1mAoK" 
+  reporter: CryptoScamDB     
+- name: idex-market.info
+  url: http://idex-market.info
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex market phishing for secrets with POST /log.php"
+  reporter: CryptoScamDB       
+- name: geteth.site
+  url: http://geteth.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x0c5c5EB4C5601Ea92Bbc1cbb664C1e98f42D98e6" 
+  reporter: CryptoScamDB     
+- name: crypto-generat.ml
+  url: http://crypto-generat.ml
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake web miner"
+  addresses:
+    ETH:
+    - "0xc9F4599726B1Dd12f4A72f8e3234fEa79d4D6Fd0" 
+    BTC:
+    - "14tnnXwUrzorBo6GYveevskC6CpA9nrwep"
+    BNB:
+    - "bnb1z48pp6kvlcrqe8vcucqpggeh60ngxmzklkzfm0"
+    BCH:
+    - "qr4msctdg3qudfkxu3g7sy2ek4r8u924yvpqltvp8q"
+    LTC:
+    - "LKVhqeY5rVrp3pS6tPWcGqeemCCqmWRY96"
+    XMR:
+    - "8BxXPVPZt2BfELUJ5esxEZZb9XJmd7CjVigAvYdvAd9MB3gyQqAYmBA7u3LadVzuB93TFHB488uQGb5CCSSLEmBZ4DmnhMb"
+    XRP:
+    - "rwpMvfxoodXggJ1g4qv6MWAPQqWDwQyHUW"
+    DASH:
+    - "XmyWpifN4ALwmrDLWsXa6dYo9aGYApK6Gs"
+  reporter: CryptoScamDB       
+- name: crypto-reward.com
+  url: http://crypto-reward.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EquZuJKARvHai9bvJbqN1ZburkAUiCdKw" 
+  reporter: CryptoScamDB    
+- name: 2xbonus.live
+  url: http://2xbonus.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x1071C1e161A70Afe8f4D60635df7bDA3EDcc75Fc" 
+    - "0xb3741871090D91A0087CFf96082a37433f84F873"
+  reporter: CryptoScamDB      
+- name: claim-erc20-token-bonus.ga
+  url: http://claim-erc20-token-bonus.ga
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST claim-erc20-token-bonus.ga/myetherwallet.php/"
+  reporter: CryptoScamDB       
+- name: bancor-network.ga
+  url: http://bancor-network.ga
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake bancor site phishing for secrets with POST /bancor.php"
+  reporter: CryptoScamDB         
