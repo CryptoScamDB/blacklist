@@ -52669,3 +52669,60 @@
   subcategory: MyEtherWallet
   description: "Fake bancor site phishing for secrets with POST /bancor.php"
   reporter: CryptoScamDB         
+- name: chainlinktoken.net
+  url: http://chainlinktoken.net
+  category: Phishing
+  subcategory: Chainlink
+  description: "Fake chainlink airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB           
+- name: neosmarteconomy.netlify.com
+  url: http://neosmarteconomy.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    NEO:
+    - "AKPDmZA7BbDH2fXtfr8gtbpDiH9jPAUQj5"
+  reporter: CryptoScamDB      
+- name: ovdan.com
+  url: http://ovdan.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for mnemonics with POST /save.php"
+  reporter: CryptoScamDB        
+- name: legder.co
+  url: http://legder.co
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for mnemonics with POST /save.php"
+  reporter: CryptoScamDB          
+- name: xn--trezr-gua.com
+  url: http://xn--trezr-gua.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /ifu/upload.php"
+  reporter: CryptoScamDB            
+- name: ehterdelta.ru.com
+  url: http://ehterdelta.ru.com
+  category: Phishing
+  subcategory: EtherDelta
+  description: "Fake EtherDelta phishing for secrets with POST /api.php"
+  reporter: CryptoScamDB             
+- name: binance-cz-promo.netlify.com
+  url: http://binance-cz-promo.netlify.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JqjJEXprhE3fXiiTSbsTohydzHE4jBvca"
+  reporter: CryptoScamDB     
+- name: ripple.ooo
+  url: http://ripple.ooo
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rL16byqze2fqFy2QAWREK7SQ6tFFp8pMmx"
+  reporter: CryptoScamDB       
