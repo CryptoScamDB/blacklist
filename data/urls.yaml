@@ -52726,3 +52726,78 @@
     XRP:
     - "rL16byqze2fqFy2QAWREK7SQ6tFFp8pMmx"
   reporter: CryptoScamDB       
+- name: sai2dai.com
+  url: http://sai2dai.com
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake sai/dai mcd upgrade - https://twitter.com/Davidutro/status/1196470308393357318"
+  reporter: CryptoScamDB         
+- name: official-mcafee.me
+  url: http://official-mcafee.me
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1D6K4JzMtscFLFevtLeFsbsnoZDFMFHzCR"
+    ETH:
+    - "0x1BA10320062103Ef36716bb888E739d41b17efF2"
+  reporter: CryptoScamDB    
+- name: elonbonus.com
+  url: http://elonbonus.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1C44Fs8wNstrp9fLKKV89uSDoQWBbChfWL"
+    ETH:
+    - "0xCF70C00655Ec4356005983420B7AdC866316713b"
+  reporter: CryptoScamDB      
+- name: idex-market.space
+  url: http://idex-market.space
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex phishing for secrets with POST /log.php"
+  reporter: CryptoScamDB        
+- name: elonmuskgift.com
+  url: http://elonmuskgift.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "114gWjgGPseRnHBBVJa2X9AxpZEUkHuSuW"
+    ETH:
+    - "0xDB7FAf0F7B587235eFbE9b1142D43347B6C56c2B"
+  reporter: CryptoScamDB    
+- name: trezor-wallets.cc
+  url: http://trezor-wallets.cc
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /ssnd_3.php"
+  reporter: CryptoScamDB      
+- name: trezor.promo
+  url: http://trezor.promo
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets (broken kit, redirecting to /null)"
+  reporter: CryptoScamDB        
+- name: eilectum.org
+  url: http://eilectum.org
+  category: Malware
+  subcategory: Electrum
+  description: "Fake Electrum site https://app.any.run/tasks/4cfbf4ca-57be-47c5-be97-9bc39ed2ac14"
+  reporter: CryptoScamDB          
+- name: localbitcoins.com.0fficial-localbitcoins.website
+  url: http://localbitcoins.com.0fficial-localbitcoins.website
+  category: Phishing
+  subcategory: LocalBitcoins
+  description: "Fake Localbitcoins website phishing for logins with POST /login.php"
+  reporter: CryptoScamDB     
+- name: mewmyetherwallets.com
+  url: http://mewmyetherwallets.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST /log.php?access-my-wallet"
+  reporter: CryptoScamDB       
