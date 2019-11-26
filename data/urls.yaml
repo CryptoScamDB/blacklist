@@ -52960,7 +52960,7 @@
   url: http://cryptoback.org
   category: Malware
   subcategory: Extension
-  description: "Fake crypto cashback extension (malware)  - see mega thread: https://twitter.com/sniko_/status/1116123334830374918"
+  description: "Fake crypto cashback extension (malware)  - see mega thread: https://twitter.com/sniko_/status/1116123334830374918 - Extension id: bhihlepfeofebhiafmidfeipambijdgl"
   reporter: CryptoScamDB       
 - name: bedstchange.pp.ru
   url: http://bedstchange.pp.ru
@@ -52968,3 +52968,94 @@
   subcategory: Bestchange
   description: "Fake BestChange site"
   reporter: CryptoScamDB         
+- name: saitodai.app
+  url: http://saitodai.app
+  category: Phishing
+  subcategory: Sai2dai
+  description: "Fake Sai2dai app phishing for funds"
+  addresses:
+    ETH:
+    - "0xdE0F9880faF963c57aAbCF92128eb1640dBaaE18"
+  reporter: CryptoScamDB        
+- name: cryptocloudx.com
+  url: http://cryptocloudx.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits - also linking users to a cookiestealer browser extension id bhihlepfeofebhiafmidfeipambijdgl"
+  addresses:
+    BTC:
+    - "3Ng3yuS3uNtVyLt9YVLxpL5MCJisZNwoyH"
+    ETH:
+    - "0xEe18e156a020F2b2B2DcdEC3A9476E61fBDE1e48"
+  reporter: CryptoScamDB    
+- name: coinxback.com
+  url: http://coinxback.com
+  category: Malware
+  subcategory: Extension
+  description: "Pushing a malware browser extension to users to steal cookies (id: bhihlepfeofebhiafmidfeipambijdgl) - see mega thread: https://twitter.com/sniko_/status/1199366050783072257"
+  reporter: CryptoScamDB    
+- name: myetherwallet-getfreetoken.000webhostapp.com
+  url: http://myetherwallet-getfreetoken.000webhostapp.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST //next.get-extra.ml/ether/claim.php"
+  reporter: CryptoScamDB    
+- name: vintage-myetherwallet.telegram-airdrop.com
+  url: http://vintage-myetherwallet.telegram-airdrop.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet"
+  reporter: CryptoScamDB      
+- name: telegram-airdrop.com
+  url: http://telegram-airdrop.com
+  category: Phishing
+  subcategory: Telegram
+  description: "Fake Telegram crowdsale site pushing malware downloads"
+  reporter: CryptoScamDB        
+- name: margineth.online
+  url: http://margineth.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1M3RG8Vh2C6SC9XfwwyzTmi1hcL1JA9KM4"
+    ETH:
+    - "0x41dd52240cf1A3a250aC57b112cd61D90f185cF1"
+  reporter: CryptoScamDB     
+- name: exchange.bnbdex.top
+  url: http://exchange.bnbdex.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - reported address: 35BEWENmjyXPL1K1SEf2hDgNcHS4R8yUN7 (btc)"
+  reporter: CryptoScamDB       
+- name: bloom.reward-programs.erc20-tokens.com
+  url: http://bloom.reward-programs.erc20-tokens.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake bloom airdrop phishing for secrets with POST /error.php"
+  reporter: CryptoScamDB     
+- name: wallet-thetatoken-extrabonuses.000webhostapp.com
+  url: http://wallet-thetatoken-extrabonuses.000webhostapp.com
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake web wallet phishing for secrets with POST //next.get-extra.tk/theta/app.php?cryptocurrency"
+  reporter: CryptoScamDB       
+- name: wallet-thetatoken-claim-extra-bonuses.000webhostapp.com
+  url: http://wallet-thetatoken-claim-extra-bonuses.000webhostapp.com
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake web wallet phishing for secrets with POST //next.get-extra.tk/theta/app.php?cryptocurrency"
+  reporter: CryptoScamDB         
+- name: wallet-thetatoken-bonuses.000webhostapp.com
+  url: http://wallet-thetatoken-bonuses.000webhostapp.com
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake web wallet phishing for secrets with POST //next.get-extra.tk/theta/app.php?cryptocurrency"
+  reporter: CryptoScamDB           
+- name: wallet-thetatoken-extrabonuses-erc20.000webhostapp.com
+  url: http://wallet-thetatoken-extrabonuses-erc20.000webhostapp.com
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake web wallet phishing for secrets with POST //next.get-extra.tk/theta/app.php?cryptocurrency"
+  reporter: CryptoScamDB             
