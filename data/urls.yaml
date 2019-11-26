@@ -52801,3 +52801,170 @@
   subcategory: MyEtherWallet
   description: "Fake MyEtherWallet phishing for secrets with POST /log.php?access-my-wallet"
   reporter: CryptoScamDB       
+- name: spacexbit.info
+  url: http://spacexbit.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Dce8kjMfFzFh48a9njNvqZiqGe7mR39ix"
+    ETH:
+    - "0x52414069b0AF176210603ef8621d0B0D6b669e6A"
+  reporter: CryptoScamDB  
+- name: terezor.io
+  url: http://terezor.io
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site linking users to wallet.terezor.io"
+  reporter: CryptoScamDB    
+- name: wallet.terezor.io
+  url: http://wallet.terezor.io
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /getWords.php"
+  reporter: CryptoScamDB      
+- name: reward-crypto.com
+  url: http://reward-crypto.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15oDUWND6QkDPFQ5bpfMNcHC3ZU3oxmao7"
+    - "1L6jmSN8EnwpcvsW4Bhvjo47gpMnNf2XR8"
+    - "1LPtmuQtht7U1mrLJW5GtniAFnP2mvUo4c"
+    - "19q96TZPwt6nkmTeppQpirbPvuFVGmGPsy"
+  reporter: CryptoScamDB   
+- name: spacexbit.net
+  url: http://spacexbit.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Dce8kjMfFzFh48a9njNvqZiqGe7mR39ix"
+    ETH:
+    - "0x52414069b0AF176210603ef8621d0B0D6b669e6A"
+  reporter: CryptoScamDB    
+- name: 3mdl.pw
+  url: http://3mdl.pw
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1P3zZsTR57YcAPNXdKReCRydb9xRTLU5uB"
+    ETH:
+    - "0xAe49d83f54aba8c44CC5195EAD928B344CDca449"
+  reporter: CryptoScamDB      
+- name: muskbonus.info
+  url: http://muskbonus.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1KJzrxg255sTiTYnJ7GypdgmL6i9zXRrdW"
+    ETH:
+    - "0xa6D1fcAbA6a2cF4c38C6d9bd494D3C29da104158"
+  reporter: CryptoScamDB        
+- name: cyber-tesla.com
+  url: http://cyber-tesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14iHSNxFUsbrYyzVSAQS9HDChuNnxv7n93"
+    ETH:
+    - "0xd6657D73A8E994fF83bc2761802456c85f966Ee9"
+  reporter: CryptoScamDB          
+- name: 3mdl.pro
+  url: http://3mdl.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1P3zZsTR57YcAPNXdKReCRydb9xRTLU5uB"
+    ETH:
+    - "0xAe49d83f54aba8c44CC5195EAD928B344CDca449"
+  reporter: CryptoScamDB     
+- name: btc5k.com
+  url: http://btc5k.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1989y5fSRBGeYuAY9E813cW1ynigKeDBX3"
+  reporter: CryptoScamDB       
+- name: crypto-giveaway.com
+  url: http://crypto-giveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1CRYVjYtzyaEh7ib8ju6GKWiFib9qQezfL"
+  reporter: CryptoScamDB         
+- name: muskgives.info
+  url: http://muskgives.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LGBZzoHCsraW7sp93odnkvYQ57p5qS3v8"
+    ETH:
+    - "0x7bed530a0C85562ceFF547Df75CD4CF70a5a5EBA"
+  reporter: CryptoScamDB           
+- name: bitmusk.info
+  url: http://bitmusk.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13EQBeevzxvEKrdYfjKKvkFURzsdQ9qja1"
+    - "1FAmidS9DH8tQimyMPFWN7ZsMYo5y5Siru"
+    ETH:
+    - "0xa2818e01A3Aa1720eE87164Fb81de1509A286f4D"
+    - "0xA6142413486c95e68e4Da1c05Ed85791CC727BD0"
+  reporter: CryptoScamDB      
+- name: 2020btc.site
+  url: http://2020btc.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DW1ttbyJVfeEwomrpgD341361Fs9A6kMB"
+    ETH:
+    - "0xf49787d8E47bf62d860EBcc84c57d456347Aaa4C"
+  reporter: CryptoScamDB     
+- name: ldexmarket.xyz
+  url: http://ldexmarket.xyz
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex market phishing for keys with POST /log.php"
+  reporter: CryptoScamDB    
+- name: ldexmarket.info
+  url: http://ldexmarket.info
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex market phishing for keys with POST /log.php"
+  reporter: CryptoScamDB      
+- name: cryptoback.org
+  url: http://cryptoback.org
+  category: Malware
+  subcategory: Extension
+  description: "Fake crypto cashback extension (malware)  - see mega thread: https://twitter.com/sniko_/status/1116123334830374918"
+  reporter: CryptoScamDB       
+- name: bedstchange.pp.ru
+  url: http://bedstchange.pp.ru
+  category: Phishing
+  subcategory: Bestchange
+  description: "Fake BestChange site"
+  reporter: CryptoScamDB         
