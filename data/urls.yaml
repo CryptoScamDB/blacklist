@@ -52740,6 +52740,7 @@
   addresses:
     BTC:
     - "1D6K4JzMtscFLFevtLeFsbsnoZDFMFHzCR"
+    - "1PRU7koiVABKZK9Q1G2FEphRf6XsTD2bTK"
     ETH:
     - "0x1BA10320062103Ef36716bb888E739d41b17efF2"
   reporter: CryptoScamDB    
@@ -52866,8 +52867,10 @@
   addresses:
     BTC:
     - "1KJzrxg255sTiTYnJ7GypdgmL6i9zXRrdW"
+    - "1NmjktohZBBYf7yvBCQddg4bKXXSMumYdb"
     ETH:
     - "0xa6D1fcAbA6a2cF4c38C6d9bd494D3C29da104158"
+    - "0x9736b5344E12BE486e344bFF3087922f90B18e3A"
   reporter: CryptoScamDB        
 - name: cyber-tesla.com
   url: http://cyber-tesla.com
@@ -53059,3 +53062,95 @@
   subcategory: WebWallet
   description: "Fake web wallet phishing for secrets with POST //next.get-extra.tk/theta/app.php?cryptocurrency"
   reporter: CryptoScamDB             
+- name: myetherwallet-getextratoken.000webhostapp.com
+  url: http://myetherwallet-getextratoken.000webhostapp.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST //next.get-extra.ml/myether/claim.php - redirected via bitly.com/34EeImF+"
+  reporter: CryptoScamDB               
+- name: ldexmarket.ru.com
+  url: http://ldexmarket.ru.com
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex market phishing for secrets with POST /log.php"
+  reporter: CryptoScamDB                 
+- name: coinbase5k.com
+  url: http://coinbase5k.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "123cdtnwwSeQNxMYUvg7RDR6RrJio5rkZK"
+  reporter: CryptoScamDB    
+- name: receipt.invoice.reward-ethereum.cf
+  url: http://receipt.invoice.reward-ethereum.cf
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet"
+  reporter: CryptoScamDB      
+- name: receipt.invoice.eth-referral-airdrop.ml
+  url: http://receipt.invoice.eth-referral-airdrop.ml
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet"
+  reporter: CryptoScamDB        
+- name: eleckctrum.org
+  url: http://eleckctrum.org
+  category: Malware
+  subcategory: Electrum
+  description: "Fake Electrum site hosting malware - https://twitter.com/malsploit/status/1200873871185981440"
+  reporter: CryptoScamDB          
+- name: dai2sai.app
+  url: http://dai2sai.app
+  category: Phishing
+  subcategory: Dai
+  description: "Fake Sai migration app phishing for funds"
+  addresses:
+    ETH:
+    - "0xd36B818cc8BE57Aa48AAF4491B3950A1B5Cc97ec"
+  reporter: CryptoScamDB      
+- name: sai-to-dai.com
+  url: http://sai-to-dai.com
+  category: Phishing
+  subcategory: Dai
+  description: "Fake Sai migration app phishing for funds"
+  addresses:
+    ETH:
+    - "0x0971bE0B5Ac80Af27501CBe2936Db48e6c2C118e"
+  reporter: CryptoScamDB        
+- name: 3mdl.space
+  url: http://3mdl.space
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1P3zZsTR57YcAPNXdKReCRydb9xRTLU5uB"
+    ETH:
+    - "0xAe49d83f54aba8c44CC5195EAD928B344CDca449"
+  reporter: CryptoScamDB   
+- name: geminieth.live
+  url: http://geminieth.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x5e0eC8A70419b1305f33A279eF056eF4f4986fF3"
+  reporter: CryptoScamDB     
+- name: freebtc-drop.live
+  url: http://freebtc-drop.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12bLTExDwiP6RVcPmeUKXHKuuu4bmuC8jr"
+  reporter: CryptoScamDB       
+- name: ledgre.com
+  url: http://ledgre.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger live site phishing for secrets with POST /wallet/save.php"
+  reporter: CryptoScamDB     
