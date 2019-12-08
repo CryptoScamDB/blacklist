@@ -53154,3 +53154,167 @@
   subcategory: Ledger
   description: "Fake Ledger live site phishing for secrets with POST /wallet/save.php"
   reporter: CryptoScamDB     
+- name: xn--treor-wib.com
+  url: http://xn--treor-wib.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /ifu/upload.php"
+  reporter: CryptoScamDB       
+- name: btcgift.pro
+  url: http://btcgift.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BWh5qJfCs7S69ZRXwgEEFRDL4sdeh4EP2"
+  reporter: CryptoScamDB    
+- name: claim-stellar.info
+  url: http://claim-stellar.info
+  category: Malware
+  subcategory: Stellar
+  description: "Fake giveaway hosting malware - https://www.virustotal.com/gui/url-analysis/u-7f441dff58d0a9d2a6a8a5d79ac80cff2fb8fd1016c8fe93402015cee4d9b05c-1575334482/detection & https://app.any.run/tasks/06d8e351-a0f9-48c6-a208-329c24ae1972"
+  reporter: CryptoScamDB      
+- name: bittrexthankgiving.com
+  url: http://bittrexthankgiving.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xb68ed1aBd5A55A0c3a2d7c377f9761f85e865a34"
+  reporter: CryptoScamDB      
+- name: mychainlink.org
+  url: http://mychainlink.org
+  category: Phishing
+  subcategory: Chainlink
+  description: "Fake Chainlink airdrop site phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB        
+- name: biggest-airdrop.top
+  url: http://biggest-airdrop.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PeYrv6TVfXAYgTpP95ANf5k1Cn31xtFuD"
+  reporter: CryptoScamDB    
+- name: dai2sai.exchange
+  url: http://dai2sai.exchange
+  category: Phishing
+  subcategory: Dai
+  description: "Fake Dai2Sai platform phishing for funds"
+  addresses:
+    ETH:
+    - "0x1d4DcE520b079A3E3d971eB0B93b1840BaF989aB"
+  reporter: CryptoScamDB    
+- name: sai2dai.exchange
+  url: http://sai2dai.exchange
+  category: Phishing
+  subcategory: Dai
+  description: "Fake Dai2Sai platform phishing for funds"
+  addresses:
+    ETH:
+    - "0xFD20d39244A4ff63ceA5a6965634aFe7afEAf23f"
+  reporter: CryptoScamDB      
+- name: airdropdex.site
+  url: http://airdropdex.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x7fe5Aa3f065516A9EBB73832D4EB52AE91643f03"
+  reporter: CryptoScamDB     
+- name: bonusbtc.net
+  url: http://bonusbtc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18ksq7K2aRqT7zKNYUvUxyDUoymnaQXpcT"
+  reporter: CryptoScamDB       
+- name: hitbrc.ru
+  url: http://hitbrc.ru
+  category: Phishing
+  subcategory: Hitbtc
+  description: "Fake Hitbtc phishing for logins with POST /login.php"
+  reporter: CryptoScamDB         
+- name: geminieth.com
+  url: http://geminieth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x7fA4CbcFed0362516AB52c16D4fDe35a72A5c829"
+  reporter: CryptoScamDB     
+- name: e-deals.online
+  url: http://e-deals.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xf94c71665124B46c2ecc6f364c6BC793C0EcF3bE"
+    BTC:
+    - "1HxA1aG6mjxPjbAuoEvUaKuRcsp7Wke5KL"
+  reporter: CryptoScamDB       
+- name: btc50x.info
+  url: http://btc50x.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x8e073326377b34d039f7b2cbb28cfccedd0b91f2"
+    BTC:
+    - "15TUbUic7E5BeKu9xSxTKwAUNCjyq7tCcw"
+  reporter: CryptoScamDB         
+- name: tesla-3.online
+  url: http://tesla-3.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x72736a91F746b8E0c446B32948BB7cd8C2F8c54A"
+    BTC:
+    - "1LkfqvocHrTqRg6nWRmUy64jfA3ffcf668"
+  reporter: CryptoScamDB       
+- name: elonbiz.site
+  url: http://elonbiz.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x74f772d9887A0ADbd87BA53E91e3ce821D0028eE"
+    BTC:
+    - "14JjT6LDeCQViwdAsMZHB1r2Z8cz16voJu"
+  reporter: CryptoScamDB         
+- name: coinbaseup.com
+  url: http://coinbaseup.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NH98VS7XTSLGSjV18BtEyurL3fCqwmX3X"
+  reporter: CryptoScamDB         
+- name: login.bilockchoin.com
+  url: http://login.bilockchoin.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain phishing for secrets with POST /9da5fa030a7ce1da/wallet/sessions"
+  reporter: CryptoScamDB       
+- name: xmrqrcode.com
+  url: http://xmrqrcode.com
+  category: Scamming
+  subcategory: XMR
+  description: "Fake XMR qr code generator"
+  addresses:
+    XMR:
+    - "46iiFMnjcfpPFa244UEntnT6yy9nVu3Sa2PMkND2VuirC3ba7QGWR4LWoSjWqM69PB2GPSgx2Ls1BVtbRzGbjXUkEeeSfKj"  
+  reporter: CryptoScamDB         
