@@ -52911,6 +52911,7 @@
   addresses:
     BTC:
     - "1CRYVjYtzyaEh7ib8ju6GKWiFib9qQezfL"
+    - "13zKAT6fNq2Gif1NkZ3DQ97SDSc6c5FT8e"
   reporter: CryptoScamDB         
 - name: muskgives.info
   url: http://muskgives.info
@@ -53318,3 +53319,246 @@
     XMR:
     - "46iiFMnjcfpPFa244UEntnT6yy9nVu3Sa2PMkND2VuirC3ba7QGWR4LWoSjWqM69PB2GPSgx2Ls1BVtbRzGbjXUkEeeSfKj"  
   reporter: CryptoScamDB         
+- name: wallet.trezore.io
+  url: http://wallet.trezore.io
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake trezor site phishing for secrets"
+  reporter: CryptoScamDB  
+- name: trerzor.io
+  url: http://trerzor.io
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake trezor site phishing for secrets"
+  reporter: CryptoScamDB    
+- name: ledqer.net
+  url: http://ledqer.net
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger live phishing for secrets with POST /wallet/save.php"
+  reporter: CryptoScamDB    
+- name: coinbasego.com
+  url: http://coinbasego.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1F7PVncBpPQaYZ8QkGYU3MPNsf2axhbnXb"
+    - "15New1DgckgfqHnvgbspu1vgd11aPBryyc"
+  reporter: CryptoScamDB     
+- name: tronnet.network
+  url: http://tronnet.network
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    TRX:
+    - "TEzsAXUA2fc8BxeZzcqKFUDgzQG4eP9q52"
+  reporter: CryptoScamDB       
+- name: xrplike.com
+  url: http://xrplike.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "r4RmYHhzcDtWqKF6tvttrM5ecjtnGfUPYW"
+  reporter: CryptoScamDB      
+- name: givexrp.net
+  url: http://givexrp.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rETR253PJsZhN1FHicPH9gqnHT6mWpbWYV"
+  reporter: CryptoScamDB        
+- name: 2020mcafee.info
+  url: http://2020mcafee.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13qtaZyWgJHPA1bfBFvcqzpSixmxHPMWN2"
+    ETH:
+    - "0x52414069b0AF176210603ef8621d0B0D6b669e6A"
+  reporter: CryptoScamDB          
+- name: sai2dai.link
+  url: http://sai2dai.link
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake Sai2Dai app phishing for funds (reported address 0x1efe4fcde2f86ffdda73dbe76ab5ce1ae8b940b7)"
+  addresses:
+    ETH:
+    - "0x903fe18b6023dB2c58623A39b064E7b3d3fd7740"  
+  reporter: CryptoScamDB    
+- name: btc-on.com
+  url: http://btc-on.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14R7a6i686tpxEcXSzfG4H9M4xNZT1eVYo"
+    - "15GEGYQxPFf5sW4gTMiMuDNWJH5RwYmoQm"
+    - "1Ma3pMMnCMziSwtUYwPdRsZ1vHZnYg5CjK"
+  reporter: CryptoScamDB    
+- name: ripple-gifts.online
+  url: http://ripple-gifts.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rsASjVCHaLRbpXbWxqzw4UtayZbe3xNoU2"
+  reporter: CryptoScamDB      
+- name: coinbasegrant.com
+  url: http://coinbasegrant.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1GufEmm2uWy34Uaou97QzfzHFkETKcqwGX"
+    - "15jtk3gNBpGLfrxUhDG8bKSN32eodkyQ4w"
+  reporter: CryptoScamDB        
+- name: btc-prize.com
+  url: http://btc-prize.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13zKAT6fNq2Gif1NkZ3DQ97SDSc6c5FT8e"
+  reporter: CryptoScamDB          
+- name: trezor-io.co
+  url: http://trezor-io.co
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake trezor site phishing for secrets"
+  reporter: CryptoScamDB    
+- name: xrp2020.com
+  url: http://xrp2020.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rPipBKG4fbz8DmHuLNZpi2s3dfFHqPsiC1"
+  reporter: CryptoScamDB   
+- name: mcafee2020.online
+  url: http://mcafee2020.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1N6BXHnCSVGuvhJhsTH3miCahJc6XfGWqY"
+    ETH:
+    - "0x938fDAC116De11faf8e682E93Dec3c849895E380"
+  reporter: CryptoScamDB     
+- name: btc-coin.online
+  url: http://btc-coin.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LkfqvocHrTqRg6nWRmUy64jfA3ffcf668"
+  reporter: CryptoScamDB       
+- name: coinbasec.com
+  url: http://coinbasec.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14BA84qW5jK5ET1SmvhtHhEnwcpexzZUvb"
+  reporter: CryptoScamDB         
+- name: coinbase50m.com
+  url: http://coinbase50m.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Q1z9mQ4Ymtzv1gspcXbQtNS92kM1c5Y7H"
+  reporter: CryptoScamDB      
+- name: ripple-airdrop.org
+  url: http://ripple-airdrop.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rUWXkpF2m1Mh8tWpeynbGZaWkSqgNkA6qV"
+  reporter: CryptoScamDB        
+- name: btcmust.com
+  url: http://btcmust.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17HKtovq9v4frZj3iW9NgxDt43jaSd5jpW"
+    - "15knzFaj9jmyuGEmWCekTB7kMKNCLV6knq"
+  reporter: CryptoScamDB          
+- name: upbitcoin.info
+  url: http://upbitcoin.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18ksq7K2aRqT7zKNYUvUxyDUoymnaQXpcT"
+  reporter: CryptoScamDB            
+- name: elonmuskgo.com
+  url: http://elonmuskgo.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LkfqvocHrTqRg6nWRmUy64jfA3ffcf668"
+    ETH:
+    - "0x72736a91F746b8E0c446B32948BB7cd8C2F8c54A"
+  reporter: CryptoScamDB              
+- name: bnbgift.info
+  url: http://bnbgift.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17Q6TFyezpaYCh1m2ukDG3SzAHBLN3ujK3"
+    ETH:
+    - "0x48298529042c8C0F2B6c981A65B8400713E64f7b"
+  reporter: CryptoScamDB           
+- name: erc-20-token.com
+  url: http://erc-20-token.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MEW phishing for keys with POST /error.php"
+  reporter: CryptoScamDB      
+- name: sai2dai.pro
+  url: http://sai2dai.pro
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake Sai2Dai app phishing for funds"
+  addresses:
+    ETH:
+    - "0xB1575e4Fc74D08101B0875D303E5dae515D909C3"  
+  reporter: CryptoScamDB   
+- name: musknews.info
+  url: http://musknews.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1GFJz72s3wzHjzfknDiQJeTDcF8dBnw8Xq"
+    ETH:
+    - "0x5106273E79396Be5384792de8F5aC4022923800c"
+  reporter: CryptoScamDB    
