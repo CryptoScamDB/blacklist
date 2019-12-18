@@ -52769,8 +52769,11 @@
   addresses:
     BTC:
     - "114gWjgGPseRnHBBVJa2X9AxpZEUkHuSuW"
+    - "1BYcitrsSh2dMRNzndNag8oo9JNqoLuujV"
     ETH:
     - "0xDB7FAf0F7B587235eFbE9b1142D43347B6C56c2B"
+    BCH:
+    - "qq8965c02gw6whrft69vecrhn0ulvtanscqvnjwm2m"
   reporter: CryptoScamDB    
 - name: trezor-wallets.cc
   url: http://trezor-wallets.cc
@@ -53562,3 +53565,104 @@
     ETH:
     - "0x5106273E79396Be5384792de8F5aC4022923800c"
   reporter: CryptoScamDB    
+- name: wallet.trrezor.com
+  url: http://wallet.trrezor.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake trezor site phishing for secrets"
+  reporter: CryptoScamDB    
+- name: beldexcoins.com
+  url: http://beldexcoins.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (also pointing users to coinxback.com)"
+  addresses:
+    BTC:
+    - "3MiMhJh9XYyHL6L9MuWfeTw9ULZtSkQoy3"
+    ETH:
+    - "0xEe18e156a020F2b2B2DcdEC3A9476E61fBDE1e48"  
+  reporter: CryptoScamDB      
+- name: mcafeegiveaway.com
+  url: http://mcafeegiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FrpXF2JBavTqoMNk6K6TmK37H6s8chtJq"
+  reporter: CryptoScamDB  
+- name: stellar.us.com
+  url: http://stellar.us.com
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake stellar giveaway phishing for secrets with POST /account-viewer/sdk.php"
+  reporter: CryptoScamDB    
+- name: coinbase12.info
+  url: http://coinbase12.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15TUbUic7E5BeKu9xSxTKwAUNCjyq7tCcw"
+    ETH:
+    - "0x8e073326377b34d039f7b2cbb28cfccedd0b91f2"
+  reporter: CryptoScamDB    
+- name: cash-coinbase.com
+  url: http://cash-coinbase.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Cg373eLwRWZhUacgQ3K3J2VG266EBbJa9"
+  reporter: CryptoScamDB     
+- name: coinbase-cash.com
+  url: http://coinbase-cash.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Cg373eLwRWZhUacgQ3K3J2VG266EBbJa9"
+  reporter: CryptoScamDB       
+- name: elonbiz.host
+  url: http://elonbiz.host
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x74f772d9887A0ADbd87BA53E91e3ce821D0028eE"
+    BTC:
+    - "14JjT6LDeCQViwdAsMZHB1r2Z8cz16voJu"
+  reporter: CryptoScamDB         
+- name: musk-btc.com
+  url: http://musk-btc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14o6PAvCQDT4qSfqqF4hLWgr1nyc6ZCvun"
+  reporter: CryptoScamDB     
+- name: elonbonus.info
+  url: http://elonbonus.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x5106273E79396Be5384792de8F5aC4022923800c"
+    BTC:
+    - "1M2bEH2gGFYiC2MmdpmAthcRTYjaLiSGfM"
+  reporter: CryptoScamDB   
+- name: btcfastmining.xyz
+  url: http://btcfastmining.xyz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake bitcoin generator"
+  addresses:
+    BTC:
+    - "3FBcQs1gRLTD4Anz6b5rh4gyvMAeZjAcqe"
+  reporter: CryptoScamDB     
