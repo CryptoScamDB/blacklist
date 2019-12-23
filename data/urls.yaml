@@ -53525,7 +53525,9 @@
   addresses:
     BTC:
     - "1LkfqvocHrTqRg6nWRmUy64jfA3ffcf668"
+    - "1PRU7koiVABKZK9Q1G2FEphRf6XsTD2bTK"
     ETH:
+    - "0x72736a91F746b8E0c446B32948BB7cd8C2F8c54A"
     - "0x72736a91F746b8E0c446B32948BB7cd8C2F8c54A"
   reporter: CryptoScamDB              
 - name: bnbgift.info
@@ -53654,8 +53656,12 @@
   addresses:
     ETH:
     - "0x5106273E79396Be5384792de8F5aC4022923800c"
+    - "0xE4360Ef40e6023b4AF5CBfB6D38757ed31866506"
     BTC:
     - "1M2bEH2gGFYiC2MmdpmAthcRTYjaLiSGfM"
+    - "1HxNk4GbCE6wyFJ8L4wZKKr9Kij7aigohN"
+    XRP:
+    - "rNut8aT771CnfrAipNxapnMHu5QpSGcb1v"
   reporter: CryptoScamDB   
 - name: btcfastmining.xyz
   url: http://btcfastmining.xyz
@@ -53666,3 +53672,191 @@
     BTC:
     - "3FBcQs1gRLTD4Anz6b5rh4gyvMAeZjAcqe"
   reporter: CryptoScamDB     
+- name: stellardrop.com
+  url: http://stellardrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XLM:
+    - "GCVANRQKI3IURULGVE4HSVZNFTR3LQOE4QPQORLIOJUUUODPQKYYY3ZI"
+  reporter: CryptoScamDB   
+- name: mercatox2xbonus.com
+  url: http://mercatox2xbonus.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x14C0Bc72b6023e3d8f8F2D37FAd785bcC32D543f"
+  reporter: CryptoScamDB     
+- name: bitcoindoubler.tech
+  url: http://bitcoindoubler.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3QdomtH1J671ty2LebzhivBwHP9PY9FciA"
+  reporter: CryptoScamDB       
+- name: site-blockchain.jdevcloud.com
+  url: http://site-blockchain.jdevcloud.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake BlockchainInfo site phishing for logins with /login/indexSend1.php"
+  reporter: CryptoScamDB         
+- name: lastchance.tech
+  url: http://lastchance.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1AXsYR1shemJMTRb87dqvoSBftmyNu3xrN"
+  reporter: CryptoScamDB      
+- name: etherflyer.com.claim-tokens-erc-20.com
+  url: http://etherflyer.com.claim-tokens-erc-20.com
+  category: Phishing
+  subcategory: Wallet
+  description: "Phishing for mnemonics with POST /claim.php"
+  reporter: CryptoScamDB    
+- name: trezors-wallets.com
+  url: http://trezors-wallets.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for mnemonics with POST /ssnd_3.php"
+  reporter: CryptoScamDB      
+- name: instanbtc.site
+  url: http://instanbtc.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake doubler/miner"
+  addresses:
+    BTC:
+    - "1FPfSaz9VgYwzTWVEXbHFjscV52iLZ9KU5"
+  reporter: CryptoScamDB    
+- name: freebitcoinminer.org
+  url: http://freebitcoinminer.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake doubler/miner"
+  addresses:
+    BTC:
+    - "1PA2pLmc9U9LEHRRdQyZzDH2BjsZ4ywZdW"
+  reporter: CryptoScamDB      
+- name: bitcoinminer-pool.com
+  url: http://bitcoinminer-pool.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake doubler/miner"
+  addresses:
+    BTC:
+    - "3FBcQs1gRLTD4Anz6b5rh4gyvMAeZjAcqe"
+  reporter: CryptoScamDB        
+- name: bitcoinfast.xyz
+  url: http://bitcoinfast.xyz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake doubler/miner"
+  addresses:
+    BTC:
+    - "343d6UkTiYFHvssLtLBeUXBGSVBVQUGLJb"
+  reporter: CryptoScamDB        
+- name: bitcoinpoolmining.xyz
+  url: http://bitcoinpoolmining.xyz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake doubler/miner"
+  addresses:
+    BTC:
+    - "1UkkkvPXVagN5U6UYvVmZknSCVPQQpZRY"
+  reporter: CryptoScamDB          
+- name: doublebtc3hours.com
+  url: http://doublebtc3hours.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "16u5dnPpeQBXVWNsJBt4tTja7LSqd8Yx4U"
+  reporter: CryptoScamDB           
+- name: multibit.app
+  url: http://multibit.app
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3NFtux45gLqo1EduxHUxRLZ9USBoLmiP5P"
+  reporter: CryptoScamDB         
+- name: freebtcminer.org
+  url: http://freebtcminer.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake doubler/miner"
+  addresses:
+    BTC:
+    - "1H2g3ujmyGLS7aMKDkcL8W7FDcRHbeHJDK"
+    ETH:
+    - "0xDB9A0EF90fF67B9D0ae480565F7D576F0fd52431"
+  reporter: CryptoScamDB    
+- name: btcgenerator.pro
+  url: http://btcgenerator.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Nwgvnmz9pnBFvQkfAZg5HjEP57Rp8wAeG"
+  reporter: CryptoScamDB   
+- name: giveaway5000.com
+  url: http://giveaway5000.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1HXR1GtdCEgC4Szufh6zS994kpriiFAcyi"
+  reporter: CryptoScamDB     
+- name: block-chain-id.joomla.com
+  url: http://block-chain-id.joomla.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake BlockchainInfo phishing for logins with POST /indexSend.php"
+  reporter: CryptoScamDB      
+- name: rnjelherwallet.com
+  url: http://rnjelherwallet.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets"
+  reporter: CryptoScamDB        
+- name: blockchainsevent.claim-free-btc.com
+  url: http://blockchainsevent.claim-free-btc.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake BlockchainInfo phishing for mnemonics with POST /appblockchain.php"
+  reporter: CryptoScamDB    
+- name: airdrop-stx-blockchain.info
+  url: http://airdrop-stx-blockchain.info
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake BlockchainInfo phishing for logins with POST /register"
+  reporter: CryptoScamDB    
+- name: login-bllockchain.com
+  url: http://login-bllockchain.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake BlockchainInfo phishing for logins with POST //comroot.herokuapp.com/wallet/sessions (api key: 1770d5d9-bcea-4d28-ad21-6cbd5be018a8)"
+  reporter: CryptoScamDB    
+- name: coinbasegive.net
+  url: http://coinbasegive.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FDGyP8K4kCEJBVuYEpVsgR1xohSVxDNoG"
+    - "1MCn83372bd4p6wDDZX2i6P532uA45qCLm"
+    - "139ZK1uHm8mT5N2PR3k9pF5oNix773kEzp"
+    - "1LcZDvjWwYaRJJEeBhcpu3KL1ZeCXQbpaG"
+  reporter: CryptoScamDB    
