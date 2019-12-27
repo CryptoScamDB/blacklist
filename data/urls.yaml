@@ -52590,6 +52590,7 @@
   addresses:
     ETH:
     - "0x2f0509efAd8555012Ac770866FEce8d35E73A492" 
+    - "0x45978Fb0Fe38db2E4E54e866F9000D5f8D3aB7e9"
   reporter: CryptoScamDB   
 - name: coinbaseteam.com
   url: http://coinbaseteam.com
@@ -53860,3 +53861,141 @@
     - "139ZK1uHm8mT5N2PR3k9pF5oNix773kEzp"
     - "1LcZDvjWwYaRJJEeBhcpu3KL1ZeCXQbpaG"
   reporter: CryptoScamDB    
+- name: elonchristmas.com
+  url: http://elonchristmas.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19LFhA1sNZveSNz9aUbFk8zLbMuZvzxVbm"
+    ETH:
+    - "0x7dc6037e4f84a44f67356eCA1825Fd5B97fAe74E"
+  reporter: CryptoScamDB      
+- name: coinbasexmas.com
+  url: http://coinbasexmas.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13oDPj4qLkPMVHmuq2foJh7G1eQhzB52Hn"
+  reporter: CryptoScamDB        
+- name: elonchristmas.net
+  url: http://elonchristmas.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LKCkr85RgKp99xKpES5QytA2bfDNKokgg"
+    - "1FCB7JukRktrRfy9UCpHsJ2yMi14YyCwQv"
+    ETH:
+    - "0x7dc6037e4f84a44f67356eCA1825Fd5B97fAe74E"
+  reporter: CryptoScamDB         
+- name: leedger.io
+  url: http://leedger.io
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for mnemomics with POST /submit.php"
+  reporter: CryptoScamDB      
+- name: mcafeechristmas.net
+  url: http://mcafeechristmas.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (redirect via bit.ly/2tJMOYB+)"
+  addresses:
+    BTC:
+    - "15Q7uzfCLyaJTNTC1qUKUUQ3qZwKteGiVa"
+  reporter: CryptoScamDB    
+- name: mcafee2020.xyz
+  url: http://mcafee2020.xyz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Mybb2tLcMKbGDS9bNxJ9r7DAU7QxfKrxt"
+  reporter: CryptoScamDB   
+- name: emusk.host
+  url: http://emusk.host
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x74f772d9887A0ADbd87BA53E91e3ce821D0028eE"
+    BTC:
+    - "14zBuHSQZCVM9ZraCt582e8MpmGx6fbtvN"
+  reporter: CryptoScamDB     
+- name: musk.one
+  url: http://musk.one
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xf08Ad4086d2eF23dA65Cf1008Eea37D1c89014aB"
+    BTC:
+    - "1K4jTvc7DyPDfhoz53VEgKkLX4CoG4qQ87"
+  reporter: CryptoScamDB       
+- name: airdropxrp.com
+  url: http://airdropxrp.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "r3Pn8LfWyxDw23z3riTaNm7DZ7VLDVom34"
+  reporter: CryptoScamDB        
+- name: bitcoinx10.cloudaccess.host
+  url: http://bitcoinx10.cloudaccess.host
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1H2EYeNa454i5tKxcrSdem384k9Z1zCgYE"
+  reporter: CryptoScamDB      
+- name: xrpdoubler.us
+  url: http://xrpdoubler.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "r3Pn8LfWyxDw23z3riTaNm7DZ7VLDVom34"
+  reporter: CryptoScamDB        
+- name: shopzoro.co.uk
+  url: http://shopzoro.co.uk
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "r3Pn8LfWyxDw23z3riTaNm7DZ7VLDVom34"
+  reporter: CryptoScamDB      
+- name: coinbase-xmas.com
+  url: http://coinbase-xmas.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1N4J2oTxhsdtbwqC7Xu8Pmw92CNxoDyuiE"
+  reporter: CryptoScamDB        
+- name: ripplelabs.space
+  url: http://ripplelabs.space
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rHfrzH5rZ2d16V7oKMbh15qY8aB48zF6eE"
+  reporter: CryptoScamDB        
+- name: xn--trzr-cpa7e.com
+  url: http://xn--trzr-cpa7e.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for mnemonics with POST /ifu/upload.php (has a fingerprinting technique to show a different page if it detects a bot such as urlscan)"
+  reporter: CryptoScamDB     
