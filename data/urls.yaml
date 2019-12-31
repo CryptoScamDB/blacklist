@@ -53999,3 +53999,104 @@
   subcategory: Trezor
   description: "Fake Trezor site phishing for mnemonics with POST /ifu/upload.php (has a fingerprinting technique to show a different page if it detects a bot such as urlscan)"
   reporter: CryptoScamDB     
+- name: capitalbitsinvestments.com
+  url: http://capitalbitsinvestments.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  addresses:
+    BTC:
+    - "1De1rCYpQm7fKRiQTEMVJ2sQcVWFQYzWPh"  
+  reporter: CryptoScamDB       
+- name: elonchris.com
+  url: http://elonchris.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xF01D89110275b8D93e27CbCc9aABCCe74126195b"
+    - "0xe078f809E7c766ACf8666Ab94189E3Fb86833458"
+    BTC:
+    - "1AK4av1q6Yyfb7wVB8y9Ck1ws54PfXHZjZ"
+    - "1Dny2QsBg82ccoZ7rsPzkes9yDd2CRXFEp"
+  reporter: CryptoScamDB    
+- name: eth-giveout.com
+  url: http://eth-giveout.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB5c06ce49d0C63211E5d335Cf42ecdA5C3f30D8a"
+  reporter: CryptoScamDB      
+- name: i-obmen.xyz
+  url: http://i-obmen.xyz
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto exchange/swap"
+  addresses:
+    BTC:
+    - "1FqYgrmC7nMbMgFojRa1G1CTVAA5e4TjJQ"
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+  reporter: CryptoScamDB        
+- name: i-change.co
+  url: http://i-change.co
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto exchange/swap"
+  addresses:
+    BTC:
+    - "1FqYgrmC7nMbMgFojRa1G1CTVAA5e4TjJQ"
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+  reporter: CryptoScamDB          
+- name: i-cash.cc
+  url: http://i-cash.cc
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto exchange/swap"
+  addresses:
+    BTC:
+    - "1FqYgrmC7nMbMgFojRa1G1CTVAA5e4TjJQ"
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+  reporter: CryptoScamDB            
+- name: blockchainscript.net
+  url: http://blockchainscript.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - Fake blockchain mining/hack script"
+  addresses:
+    BTC:
+    - "13aDHZoxweNLhMC2c8BwRATncDW4Bka43v"
+  reporter: CryptoScamDB              
+- name: cryptotabscript.com
+  url: http://cryptotabscript.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - Fake blockchain mining/hack script"
+  addresses:
+    BTC:
+    - "1LZea6vNjBcX9b5RRYyJitd37fpHmTUWkM"
+  reporter: CryptoScamDB                
+- name: multicoinminer.fund
+  url: http://multicoinminer.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake miner, pay a fee to get free coins"
+  addresses:
+    BTC:
+    - "35UGEp1kgu63Me1khKoWWjA8aL19rdxXew"
+    - "35a3NWepC473dfHNR92SfSk6XrHAH6N15d"
+    - "3DoFKpKeongXx2iKzJ3xoPbp8bTTuH66eA"
+    BCH:
+    - "3AmSqbUX9KXHq89XDRtzDTxZYNYVyDhMCn"
+  reporter: CryptoScamDB               
+- name: shitcoinwallet.co
+  url: http://shitcoinwallet.co
+  category: Malware
+  subcategory: Extension
+  description: "Fake wallet stealing secrets by injecting malicious JS - see https://twitter.com/sniko_/status/1211841389299982336"
+  reporter: CryptoScamDB    
