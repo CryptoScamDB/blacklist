@@ -54100,3 +54100,321 @@
   subcategory: Extension
   description: "Fake wallet stealing secrets by injecting malicious JS - see https://twitter.com/sniko_/status/1211841389299982336"
   reporter: CryptoScamDB    
+- name: muskfun.info
+  url: http://muskfun.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13kf97oftmeXFn4soBB1iYeSk1f6jt8c5a"
+    ETH:
+    - "0xe115Fe30fa7443CE9848bE579062343A02f6D646"
+    XRP:
+    - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
+  reporter: CryptoScamDB   
+- name: elonpresent.com
+  url: http://elonpresent.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FtbiDGGbJD2GdtYZC7sZCsQscVJTxPegh"
+    ETH:
+    - "0x419bb81F26A32F4f7FE08A72A700e446aed47CE6"
+  reporter: CryptoScamDB     
+- name: makerdao.live
+  url: http://makerdao.live
+  category: Phishing
+  subcategory: Dai
+  description: "Fake Sai migration app phishing for funds"
+  addresses:
+    ETH:
+    - "0xB2EB50a68164315939181f308aE7949028cAC6D5"
+  reporter: CryptoScamDB  
+- name: beldexwallet.com
+  url: http://beldexwallet.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0xEe18e156a020F2b2B2DcdEC3A9476E61fBDE1e48"
+    BTC:
+    - "3HbDx15SyGCrSF1YhxEr692Bky1mitJMMG"
+  reporter: CryptoScamDB    
+- name: coin-best.me
+  url: http://coin-best.me
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "18gXAP1u6AGCaSKfzGdBKtGQLz9RF7whV5"
+  reporter: CryptoScamDB      
+- name: quick-change.co
+  url: http://quick-change.co
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "18gXAP1u6AGCaSKfzGdBKtGQLz9RF7whV5"
+  reporter: CryptoScamDB        
+- name: 365cash.mobi
+  url: http://365cash.mobi
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "18gXAP1u6AGCaSKfzGdBKtGQLz9RF7whV5"
+  reporter: CryptoScamDB          
+- name: i-cash.link
+  url: http://i-cash.link
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "18gXAP1u6AGCaSKfzGdBKtGQLz9RF7whV5"
+  reporter: CryptoScamDB            
+- name: xn--etex24-9eb.net
+  url: http://xn--etex24-9eb.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "18gXAP1u6AGCaSKfzGdBKtGQLz9RF7whV5"
+  reporter: CryptoScamDB              
+- name: bitcoinminer2x.com
+  url: http://bitcoinminer2x.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Fake miner - phishing for mnemonics with POST /assets/php/signup.php"
+  reporter: CryptoScamDB   
+- name: blockchain-script.net
+  url: http://blockchain-script.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1CyZSv31wijdbnrDtJ2qm71xKSHSNjYhgM"
+  reporter: CryptoScamDB   
+- name: btc-gen.com
+  url: http://btc-gen.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake generator"
+  addresses:
+    BTC:
+    - "14uW2WaxgT6pYaCoPC1anR4GF9scU2bcVc"
+  reporter: CryptoScamDB     
+- name: bitcoinmining-pro.software
+  url: http://bitcoinmining-pro.software
+  category: Scamming
+  subcategory: Mining
+  description: "Selling fake mining software"
+  addresses:
+    BTC:
+    - "14uW2WaxgT6pYaCoPC1anR4GF9scU2bcVc"
+  reporter: CryptoScamDB   
+- name: lisane.gq
+  url: http://lisane.gq
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site  - phishing for private keys"
+  reporter: CryptoScamDB  
+- name: change-quick.vip
+  url: http://change-quick.vip
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "17TDYoQ23vypwHHEyMRyvC93WXVuBTK76o"
+  reporter: CryptoScamDB        
+- name: cash-i.xyz
+  url: http://cash-i.xyz
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "17TDYoQ23vypwHHEyMRyvC93WXVuBTK76o"
+  reporter: CryptoScamDB          
+- name: coinbest.us
+  url: http://coinbest.us
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB      
+- name: xn--trezr-yua.com
+  url: http://xn--trezr-yua.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for mnemonics with POST /ifu/upload.php (has a fingerprinting technique to show a different page if it detects a bot such as urlscan)"
+  reporter: CryptoScamDB     
+- name: coinbest.cc
+  url: http://coinbest.cc
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB    
+- name: quickchange.vip
+  url: http://quickchange.vip
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB      
+- name: 365cash.us
+  url: http://365cash.us
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB        
+- name: xn--neex24-jmc.net
+  url: http://xn--neex24-jmc.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB          
+- name: cash365.me
+  url: http://cash365.me
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB            
+- name: xn--etex24-heb.net
+  url: http://xn--etex24-heb.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB          
+- name: cash365.cc
+  url: http://cash365.cc
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB            
+- name: xn--netx24-rva.net
+  url: http://xn--netx24-rva.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB              
+- name: 365cash.cash
+  url: http://365cash.cash
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB                
+- name: best-coin.vip
+  url: http://best-coin.vip
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB           
+- name: change-quick.us
+  url: http://change-quick.us
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB             
+- name: xn--ntex24-pva.net
+  url: http://xn--ntex24-pva.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  addresses:
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+    BTC:
+    - "1JwaYxeZwymaNT2hBKVEWkvwBawBDyoocY"
+  reporter: CryptoScamDB               
+- name: ethdropcharity.tech
+  url: http://ethdropcharity.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x1a8aee5d4a8ccea3fb1bf87f75d7b2c1c9bf1f53"
+  reporter: CryptoScamDB    
