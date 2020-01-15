@@ -54418,3 +54418,164 @@
     ETH:
     - "0x1a8aee5d4a8ccea3fb1bf87f75d7b2c1c9bf1f53"
   reporter: CryptoScamDB    
+- name: tmdl3.company
+  url: http://tmdl3.company
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9DD2d51A38BF69f9F91499FC0AB019E7816dfBfC"
+    BTC:
+    - "196MZuKkCDvGyTHebxno3PDu5zN9CWVSRy"
+    - "1MkYE6XKLUx3AP9PpUaxVBYJeHCTjvNScZ"
+    - "18LeAB5vVfHYUe2Zpy66EEMUGVaXLKmais"
+  reporter: CryptoScamDB      
+- name: btcgenplus.fr.fo
+  url: http://btcgenplus.fr.fo
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Fake BTC generator phishing for secrets with POST /"
+  reporter: CryptoScamDB       
+- name: generatorapp.cf
+  url: http://generatorapp.cf
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Fake BTC generator phishing for secrets with POST /"
+  reporter: CryptoScamDB         
+- name: musk.blog
+  url: http://musk.blog
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4AC1A7bCcA0A3276Fa0D03Dedb2dd4CC4BFE7fAA"
+    BTC:
+    - "1NU6gz7a3XfW8DqUwuboyPZumPFb53MszF"
+  reporter: CryptoScamDB    
+- name: elonxdrop.com
+  url: http://elonxdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB12983FDE7f7207B2F2CD7b6E415b11E82D13D9b"
+    BTC:
+    - "18LHhjjBX5fw7FbY7tnhRz6yerNeMVME87"
+  reporter: CryptoScamDB      
+- name: tesla.gift
+  url: http://tesla.gift
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3ddbe3a3C7a320612688352effb5dDC0BbF7b5Ac"
+    - "0x770056DD0c34F3f33F5BB55F2Fb4F2199c41ED8a"
+    BTC:
+    - "1oj9hh3t6Xgi2VYSZGrtmmxSjj4ZarfvY"
+    - "1BR6wxBdTEgGqY9EM9v2xWLeRxPSMaE774"
+  reporter: CryptoScamDB        
+- name: makerdao.tools
+  url: http://makerdao.tools
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake SAI to DAI migration"
+  addresses:
+    ETH:
+    - "0xB2EB50a68164315939181f308aE7949028cAC6D5"  
+  reporter: CryptoScamDB    
+- name: vitaliketh.com
+  url: http://vitaliketh.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x60e53507d989b49c8cf8c1403a874ebc20ef1fda"
+  reporter: CryptoScamDB   
+- name: hoxbit.com
+  url: http://hoxbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange - asking for kyc documents and deposits"
+  addresses:
+    BTC:
+    - "3EURvZ73Mdcc1qLRZ3BCXCL5gPn53eT78A"
+    BCH:
+    - "qqagt82msm8wce5hz6cj2llcarvjss5mecxjealtp8"
+    ETH:
+    - "0x413b55dE043C6b0dd99Edd77D10d781Af8e8E0c2"
+    - "0x986867aefCC55F1bD95F3b4ded189eB96c36ad39"
+    LTC:
+    - "MBArQ7Xje4MPRYH24fJis7LGiboAxTRmae"
+  reporter: CryptoScamDB     
+- name: infinances.com
+  url: http://infinances.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange - asking for kyc documents and deposits"
+  reporter: CryptoScamDB       
+- name: quakebit.com
+  url: http://quakebit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange - asking for kyc documents and deposits"
+  reporter: CryptoScamDB         
+- name: elon.market
+  url: http://elon.market
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd4B0EE0176c230693569dd759a8A3cC865079D1a"
+    BTC:
+    - "1ES2eytkZVzpd5dC33djaJD1KEPdTp7kzD"
+  reporter: CryptoScamDB    
+- name: tmdl3.online
+  url: http://tmdl3.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9DD2d51A38BF69f9F91499FC0AB019E7816dfBfC"
+    BTC:
+    - "1HAMMN92MMDsj548CuTC8V9azjrpzxsiLS"
+  reporter: CryptoScamDB      
+- name: multisupport.live
+  url: http://multisupport.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xb7686c343be859d7875f8d6bb7c228858e229b8d"
+  reporter: CryptoScamDB        
+- name: huobiglobal.live
+  url: http://huobiglobal.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x70d2aa8459fB92b862e7806eF474a9ECaAE6c176"
+  reporter: CryptoScamDB          
+- name: elonxcrypto.com
+  url: http://elonxcrypto.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FPPtjS2tYyyPyGxjBRwxzfPxwNuPkwqBA"
+  reporter: CryptoScamDB            
+- name: etcagharta.org
+  url: http://etcagharta.org
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake ETC wallet phishing for passwords with GET //wallet.etcagharta.org/create.php?p=xxx"
+  reporter: CryptoScamDB                     
