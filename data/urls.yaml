@@ -54579,3 +54579,101 @@
   subcategory: Wallet
   description: "Fake ETC wallet phishing for passwords with GET //wallet.etcagharta.org/create.php?p=xxx"
   reporter: CryptoScamDB                     
+- name: makerdao.click
+  url: http://makerdao.click
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake SAI to DAI migration"
+  addresses:
+    ETH:
+    - "0x7344150b2a7A8380725aAa52244dbf40602AE249"  
+  reporter: CryptoScamDB    
+- name: instant2xreward.com
+  url: http://instant2xreward.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xDEFC101BFAcc7907141056F5731b5dD1149A3706"
+  reporter: CryptoScamDB   
+- name: elonairdrop.com
+  url: http://elonairdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6741eA97daADff57309B7E158bc0e46219B60e84"
+    BTC:
+    - "1FPPtjS2tYyyPyGxjBRwxzfPxwNuPkwqBA"
+  reporter: CryptoScamDB     
+- name: vitaliketh.live
+  url: http://vitaliketh.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x0ef3be76a9f61c8ca88766614bf36e30d3105be4"
+  reporter: CryptoScamDB       
+- name: 4musk.host
+  url: http://4musk.host
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x94ad5c97933753e649FeaB92B9a4AC660f2A5e05"
+    BTC:
+     - "16SY7kgepTXL8TUVa9Wyod9HWTiGfmcBU"
+  reporter: CryptoScamDB      
+- name: elonxgive.com
+  url: http://elonxgive.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xDcBb7fDB47112d85DE6ae2936d0542c9503Da58c"
+    BTC:
+     - "1Gbrk58rWuFh5VqyfcHza1eDW9Rhj88mbT"
+  reporter: CryptoScamDB        
+- name: elongive.live
+  url: http://elongive.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xbd1c7f0bbaee63016fd2088d183eac63e23a3bb1"
+    BTC:
+     - "1GxoBxKsSDAKjJt61wMJChUZnCysyzQNAL"
+  reporter: CryptoScamDB          
+- name: muskgiveaway.com
+  url: http://muskgiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - phishing for secrets with POST /index.php"
+  reporter: CryptoScamDB         
+- name: metamask.eu
+  url: http://metamask.eu
+  category: Malware
+  subcategory: MetaMask
+  description: "Fake MetaMask site promoting a fake MetaMask extension (id: bjfhjibbopccbmioplmfnbhlhbchilll)"
+  reporter: CryptoScamDB          
+- name: beldexchange.com
+  url: http://beldexchange.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0xEe18e156a020F2b2B2DcdEC3A9476E61fBDE1e48"
+  reporter: CryptoScamDB       
+- name: thetatoken.gq
+  url: http://thetatoken.gq
+  category: Phishing
+  subcategory: Theta
+  description: "Fake wallet phishing for secrets with POST /upload.php"
+  reporter: CryptoScamDB     
