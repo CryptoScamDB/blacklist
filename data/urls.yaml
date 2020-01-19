@@ -54127,7 +54127,7 @@
 - name: makerdao.live
   url: http://makerdao.live
   category: Phishing
-  subcategory: Dai
+  subcategory: MakerDAO
   description: "Fake Sai migration app phishing for funds"
   addresses:
     ETH:
@@ -54677,3 +54677,40 @@
   subcategory: Theta
   description: "Fake wallet phishing for secrets with POST /upload.php"
   reporter: CryptoScamDB     
+- name: lrezor.io
+  url: http://lrezor.io
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets"
+  reporter: CryptoScamDB       
+- name: makerdao.one
+  url: http://makerdao.one
+  category: Phishing
+  subcategory: MakerDAO
+  description: "Fake Sai to Dai migration tool"
+  addresses:
+    ETH:
+    - "0xD189e256Bcf1cA98804A13928Dd3DED37f8ca08d"
+  reporter: CryptoScamDB    
+- name: makerdao.cash
+  url: http://makerdao.cash
+  category: Phishing
+  subcategory: MakerDAO
+  description: "Fake Sai to Dai migration tool"
+  addresses:
+    ETH:
+    - "0xD189e256Bcf1cA98804A13928Dd3DED37f8ca08d"
+  reporter: CryptoScamDB      
+- name: maezawaotoshidama.info
+  url: http://maezawaotoshidama.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9b4a4704f8A8e26117f8fD2b0fB1a7479aEF95b1"
+    BTC:
+     - "1K9gPzAe4NjMBpoy8QKoLXzuXSzb2djcvt"
+     XRP:
+     - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
+  reporter: CryptoScamDB    
