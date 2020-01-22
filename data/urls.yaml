@@ -54714,3 +54714,47 @@
     XRP:
      - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
   reporter: CryptoScamDB    
+- name: makerdao.llc
+  url: http://makerdao.llc
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake SAI to DAI migration"
+  addresses:
+    ETH:
+    - "0xeB4b7c7D7B648C7b465274c7317Fb00CbE028618"  
+  reporter: CryptoScamDB    
+- name: makerdao.ltd
+  url: http://makerdao.ltd
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake SAI to DAI migration"
+  addresses:
+    ETH:
+    - "0x9Df618EA881B0Bca6B224f7cB86ECAff369CDEd7"  
+  reporter: CryptoScamDB      
+- name: elonbtc.info
+  url: http://elonbtc.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xDB30B0D44c68b6347E3A54a5DEfC2a82087d8b35"
+    BTC:
+    - "1LddHP8ksXoPv7qH5upJLVEgGiybbgQdb2"
+  reporter: CryptoScamDB    
+- name: seriosbit.com
+  url: http://seriosbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0x2fb595ab15edcA3dCDB87319d5814F5875eC049C"
+    BTC:
+    - "3AXPnrdEoiZVr8RKrBiJaR7KNQvat7w8Cd"
+    BCH:
+    - "qrcfynfyw3kw70s3qnwsej27n8w8778t8ulp9z8xnx"
+    LTC:
+    - "MWUfw18sQejrcKQXGxv2pJByBqHpJLTss5"
+  reporter: CryptoScamDB      
