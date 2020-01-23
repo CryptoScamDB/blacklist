@@ -54758,3 +54758,78 @@
     LTC:
     - "MWUfw18sQejrcKQXGxv2pJByBqHpJLTss5"
   reporter: CryptoScamDB      
+- name: musk2020.site
+  url: http://musk2020.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x94ad5c97933753e649FeaB92B9a4AC660f2A5e05"
+    BTC:
+    - "16SY7kgepTXL8TUVa9Wyod9HWTiGfmcBU"
+  reporter: CryptoScamDB     
+- name: btcethgiveaway.com
+  url: http://btcethgiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3A6e47FB0ce7108Be8F1915543F8435CE0eB2069"
+    BTC:
+    - "3F31V59MqJZnqMvhg2swqU1D6y6Qs5NJtc"
+  reporter: CryptoScamDB       
+- name: muskpromo.com
+  url: http://muskpromo.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9f405a998DD00932DA103Ed53c07e4D21B4419B3"
+    BTC:
+    - "16YcvsgSY4ADTYXnXrMRFimoEfeVQtzQ9X"
+  reporter: CryptoScamDB       
+- name: elonxgive.online
+  url: http://elonxgive.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xDcBb7fDB47112d85DE6ae2936d0542c9503Da58c"
+    BTC:
+    - "1CY3W8FmY3vEA4nrcFNxENHWT3BGvTnT9Q"
+  reporter: CryptoScamDB     
+- name: teslacoins.club
+  url: http://teslacoins.club
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4AC1A7bCcA0A3276Fa0D03Dedb2dd4CC4BFE7fAA"
+    BTC:
+    - "1K4iFX4BSNmadgaEp9F5XbY3NP1KtbvsDG"
+  reporter: CryptoScamDB     
+- name: muskgift.com
+  url: http://muskgift.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x91E159D55e1a1f551306194bb0182AD5c2FF3389"
+    BTC:
+    - "17Q64yFfGjDc6k4eD5tLE5aXZhn9CvWhhn"
+  reporter: CryptoScamDB       
+- name: btc-gen.site
+  url: http://btc-gen.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake generator"
+  addresses:
+    BTC:
+    - "39wp3cEmxnEpC5k6kVF1UBEadAHjSVDYKM"
+  reporter: CryptoScamDB         
