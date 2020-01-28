@@ -51641,8 +51641,10 @@
   addresses:
     ETH:
     - "0x032Fb380D84917D408EA172383Cf214c28b4fE21"
+    - "0x1B3b93a9B0A43e33Da2726a3F41Caa71e0Ced5D3"
     BTC:
     - "1PvTkqAPqscdZkt1sVLg2mvAhi6NqbJ53N"
+    - "13EftvnWnH5GqTUhR4NEBq4gKzWFbF8c2A"
   reporter: CryptoScamDB       
 - name: dex-get.net
   url: http://dex-get.net
@@ -54646,9 +54648,10 @@
   description: "Trust trading scam site"
   addresses:
     ETH:
-    - "0xbd1c7f0bbaee63016fd2088d183eac63e23a3bb1"
+     - "0xbd1c7f0bbaee63016fd2088d183eac63e23a3bb1"
     BTC:
      - "1GxoBxKsSDAKjJt61wMJChUZnCysyzQNAL"
+     - "1BFLpJ81CCC7tR799QLpvdv2Wey6P9JqMD"
   reporter: CryptoScamDB          
 - name: muskgiveaway.com
   url: http://muskgiveaway.com
@@ -54833,3 +54836,176 @@
     BTC:
     - "39wp3cEmxnEpC5k6kVF1UBEadAHjSVDYKM"
   reporter: CryptoScamDB         
+- name: wallet.blockcnain.biz
+  url: http://wallet.blockcnain.biz
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake blockchain site phishing for logins"
+  reporter: CryptoScamDB           
+- name: localbitcoins.name
+  url: http://localbitcoins.name
+  category: Phishing
+  subcategory: LocalBitcoins
+  description: "Fake LocalBitcoins site phishing for logins"
+  reporter: CryptoScamDB             
+- name: strainbit.com
+  url: http://strainbit.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (addresses are proxies)"
+  addresses:
+    BTC:
+    - "3CAyEkco2SWR5h5MXLY4TwbMgPQWipGezJ"
+    ETH:
+    - "0xA1401dcf74F3C15Df9ddC87AebcCCA8D9f446255"
+    BCH:
+    - "qz3hx8d7rru69h3p8f3gn7h7ucnpq03y9uvrpgmwsr"
+    LTC:
+    - "M8cyURrnTqEApmsB1JBMLPkCnxxnzcYeDt"
+  reporter: CryptoScamDB             
+- name: benribit.com
+  url: http://benribit.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (addresses are proxies)"
+  addresses:
+    BTC:
+    - "34czhRx5Poch7ksvwuXpxyh2BzZAcMXizK"
+    ETH:
+    - "0xCCF711E5634d4fb86A8226FA5eB1093Fd82beDdA"
+    BCH:
+    - "qr6uc6ym3sxqwvpzypkx24n40pgaeytu350ha4dt4c"
+    LTC:
+    - "MDSnnvG6KZ2snnr1renbUGrbgBc7nD1YVj"
+  reporter: CryptoScamDB               
+- name: pleinbit.com
+  url: http://pleinbit.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (addresses are proxies)"
+  addresses:
+    BTC:
+    - "3NY7uGyPWRB4CnWJ3Npj6oGjMTHoC4uRj2"
+    ETH:
+    - "0x8C97DA5398784B38204dFa9ee4931A8AF7f83B0a"
+    BCH:
+    - "qrnmncm6ycag8s8pksptml6ppk65daet05ppgfsdqq"
+    LTC:
+    - "MEqwLRycZJScW88ZEQrgaLJthPR8Hj88Pk"
+  reporter: CryptoScamDB      
+- name: lazebit.com
+  url: http://lazebit.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits (addresses are proxies)"
+  addresses:
+    BTC:
+    - "325uEuAQRXHquPx9zA6AV9K4RbFpXaTvmJ"
+    ETH:
+    - "0x231e4c0166E24EFDcb4c428D5feafF73Df7351a8"
+    BCH:
+    - "qrnr5zzjz6mzre9xc7egpvsjay0udkg4a5f9xryh4y"
+    LTC:
+    - "MKV4qJcEFfNjJEjjhrHTf5zbSeSDdCDhei"
+  reporter: CryptoScamDB        
+- name: beldextrade.com
+  url: http://beldextrade.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "36SQ1afdbavzEHbfG8XYhwrB9ghZfjPH43"
+    ETH:
+    - "0xEe18e156a020F2b2B2DcdEC3A9476E61fBDE1e48"
+  reporter: CryptoScamDB          
+- name: elon.vip
+  url: http://elon.vip
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LkGae23SURgzXiPPqoSAzEHS8TLctfzjN"
+    ETH:
+    - "0x91E159D55e1a1f551306194bb0182AD5c2FF3389"
+  reporter: CryptoScamDB   
+- name: elonpromogift.com
+  url: http://elonpromogift.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BCH:
+    - "qzp6xrmhgz02nzqtfda2gheegfvkvvvg5gprrthtqy"
+    BTC:
+    - "13S4tFUSDBnHerVTrUZJLTuzQ6o2AHwafN"
+    ETH:
+    - "0xDB7FAf0F7B587235eFbE9b1142D43347B6C56c2B"
+  reporter: CryptoScamDB     
+- name: elon.press
+  url: http://elon.press
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1kcbfGbToz6GCd6qpifhMUqmTRb6umJL8"
+    ETH:
+    - "0x91E159D55e1a1f551306194bb0182AD5c2FF3389"
+  reporter: CryptoScamDB       
+- name: teslapromo.net
+  url: http://teslapromo.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13LP98C3QKthrCdz81qGWuCr9fpCvsdh5A"
+    ETH:
+    - "0xf949a3938401562eed7ca76a1c8dde61e34fd6e7"
+  reporter: CryptoScamDB         
+- name: teslagive.net
+  url: http://teslagive.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13LP98C3QKthrCdz81qGWuCr9fpCvsdh5A"
+    ETH:
+    - "0xf949a3938401562eed7ca76a1c8dde61e34fd6e7"
+  reporter: CryptoScamDB           
+- name: teslagive.vip
+  url: http://teslagive.vip
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13LP98C3QKthrCdz81qGWuCr9fpCvsdh5A"
+    ETH:
+    - "0xf949a3938401562eed7ca76a1c8dde61e34fd6e7"
+  reporter: CryptoScamDB             
+- name: elon.live
+  url: http://elon.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "126arRxtqUC75fRN3FqvR8gtpvRnccmK9L"
+    ETH:
+    - "0x4AC1A7bCcA0A3276Fa0D03Dedb2dd4CC4BFE7fAA"
+  reporter: CryptoScamDB     
+- name: musk.bet
+  url: http://musk.bet
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "145SGvm5PfVtyyvEnjVYxAekYAexk5FtnL"
+    ETH:
+    - "0x9be62ED7428bdFb9aeCA9098176EC2A0F086079F"
+  reporter: CryptoScamDB       
