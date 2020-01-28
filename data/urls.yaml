@@ -55009,3 +55009,72 @@
     ETH:
     - "0x9be62ED7428bdFb9aeCA9098176EC2A0F086079F"
   reporter: CryptoScamDB       
+- name: infinivi.io
+  url: http://infinivi.io
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake DEX phishing for secrets with POST //p4.bytetrade.io/bittrade/v1/me?channel=infinivi&timestamp=1580244325033&cmd=getUserInviter&userid=my_mnemonic"
+  reporter: CryptoScamDB         
+- name: bytetrade.com
+  url: http://bytetrade.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake DEX phishing for secrets with POST //p4.bytetrade.com/bittrade/v1/me?cmd=getUserInviter&userid=my_mnemonic"
+  reporter: CryptoScamDB           
+- name: bytetrade.io
+  url: http://bytetrade.io
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake DEX phishing for secrets with POST //p4.bytetrade.com/bittrade/v1/me?cmd=getUserInviter&userid=my_private_key"
+  reporter: CryptoScamDB    
+- name: cgen.fr.fo
+  url: http://cgen.fr.fo
+  category: Phishing
+  subcategory: General
+  description: "Fake Bitcoin generator phishing for secrets with POST /"
+  reporter: CryptoScamDB   
+- name: cryptotabscript.online
+  url: http://cryptotabscript.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake bitcoin generator"
+  addresses:
+    BTC:
+    - "1EotPSxLVNB6ES23zys24cZVQCjdMK4eAP"
+  reporter: CryptoScamDB  
+- name: cryptotabscripts.com
+  url: http://cryptotabscripts.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake bitcoin generator"
+  addresses:
+    BTC:
+    - "1LZea6vNjBcX9b5RRYyJitd37fpHmTUWkM"
+  reporter: CryptoScamDB    
+- name: wallet.blockcnain.tech
+  url: http://wallet.blockcnain.tech
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake blockchain site phishing for logins"
+  reporter: CryptoScamDB       
+- name: exodusapp.life
+  url: http://exodusapp.life
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus site phishing for secrets with POST /"
+  reporter: CryptoScamDB         
+- name: ledgerweb.life
+  url: http://ledgerweb.life
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /"
+  reporter: CryptoScamDB           
+- name: airdrop-ethereum.com
+  url: http://airdrop-ethereum.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x7B4Be6665504b8e45326BA8c609Df3FBC799f0cB"
+  reporter: CryptoScamDB     
