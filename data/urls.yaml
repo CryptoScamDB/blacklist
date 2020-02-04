@@ -55078,3 +55078,63 @@
     ETH:
     - "0x7B4Be6665504b8e45326BA8c609Df3FBC799f0cB"
   reporter: CryptoScamDB     
+- name: razebit.com
+  url: http://razebit.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits - https://redd.it/evayv1"
+  addresses:
+    BTC:
+    - "35D11agVkS4C8rH57MaShdTSR8QDGoyZb4"
+    ETH:
+    - "0x8F4eD737DE54707C452B1A6E55Df3B72Fc41c9f9"
+    BCH:
+    - "qrzwlpgnj5c06l06znx8xqjffx096fh8pymr80pgvp"
+    LTC:
+    - "MS88cntTyM3XTz7PdYEPp84ZbXf34eGq9B"
+  reporter: CryptoScamDB    
+- name: maker.dao.migrate.ltd
+  url: http://maker.dao.migrate.ltd
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake MakerDAO Sai to Dai tool"
+  addresses:
+    ETH:
+    - "0x0D5d6005fca3d29a3c494863fecC6B0359786E30"  
+  reporter: CryptoScamDB   
+- name: maker.migrate.tools
+  url: http://maker.migrate.tools
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake MakerDAO sai to Dai tool (not fully setup yet)"
+  reporter: CryptoScamDB     
+- name: migrate.makerdao.guide
+  url: http://migrate.makerdao.guide
+  category: Scamming
+  subcategory: MakerDAO
+  description: "Fake MakerDAO Sai to Dai tool"
+  addresses:
+    ETH:
+    - "0x8d6d3495294B6dd0Dc4Ff3BD93a5E1B1079c2c35"  
+  reporter: CryptoScamDB     
+- name: ripple.gift
+  url: http://ripple.gift
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - xrp tag 7777777"
+  addresses:
+    XRP:
+    - "rQB4odcCt4cguFhwbEKFgNitNLPmx1wNqg"
+  reporter: CryptoScamDB   
+- name: login.blcolkchaln.com
+  url: http://login.blcolkchaln.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake blockchain site phishing for logins with POST //blcckchlen.com/wallet/"
+  reporter: CryptoScamDB    
+- name: trezor.io-wallet.com
+  url: http://trezor.io-wallet.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /ssnd_3.php"
+  reporter: CryptoScamDB  
