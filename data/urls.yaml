@@ -55288,3 +55288,166 @@
     ETH:
     - "0xEe18e156a020F2b2B2DcdEC3A9476E61fBDE1e48"
   reporter: CryptoScamDB      
+- name: xrp2020.net
+  url: http://xrp2020.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rw65sa4wHeGVUxaEVWWc6CUKP92qP46vnr"
+  reporter: CryptoScamDB    
+- name: craigsecret.com
+  url: http://craigsecret.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12PJfztAraWThT1eoWapiXZ273MXRatuCM"
+  reporter: CryptoScamDB      
+- name: ethereumpro.eu
+  url: http://ethereumpro.eu
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x610eAcBC066F8Bb1F7853316e214B6bB328b4E8b"
+  reporter: CryptoScamDB        
+- name: earn2xethnow.com
+  url: http://earn2xethnow.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x70ED9fF5f8A02A9B271cE5af8ac62A1B85e51685"
+  reporter: CryptoScamDB          
+- name: grimebit.com
+  url: http://grimebit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "3GJwHyimGMnKjitTdULHmuTCNtS7fHMfgF"
+    ETH:
+    - "0xD719B4f91E57D13f61F4B2FE0a10eC0dE64cE02C"
+    BCH:
+    - "qpdmavpxpz2pwd9cxma3669ndyyrpdqw8ucveudydh"
+    LTC:
+    - "MRydA7PNyGhvBinouorK5RvehjpwptAnse"
+  reporter: CryptoScamDB            
+- name: mybsvwallet.org
+  url: http://mybsvwallet.org
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake wallet phishing for secrets with POST /wallet.b?final"
+  reporter: CryptoScamDB    
+- name: getxrp.org
+  url: http://getxrp.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rNXrmnSLXSKaMcBRXRpgdRLVe5JPx81my"
+  reporter: CryptoScamDB   
+- name: xrp-airdrop.net
+  url: http://xrp-airdrop.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - destination tag 7777777"
+  addresses:
+    XRP:
+    - "rQB4odcCt4cguFhwbEKFgNitNLPmx1wNqg"
+  reporter: CryptoScamDB     
+- name: jaxx.ws
+  url: http://jaxx.ws
+  category: Phishing
+  subcategory: Jaxx
+  description: "Fake JAXX wallet"
+  reporter: CryptoScamDB       
+- name: exodus-wallet.org
+  url: http://exodus-wallet.org
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus wallet"
+  reporter: CryptoScamDB         
+- name: ledger.ink
+  url: http://ledger.ink
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site"
+  reporter: CryptoScamDB           
+- name: webledger.dev
+  url: http://webledger.dev
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site"
+  reporter: CryptoScamDB             
+- name: ledgerwallet.life
+  url: http://ledgerwallet.life
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site"
+  reporter: CryptoScamDB               
+- name: jaxx-wallet.com
+  url: http://jaxx-wallet.com
+  category: Phishing
+  subcategory: Jaxx
+  description: "Fake Jaxx site"
+  reporter: CryptoScamDB                 
+- name: bonuspacex.com
+  url: http://bonuspacex.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MeMTTaoaDPvVMEJiK69t9N8yhXsMDgf1i"
+    BCH:
+    - "qzn53c6sksnvduccdup8z4438kqw956n4vj9yxnc8t"
+    ETH:
+    - "0x2bCb5e087A59A8cf8d96969cCb8F85c4705F20C2"
+  reporter: CryptoScamDB     
+- name: musksecret.info
+  url: http://musksecret.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Ce3JcutnvKx5GwyYCcTQJzCFZzDjtYJJE"
+    XRP:
+    - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
+    ETH:
+    - "0xEd38E12F2A6B19c544D1144eD306B410070B8Ff5"
+  reporter: CryptoScamDB       
+- name: eloncrypto.io
+  url: http://eloncrypto.io
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NCbGCP586mJ6L51nJ11YWckSpygwdk2Jz"
+    ETH:
+    - "0x7fF94EFa22868243Cb41c37e95c1d5B040B88a14"
+  reporter: CryptoScamDB         
+- name: ether-binance.online
+  url: http://ether-binance.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xAB6e1246AB70c4854f964635969365AD241AbFfF"
+  reporter: CryptoScamDB           
+- name: treroz.io
+  url: http://treroz.io
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake trezor site phishing for secrets with POST /fadmin/index.php?steps=step1"
+  reporter: CryptoScamDB             
