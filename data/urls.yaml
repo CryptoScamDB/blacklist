@@ -55451,3 +55451,110 @@
   subcategory: Trezor
   description: "Fake trezor site phishing for secrets with POST /fadmin/index.php?steps=step1"
   reporter: CryptoScamDB             
+- name: donaldcrypto.com
+  url: http://donaldcrypto.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NCbGCP586mJ6L51nJ11YWckSpygwdk2Jz"
+    ETH:
+    - "0x8f263aD0FfD2aEAaF33aEEB6e689f1D7E6bB4dcd"
+  reporter: CryptoScamDB      
+- name: elonxpromo.com
+  url: http://elonxpromo.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14xKzDp8uD897e1bHDfoMswYmG6D9FJvTR"
+    ETH:
+    - "0xc3c592eB862d94567c14360Edb2Ce78ed5769a00"
+  reporter: CryptoScamDB        
+- name: spacebonus.info
+  url: http://spacebonus.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Ce3JcutnvKx5GwyYCcTQJzCFZzDjtYJJE"
+    ETH:
+    - "0xEd38E12F2A6B19c544D1144eD306B410070B8Ff5"
+    XRP:
+    - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
+  reporter: CryptoScamDB          
+- name: doubler.to
+  url: http://doubler.to
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake doubler"
+  addresses:
+    BTC:
+    - "345wdA7bDczX5egVzev8Ka5NDwADPThPrj"
+  reporter: CryptoScamDB            
+- name: ledger.gmbh
+  url: http://ledger.gmbh
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /spamlogsforl.php"
+  reporter: CryptoScamDB      
+- name: coinbase-air-drop.com
+  url: http://coinbase-air-drop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14ije7KRv7w2tCELSn1zaL2dLycTCSUtwa"
+  reporter: CryptoScamDB      
+- name: btcwebminer.trade
+  url: http://btcwebminer.trade
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14nnMaDGFFepGdcRUuDtmLbTxHyet3F5Sq"
+  reporter: CryptoScamDB        
+- name: minebitcoin.online
+  url: http://minebitcoin.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake miner"
+  addresses:
+    BTC:
+    - "1KajziHiNdVYY9bNmZ5NoR39rFoZ7TEnVm"
+    ETH:
+    - "0xDB9A0EF90fF67B9D0ae480565F7D576F0fd52431"
+  reporter: CryptoScamDB          
+- name: spaceprize.info
+  url: http://spaceprize.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Ce3JcutnvKx5GwyYCcTQJzCFZzDjtYJJE"
+    ETH:
+    - "0xEd38E12F2A6B19c544D1144eD306B410070B8Ff5"
+  reporter: CryptoScamDB       
+- name: elonxspace.com
+  url: http://elonxspace.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14aDScg4SeF4GDNLTpXezGPsfKkhoENweV"
+    ETH:
+    - "0xbe4F201CA79AD8961a35D0B96BE2fF42445a7d8a"
+  reporter: CryptoScamDB         
+- name: metalfabpro.com
+  url: http://metalfabpro.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain site phishing for logins with POST /update_recover_funds.php - https://twitter.com/malsploit/status/1227890667583688704"
+  reporter: CryptoScamDB           
