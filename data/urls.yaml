@@ -55558,3 +55558,79 @@
   subcategory: Blockchain
   description: "Fake Blockchain site phishing for logins with POST /update_recover_funds.php - https://twitter.com/malsploit/status/1227890667583688704"
   reporter: CryptoScamDB           
+- name: exodus.onl
+  url: http://exodus.onl
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus site phishing for secrets with POST /spamlogsforl.php"
+  reporter: CryptoScamDB             
+- name: ledger.icu
+  url: http://ledger.icu
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /spamlogsforl.php"
+  reporter: CryptoScamDB               
+- name: aragongift.live
+  url: http://aragongift.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xb2B5745a79c63bEe51cc01C035f87a2f0FAF69A3"
+  reporter: CryptoScamDB    
+- name: vertocoins.com
+  url: http://vertocoins.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "33hPKNAjwEV3CKtLxmzGQapUKu6ZR2UKLV"
+    ETH:
+    - "0x03BEf4BfBb4951c7EA53B7124d8DbF6e33d29BDe"
+    BCH:
+    - "qpscu99hlrnxyq7yttlel53w75q3udf8m59uwmkrzu"
+  reporter: CryptoScamDB      
+- name: air-drop-coinbase.com
+  url: http://air-drop-coinbase.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1H8Ayqrnz1LYzNT4UvPsjugZdiY5udpqxx"
+  reporter: CryptoScamDB    
+- name: droptesla.com
+  url: http://droptesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xEd38E12F2A6B19c544D1144eD306B410070B8Ff5"
+    - "0x1f59bc7B5A771B46D40264FacBfF37350fb5de82"
+    BTC:
+    - "1Ce3JcutnvKx5GwyYCcTQJzCFZzDjtYJJE"
+    - "12batJfsBSHd2wKHit3M3kXKUVr5V8oo4r"
+  reporter: CryptoScamDB      
+- name: elonx-space.com
+  url: http://elonx-space.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Et8yV4H9BHqVKgazdvRZZ9xLp6giwUa82"
+  reporter: CryptoScamDB      
+- name: changequick.network
+  url: http://changequick.network
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "18127eCMwMPAQisW8gNFB4qyCqkrrBPJpg"
+    ETH:
+    - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
+  reporter: CryptoScamDB    
