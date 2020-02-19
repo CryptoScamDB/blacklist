@@ -55634,3 +55634,91 @@
     ETH:
     - "0xDcf1721952a72184a23d338C050c71F7Dba754F3"
   reporter: CryptoScamDB    
+- name: elon-give.online
+  url: http://elon-give.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1QEjcve3NTUjesHNixF9zonWEa1Jw9ndaD"
+  reporter: CryptoScamDB     
+- name: spacexbonus.info
+  url: http://spacexbonus.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18W11awT6UHMgnAMCqTtrcj2GYV662HY5V"
+    ETH:
+    - "0x68575080A10c423406b29b44338d2BE54237eA15"
+  reporter: CryptoScamDB       
+- name: elonmusk.world
+  url: http://elonmusk.world
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13rgAvWQa7uav43AYCePDCfAXADnQU97g9"
+    ETH:
+    - "0x981300144346690938f89761Ae83f27aF4BBAcF5"
+  reporter: CryptoScamDB         
+- name: spacexdrop.info
+  url: http://spacexdrop.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18W11awT6UHMgnAMCqTtrcj2GYV662HY5V"
+    ETH:
+    - "0x68575080A10c423406b29b44338d2BE54237eA15"
+    XRP:
+    - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
+  reporter: CryptoScamDB           
+- name: bonustesla.com
+  url: http://bonustesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18W11awT6UHMgnAMCqTtrcj2GYV662HY5V"
+    ETH:
+    - "0x1f59bc7B5A771B46D40264FacBfF37350fb5de82"
+  reporter: CryptoScamDB    
+- name: muskdrop.com
+  url: http://muskdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PoTFB71FQJKnQ86LhShCJd163fDK7oHjP"
+    ETH:
+    - "0x4002eF45Ed6EB19966182bBc78ba7B83EFeAb1FF"
+  reporter: CryptoScamDB      
+- name: teslapresent.com
+  url: http://teslapresent.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EwnWSjJWHcCbhLrsPEX7QCDeiaUervWA5"
+    ETH:
+    - "0x35ac10FA8E4b2Af244118DcdEDD986fda2609970"
+  reporter: CryptoScamDB        
+- name: musk-airdrop.online
+  url: http://musk-airdrop.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (posted on medium.com/@folly2010/breaking-news-74f3fa78ef40)"
+  addresses:
+    BTC:
+    - "12ty2ez9snjDzS3o28UyeWTeBuoGVXY4jd"
+    ETH:
+    - "0x1AB45960fc7C38b5087d2B930A2321b01c2f3CEB"
+  reporter: CryptoScamDB      
