@@ -55967,3 +55967,152 @@
     XRP:
     - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
   reporter: CryptoScamDB     
+- name: grampublic.com
+  url: http://grampublic.com
+  category: Phishing
+  subcategory: Telegram
+  description: "Fake Telegram crowdsale site"
+  addresses:
+    BTC:
+    - "3CCQCPtzwTi6SuwFXwRuw5pxDwnU3zoAmG"
+    ETH:
+    - "0x55e22446d5e72f76532d10aa887842387e03920c"
+    - "0x672215a018b8151C355591A4A15B8be240539bcc"
+    XRP:
+    - "rpSnDcWDy4R47vJrih5MeNbGoJHTy2TYij"
+  reporter: CryptoScamDB     
+- name: minebitcoin.club
+  url: http://minebitcoin.club
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake generator"
+  addresses:
+    BTC:
+    - "17zghTt9iL3zvy5a2rEi84xqWk86g1WhUj"
+  reporter: CryptoScamDB       
+- name: btcmusk.net
+  url: http://btcmusk.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EbijjL7sFfQVio8c4bWLUrti3Hxi9Nujc"
+  reporter: CryptoScamDB     
+- name: teslaevent.online
+  url: http://teslaevent.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JtNyGo9BpsTpxFE3yZMn3cgHDkxYYVq7N"
+  reporter: CryptoScamDB       
+- name: elonlive.com
+  url: http://elonlive.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Ej5vM1epTuX58wVsTjVhcFUcC7riXKJoR"
+  reporter: CryptoScamDB         
+- name: btcelon.com
+  url: http://btcelon.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MKqKo9EBF9u7uWR7p1hzZzWY9wUKwkynU"
+  reporter: CryptoScamDB       
+- name: musk20.com
+  url: http://musk20.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1P3v4WUzUqRPyDxJPQeiftcb8Tr29wL5yA"
+  reporter: CryptoScamDB         
+- name: teslagoods.info
+  url: http://teslagoods.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "16mXEsimMrfhqitK1jZSwNeh4uLfYKv1uM"
+    ETH:
+    - "0xaEbB072f0d6a85e2Ce7a56a9912cFeCC118d9917"
+    XRP:
+    - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
+  reporter: CryptoScamDB         
+- name: eloneth.org
+  url: http://eloneth.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x8E8B88715C5Ec0B65321AeF47F30b84cAaD67Af2"
+  reporter: CryptoScamDB    
+- name: btcwebminer.site
+  url: http://btcwebminer.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake miner"
+  addresses:
+    BTC:
+    - "16wUYugqxU1rfv5ZinHcK6KhirLCit6WsD"
+  reporter: CryptoScamDB      
+- name: 300dollarsdaily.com
+  url: http://300dollarsdaily.com
+  category: Malware
+  subcategory: Miner
+  description: "Hosting malware - fake bitcoin miner - https://app.any.run/tasks/1a375849-32da-4c1c-bc04-591f5eb71f54"
+  reporter: CryptoScamDB        
+- name: ethereum-eth.info
+  url: http://ethereum-eth.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x1cbf0FE18F936d6b6e721341C63a7Dec833c0dB4"
+  reporter: CryptoScamDB   
+- name: 4musk.top
+  url: http://4musk.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15GZu1S2xSvtN2jLeSPfbLj2ARUekAEPEf"
+    ETH:
+    - "0x2627D332D0DEa9140B43CB5dC102eFfDF16ce9a6"
+    XRP:
+    - "rNcYLJyWZ1UX8ZujqaDdcNKrjdBJoVGHAG"
+  reporter: CryptoScamDB     
+- name: elonmuskgive.net
+  url: http://elonmuskgive.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MpTHCCFdYgSbTu4qyV4Ss7oyTnmcmCwbA"
+    ETH:
+    - "0x42def7491f2f80d478529eb0ae643e86b67f8f77"
+  reporter: CryptoScamDB       
+- name: muskpromo.cloud
+  url: http://muskpromo.cloud
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15YM8cx1aiFGuHfi4YYbiHqidswc6uM5TD"
+    ETH:
+    - "0x60C06B0588B93557258Fd0cbE23eEfe259a5eAd3"
+  reporter: CryptoScamDB         
