@@ -56116,3 +56116,88 @@
     ETH:
     - "0x60C06B0588B93557258Fd0cbE23eEfe259a5eAd3"
   reporter: CryptoScamDB         
+- name: gram-march.com
+  url: http://gram-march.com
+  category: Scamming
+  subcategory: Telegram
+  description: "Fake Telegram crowdsale site"
+  addresses:
+    BTC:
+    - "3CCQCPtzwTi6SuwFXwRuw5pxDwnU3zoAmG"
+    ETH:
+    - "0x55e22446d5e72f76532d10aa887842387e03920c"
+    - "0x672215a018b8151C355591A4A15B8be240539bcc"
+    XRP:
+    - "rpSnDcWDy4R47vJrih5MeNbGoJHTy2TYij"
+  reporter: CryptoScamDB           
+- name: rivbit.com
+  url: http://rivbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "34FiQt8uSSGHzcAYJhzLvtnSTU28nQqKh5"
+    ETH:
+    - "0xb2Fa335594d7a7e5CF9EcC5282B151171662C029"
+    BCH:
+    - "qplal2mlmxwntva42nwe5ma3978k6slc6ywuc0jml8"
+    LTC:
+    - "MVEZJngboT1F3YPurXW6jUGSLzZtua2L6D"
+  reporter: CryptoScamDB             
+- name: btczeal.com
+  url: http://btczeal.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "3EcenUmCS7ZSTqn4B5f3sriiBuvHMEhx4E"
+    ETH:
+    - "0x5AA66D34a811cb6421D84026705d5dE5b6519BB4"
+    BCH:
+    - "qr9reejzrte8syfyt5mezem9kxa9cl2qaq5w6fxcp8"
+    LTC:
+    - "MRNnMf4sv8GRDTgViWS7WjW6THWxyPYK1G"
+  reporter: CryptoScamDB               
+- name: rafbit.com
+  url: http://rafbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "3B7DqUp4GCkEqNNWg4xjPR7KspJ3LgLGMp"
+    ETH:
+    - "0xCFF2768AE34144cc2a0731707d349e55D39451e4"
+    BCH:
+    - "qqgvtq4lptfa7xhq5qdktg2qya6r843asvn9l5r7cc"
+    LTC:
+    - "MFBwtFCX3WrAQb88ZwoBQDzoxcTL81EoVN"
+  reporter: CryptoScamDB           
+- name: lorechange.com
+  url: http://lorechange.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "3QdaLa5rA8mv9TXBw3TA35K5Je6jz5cwSU"
+    ETH:
+    - "0xd99Eb63c5379f099D1642B2bAc5A3E71721287c4"
+    BCH:
+    - "qqmquaq708cygqxfmcjkep4yh2x2j7mtxyxp7ztf2e"
+    LTC:
+    - "MVgFYSME4iynLuoDyn4ZFq4RTvs5Qy3ak7"
+  reporter: CryptoScamDB            
+- name: btcethpromo.info
+  url: http://btcethpromo.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3D4aB1trG1LzRu9fteL2FrNrabBzbNDCUh"
+    ETH:
+    - "0x8e80556F11B8b96e99371c8f8abdF85B50063356"
+  reporter: CryptoScamDB     
