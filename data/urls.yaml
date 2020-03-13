@@ -56201,3 +56201,148 @@
     ETH:
     - "0x8e80556F11B8b96e99371c8f8abdF85B50063356"
   reporter: CryptoScamDB     
+- name: muskfree.net
+  url: http://muskfree.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BnYDL7hDQGm1ki9TjdFCbQg9V1CTVbLxw"
+  reporter: CryptoScamDB       
+- name: tesladrop.space
+  url: http://tesladrop.space
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12YBo1asZ9evpwGLXQeLMxxmU2RgBL9vpq"
+    ETH:
+    - "0x6fAa99b46f56DDFc03d68463551d3C4FfF33e9a9"
+  reporter: CryptoScamDB       
+- name: btcfminer.online
+  url: http://btcfminer.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake miner"
+  addresses:
+    BTC:
+    - "19j3CFxycDHTZkShZ37hToKyfmvvBSzPm6"
+  reporter: CryptoScamDB    
+- name: ledgerhalving.com
+  url: http://ledgerhalving.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /action.php"
+  reporter: CryptoScamDB      
+- name: btcethtesla.info
+  url: http://btcethtesla.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3BaokMZbkyC2EtCAWQVA1KkZg8aQZvmFLo"
+    ETH:
+    - "0xB8258BbBce4D987bf98c5dF92775ffC3Def94702"
+  reporter: CryptoScamDB   
+- name: muskevent.pro
+  url: http://muskevent.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15YM8cx1aiFGuHfi4YYbiHqidswc6uM5TD"
+  reporter: CryptoScamDB     
+- name: muskbtc.net
+  url: http://muskbtc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EbijjL7sFfQVio8c4bWLUrti3Hxi9Nujc"
+  reporter: CryptoScamDB       
+- name: spacegains.info
+  url: http://spacegains.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "187eMU7f5fgk4iddaKQ6qDKa6oeoMTWU5i"
+    ETH:
+    - "0x64Bcd7c984c269Aa92F7357f7991c32Fc0F937D8"
+  reporter: CryptoScamDB     
+- name: librasecure.net
+  url: http://librasecure.net
+  category: Phishing
+  subcategory: Libra
+  description: "Fake Libra crowdsale site - https://twitter.com/sbetamc/status/1238288205067231232"
+  addresses:
+    BTC:
+    - "3Cs3NXvQvCWwF8RiGNLz6wRZWTZLoxM3NF"
+    ETH:
+    - "0x646f6E00F62a0BfA8F3050eb7715a57C551c0C56"    
+  reporter: CryptoScamDB      
+- name: teslabitcoin.info
+  url: http://teslabitcoin.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "159Xix12ADdxdMm38hQZgbnwnwXJqpbezR"
+    ETH:
+    - "0xA11bdE49514DA9215b0B26CE5f0E65C45c8632CB"
+    XRP:
+    - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
+  reporter: CryptoScamDB       
+- name: musk4.fun
+  url: http://musk4.fun
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15GZu1S2xSvtN2jLeSPfbLj2ARUekAEPEf"
+    ETH:
+    - "0xD1a64A4486DbEdC49B4c361e6AaB35a3C6d2A796"
+    XRP:
+    - "rNcYLJyWZ1UX8ZujqaDdcNKrjdBJoVGHAG"
+  reporter: CryptoScamDB         
+- name: elonteam.space
+  url: http://elonteam.space
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "13vSDtM4ZEgnwa1nxS9uSpjo4n1FTKwEEP"
+    ETH:
+    - "0x7aF1D63d4F97F82ef6C1957bc579e3bE67B25470"
+  reporter: CryptoScamDB          
+- name: muskgive.org
+  url: http://muskgive.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PvMmRS7JSUPHoeQg6Jf7mhzpsWezMSe1S"
+  reporter: CryptoScamDB            
+- name: spacebitcoin.info
+  url: http://spacebitcoin.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "187eMU7f5fgk4iddaKQ6qDKa6oeoMTWU5i"
+    ETH:
+    - "0x64Bcd7c984c269Aa92F7357f7991c32Fc0F937D8"
+    XRP:
+    - "rGU8WTvKbbF23LsajTf4xt9saAmh48UAuj"
+  reporter: CryptoScamDB      
