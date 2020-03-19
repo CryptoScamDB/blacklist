@@ -56523,3 +56523,63 @@
     ETH:
     - "0x93297B6c882a3bc1BfB1F6eE0e56295606e443ff"
   reporter: CryptoScamDB         
+- name: elonxcoin.info
+  url: http://elonxcoin.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18VFBkWz785fmaLzee8upzAuHjVwE4Hceq"
+    ETH:
+    - "0xF269ebEDcC1F430C4E487BD6218c33E86616F99c"
+  reporter: CryptoScamDB         
+- name: binance1555556060.zendesk.com
+  url: http://binance1555556060.zendesk.com
+  category: Scamming
+  subcategory: Binance
+  description: "Fake Binance helpdesk"
+  reporter: CryptoScamDB           
+- name: muskgiving.com
+  url: http://muskgiving.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "16RM2Jo1gktgppJ9mwZtZrjW36zsYFTVrY"
+    ETH:
+    - "0x75ef5d2f364a605aaf4358f0336532414b97b1b0"
+  reporter: CryptoScamDB        
+- name: coinbase.com.nervo.co.za
+  url: http://coinbase.com.nervo.co.za
+  category: Phishing
+  subcategory: Coinbase
+  description: "Fake Coinbase phishing for logins with POST /signin_step_two.php"
+  reporter: CryptoScamDB      
+- name: bitcoinelon.com
+  url: http://bitcoinelon.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "36NxXedkXecvw9VbyGTUd4Fm9tMgpVHv3u"
+  reporter: CryptoScamDB      
+- name: elon-musk.online
+  url: http://elon-musk.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BLHcwDTeS9TXnt3CfpvCWV4y5LhLEmcVE"
+    ETH:
+    - "0x57E47cEEb9b5bB9750eb54F7e0469F710a5FaFc8"
+  reporter: CryptoScamDB        
+- name: bitcoinpayout.net
+  url: http://bitcoinpayout.net
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB    
