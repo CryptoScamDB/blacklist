@@ -56583,3 +56583,132 @@
   subcategory: Investments
   description: "Fake investment platform"
   reporter: CryptoScamDB    
+- name: getnewbtc.com
+  url: http://getnewbtc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18sUABi42A6jVVV14eNEXnkS7YLhnJoKRK"
+    ETH:
+    - "0xd1429f893AD958C1A452d9BB91648Ec1A82C56a9"
+  reporter: CryptoScamDB    
+- name: mdl3.top
+  url: http://mdl3.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DDcSuCGYeTD981eY5cBezsQSsctYYF44t"
+    ETH:
+    - "0x47b24b63C9Cf3Fd57DC96aAB6b8b46E4C5B74008"
+    XRP:
+    - "rNcYLJyWZ1UX8ZujqaDdcNKrjdBJoVGHAG"
+  reporter: CryptoScamDB      
+- name: bitcoingenerat.online
+  url: http://bitcoingenerat.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake generator"
+  addresses:
+    BTC:
+    - "1MP23UvQAYjk2rzWewUG7Q9eUjs44sdQEM"
+  reporter: CryptoScamDB        
+- name: free-bitcoin-qr-codes.com
+  url: http://free-bitcoin-qr-codes.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin QR code generator"
+  addresses:
+    BTC:
+    - "343CXYVBKXT2VgELCdjEeMyPpfiKwkzUNg"
+  reporter: CryptoScamDB          
+- name: bitcoinaddresstoqrcode.com
+  url: http://bitcoinaddresstoqrcode.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin QR code generator"
+  addresses:
+    BTC:
+    - "343CXYVBKXT2VgELCdjEeMyPpfiKwkzUNg"
+  reporter: CryptoScamDB         
+- name: qr-code-bitcoin.com
+  url: http://qr-code-bitcoin.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin QR code generator"
+  addresses:
+    BTC:
+    - "343CXYVBKXT2VgELCdjEeMyPpfiKwkzUNg"
+  reporter: CryptoScamDB            
+- name: freebitcoinqrcodes.com
+  url: http://freebitcoinqrcodes.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin QR code generator"
+  addresses:
+    BTC:
+    - "343CXYVBKXT2VgELCdjEeMyPpfiKwkzUNg"
+  reporter: CryptoScamDB        
+- name: btc-to-qr.com
+  url: http://btc-to-qr.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin QR code generator"
+  addresses:
+    BTC:
+    - "343CXYVBKXT2VgELCdjEeMyPpfiKwkzUNg"
+  reporter: CryptoScamDB          
+- name: bitcoin-barcode-generator.com
+  url: http://bitcoin-barcode-generator.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin QR code generator"
+  addresses:
+    BTC:
+    - "343CXYVBKXT2VgELCdjEeMyPpfiKwkzUNg"
+  reporter: CryptoScamDB            
+- name: bitcoin-transaction-accelerator.com
+  url: http://bitcoin-transaction-accelerator.com
+  category: Scamming
+  subcategory: General
+  description: "Scam bitcoin tx accelerator tool"
+  addresses:
+    BTC:
+    - "3NYKHbX3zRbcZeASxjZmb4bpF8kZytnuvi"
+  reporter: CryptoScamDB              
+- name: transaction-accelerator.com
+  url: http://transaction-accelerator.com
+  category: Scamming
+  subcategory: General
+  description: "Scam bitcoin tx accelerator tool"
+  addresses:
+    BTC:
+    - "3NYKHbX3zRbcZeASxjZmb4bpF8kZytnuvi"
+  reporter: CryptoScamDB      
+- name: bitcoin-tx-transaction-accelerator.com
+  url: http://bitcoin-tx-transaction-accelerator.com
+  category: Scamming
+  subcategory: General
+  description: "Scam bitcoin tx accelerator tool"
+  addresses:
+    BTC:
+    - "3NYKHbX3zRbcZeASxjZmb4bpF8kZytnuvi"
+  reporter: CryptoScamDB        
+- name: x2bitcoin.info
+  url: http://x2bitcoin.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14GJfLGm8cPFXj7ZXCNAZKE4C7jur1htyJ"
+  reporter: CryptoScamDB     
+- name: binanceprofit.com
+  url: http://binanceprofit.com
+  category: Scamming
+  subcategory: Investments
+  description: "Scam investment platform - ponzi"
+  reporter: CryptoScamDB       
