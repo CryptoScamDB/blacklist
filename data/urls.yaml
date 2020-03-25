@@ -46370,7 +46370,7 @@
   url: http://trustswallet.xyz
   category: Phishing
   subcategory: Trust
-  description: Fake Trust wallket site
+  description: Fake Trust wallet site
   reporter: CryptoScamDB
 - name: coinpromo.fund
   url: http://coinpromo.fund
@@ -56711,4 +56711,237 @@
   category: Scamming
   subcategory: Investments
   description: "Scam investment platform - ponzi"
+  reporter: CryptoScamDB       
+- name: maker.dao.migrate.fund
+  url: http://maker.dao.migrate.fund
+  category: Phishing
+  subcategory: MakerDAO
+  description: "Fake Sai to Dai migration tool phishing for funds"
+  addresses:
+    ETH:
+    - "0x327C697c7C736964Be8329fcB89de911989E4Cb0"
+  reporter: CryptoScamDB       
+- name: qrcodebtc.com
+  url: http://qrcodebtc.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin QR code generator"
+  addresses:
+    BTC:
+    - "343CXYVBKXT2VgELCdjEeMyPpfiKwkzUNg"
+  reporter: CryptoScamDB    
+- name: viabtc-transaction-accelerator.com
+  url: http://viabtc-transaction-accelerator.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin tx accelerator tool"
+  addresses:
+    BTC:
+    - "3NYKHbX3zRbcZeASxjZmb4bpF8kZytnuvi"
+  reporter: CryptoScamDB      
+- name: bitcoins-qr-code.com
+  url: http://bitcoins-qr-code.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin QR code generator"
+  addresses:
+    BTC:
+    - "16N7fKCZkqm1x18EMDJiEtC25oU5JgT9vv"
+  reporter: CryptoScamDB    
+- name: create-bitcoin-qr-code.com
+  url: http://create-bitcoin-qr-code.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin QR code generator"
+  addresses:
+    BTC:
+    - "343CXYVBKXT2VgELCdjEeMyPpfiKwkzUNg"
+  reporter: CryptoScamDB      
+- name: bitcoingeneratorsonline.com
+  url: http://bitcoingeneratorsonline.com
+  category: Scamming
+  subcategory: General
+  description: "Fake bitcoin generator"
+  reporter: CryptoScamDB        
+- name: bitmusk.net
+  url: http://bitmusk.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17hm67UQKJckpYNruPrg1qsbefxsoGKsf6"
+  reporter: CryptoScamDB    
+- name: bitcoindoubler2x.com
+  url: http://bitcoindoubler2x.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - ponzi scheme"
+  addresses:
+    BTC:
+    - "1AWFKdX6ey7SMaidec8EUrjDhmPGpmE1xP"
+    - "12wkCcU9Mt1ZcoHknLgAFJMDKw79uLg1fG"
+    - "1KE27tqcME4gUnbomLU6sunr77q97rjsJY"
+  reporter: CryptoScamDB      
+- name: bezosbit.com
+  url: http://bezosbit.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PVV4Qs4BRC7Ks9URUmcyiQ1qM1TXAkkTh"
+    - "197FzNM3ttPKxSQSYo4p8rwev3CuE4iDxq"
+  reporter: CryptoScamDB     
+- name: teslabest.info
+  url: http://teslabest.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PVUoCMcBoW8eHrbVHpVnKFZwvowJKo7Yj"
+    ETH:
+    - "0xc6A9E5E218123275854f6B8fc3123C8C98d4482C"
+  reporter: CryptoScamDB       
+- name: bmgfevent.com
+  url: http://bmgfevent.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3K2VCicPqD4u3Jmheqg31MQp3u1y8CKYvf"
+  reporter: CryptoScamDB         
+- name: trustwallet.biz
+  url: http://trustwallet.biz
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet complaint form phishing for seeds"
+  reporter: CryptoScamDB          
+- name: elonmusk.market
+  url: http://elonmusk.market
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JYiy1jZXuQ18DQfWbpkmaAkviBE8jQvxQ"
+    ETH:
+    - "0x8E6A74Fdf25fa674890a7CD96448491a5247F33F"
+  reporter: CryptoScamDB   
+- name: teslaevent.pro
+  url: http://teslaevent.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14Q34mDr4ixYgcd1wNhR9vdKrhuQN2oCWm"
+    ETH:
+    - "0x8AC31FE1C6f5d1a65287379267b2d10e2d6bc52F"
+  reporter: CryptoScamDB     
+- name: gatesfree.com
+  url: http://gatesfree.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DXZBWSMSxdiWRTGtaG38eugyKb7ZUXt6g"
+    - "17hm67UQKJckpYNruPrg1qsbefxsoGKsf6"
+    - "12ipAsH1ko6W3LWpej8YMbGsq1ZRmPGUiB"
+  reporter: CryptoScamDB       
+- name: muskgive.info
+  url: http://muskgive.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14uvhgFCCCCnPDDj6g3CojPrfCy8JEmBsi"
+    ETH:
+    - "0x2df0dab68d148c53b9b1666f8dc044680860d2e7"
+  reporter: CryptoScamDB         
+- name: spacex.world
+  url: http://spacex.world
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15jAvvgCUv58XU3sfRWVKeyGdfwARpw4kS"
+    ETH:
+    - "0xa8c1EAFE28d48608161f545dc22a805fe772A056"
+  reporter: CryptoScamDB           
+- name: bestcoins.info
+  url: http://bestcoins.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18gqQohdFiA6LyaC1ZTEyLPp3RdTqvZMsT"
+    ETH:
+    - "0xec1F9fC70092316Cf8CAaC76f97A7760E75f2899"
+  reporter: CryptoScamDB             
+- name: teslamusk.group
+  url: http://teslamusk.group
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JYiy1jZXuQ18DQfWbpkmaAkviBE8jQvxQ"
+    ETH:
+    - "0x8E6A74Fdf25fa674890a7CD96448491a5247F33F"
+  reporter: CryptoScamDB               
+- name: gateslive.tech
+  url: http://gateslive.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JfBKMshkKKuEN7ss64xjwrcqsN6aATLeG"
+  reporter: CryptoScamDB                 
+- name: billgates.capital
+  url: http://billgates.capital
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Ej5vM1epTuX58wVsTjVhcFUcC7riXKJoR"
+  reporter: CryptoScamDB       
+- name: trumpbtc.tech
+  url: http://trumpbtc.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1uP8ZT4EpHrdZdCrWSfvb2nbeZg84J8Ns"
+  reporter: CryptoScamDB         
+- name: bezosmoney.net
+  url: http://bezosmoney.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1CuUs7W61Zqj6KDBeFJvXoD1YevD5vNeQR"
+    - "13PfgtnnY3Ur3dr8mV7mVg5vvCoh9t7WHv"
+  reporter: CryptoScamDB           
+- name: jaxx.live
+  url: http://jaxx.live
+  category: Phishing
+  subcategory: Jaxx
+  description: "Fake Jaxx complaint form phishing for secrets"
+  reporter: CryptoScamDB     
+- name: atomicwallet.ltd
+  url: http://atomicwallet.ltd
+  category: Phishing
+  subcategory: Atomic
+  description: "Fake AtomicWallet complaint form phishing for secrets"
   reporter: CryptoScamDB       
