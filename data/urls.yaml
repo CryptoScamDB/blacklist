@@ -56945,3 +56945,46 @@
   subcategory: Atomic
   description: "Fake AtomicWallet complaint form phishing for secrets"
   reporter: CryptoScamDB       
+- name: wallet-coinomi-giveaway.000webhostapp.com
+  url: http://wallet-coinomi-giveaway.000webhostapp.com
+  category: Phishing
+  subcategory: Coinomi
+  description: "Fake coinomi phishing for secrets with POST /mpc.php"
+  reporter: CryptoScamDB         
+- name: bit-coinvestor.com
+  url: http://bit-coinvestor.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  addresses:
+    BTC:
+    - "1H9D6gQ5ZfGFFv97kFrdU7vWC77vWbfqwT"
+  reporter: CryptoScamDB   
+- name: bitcoinsystem-app.com
+  url: http://bitcoinsystem-app.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB     
+- name: teslamusk.pro
+  url: http://teslamusk.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19VmWiUD2M44WuTw37euJC7akGmXm6erFh"
+    ETH:
+    - "0x7bd53c462aC3EcfCAb4fbFa20711784bB436C2cb"
+  reporter: CryptoScamDB     
+- name: muskget.info
+  url: http://muskget.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12NZe6QeFNauWGzDCwZ6CutDV76DLEaKge"
+    ETH:
+    - "0xc6A9E5E218123275854f6B8fc3123C8C98d4482C"
+  reporter: CryptoScamDB       
