@@ -56988,3 +56988,99 @@
     ETH:
     - "0xc6A9E5E218123275854f6B8fc3123C8C98d4482C"
   reporter: CryptoScamDB       
+- name: myledgernano.com
+  url: http://myledgernano.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger webwallet phishing for secrets with POST /device/init/payload"
+  reporter: CryptoScamDB     
+- name: rozbit.com
+  url: http://rozbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0x9E4e6CfD41adDE2Ec74B6A45C7bdd547189850D0"
+    BTC:
+    - "3Jm4rKchVHpz6DYgzvFqpR1T48Ra7dAKNR"
+    BCH:
+    - "qznz5ms2stvwwcjay2vyftye56z5qqzl0v603srm2j"
+    LTC:
+    - "MFNYgSPBbjzkxPW99pcwn1WFFwpXfnZyYx"
+  reporter: CryptoScamDB    
+- name: crypto-crown.ltd
+  url: http://crypto-crown.ltd
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  addresses:
+    ETH:
+    - "0x022477f348a8b75b35fc8cf055d3b3d8a577f514"  
+  reporter: CryptoScamDB    
+- name: feex.exchange
+  url: http://feex.exchange
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0x7C7ff63f2513080EeB73d2eAF3cF6e8b62B13459"  
+  reporter: CryptoScamDB      
+- name: musktesla.pro
+  url: http://musktesla.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19VmWiUD2M44WuTw37euJC7akGmXm6erFh"
+    ETH:
+    - "0x7bd53c462aC3EcfCAb4fbFa20711784bB436C2cb"
+  reporter: CryptoScamDB     
+- name: spacexmusk.info
+  url: http://spacexmusk.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17SeatdTD3NWw97CGJ2p3tco6v21vW7eZ2"
+    ETH:
+    - "0x6617253BB43a0D112Ca065e5d2f86507D6d67eF5"
+  reporter: CryptoScamDB       
+- name: musknow.info
+  url: http://musknow.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DT3HGzDbkmPkmdMtH6iZEcLUZG4wor4UV"
+    ETH:
+    - "0xE96dC06ACCE83e39710BFf94711c3F2B7E8A6718"
+  reporter: CryptoScamDB         
+- name: doubleway.rf.gd
+  url: http://doubleway.rf.gd
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12EDsQnwb3BkaUuGxjNVovCBp2DVRdUpAt"
+  reporter: CryptoScamDB           
+- name: xtibit.com
+  url: http://xtibit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0xd93ed2F2acFD0E7D3dF633533dbC4652Db923d87"
+    BTC:
+    - "3KqpD7uwKCtCkU1iQiJjP3iCXM3mfoK5vH"
+    BCH:
+    - "qqgs0xq7nz6sf4042zehsycpd29fzm64ayfu225wu4"
+    LTC:
+    - "MCZ1VdWt9YWkLuvA3N4HWiQUR9M7FjM3cZ"
+  reporter: CryptoScamDB      
