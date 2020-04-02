@@ -57084,3 +57084,41 @@
     LTC:
     - "MCZ1VdWt9YWkLuvA3N4HWiQUR9M7FjM3cZ"
   reporter: CryptoScamDB      
+- name: etherum.giveaway-coinbase.com
+  url: http://etherum.giveaway-coinbase.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xdd9a314AcA28A44eC99dBB6962a47b33c6112406"
+  reporter: CryptoScamDB   
+- name: bitcoin.giveaway-coinbase.com
+  url: http://bitcoin.giveaway-coinbase.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19MWChcPLkh6kQhWbKxfU9AgJgbWmEEb7E"
+  reporter: CryptoScamDB     
+- name: trustcoin.exchange
+  url: http://trustcoin.exchange
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB   
+- name: telegramcrypto.net
+  url: http://telegramcrypto.net
+  category: Scamming
+  subcategory: Telegram
+  description: "Fake Telegram crowdsale site (promoted by twitter id 1227617073171517442/@sale_gram)"
+  addresses:
+    BTC:
+    - "3BpkePo1ZTuFA8nzEDV6D6a9pkkc9mX8UY"
+    ETH:
+    - "0x6485e2e2a62b8b1c9c88476ec8bb2a03a2b70e3c"
+    - "0x672215a018b8151C355591A4A15B8be240539bcc"
+    XRP:
+    - "rn33WP8CF27n2za3DCfesuAP6FHDkmwyBq"
+  reporter: CryptoScamDB    
