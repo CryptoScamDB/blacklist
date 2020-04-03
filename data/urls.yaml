@@ -57122,3 +57122,9 @@
     XRP:
     - "rn33WP8CF27n2za3DCfesuAP6FHDkmwyBq"
   reporter: CryptoScamDB    
+- name: wallet.trczor.com
+  url: http://wallet.trczor.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB     
