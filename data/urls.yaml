@@ -57128,3 +57128,60 @@
   subcategory: Trezor
   description: "Fake Trezor site phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB     
+- name: lifbit.com
+  url: http://lifbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BCH:
+    - "qzap2zkpdcal97vghyc2awvxskc7u5qz3gs9nmndg0"
+    LTC:
+    - "MNVjSJXrNLsarUFEr3pRRo8ZMP2mrmLUms"
+    ETH:
+    - "0x980F5a6eB12B876BeaB1e9a5720D73a2416DC237"
+    BTC:
+    - "3MtCrTpv63ZcaebXGqtJmFAkCgcSbf7Ctj"
+  reporter: CryptoScamDB 
+- name: trading-binance.com
+  url: http://trading-binance.com
+  category: Scamming
+  subcategory: Investments
+  description: "Scam investment platform"
+  reporter: CryptoScamDB     
+- name: bitcoincode.tech
+  url: http://bitcoincode.tech
+  category: Scamming
+  subcategory: Investments
+  description: "Scam investment platform"
+  reporter: CryptoScamDB       
+- name: coinbase.deposit-allow.com
+  url: http://coinbase.deposit-allow.com
+  category: Phishing
+  subcategory: Coinbase
+  description: "Fake Coinbase phishing for logins with POST /"
+  reporter: CryptoScamDB         
+- name: coinbase-bitcoin.tech
+  url: http://coinbase-bitcoin.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - telegra.ph/Coinbase-5000-Bitcoin-Giveaway-Airdrop-03-29-4"
+  addresses:
+    BTC:
+    - "15JP4e3Kym7KfbzFPF9ew6a9kMyGx9A6N8"
+  reporter: CryptoScamDB     
+- name: coinbasejoin.info
+  url: http://coinbasejoin.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1McBiHvNPhuF8Vutg1Xw1hheTX7KF5YNL9"
+  reporter: CryptoScamDB       
+- name: coinbase-assist.com
+  url: http://coinbase-assist.com
+  category: Phishing
+  subcategory: Coinbase
+  description: "Fake Coinbase phishing for logins with POST /login/cert"
+  reporter: CryptoScamDB     
