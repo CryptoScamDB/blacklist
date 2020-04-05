@@ -57185,3 +57185,104 @@
   subcategory: Coinbase
   description: "Fake Coinbase phishing for logins with POST /login/cert"
   reporter: CryptoScamDB     
+- name: login-trezor.io
+  url: http://login-trezor.io
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /ssnd_3.php"
+  reporter: CryptoScamDB       
+- name: ethairdrops.com
+  url: http://ethairdrops.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xBfDF85206d9A634B71fedB8B77BC4D9dD9c4751B"
+  reporter: CryptoScamDB      
+- name: ethlive.org
+  url: http://ethlive.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6Ab217AF622F676a403dE3b7fbf75D5348aa480d"
+  reporter: CryptoScamDB        
+- name: teslamusk.online
+  url: http://teslamusk.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x7bd53c462aC3EcfCAb4fbFa20711784bB436C2cb"
+    BTC:
+    - "19VmWiUD2M44WuTw37euJC7akGmXm6erFh"
+  reporter: CryptoScamDB          
+- name: teslax.tech
+  url: http://teslax.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xa8c1EAFE28d48608161f545dc22a805fe772A056"
+    BTC:
+    - "15jAvvgCUv58XU3sfRWVKeyGdfwARpw4kS"
+  reporter: CryptoScamDB            
+- name: teslax.store
+  url: http://teslax.store
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xa8c1EAFE28d48608161f545dc22a805fe772A056"
+    BTC:
+    - "15jAvvgCUv58XU3sfRWVKeyGdfwARpw4kS"
+  reporter: CryptoScamDB         
+- name: ethchain.gift
+  url: http://ethchain.gift
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3e4af2751b931d5e697ff274f18e823fed351b8e"
+  reporter: CryptoScamDB           
+- name: coinbasetoday.info
+  url: http://coinbasetoday.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1McBiHvNPhuF8Vutg1Xw1hheTX7KF5YNL9"
+  reporter: CryptoScamDB             
+- name: ethereum-give.com
+  url: http://ethereum-give.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LddHP8ksXoPv7qH5upJLVEgGiybbgQdb2"
+    ETH:
+    - "0x73C5a642D0AC80D4033f6782d42bb377d4EeE2FC"
+  reporter: CryptoScamDB               
+- name: ungleder.no
+  url: http://ungleder.no
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x43cF98ba087636BB081A207cda5Ba3C04EBD6a22"
+  reporter: CryptoScamDB       
+- name: reether.store
+  url: http://reether.store
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Ethereum wallet phishing for secrets with POST /send_private_key.php and POST /send_mnemonic.php"
+  reporter: CryptoScamDB   
