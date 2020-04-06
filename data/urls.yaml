@@ -57286,3 +57286,33 @@
   subcategory: Wallet
   description: "Fake Ethereum wallet phishing for secrets with POST /send_private_key.php and POST /send_mnemonic.php"
   reporter: CryptoScamDB   
+- name: tifbit.com
+  url: http://tifbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0x6Aab4345110aD9B151BF1aD604c723b29612ea7b"
+    BCH:
+    - "qqc44wx95qgtttu3leywkffucn3msvztrukh59fj3s"
+    LTC:
+    - "MBfs6Hmbm2DbHnSnCFbJhkiXeRos1N4uhX"
+    BTC:
+    - "38rTymJX3wpN8MT3GASUQc4VknuB3wZisD"
+  reporter: CryptoScamDB      
+- name: trust-wallet.me
+  url: http://trust-wallet.me
+  category: Phishing
+  subcategory: Trust
+  description: "Fake trust wallet phishing for secrets with POST /device/init/payload"
+  reporter: CryptoScamDB        
+- name: coinbase.fund
+  url: http://coinbase.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "37AcsKNzsBpHeWfjJ4E3vSePT1RrRcbFyW"
+  reporter: CryptoScamDB    
