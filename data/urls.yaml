@@ -57136,12 +57136,16 @@
   addresses:
     BCH:
     - "qzap2zkpdcal97vghyc2awvxskc7u5qz3gs9nmndg0"
+    - "qpdrdjk7jrhx7tk6ktqvpa5zdvngmffvvcztwflehu"
     LTC:
     - "MNVjSJXrNLsarUFEr3pRRo8ZMP2mrmLUms"
+    - "MBn8cQkoWHxF9JebCUL2MpsMgmGEjQrsq2"
     ETH:
     - "0x980F5a6eB12B876BeaB1e9a5720D73a2416DC237"
+    - "0xBb8e57FFb8c9d6fe5707Ff708D4DC85E9D28D61B"
     BTC:
     - "3MtCrTpv63ZcaebXGqtJmFAkCgcSbf7Ctj"
+    - "37fuCm2cqVWaXbzvKpNmPiwVF7ysrzZSg4"
   reporter: CryptoScamDB 
 - name: trading-binance.com
   url: http://trading-binance.com
@@ -57316,3 +57320,58 @@
     BTC:
     - "37AcsKNzsBpHeWfjJ4E3vSePT1RrRcbFyW"
   reporter: CryptoScamDB    
+- name: wallet.terzcr.com
+  url: http://wallet.terzcr.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site directing users to wallet.trczor.com"
+  reporter: CryptoScamDB     
+- name: muskfund.info
+  url: http://muskfund.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BFCnugX2E5M1ct3KYKeaNkNKGeXSNUQd2"
+    ETH:
+    - "0xBD04997b5745B19FBAA3044021cBb2FA336c2f61"
+  reporter: CryptoScamDB  
+- name: ethdrop.me
+  url: http://ethdrop.me
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9205ddb511303ab460698085fdaac7a81cbd93d4"
+  reporter: CryptoScamDB    
+- name: teslagiving.com
+  url: http://teslagiving.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xa63463ea7c55d99bb8896852764fdd57c71061d8"
+    BTC:
+    - "1KmEXh3FR5GwXLVX954BKidmmj7pPNGPEj"
+  reporter: CryptoScamDB      
+- name: proeth-event-april.com
+  url: http://proeth-event-april.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2F285661386aD83F2dEB62850fB78BCcB4CE8a7A"
+  reporter: CryptoScamDB        
+- name: ethventure.com
+  url: http://ethventure.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xdBB7241C87BfA190B0201F552C5ee4d2019F3866"
+  reporter: CryptoScamDB          
