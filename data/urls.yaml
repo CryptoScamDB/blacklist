@@ -57375,3 +57375,61 @@
     ETH:
     - "0xdBB7241C87BfA190B0201F552C5ee4d2019F3866"
   reporter: CryptoScamDB          
+- name: muskfunds.info
+  url: http://muskfunds.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB            
+- name: ethnow.site
+  url: http://ethnow.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6Ab217AF622F676a403dE3b7fbf75D5348aa480d"
+  reporter: CryptoScamDB    
+- name: hofbit.com
+  url: http://hofbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0x15f0f424E44FdAf352b1D15166020114381F2C8a"
+    BCH:
+    - "qpmah46nqqapxacz5c842kp6ghrywtgkhuxay3dqz0"
+    LTC:
+    - "MKPBHfpZs4SmHJikkBpZu6K4kQmAHbXvrt"
+    BTC:
+    - "3Et3JRicX6So3RrseDXpGgApH8xdWRXV8F"
+  reporter: CryptoScamDB   
+- name: xrpclaim.net
+  url: http://xrpclaim.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - phishing for secrets with POST //api.telegram.org/bot1127033295:AAHdluHxmk7PZkCgzeg8dRy4vs_3v9DZsuE/sendMessage"
+  reporter: CryptoScamDB    
+- name: musktesla.press
+  url: http://musktesla.press
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2c25484678beFfa8CE2bec715f830dbcF40Cfb35"
+    BTC:
+    - "1ExSxJfAYqdT6GrUd6TQsWTNpWg4myQrSD"
+  reporter: CryptoScamDB   
+- name: spacexgifts.info
+  url: http://spacexgifts.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xA3f209350617A096D24D447B9DDe788d1437AE87"
+    BTC:
+    - "1KVCuE5DFeWf3eRppzkUCDAWT7VCX1pYBF"
+  reporter: CryptoScamDB     
