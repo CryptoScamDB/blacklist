@@ -57433,3 +57433,72 @@
     BTC:
     - "1KVCuE5DFeWf3eRppzkUCDAWT7VCX1pYBF"
   reporter: CryptoScamDB     
+- name: bitcoin.cryptogenerator.live
+  url: http://bitcoin.cryptogenerator.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "343CitDfusT5HLiKxPJJWkUNV26F2bbyrY"
+  reporter: CryptoScamDB       
+- name: ethereum.cryptogenerator.live
+  url: http://ethereum.cryptogenerator.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x7fa93Cd2c95a3F93C8A20D3f2d1825f9F14c81C2"
+  reporter: CryptoScamDB         
+- name: leakedbitcoin.excelerate.co.nz
+  url: http://leakedbitcoin.excelerate.co.nz
+  category: Phishing
+  subcategory: General
+  description: "Phishing for private keys with POST /check.php"
+  reporter: CryptoScamDB       
+- name: nixetrade.com
+  url: http://nixetrade.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0x30Dd4b66f6023e5896C066F82dc7628740a5aEE3"
+    - "0x8111BaE586883Ff07fB7b2C0702c3E95bF03316C"
+    - "0xC4B3549C236Da61E6739f705775021a2FFeE857C"
+    - "0x56F905cE852AcbF644C79F732671f62c0fc2E519"
+    - "0x1F627EED155c3D55E32Ec15bFB82b2a5040ABc96"
+    BCH:
+    - "qz7k75tn4zpf0en84v9t7av392w5y3yruyz7prq2k7"
+    LTC:
+    - "MWayrCG85ESKMap4KrC189UMMtLrpAygbC"
+    BTC:
+    - "3DfCchNUv3o1GzgEZf4PaHdi2L8FvAtxrp"
+  reporter: CryptoScamDB   
+- name: elonlive.org
+  url: http://elonlive.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x8D8adA797b018d60FB2c92a238983FA6aCe56ECE"
+    - "0x7a27593BaCf900E67A5b315a907A8FA5396e5c91"
+    - "0xA3f209350617A096D24D447B9DDe788d1437AE87"
+  reporter: CryptoScamDB     
+- name: promocoinbase.xyz
+  url: http://promocoinbase.xyz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15VTvGT7H8DMwTLdyFR5n6hgV6dE1dHB9i"
+  reporter: CryptoScamDB       
+- name: daostack.asset-erc-20-token.com
+  url: http://daostack.asset-erc-20-token.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for keys with POST /error.php"
+  reporter: CryptoScamDB         
