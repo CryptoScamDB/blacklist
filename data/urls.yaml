@@ -57502,3 +57502,45 @@
   subcategory: MyEtherWallet
   description: "Fake MyEtherWallet phishing for keys with POST /error.php"
   reporter: CryptoScamDB         
+- name: xn--trstwallet-odb.com
+  url: http://xn--trstwallet-odb.com
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet phishing for secrets with POST /device/init/payload"
+  reporter: CryptoScamDB         
+- name: glybit.com
+  url: http://glybit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0x0f85F56B4b89D66e18656337f0E7c98499348302"
+    BCH:
+    - "qqmdmv4axg2cdx36kt5p28th865nwuuf0qtw3x0tfx"
+    - "qprse9a228d0rf6kj4x3ddvptefsnq6vzszl3efp7x"
+    LTC:
+    - "MSdGBicFfHVV8mcBPK4GJaUime7D8pDgLi"
+    - "MFc6qc4Z9QQXEfkzW32YmSJX8dK87MWmLi"
+    BTC:
+    - "3A5HgbSke8jciFfkNwsCpopMdpLjhFSPra"
+    - "3J3LoiVYipMNwS3SAe97xVBaQYGWPPcRTZ"
+  reporter: CryptoScamDB   
+- name: aprilcontest.tumblr.com
+  url: http://aprilcontest.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rKpfL1GYXzJ6vCiPbyib1jrZRxgpYrXDHd"
+  reporter: CryptoScamDB     
+- name: bezos.xyz
+  url: http://bezos.xyz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x1Ad0d0c821453De875F026A5f438E30d4A3dAc3e"
+  reporter: CryptoScamDB      
