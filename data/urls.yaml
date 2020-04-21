@@ -57365,6 +57365,7 @@
   addresses:
     ETH:
     - "0x2F285661386aD83F2dEB62850fB78BCcB4CE8a7A"
+    - "0x9d9e3b1F8762d383B907428FE2982FE62a7A8022"
   reporter: CryptoScamDB        
 - name: ethventure.com
   url: http://ethventure.com
@@ -57543,4 +57544,46 @@
   addresses:
     ETH:
     - "0x1Ad0d0c821453De875F026A5f438E30d4A3dAc3e"
+  reporter: CryptoScamDB      
+- name: rewards-program-erc-20-token.com
+  url: http://rewards-program-erc-20-token.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for keys with POST /error.php?access-my-wallet"
+  reporter: CryptoScamDB     
+- name: ethpromo.news
+  url: http://ethpromo.news
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x67965a9Af69DD4fa9d6a60ff55d5bAC6e453E0A8"
+  reporter: CryptoScamDB      
+- name: erc-20.online
+  url: http://erc-20.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x444381cf371c588df43a8d2265c2a883bd6445ba"
+  reporter: CryptoScamDB      
+- name: ethevent.us
+  url: http://ethevent.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x961834dfED8a283260A29315A460c86517ffAA8A"
+  reporter: CryptoScamDB      
+- name: ethgift.com
+  url: http://ethgift.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xc51d701B7E392d32a11f7b86b3fC144Fb12aBC55"
   reporter: CryptoScamDB      
