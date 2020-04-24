@@ -57587,3 +57587,44 @@
     ETH:
     - "0xc51d701B7E392d32a11f7b86b3fC144Fb12aBC55"
   reporter: CryptoScamDB      
+- name: spacexgiveaway.com
+  url: http://spacexgiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NKpKW6yA7VUjFEo1cRVeRUjQQHBJemx7L"
+  reporter: CryptoScamDB      
+- name: ethdrop.org
+  url: http://ethdrop.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd0c50c8d499967a15fcbbb23e0b9f58b8358f329"
+  reporter: CryptoScamDB      
+- name: spacex.bz
+  url: http://spacex.bz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "114ymJUsYogZuv4cbAQLFyRpd6uddEgvL"
+    ETH:
+    - "0x00e8b95224298D3A9D14f4982b56f53275431f57"
+  reporter: CryptoScamDB      
+- name: yolbit.com
+  url: http://yolbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB   
+- name: taas.fund.rewards-holders-erc20-tokens.com
+  url: http://taas.fund.rewards-holders-erc20-tokens.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for keys with POST /error.php?access-my-wallet"
+  reporter: CryptoScamDB   
