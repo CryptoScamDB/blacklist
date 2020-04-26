@@ -57628,3 +57628,97 @@
   subcategory: MyEtherWallet
   description: "Fake MyEtherWallet phishing for keys with POST /error.php?access-my-wallet"
   reporter: CryptoScamDB   
+- name: piutrade.com
+  url: http://piutrade.com
+  category: Scamming
+  subcategory: Binance
+  description: "Fake Binance charity page"
+  addresses:
+    BTC:
+    - "1Nx9EDgy6f1eQ3Q54g5QfetXYvr4NceuJg"
+  reporter: CryptoScamDB   
+- name: mytiethervveallet.com
+  url: http://mytiethervveallet.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for keys with POST //gmsstatistics.com/sending.php?message=xxx"
+  reporter: CryptoScamDB   
+- name: paubit.com
+  url: http://paubit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0x46DE1a9df7fB7C8bdD3a5EB84789C1770975Cc78"
+    BCH:
+    - "qpt64ukysj5gzuznqcj2dest3sfsmn0vycyn0myxze"
+    LTC:
+    - "MF3kr4dCcFAs2HkfRoLbUfbdTSjBapkoUA"
+    BTC:
+    - "3AjCeagTUiE5XJsYsgjoMyczsecMQXqUoy"
+  reporter: CryptoScamDB   
+- name: spacexgives.com
+  url: http://spacexgives.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JcvfyRmDNX9T2WywC5sP3CNexzuvrrpiS"
+    ETH:
+    - "0xddebf00FbC27F7BAF0bef3fA3665473Eec46BC63"
+  reporter: CryptoScamDB   
+- name: ethereumfond.com
+  url: http://ethereumfond.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xAe65BF5BB67a7Ca149E92A642fC61a72448EC292"
+  reporter: CryptoScamDB   
+- name: app.fulcrum.link
+  url: http://app.fulcrum.link
+  category: Phishing
+  subcategory: Fulcrum
+  description: "Fake Fulcrum site phishing for deposits"
+  addresses:
+    ETH:
+    - "0x62aDe167CA4632255498550ee748eA24013695B3"
+  reporter: CryptoScamDB  
+- name: ethdrop.news
+  url: http://ethdrop.news
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB   
+- name: maker.dao.migrate.claims
+  url: http://maker.dao.migrate.claims
+  category: Phishing
+  subcategory: MakerDAO
+  description: "Fake Sai to Dai migration tool"
+  addresses:
+    ETH:
+    - "0xf76CB4b90Bf22608ed667F8B2333D7d87f12c8fb"
+  reporter: CryptoScamDB  
+- name: promomusk.me
+  url: http://promomusk.me
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DZrNJ3V38x2VSHVk3yPT5gnyQRVZTujcC"
+  reporter: CryptoScamDB   
+- name: spacex.sale
+  url: http://spacex.sale
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1GqL7guv9amjrsv1fbrEEiav9pEBa3xiJz"
+    ETH:
+    - "0x9B26F73A3A029Cd5f4dbea70d9Ef178323b7e060"
+  reporter: CryptoScamDB   
