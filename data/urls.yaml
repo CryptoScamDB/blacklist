@@ -57722,3 +57722,24 @@
     ETH:
     - "0x9B26F73A3A029Cd5f4dbea70d9Ef178323b7e060"
   reporter: CryptoScamDB   
+- name: metmamask.com
+  url: http://metmamask.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB
+- name: faobit.com
+  url: http://faobit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0xd67e205A5b7A5d82B86afBC59f67f74a878D1E68"
+    BCH:
+    - "qrwpnrpq7s670s3mlurs0z4szhqwd0nq2szp2mtnn6"
+    LTC:
+    - "MGVm9Hc58piyRmhyFjCgaHMiazWAcM5swF"
+    BTC:
+    - "3ACfrcziWsekdTWv9ayAGLrMU2PdMsCJxo"
+  reporter: CryptoScamDB 
