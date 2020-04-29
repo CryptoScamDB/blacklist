@@ -57743,3 +57743,9 @@
     BTC:
     - "3ACfrcziWsekdTWv9ayAGLrMU2PdMsCJxo"
   reporter: CryptoScamDB 
+- name: meta-mask.io
+  url: http://meta-mask.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB
