@@ -57749,3 +57749,59 @@
   subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets with POST /save.php"
   reporter: CryptoScamDB
+- name: spacexcash.com
+  url: http://spacexcash.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rKsMLtCxoHsyFetGiZEd4HLpcKT8Fxdrng"
+    ETH:
+    - "0xa932adAC459C11Acd3410311AaB20F377a5f28e3"
+    BTC:
+    - "12i7th1qkUL2y5TwSKcJHpo2mvKLnddiuh"
+  reporter: CryptoScamDB   
+- name: applegive.club
+  url: http://applegive.club
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x7B74BafA83F5F251B41Ecd9B626Ae66AceE65cc2"
+  reporter: CryptoScamDB   
+- name: recovermycoins.com
+  url: http://recovermycoins.com
+  category: Scamming
+  subcategory: General
+  description: "Fake recovery service - fake team"
+  reporter: CryptoScamDB
+- name: mycrypto.ga
+  url: http://mycrypto.ga
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake bitcoin web wallet phishing for deposits"
+  addresses:
+    BTC:
+    - "3P4KnVBawJDFXMpxWcd163T8wQaaPhqnwc"
+    - "3PwhU6AhHKZxZp275HmFenNzfxwXUxi8yQ"
+    - "3MwJpoUCLttTrpaDBaWdn32EupeWqxTHWW"
+    - "3QnZKgbJaxoR3gEk6JrNhxSns24XP9NBdK"
+    - "31pkayxomDRSFRQ8Tuomvs6hm49szqkQ6s"
+    - "3F1DQ1BQzcKGRoWrXp2LeeLg89WCjVCRtR"
+    - "3NsPviHkzd9ua4jqQFrjDpon2SepxZGrbT"
+    - "36s7GkdXE3pFyV7X2YbngeT69zPrS7YEEK"
+    - "38esNJrYmBYFHpeHNrwqaEQYzgTaFzVQ8o"
+    - "3Gc8d4RsEVY3A6VkmmuPaPu3RebwoqQwWc"
+    - "3Lr7WYKHoNHCcUtbdSENu7wLop793JkQAa"
+    - "3MqCx9Ru7jcBHSaJMGQonLpAGEWgNBgw9x"
+    - "3DktPgUmiVUsSJGYy5D39kQ9j5ao8ZUdru"
+    - "33ZY2hC6sSPaH8dvAc6jKTRq1ehLxryduB"
+    - "3FbyohsRtqiww3qU9oec7ZQoJNqpn8JyEb"
+    - "35heUMRFTeYnBavMPs4KNwyrNbSt3EzcYt"
+    - "39U7NWUpBGp9KyFaSbjPFTZLXsQLLzA5tz"
+    - "36S9fjsHz5D1CeMNHU5uB8UZdk55RpTZB4"
+    - "3FJMHwXmmfBnzEaw4xy8hMx8W9pjti83iN"
+    - "3NJfJPgZ4UnTCknNvtBxLF7GLoGHTFoDQq"
+  reporter: CryptoScamDB 
