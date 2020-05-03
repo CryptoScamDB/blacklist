@@ -57805,3 +57805,38 @@
     - "3FJMHwXmmfBnzEaw4xy8hMx8W9pjti83iN"
     - "3NJfJPgZ4UnTCknNvtBxLF7GLoGHTFoDQq"
   reporter: CryptoScamDB 
+- name: elonmusk.financial
+  url: http://elonmusk.financial
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17BxoQqsDngpzAPk1kNAWvrvK8NYRYNzNu"
+    ETH:
+    - "0x83eE561B2aBD000FF00d6ca22f38b29d4a760d4D"
+  reporter: CryptoScamDB
+- name: ethereum-promo.site
+  url: http://ethereum-promo.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x389045fa0DE32B991FC6138ACc12D20f44B0020c"
+  reporter: CryptoScamDB
+- name: giveaway.revproject.site
+  url: http://giveaway.revproject.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4deb56B40298EF0e02Ba19F0dFA8cC83873f5267"
+  reporter: CryptoScamDB 
+- name: metarnask.io
+  url: https://metarnask.io
+  category: Phishing
+  subcategory: Metamask
+  description: "Fake MetaMask site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB
