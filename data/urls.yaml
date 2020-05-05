@@ -57840,3 +57840,46 @@
   subcategory: Metamask
   description: "Fake MetaMask site phishing for secrets with POST /save.php"
   reporter: CryptoScamDB
+- name: mycrypto.ml
+  url: http://mycrypto.ml
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake bitcoin web wallet phishing for deposits"
+  addresses:
+    BTC:
+    - "3DB89jVzRajnja7v8Z1nvfRsLuzbdG5yDe"
+    - "3Lr7WYKHoNHCcUtbdSENu7wLop793JkQAa"
+    - "3DvYLYwThpCZiuyoX7zWbrb7GdhDpac3VF"
+    - "3KNQNx5W7QMw72ik5i8YkvuG25TrQVMvS2"
+    - "3DtjUEWhtXUxBkQYKN6FVHqPmmD3ThTqZv"
+    - "396emSDWvrFQjQoPtpn5zVx4499b4AqQBS"
+    - "3CaDhgjsPGX9tqao8zyMEHRfhUWKLFfZUR"
+    - "3P4KnVBawJDFXMpxWcd163T8wQaaPhqnwc"
+    - "38esNJrYmBYFHpeHNrwqaEQYzgTaFzVQ8o"
+    - "3Gc8d4RsEVY3A6VkmmuPaPu3RebwoqQwWc"
+    - "3P9v8ohf3AVbbZydgCTezF5kwKNNXPjaDn"
+    - "32fH4aS9BrtN6CNAxzWcXG5tMatRuPPsgk"
+    - "3Cf8dAGdEn8E8BkC7h3xZka9zFszWS7sMu"
+    - "3JbyDG4L8M7VuYaXuZLVKpTLGzFddkoXXQ"
+    - "3DtJRsbWQp29jFn3eGcAGSwruAn5dVywLP"
+    - "35heUMRFTeYnBavMPs4KNwyrNbSt3EzcYt"
+    - "39U7NWUpBGp9KyFaSbjPFTZLXsQLLzA5tz"
+    - "3AKs3GqLmHfXEyfVBuyuWTJWJGJvqa3ovY"
+    - "3FJMHwXmmfBnzEaw4xy8hMx8W9pjti83iN"
+    - "38aJgzj26YKsvbP85Bpw51LMVDoMH7SdzZ"
+  reporter: CryptoScamDB 
+- name: myetherwallet.keynasty.com
+  url: https://myetherwallet.keynasty.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST //wallets.company/mew/api.php?access-my-wallet"
+  reporter: CryptoScamDB
+- name: bitgen.pro
+  url: http://bitgen.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam - fake bitcoin generator"
+  addresses:
+    BTC:
+    - "1nk5LgSBoApBdYcHrPHCG5rH9wushagcs"
+  reporter: CryptoScamDB 
