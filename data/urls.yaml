@@ -57883,3 +57883,31 @@
     BTC:
     - "1nk5LgSBoApBdYcHrPHCG5rH9wushagcs"
   reporter: CryptoScamDB 
+- name: tesla.bz
+  url: http://tesla.bz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    ETH:
+    - "0xA3b514D5050Bfda56ffe5828d6ee9D26C5161bcF"
+    BTC:
+    - "194QnGCgxu2Tdh6RCdW3EWNSDsbnNFAp2a"
+  reporter: CryptoScamDB 
+- name: etcwallet.net
+  url: https://etcwallet.net
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake wallet phishing for secrets with POST /depository/codp.php"
+  reporter: CryptoScamDB
+- name: mastercoin.top
+  url: http://mastercoin.top
+  category: Scamming
+  subcategory: Miner
+  description: "Fake webminer"
+  addresses:
+    ETH:
+    - "0x0e34ddd9e27b21c1ed612cc365c42bcd6a7a33b0"
+    BTC:
+    - "32tGxVmYZTZdEqPHgNBiDqNFN51ijjv3VT"
+  reporter: CryptoScamDB 
