@@ -57911,3 +57911,18 @@
     BTC:
     - "32tGxVmYZTZdEqPHgNBiDqNFN51ijjv3VT"
   reporter: CryptoScamDB 
+- name: halfbit.cc
+  url: http://halfbit.cc
+  category: Scamming
+  subcategory: Ponzi
+  description: "Ponzi scheme - scamming"
+  reporter: CryptoScamDB 
+- name: bitcoinbonuswallet.com
+  url: http://bitcoinbonuswallet.com
+  category: Scamming
+  subcategory: WebWallet
+  description: "Fake wallet phishing for deposits"
+  addresses:
+    BTC:
+    - "15KZuAqNbSpirHMe2RABy37gECxsiavzYE"
+  reporter: CryptoScamDB 
