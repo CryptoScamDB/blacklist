@@ -57926,3 +57926,38 @@
     BTC:
     - "15KZuAqNbSpirHMe2RABy37gECxsiavzYE"
   reporter: CryptoScamDB 
+- name: royal-crypto.cc
+  url: http://royal-crypto.cc
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "1AxvT4BM8ZUDC13N8VaSY1mPXN3Ewt7vZm"
+    ETH:
+    - "0x8328279BAA90deBe686b29a2948c7fa636cfCD2a"
+  reporter: CryptoScamDB 
+- name: etherscanner.ml
+  url: http://etherscanner.ml
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    ETH:
+    - "0xd852dd6AC9655fA4833d0eC09A6E3d4a44054870"
+  reporter: CryptoScamDB 
+- name: wozdrop.me
+  url: http://wozdrop.me
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    BTC:
+    - "1WoznScUTGbqGTqqeLPBgAVPgipx64URX"
+  reporter: CryptoScamDB 
+- name: yaubit.com
+  url: http://yaubit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB 
