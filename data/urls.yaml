@@ -57961,3 +57961,29 @@
   subcategory: Exchange
   description: "Fake exchange phishing for deposits"
   reporter: CryptoScamDB 
+- name: tony-btc.info
+  url: http://tony-btc.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    BTC:
+    - "1Tony5wpzKJQr4yzsohQK9XtxwvBSQBeA"
+  reporter: CryptoScamDB 
+- name: dentacoins.com
+  url: http://dentacoins.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange/casino phishing for deposits"
+  addresses:
+    BTC:
+    - "3QJgNQsMLoXDU7cUWtHQrz4i9KQxLtUb6e"
+    ETH:
+    - "0xEe18e156a020F2b2B2DcdEC3A9476E61fBDE1e48"
+  reporter: CryptoScamDB 
+- name: laubit.com
+  url: http://laubit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB 
