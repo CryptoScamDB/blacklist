@@ -57987,3 +57987,35 @@
   subcategory: Exchange
   description: "Fake exchange phishing for deposits"
   reporter: CryptoScamDB 
+- name: profitmusk.com
+  url: http://profitmusk.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    BTC:
+    - "1QGrCGJpghkgeWJ4LKmC2gYH4bFN7241B9"
+    ETH:
+    - "0x5F08FFD6dD5388Ebc71043dd9CD3a61eCBccE2A6"
+  reporter: CryptoScamDB 
+- name: elonsave.com
+  url: http://elonsave.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    BTC:
+    - "1NSghJuU3aZdGNUCwjPf8B4sg8pUY2LRx"
+  reporter: CryptoScamDB 
+- name: max-maicoin-claimbonusbtc.000webhostapp.com
+  url: http://max-maicoin-claimbonusbtc.000webhostapp.com
+  category: Phishing
+  subcategory: MAX
+  description: "Fake MAX exchange phishing for logins with POST /app.php"
+  reporter: CryptoScamDB 
+- name: vaubit.com
+  url: http://vaubit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB 
