@@ -58019,3 +58019,56 @@
   subcategory: Exchange
   description: "Fake exchange phishing for deposits"
   reporter: CryptoScamDB 
+- name: dave-btc.info
+  url: http://dave-btc.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  reporter: CryptoScamDB 
+- name: stevebtc.org
+  url: http://stevebtc.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    BTC:
+    - "1AVsvFnmkRiFFfg3xTfnvcWSNoZHPcEd22"
+  reporter: CryptoScamDB 
+- name: cham-btc.info
+  url: http://cham-btc.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    BTC:
+    - "1Cham3QTQ2McKD24ozEHsAgbCinfAszzQc"
+  reporter: CryptoScamDB 
+- name: pantera.ltd
+  url: http://pantera.ltd
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    BTC:
+    - "3Fd1vmjBUDnxsFoNARjgP2SRkpMNg7Uar3"
+  reporter: CryptoScamDB 
+- name: xiaomibtc.com
+  url: http://xiaomibtc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    BTC:
+    - "37KPhFEL1uZqoJBpYq22ZGahaBc23ActpF"
+  reporter: CryptoScamDB 
+- name: found-bin.com
+  url: http://found-bin.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam"
+  addresses:
+    BTC:
+    - "12NP16tkcXw5881UD8H1D3qVq8kmHHXMeb"
+    ETH:
+    - "0x6456B53971924d797a1a05E36dAf0D3125f16A32"
+  reporter: CryptoScamDB 
