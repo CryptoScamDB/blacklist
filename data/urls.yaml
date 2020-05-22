@@ -58357,3 +58357,57 @@
     XRP:
     - "ravLZCsB4EzX6ngw2uWHbu6N1TyVKzvJsY"
   reporter: CryptoScamDB 
+- name: ledgerslive.web.app
+  url: http://ledgerslive.web.app
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST //ledgerlivewallet.000webhostapp.com"
+  reporter: CryptoScamDB 
+- name: ledgerlivewallet.000webhostapp.com
+  url: http://ledgerlivewallet.000webhostapp.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site acting as a c2 for phished secrets from //ledgerlive.web.app"
+  reporter: CryptoScamDB 
+- name: accountviewer-stellar.com
+  url: http://accountviewer-stellar.com
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar wallet phishing for secrets with POST / - https://twitter.com/sniko_/status/1262892389364109312"
+  reporter: CryptoScamDB 
+- name: btcshower.com
+  url: http://btcshower.com
+  category: Scamming
+  subcategory: Ponzi
+  description: "Ponzi scheme"
+  addresses:
+    BTC:
+    - "37ztj4ornuJPv1aEkgpJWHy41T3GeuPia9"
+  reporter: CryptoScamDB 
+- name: lk.forsage.io.giveaway-token-member.com
+  url: http://lk.forsage.io.giveaway-token-member.com
+  category: Phishing
+  subcategory: Giveaway
+  description: "Fake giveaway phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB 
+- name: miningbase.cloud
+  url: http://miningbase.cloud
+  category: Scamming
+  subcategory: Miner
+  description: "Fake webminer"
+  addresses:
+    BTC:
+    - "379nngYLfxtDm2q5JfzwkneuU2o2hNr1VH"
+  reporter: CryptoScamDB 
+- name: muetherwallet.co
+  url: http://muetherwallet.co
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for keys with POST /sending.php"
+  reporter: CryptoScamDB 
+- name: omisego.info
+  url: http://omisego.info
+  category: Phishing
+  subcategory: OmiseGo
+  description: "Fake airdrop site phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB 
