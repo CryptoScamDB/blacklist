@@ -58411,3 +58411,65 @@
   subcategory: OmiseGo
   description: "Fake airdrop site phishing for secrets with POST /sign.php"
   reporter: CryptoScamDB 
+- name: folbit.com
+  url: http://folbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "38WiEvgjoMVe97opmww3EUJ48JKA7KvPka"
+    ETH:
+    - "0x2B281DF19308645a24eFfE2f4873143600f02155"
+    LTC:
+    - "MJYKGpehftHKGBL1qg96LmGDVW6945MG7W"
+    BCH:
+    - "qrxaujaupn56r57c8340a3g5077z0krujuv0e0zc08"
+  reporter: CryptoScamDB 
+- name: teslaearn.com
+  url: http://teslaearn.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DKntfex2Eu3p3htfrjKLwGdhzaCmFjDQW"
+    ETH:
+    - "0x1e5c3A25a478CB23dE3843f518582956BA1d2aC8"
+    XRP:
+    - "rPAfrtgXcsjkfHwDjM9ku8rcVaD7ADwnA6"
+  reporter: CryptoScamDB 
+- name: zalbit.com
+  url: http://zalbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB 
+- name: librasale.io
+  url: http://librasale.io
+  category: Phishing
+  subcategory: Libra
+  description: "Fake Libra crowdsale site"
+  addresses:
+    BTC:
+    - "33QBP8CZVonXKhc6AK1KCWegzj4wEqzCZk"
+    ETH:
+    - "0x1Da02aC05b1fD3E97593bA2aaE920D772727380B"
+  reporter: CryptoScamDB 
+- name: musk-event.online
+  url: http://musk-event.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB 
+- name: musk-event.tech
+  url: http://musk-event.tech
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1HuQzXdMYEEDNQGp6147zN3o47fKV2a4mu"
+    ETH:
+    - "0x05e7E06774FFeAdE0e77A7a58E8a16738f30A2C3"
+  reporter: CryptoScamDB 
