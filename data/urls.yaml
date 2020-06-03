@@ -58473,3 +58473,64 @@
     ETH:
     - "0x05e7E06774FFeAdE0e77A7a58E8a16738f30A2C3"
   reporter: CryptoScamDB 
+- name: fulcrum.repair
+  url: http://fulcrum.repair
+  category: Phishing
+  subcategory: Fulcrum
+  description: "Fake Fulcrum site phishing for funds"
+  addresses:
+    ETH:
+    - "0xf499223672C6283759d7a4754891Ab67a7cE09f7"
+    - "0xa5b424581C8B8037aB34cf0F3537911a8e7ACA41"
+  reporter: CryptoScamDB  
+- name: makerdao.redeem.fund
+  url: http://makerdao.redeem.fund
+  category: Phishing
+  subcategory: MakerDao
+  description: "Fake Sai to Dai bridge phihsing for funds"
+  addresses:
+    ETH:
+    - "0xCC2754337CE2e9F5867e5078354D2B1e59A2b6Ba"
+  reporter: CryptoScamDB 
+- name: kucoin-info.live
+  url: http://kucoin-info.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xFdc328F3f978F65BB9038ad2D6B8079Bf1Da66F9"
+  reporter: CryptoScamDB 
+- name: elon.gifts
+  url: http://elon.gifts
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x343a88Ad3eb8c900b0b3B6935129A8bB0011A5e9"
+    BTC:
+    - "14Wjm617n3Jn9m7gTqV1cxJPniQ5vgx9XK"
+  reporter: CryptoScamDB 
+- name: getbtcx.com
+  url: http://getbtcx.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x046c8b860E3F9b89245614DE803E89cA44Aa83"
+    BTC:
+    - "1BGtFV8xnRejWLvcfL5YPZJKTJmSuGiMM1"
+  reporter: CryptoScamDB 
+- name: simpleswap.org
+  url: http://simpleswap.org
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    ETH:
+    - "0x9E124AEa1f0911BcE46004C2F231B529c173477A"
+    BTC:
+    - "19nRK1JHLHJ8ukXCU3dgSkrmdbjenjHPB9"
+  reporter: CryptoScamDB 
