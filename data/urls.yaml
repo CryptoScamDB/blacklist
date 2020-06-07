@@ -58534,3 +58534,131 @@
     BTC:
     - "19nRK1JHLHJ8ukXCU3dgSkrmdbjenjHPB9"
   reporter: CryptoScamDB 
+- name: cryptoxluck.com
+  url: http://cryptoxluck.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake gambling site phishing for deposits - bad actor asks withdraw to 1DwcR2SJyb8Lqd5oXUeDxE34K8YQcZcMky"
+  addresses:
+    ETH:
+    - "0xEE4A42bCB8EFb34E4b8F620Fe148E5f07aA4E401"
+    BTC:
+    - "3C9bCoMdbshB22tAv7aVhc8bm9ZTM7QBVh"
+    - "3AD76aUsAgGYb69Kx5XLhkwrFjBPWJn9Ny"
+    LTC:
+    - "MAtmt8TZEya4r2a1pdXqC81n3BwNsXhSBt"
+    BCH:
+    - "qr42kzy403xcvcqw34n03325ke3pfdscwsq072n79n"
+  reporter: CryptoScamDB 
+- name: paxful-verifier.com
+  url: http://paxful-verifier.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful phishing for logins with POST /"
+  reporter: CryptoScamDB 
+- name: paxful-fra.com
+  url: http://paxful-fra.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful phishing for logins with POST /verify.php"
+  reporter: CryptoScamDB 
+- name: bitoprowallet.000webhostapp.com
+  url: http://bitoprowallet.000webhostapp.com
+  category: Phishing
+  subcategory: Bitpro
+  description: "Fake Bitopro phishing for logins with POST /app.php"
+  reporter: CryptoScamDB 
+- name: ftx-com-exchange-cryptocurrency.000webhostapp.com
+  url: http://ftx-com-exchange-cryptocurrency.000webhostapp.com
+  category: Phishing
+  subcategory: Ftx
+  description: "Fake FTX exchange phishing for logins with POST /app/claim.php"
+  reporter: CryptoScamDB 
+- name: pionex-com-exchange-giveaway.000webhostapp.com
+  url: http://pionex-com-exchange-giveaway.000webhostapp.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake Pionex exchange phishing for logins with POST /app/email.php"
+  reporter: CryptoScamDB 
+- name: paxfulsecured.com
+  url: http://paxfulsecured.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful phishing for logins with POST /"
+  reporter: CryptoScamDB 
+- name: paxful-ns.com
+  url: http://paxful-ns.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful phishing for logins with POST /verify.php"
+  reporter: CryptoScamDB 
+- name: paxful-sl.com
+  url: http://paxful-sl.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful phishing for logins with POST /verify.php"
+  reporter: CryptoScamDB 
+- name: my-paxful.com
+  url: http://my-paxful.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful phishing for logins with POST /verify.php"
+  reporter: CryptoScamDB 
+- name: xrpcontest.tumblr.com
+  url: http://xrpcontest.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rUqc6LaXoFf3Xmv8rcv3Q7e19daZgkyyVw"
+  reporter: CryptoScamDB 
+- name: fovbit.com
+  url: http://fovbit.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB 
+- name: atomic.im
+  url: http://atomic.im
+  category: Phishing
+  subcategory: Atomic
+  description: "Fake Atomic wallet download - https://twitter.com/scott_lew_is/status/1269390111961219074"
+  reporter: CryptoScamDB 
+- name: exodus.vc
+  url: http://exodus.vc
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus wallet download - https://twitter.com/scott_lew_is/status/1269390111961219074"
+  reporter: CryptoScamDB 
+- name: spacexbtc.net
+  url: http://spacexbtc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1CajurdMjN4u8foQ6FH1cdWnBxyWnsJq2J"
+  reporter: CryptoScamDB 
+- name: makerdao.redeem.bz
+  url: http://makerdao.redeem.bz
+  category: Phishing
+  subcategory: MakerDao
+  description: "Fake Sai to Dai bridge phihsing for funds"
+  addresses:
+    ETH:
+    - "0xCC2754337CE2e9F5867e5078354D2B1e59A2b6Ba"
+  reporter: CryptoScamDB 
+- name: btconline.io
+  url: http://btconline.io
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake online mining pool"
+  addresses:
+    BTC:
+    - "3ExUMWZ7DkC9D4Ek4T8dvW7crQGZby4Gk5"
+    - "35vk7symEEh8LJNwkkp1URge7mzRyBpB2C"
+    - "3AfCQruxFZYYJd7Bha9eXMPhQzSiwZ2iBe"
+    - "3JYyXxpn1uQoTPWLVYPFGVWroTbcVmFoub"
+    - "3QSuL2bpcLVGWoLkbhhDLVTpsyR8yc1LQK"
+  reporter: CryptoScamDB 
