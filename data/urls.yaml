@@ -58662,3 +58662,55 @@
     - "3JYyXxpn1uQoTPWLVYPFGVWroTbcVmFoub"
     - "3QSuL2bpcLVGWoLkbhhDLVTpsyR8yc1LQK"
   reporter: CryptoScamDB 
+- name: ainbit.com
+  url: http://ainbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB   
+- name: givetesla.com
+  url: http://givetesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xa78Ec860A66A3a676e767e3bFB3ffBeA3E7EFAE8"
+    BTC:
+    - "1JzVgiRTq1J3Jf5AFYQaFdkdkXD5pVBnYv"
+  reporter: CryptoScamDB   
+- name: teslax.live
+  url: http://teslax.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xceB3f016e6b1cbb5b1ec599CdCE90BBBb8bC7664"
+    BTC:
+    - "1G8dvVbXq3W7CVvu9BDQYLbDApEnp6pwGL"
+  reporter: CryptoScamDB     
+- name: teslapayout.com
+  url: http://teslapayout.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x646CB4fAc8F9f5b86dEdA2757eaa6d6A4c82F793"
+    BTC:
+    - "1Ljh3gHDmwMZe9UqMzA4QcLaj7ZAPESXzn"
+    XRP:
+    - "rNrYrn1HoDDuEg2wg3CrXPYZ7deqaEX55L"
+  reporter: CryptoScamDB       
+- name: profittesla.com
+  url: http://profittesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd3Cc87f9070e339c099f01Ce4c499BDe2CD90f3D"
+    BTC:
+    - "1B1p1qkv912ifcE9mRZ3jwrighVcM1GALr"
+  reporter: CryptoScamDB      
