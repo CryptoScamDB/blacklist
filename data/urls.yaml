@@ -58714,3 +58714,48 @@
     BTC:
     - "1B1p1qkv912ifcE9mRZ3jwrighVcM1GALr"
   reporter: CryptoScamDB      
+- name: zrxairdrop.com
+  url: http://zrxairdrop.com
+  category: Scamming
+  subcategory: Zrx
+  description: "Fake airdrop phishing for private keys with POST /"
+  reporter: CryptoScamDB    
+- name: quickbtcminer.com
+  url: http://quickbtcminer.com
+  category: Malware
+  subcategory: Miner
+  description: "Malware miner"
+  reporter: CryptoScamDB   
+- name: teslax.in
+  url: http://teslax.in
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB  
+- name: jaxxx.io
+  url: http://jaxxx.io
+  category: Phishing
+  subcategory: Jaxx
+  description: "Fake Jaxx site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB    
+- name: zilllet.io
+  url: http://zilllet.io
+  category: Phishing
+  subcategory: Zillet
+  description: "Fake Zillet site phishing for secrets with POST /process.php"
+  reporter: CryptoScamDB    
+- name: moonllet.io
+  url: http://moonllet.io
+  category: Phishing
+  subcategory: Moonlet
+  description: "Fake Moonlet site phishing for secrets with POST /recover.php"
+  reporter: CryptoScamDB    
+- name: teslagain.com
+  url: http://teslagain.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd3Cc87f9070e339c099f01Ce4c499BDe2CD90f3D"
+  reporter: CryptoScamDB     
