@@ -58759,3 +58759,51 @@
     ETH:
     - "0xd3Cc87f9070e339c099f01Ce4c499BDe2CD90f3D"
   reporter: CryptoScamDB     
+- name: uniswap.services
+  url: http://uniswap.services
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB     
+- name: portal.node-binance.dev
+  url: http://portal.node-binance.dev
+  category: Phishing
+  subcategory: Binance
+  description: "Fake Binance phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB     
+- name: portal.synthetix.dev
+  url: http://portal.synthetix.dev
+  category: Phishing
+  subcategory: Synthetix
+  description: "Fake Synthetix phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB     
+- name: portal.hex-node.network
+  url: http://portal.hex-node.network
+  category: Phishing
+  subcategory: Hex
+  description: "Fake Hex phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB     
+- name: portal.uniswap.dev
+  url: http://portal.uniswap.dev
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB     
+- name: portal.curvefinance.network
+  url: http://portal.curvefinance.network
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB     
+- name: portal.fulcrum.network
+  url: http://portal.fulcrum.network
+  category: Phishing
+  subcategory: Fulcrum
+  description: "Fake Fulcrum phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB  
+- name: myfusionwallet.com
+  url: http://myfusionwallet.com
+  category: Phishing
+  subcategory: Fusion
+  description: "Fake Fusion Wallet phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB  
