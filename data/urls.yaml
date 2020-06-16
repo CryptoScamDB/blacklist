@@ -58801,9 +58801,90 @@
   subcategory: Fulcrum
   description: "Fake Fulcrum phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB  
-- name: myfusionwallet.com
-  url: http://myfusionwallet.com
+- name: myfusionwallet.net
+  url: http://myfusionwallet.net
   category: Phishing
   subcategory: Fusion
   description: "Fake Fusion Wallet phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB  
+- name: ps-btc.info
+  url: http://ps-btc.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1SonytTmv6A1SJUtYmG2Exx3Fya4Yjx97"
+  reporter: CryptoScamDB  
+- name: coinanytime.com
+  url: http://coinanytime.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange"
+  reporter: CryptoScamDB  
+- name: ia801505.us.archive.org
+  url: http://ia801505.us.archive.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x0111a93692b5CCFF5C4b006d88d82664f76DFd21"
+  reporter: CryptoScamDB  
+- name: muskfreebtc.com
+  url: http://muskfreebtc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1F4pCKtRSDF1S6Pb1t8xeJEGBcaCgv8kxF"
+    ETH:
+    - "0x2a57f63b0B0FC2ca8846229e597c52FA2CD68432"
+  reporter: CryptoScamDB  
+- name: ethereum-tumbler.com
+  url: http://ethereum-tumbler.com
+  category: Scamming
+  subcategory: Mixer
+  description: "Fake Ethereum mixer phishing for funds"
+  addresses:
+    ETH:
+    - "0x6d133d7541F3368c585Aca69d018126C7BbC4467"
+  reporter: CryptoScamDB  
+- name: muskreward.com
+  url: http://muskreward.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1QAvJxUQvrDJWELJpxYjMTLBkQ32wppVmV"
+  reporter: CryptoScamDB  
+- name: elongives.fun
+  url: http://elongives.fun
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x23F345e3FFD537eAaCF3Da0D59A511ee5F1c5717"
+    BTC:
+    - "1TESLA9zSRvBPNPB5UoeCWEWKR32ut2y6"
+  reporter: CryptoScamDB  
+- name: gaintesla.com
+  url: http://gaintesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x45ae2Dc5af4337900b2dfCfAF480D8036AD5DF75"
+    BTC:
+    - "1JELMDDXyP33KeVym2pFy2Ydx9fq95LZu1"
+  reporter: CryptoScamDB  
+- name: trustwallet.claim-giveaway-airdrop.site
+  url: http://trustwallet.claim-giveaway-airdrop.site
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet phishing for secrets with POST //airdrop-giveaway.xyz/tw/app.php?attempt=update_security_info_api_keyskip_api_login=1display=pagedirselect=webrootselecthome"
+  reporter: CryptoScamDB   
