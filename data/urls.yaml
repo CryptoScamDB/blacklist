@@ -58888,3 +58888,210 @@
   subcategory: Trust
   description: "Fake Trust wallet phishing for secrets with POST //airdrop-giveaway.xyz/tw/app.php?attempt=update_security_info_api_keyskip_api_login=1display=pagedirselect=webrootselecthome"
   reporter: CryptoScamDB   
+- name: litecoin-tumbler.com
+  url: http://litecoin-tumbler.com
+  category: Scamming
+  subcategory: Mixer
+  description: "Fake Litecoin mixer phishing for funds"
+  addresses:
+    LTC:
+    - "LQEzyfh7Fy3CnexFx6NJVBfEGyNvBm422w"
+  reporter: CryptoScamDB 
+- name: hubcoi.com
+  url: http://hubcoi.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchage"
+  addresses:
+    BTC:
+    - "3HPSD3DLVYtBvq2P22mr8yV6zBu8s3Jg5E"
+    ETH:
+    - "0xc5399832f1ce5830c8acf5272e7bd89904c62230"
+    BCH:
+    - "qpdwksuvna86702wx3sv3j4wuyunjevcyqcgfpzn6f"
+  reporter: CryptoScamDB 
+- name: hurtrade.com
+  url: http://hurtrade.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchage"
+  addresses:
+    BTC:
+    - "3HPSD3DLVYtBvq2P22mr8yV6zBu8s3Jg5E"
+    ETH:
+    - "0xc5399832f1ce5830c8acf5272e7bd89904c62230"
+    BCH:
+    - "qpdwksuvna86702wx3sv3j4wuyunjevcyqcgfpzn6f"
+  reporter: CryptoScamDB 
+- name: fixxcoin.com
+  url: http://fixxcoin.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchage"
+  addresses:
+    BTC:
+    - "3HPSD3DLVYtBvq2P22mr8yV6zBu8s3Jg5E"
+    ETH:
+    - "0xc5399832f1ce5830c8acf5272e7bd89904c62230"
+    BCH:
+    - "qpdwksuvna86702wx3sv3j4wuyunjevcyqcgfpzn6f"
+  reporter: CryptoScamDB 
+- name: muskevent.net
+  url: http://muskevent.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB 
+- name: zilliqawallet.online
+  url: http://zilliqawallet.online
+  category: Phishing
+  subcategory: Zilliqa
+  description: "Fake Zilliqa wallet phishing for secrets with POST /upload.php"
+  reporter: CryptoScamDB 
+- name: wallet.trxlive.network
+  url: http://wallet.trxlive.network
+  category: Phishing
+  subcategory: Tron
+  description: "Fake Tron wallet phishing for secrets with POST /upload.php"
+  reporter: CryptoScamDB 
+- name: exodusupdate.com
+  url: http://exodusupdate.com
+  category: Malware
+  subcategory: Exodus
+  description: "Hosting malicious exodus files - sha256 861140669bc8760954c8c6bd9b99eda5b634eaa2367afc1818cda5e518d41d44"
+  reporter: CryptoScamDB 
+- name: alanbtc.com
+  url: http://alanbtc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1ALAN13aqTVToNS7DKx89WMsYoqy5NbL3u"
+  reporter: CryptoScamDB  
+- name: josephbtc.com
+  url: http://josephbtc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Joseph8VP6phaGChyvzqKfSTWBoAcTVjn"
+  reporter: CryptoScamDB  
+- name: fordbtc.org
+  url: http://fordbtc.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Ford1CbJV4Dv7AATVTdjHhbTU789BHZqW"
+  reporter: CryptoScamDB  
+- name: bransonbtc.com
+  url: http://bransonbtc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BransoNfjeB9T2mHRt61BRBao7uAfAs1E"
+  reporter: CryptoScamDB  
+- name: bloombergbtc.net
+  url: http://bloombergbtc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BLoomQexChucXeq4zQPRB3ZyFB5mF6nuh"
+  reporter: CryptoScamDB  
+- name: elonmuskdrop.com
+  url: http://elonmuskdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1SpaceMrzPknno6Bpf3NnvARiRnDrK7Ln"
+  reporter: CryptoScamDB  
+- name: muskbtc.us
+  url: http://muskbtc.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1GxcnXdsgEJVnSzbmapuSQ38RB8b55XsVk"
+  reporter: CryptoScamDB  
+- name: sonyxbtc.net
+  url: http://sonyxbtc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BHpMBXXq7QdovuLMZM2Ws7EVUJkNE5ojN"
+  reporter: CryptoScamDB  
+- name: wozniakdrop.com
+  url: http://wozniakdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PGJy8tkqsfvMquuBfLhZdgwU6JEQsB4bB"
+  reporter: CryptoScamDB  
+- name: spacexbtcx.com
+  url: http://spacexbtcx.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1ELonqCQL9pmjPJSTJrQUWEqS6pjvi96Ph"
+  reporter: CryptoScamDB  
+- name: durovairdrop.com
+  url: http://durovairdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "173xPiEVLDGZC2wHsNhThTy2amPxoRjthk"
+  reporter: CryptoScamDB  
+- name: cookbtc.com
+  url: http://cookbtc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1CookRLPeKvdDqrK2uyigYR923sBPozbMM"
+  reporter: CryptoScamDB  
+- name: etherairdrop.com
+  url: http://etherairdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "173xPiEVLDGZC2wHsNhThTy2amPxoRjthk"
+  reporter: CryptoScamDB  
+- name: panteradrop.com
+  url: http://panteradrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1KiyorVSpThwSsYfjosdqvyKcfs1dPF2MR"
+  reporter: CryptoScamDB  
+- name: spacexdropx.com
+  url: http://spacexdropx.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1SpacekRoW3FEVei5je2pNN4ishY5ZEgo"
+  reporter: CryptoScamDB  
