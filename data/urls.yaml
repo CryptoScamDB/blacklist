@@ -59095,3 +59095,47 @@
     BTC:
     - "1SpacekRoW3FEVei5je2pNN4ishY5ZEgo"
   reporter: CryptoScamDB  
+- name: dropelon.co
+  url: http://dropelon.co
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14rKdzbFzAzAhCWYpX3RGrt8HYr9NL5RqS"
+    ETH:
+    - "0xE10c32eCac0bD4767e21bB05b16Ae7Ed1b7D457B"
+  reporter: CryptoScamDB  
+- name: fxoption27.com
+  url: http://fxoption27.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "1EmL3MnHPBdifATrBJ9UpNYbJUFpt9jsRP"
+  reporter: CryptoScamDB  
+- name: lcon.foundation
+  url: http://lcon.foundation
+  category: Scamming
+  subcategory: Icon
+  description: "Fake Icon foundation site phishing for secrets with POST /privatekey.php"
+  reporter: CryptoScamDB  
+- name: wallet.fantom.link
+  url: http://wallet.fantom.link
+  category: Scamming
+  subcategory: Fantom
+  description: "Fake Fantom wallet phishing for secrets with POST /privatekey.php"
+  reporter: CryptoScamDB  
+- name: coinphant.com
+  url: http://coinphant.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits and KYC data"
+  addresses:
+    ETH:
+    - "0x6683f908546E5c86AE8AF05735a8016C4526840c"
+    - "0xbe1395D3a6Ea56F245A46955D20ba2C3bFa538d4"
+    LTC:
+    - "M8KoBZ4LoMwfsK7Y6yiy6pcHTZbQeva7dr"
+  reporter: CryptoScamDB  
