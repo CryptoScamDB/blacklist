@@ -59139,3 +59139,19 @@
     LTC:
     - "M8KoBZ4LoMwfsK7Y6yiy6pcHTZbQeva7dr"
   reporter: CryptoScamDB  
+- name: fulcrum.codes
+  url: http://fulcrum.codes
+  category: Phishing
+  subcategory: Fulcrum
+  description: "Fake Fulcrum site phishing for funds"
+  addresses:
+    ETH:
+    - "0x830B99a1DF212abE46C2634F4a0D26685b2B83cF"
+    - "0xa5b424581C8B8037aB34cf0F3537911a8e7ACA41"
+  reporter: CryptoScamDB  
+- name: coinbiz.me
+  url: http://coinbiz.me
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for funds"
+  reporter: CryptoScamDB
