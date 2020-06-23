@@ -59185,3 +59185,13 @@
   subcategory: Ripple
   description: "Fake Ripple site phishing for secrets with POST /post.php"
   reporter: CryptoScamDB
+- name: fulcrum.plus
+  url: http://fulcrum.plus
+  category: Phishing
+  subcategory: Fulcrum
+  description: "Fake Fulcrum site phishing for funds"
+  addresses:
+    ETH:
+    - "0x830B99a1DF212abE46C2634F4a0D26685b2B83cF"
+    - "0xa5b424581C8B8037aB34cf0F3537911a8e7ACA41"
+  reporter: CryptoScamDB    
