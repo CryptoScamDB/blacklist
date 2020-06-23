@@ -59155,3 +59155,27 @@
   subcategory: Exchange
   description: "Fake exchange phishing for funds"
   reporter: CryptoScamDB
+- name: paxfulc.com
+  url: http://paxfulc.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful site phishing for logins with POST /"
+  reporter: CryptoScamDB
+- name: paxfuloffers.com
+  url: http://paxfuloffers.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful site phishing for logins with POST /register"
+  reporter: CryptoScamDB
+- name: paxful-com-login.oauth-deriv-binary.website
+  url: http://paxful-com-login.oauth-deriv-binary.website
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful site phishing for logins with POST /login.php"
+  reporter: CryptoScamDB
+- name: chainlinktoken.info
+  url: http://chainlinktoken.info
+  category: Phishing
+  subcategory: Chainlink
+  description: "Fake Chainlink airdrop phishing for secrets with POST /sign.php - promoted on twitter by @LinkChainlink (id: 1227974606448885760) and @Chainlink_Link (id: 1227617073171517442)"
+  reporter: CryptoScamDB
