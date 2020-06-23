@@ -59179,3 +59179,9 @@
   subcategory: Chainlink
   description: "Fake Chainlink airdrop phishing for secrets with POST /sign.php - promoted on twitter by @LinkChainlink (id: 1227974606448885760) and @Chainlink_Link (id: 1227617073171517442)"
   reporter: CryptoScamDB
+- name: ripple.com.bz
+  url: http://ripple.com.bz
+  category: Phishing
+  subcategory: Ripple
+  description: "Fake Ripple site phishing for secrets with POST /post.php"
+  reporter: CryptoScamDB
