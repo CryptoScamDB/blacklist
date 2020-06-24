@@ -59214,3 +59214,9 @@
   subcategory: Chainlink
   description: "Fake Chainlink airdrop phishing for secrets with POST /sign.php"
   reporter: CryptoScamDB
+- name: myrthesrvvelltni.com
+  url: http://myrthesrvvelltni.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST //gmsstatistics.com/sending.php?message=Private%20key:%20<key>"
+  reporter: CryptoScamDB
