@@ -59195,3 +59195,22 @@
     - "0x830B99a1DF212abE46C2634F4a0D26685b2B83cF"
     - "0xa5b424581C8B8037aB34cf0F3537911a8e7ACA41"
   reporter: CryptoScamDB    
+- name: avubit.com
+  url: http://avubit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    LTC:
+    - "MWhbe8B8YtU8J1MsFavtkGVYqAABTKMds4"
+    ETH:
+    - "0x0C7bdabE793f84A8F8FCBa6A84EDdD7B250B6481"
+    BTC:
+    - "3CpCLbYjwXjYonyUXqdJ3pQHn5VyS6ysrn"
+  reporter: CryptoScamDB    
+- name: linkcoinairdrop.com
+  url: http://linkcoinairdrop.com
+  category: Phishing
+  subcategory: Chainlink
+  description: "Fake Chainlink airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
