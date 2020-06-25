@@ -59220,3 +59220,73 @@
   subcategory: MyEtherWallet
   description: "Fake MyEtherWallet phishing for secrets with POST //gmsstatistics.com/sending.php?message=Private%20key:%20<key>"
   reporter: CryptoScamDB
+- name: growbitcoin.co.uk
+  url: http://growbitcoin.co.uk
+  category: Scamming
+  subcategory: Ponzi
+  description: "Ponzi scheme"
+  addresses:
+    BTC:
+    - "1Pcc7WJk5WkjzcuC2TvvSiS6EsQXeFF434"
+  reporter: CryptoScamDB
+- name: get2xcoin.com
+  url: http://get2xcoin.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rUKuJNSCGAzoiwjzxY2hDJDWUcx5ciy5cV"
+    ETH:
+    - "0xf76653cf541dec6d82e0f8e6404135b957aac095"
+    BTC:
+    - "1BCXvmHsBXVepZzt4hca7U1S4ihLzwXAJy"
+  reporter: CryptoScamDB 
+- name: oldetherwallet.com
+  url: http://oldetherwallet.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST /highslide/codp.php"
+  reporter: CryptoScamDB
+- name: mydashwallets.com
+  url: http://mydashwallets.com
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Dash wallet phishing for secrets with POST /cache/codp.php"
+  reporter: CryptoScamDB
+- name: myakawallet.com
+  url: http://myakawallet.com
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Akroma wallet phishing for secrets with POST /files/codp.php"
+  reporter: CryptoScamDB
+- name: musicoinwallet.com
+  url: http://musicoinwallet.com
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Musicoin wallet phishing for secrets with POST /cache/codp.php"
+  reporter: CryptoScamDB
+- name: expwallet.net
+  url: http://expwallet.net
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Expanse wallet phishing for secrets with POST /cache/codp.php"
+  reporter: CryptoScamDB
+- name: dbix.link
+  url: http://dbix.link
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Dbix wallet phishing for secrets with POST /highslide/codp.php"
+  reporter: CryptoScamDB
+- name: myubiqwallet.com
+  url: http://myubiqwallet.com
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Ubiq wallet phishing for secrets with POST /highslide/codp.php"
+  reporter: CryptoScamDB
+- name: clowallet.network
+  url: http://clowallet.network
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Callisto wallet phishing for secrets with POST /cache/codp.php"
+  reporter: CryptoScamDB
