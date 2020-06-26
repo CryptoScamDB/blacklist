@@ -59308,3 +59308,15 @@
   subcategory: Stellar
   description: "Fake Stellar site phishing for secrets"
   reporter: CryptoScamDB
+- name: blogstellar.org
+  url: http://blogstellar.org
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site linking users to accountviewer.xn--stelar-6db.org"
+  reporter: CryptoScamDB
+- name: xn--accountvewer-stellar-pbd.com
+  url: http://xn--accountvewer-stellar-pbd.com
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
