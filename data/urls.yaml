@@ -59290,3 +59290,21 @@
   subcategory: Wallet
   description: "Fake Callisto wallet phishing for secrets with POST /cache/codp.php"
   reporter: CryptoScamDB
+- name: xn--stelar-6db.org
+  url: http://xn--stelar-6db.org
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets with POST //api.amplitude.com/ (client id: c666c8ed260d8e90cc5ac3f242c2fcae)"
+  reporter: CryptoScamDB
+- name: xn--stllar-cpc.com
+  url: http://xn--stllar-cpc.com
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: xn--stllar-q3a.com
+  url: http://xn--stllar-q3a.com
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
