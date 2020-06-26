@@ -59294,7 +59294,7 @@
   url: http://xn--stelar-6db.org
   category: Phishing
   subcategory: Stellar
-  description: "Fake Stellar site phishing for secrets with POST //api.amplitude.com/ (client id: c666c8ed260d8e90cc5ac3f242c2fcae)"
+  description: "Fake Stellar site phishing for secrets with POST /post.php"
   reporter: CryptoScamDB
 - name: xn--stllar-cpc.com
   url: http://xn--stllar-cpc.com
