@@ -59320,3 +59320,50 @@
   subcategory: Stellar
   description: "Fake Stellar site phishing for secrets"
   reporter: CryptoScamDB
+- name: 0101.systems
+  url: http://0101.systems
+  category: Phishing
+  subcategory: Electrum
+  description: "Fake Electrum wallet phishing for secrets with POST /api.php"
+  reporter: CryptoScamDB
+- name: myrthervvellanti.com
+  url: http://myrthervvellanti.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with GET //gmsstatistics.com/sending.php?message=Private%20key:%200x{key}"
+  reporter: CryptoScamDB
+- name: guadra.com
+  url: http://guadra.com
+  category: Phishing
+  subcategory: Guarda
+  description: "Fake Guarda wallet phishing for secrets with POST /app/jameson.php"
+  reporter: CryptoScamDB
+- name: giveaway-bit.xyz
+  url: http://giveaway-bit.xyz
+  category: Phishing
+  subcategory: Giveaway
+  description: "Fake airdrop phishing for secrets with POST //www.cognitoforms.com/forms/public/entry (AccessToken: mRGk1fmTwE48a-D6-Rjm3FRkZxExyPnrIjsWd-3U5y8$)"
+  reporter: CryptoScamDB
+- name: crypto-trust.co
+  url: http://crypto-trust.co
+  category: Scamming
+  subcategory: Ponzi
+  description: "Ponzi scheme/fake trust phishing for deposits"
+  reporter: CryptoScamDB
+- name: wintesla.net
+  url: http://wintesla.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xe00ae373f0d97f6e402644d45434255f946c421d"
+    BTC:
+    - "17N9217oTsR9JUFf4Li817Jn71afNs77zi"
+  reporter: CryptoScamDB 
+- name: trustapp.ltd
+  url: http://trustapp.ltd
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust site phishing for secrets with POST /login/process_login.php (backend of com.trust.manager.app)"
+  reporter: CryptoScamDB
