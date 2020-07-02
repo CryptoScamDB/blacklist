@@ -59367,3 +59367,41 @@
   subcategory: Trust
   description: "Fake Trust site phishing for secrets with POST /login/process_login.php (backend of com.trust.manager.app)"
   reporter: CryptoScamDB
+- name: dexapis.xyz
+  url: http://dexapis.xyz
+  category: Phishing
+  subcategory: Binance
+  description: "Fake Binance phishing for secrets with POST /api/validate/"
+  reporter: CryptoScamDB
+- name: the-blockchain.com
+  url: http://the-blockchain.com
+  category: Scamming
+  subcategory: Stellar
+  description: "Fake news site directing users to a Fake Stellar site xn--stelar-6db.org"
+  reporter: CryptoScamDB
+- name: arbitragecrypto.org
+  url: http://arbitragecrypto.org
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  addresses:
+    BTC:
+    - "1GvguQFtP8qtjZYKhV7e5ynHfp4K9P2oaY"
+  reporter: CryptoScamDB
+- name: elonevent.site
+  url: http://elonevent.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xf6945f3297Aa17EC806Ed1323679a2457b5f003D"
+    BTC:
+    - "1TESLAm6THJvbj7UyQzVuGBhYKcZn5u3o"
+  reporter: CryptoScamDB 
+- name: mewapp.ltd
+  url: http://mewapp.ltd
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Hosting a fake MyEtherWallet phishing for funds with POST //vladlad[.]com/api/ - https://twitter.com/sniko_/status/1278702506420383751"
+  reporter: CryptoScamDB
