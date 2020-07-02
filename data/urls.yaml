@@ -59405,3 +59405,87 @@
   subcategory: MyEtherWallet
   description: "Hosting a fake MyEtherWallet phishing for funds with POST //vladlad[.]com/api/ - https://twitter.com/sniko_/status/1278702506420383751"
   reporter: CryptoScamDB
+- name: lumiwalletapp.com
+  url: http://lumiwalletapp.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: metamask.ltd
+  url: http://metamask.ltd
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: samoraiwalletapp.com
+  url: http://samoraiwalletapp.com
+  category: Phishing
+  subcategory: Samorai
+  description: "Fake Samorai wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: bitpieapp.com
+  url: http://bitpieapp.com
+  category: Phishing
+  subcategory: Bitpie
+  description: "Fake Bitpie wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: paytomatwallet.com
+  url: http://paytomatwallet.com
+  category: Phishing
+  subcategory: Paytomat
+  description: "Fake Paytomat wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: pumapayapp.com
+  url: http://pumapayapp.com
+  category: Phishing
+  subcategory: PumaPay
+  description: "Fake PumaPay wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: blockchainapp.ltd
+  url: http://blockchainapp.ltd
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: jaxx.ltd
+  url: http://jaxx.ltd
+  category: Phishing
+  subcategory: Jaxx
+  description: "Fake Jaxx wallet phishing for secrets with POST //vladlad.com/jaxx/api.php"
+  reporter: CryptoScamDB
+- name: greenapp.ltd
+  url: http://greenapp.ltd
+  category: Phishing
+  subcategory: GreenWallet
+  description: "Fake Blockstream green wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: exodusapp.ltd
+  url: http://exodusapp.ltd
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: coboapp.ltd
+  url: http://coboapp.ltd
+  category: Phishing
+  subcategory: Cobo
+  description: "Fake Cobo wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: atomicapp.ltd
+  url: http://atomicapp.ltd
+  category: Phishing
+  subcategory: Atomic
+  description: "Fake Atomic wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: ripplewalletapps.com
+  url: http://ripplewalletapps.com
+  category: Phishing
+  subcategory: Ripple
+  description: "Fake Ripple wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
+- name: trezorapp.com
+  url: http://trezorapp.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor wallet phishing for secrets with POST //vladlad.com/api/"
+  reporter: CryptoScamDB
