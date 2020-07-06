@@ -59489,3 +59489,44 @@
   subcategory: Trezor
   description: "Fake Trezor wallet phishing for secrets with POST //vladlad.com/api/"
   reporter: CryptoScamDB
+- name: compoundnode.dev
+  url: http://compoundnode.dev
+  category: Phishing
+  subcategory: Compound
+  description: "Fake Compound site phishing for secrets with POST //vooom-6652.restdb.io/rest/comp (api key: 5ef928e3a529a1752c476ac1)"
+  reporter: CryptoScamDB
+- name: bavbit.com
+  url: http://bavbit.com
+  category: Phishing
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: tesla-bonus.com
+  url: http://tesla-bonus.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DE7CnAHZL1DaYEv2T2m2S2myHJRKPDWpx"
+  reporter: CryptoScamDB 
+- name: trez0r.com
+  url: http://trez0r.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for seeds with POST /ssnd_3.php"
+  reporter: CryptoScamDB
+- name: activdarto.com
+  url: http://activdarto.com
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet site phishing for seeds with POST /submit.php - used in webview for apk com.trustwallet.trustwallet"
+  reporter: CryptoScamDB
+- name: bit-airdrop.club
+  url: http://bit-airdrop.club
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19nnafLmQTCt7zVn5j6qiukgVVdpXwwYpM"
