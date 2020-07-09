@@ -59553,6 +59553,7 @@
     ETH:
     - "0xc1bE0c106963dDc7F76655006ebc9F4B0855642D"
     - "0xCdE7411dEAd6698E1effa8Ef64FB0063857E7e7f"
+  reporter: CryptoScamDB
 - name: elonx.co
   url: http://elonx.co
   category: Scamming
@@ -59565,6 +59566,7 @@
     - "0x1D153deE0A823e9238b4F2E83758E27Be3f1158e"
     XRP:
     - "rLp4FVEPo5evkpoGjJ4yxHUerRoWRc5rH4"
+  reporter: CryptoScamDB
 - name: muskspacex.org
   url: http://muskspacex.org
   category: Scamming
@@ -59575,9 +59577,159 @@
     - "1BcUR3gUdP8ofhqNaRtWFtChE4fifxK46C"
     ETH:
     - "0xa71073cbc47c62257a0749503bdbd4d9b5595294"
+  reporter: CryptoScamDB
 - name: pool.balancer.dev
   url: http://pool.balancer.dev
   category: Phishing
   subcategory: Balancer
   description: "Fake Balancer site phishing for private keys with a fake MetaMask popup - POST //vooom-6652.restdb.io/rest/bala (apikey: 5ef928e3a529a1752c476ac1)"
+  reporter: CryptoScamDB
+- name: stock-index.space
+  url: http://stock-index.space
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake Exchange"
+  reporter: CryptoScamDB
+- name: finmaxbo.com
+  url: http://finmaxbo.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange (directed from stock-index.space)"
+  reporter: CryptoScamDB
+- name: tesla-give.com
+  url: http://tesla-give.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EqnSvb7Rk7LzNMpw6JtQtQkuxK1MJAUoU"
+    ETH:
+    - "0xb4ff44b3f2aD84C539Ea1c94D9bB808ee83326e9"
+  reporter: CryptoScamDB
+- name: tesla-cryptos.com
+  url: http://tesla-cryptos.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MbgGKAdzsTKiNv3261AxVAJZwPKpBvToA"
+  reporter: CryptoScamDB
+- name: crypto-event.com
+  url: http://crypto-event.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LXiQZsNnN8FmvdfXwXm5TcgNdKsdDnRQm"
+  reporter: CryptoScamDB
+- name: geminilive.org
+  url: http://geminilive.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3DG9gH7T6C3mkdTZAGuwoeExULn4KEYR1F"
+  reporter: CryptoScamDB
+- name: proether-fundsrelease-participate.com
+  url: http://proether-fundsrelease-participate.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x457442C6f38F23B4b02B28Ee13191483A244665C"
+  reporter: CryptoScamDB
+- name: geminibtc.net
+  url: http://geminibtc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Geminir1DYt2VmiEXsvXfpvmGFofi8hQN"
+  reporter: CryptoScamDB
+- name: gemini-btc.io
+  url: http://gemini-btc.io
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "35VuqxVKMnKMtENCnqMDnstu3Sw1ezfLFy"
+  reporter: CryptoScamDB
+- name: eth-info.com
+  url: http://eth-info.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xbFB2CE39259e0254C2D614fBEd77d6973d51478b"
+  reporter: CryptoScamDB
+- name: ethdropx.info
+  url: http://ethdropx.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x540947739CDF166fB32cCfD8b51474FCe6997736"
+  reporter: CryptoScamDB
+- name: bezos-amazon.top
+  url: http://bezos-amazon.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DSTSd3UcYvEpQHXUCrFjVQWiEApb3W4JB"
+  reporter: CryptoScamDB
+- name: gemini-btc.org
+  url: http://gemini-btc.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1GeminhEKURpSjiAUi7y1enm2KSETxC9Q7"
+  reporter: CryptoScamDB
+- name: tesla-crypto.top
+  url: http://tesla-crypto.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DSTSd3UcYvEpQHXUCrFjVQWiEApb3W4JB"
+  reporter: CryptoScamDB
+- name: mrbeastbtc.info
+  url: http://mrbeastbtc.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18dQohsdfxVioTjaoxPPrQVreVmw3ULvrE"
+  reporter: CryptoScamDB
+- name: ethereumnews.pw
+  url: http://ethereumnews.pw
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xE729e16C22128002DEbd500e98261265D4a8b7e0"
+  reporter: CryptoScamDB
+- name: jack-btc.net
+  url: http://jack-btc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1JackMa9SumkJEKDV8aMd8y1xrhEPyEgRt"
   reporter: CryptoScamDB
