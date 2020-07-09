@@ -59530,3 +59530,54 @@
   addresses:
     BTC:
     - "19nnafLmQTCt7zVn5j6qiukgVVdpXwwYpM"
+- name: notall.eshost.com.ar
+  url: http://notall.eshost.com.ar
+  category: Phishing
+  subcategory: General
+  description: "Fake recovery tool phishing for secrets with GET /index2.php?wallet=<private_key>"
+  reporter: CryptoScamDB
+- name: notallwallet.ml
+  url: http://notallwallet.ml
+  category: Phishing
+  subcategory: General
+  description: "Fake recovery tool phishing for secrets with GET //notall.eshost.com.ar/index2.php?wallet=<private_key>"
+  reporter: CryptoScamDB
+- name: avaxweb.typeform.com
+  url: http://avaxweb.typeform.com
+  category: Scamming
+  subcategory: Ava
+  description: "Fake Ava crowdsale"
+  addresses:
+    BTC:
+    - "bc1qgxsey0klllnhue0cltqgdu0nprasu87uvgg7t3"
+    ETH:
+    - "0xc1bE0c106963dDc7F76655006ebc9F4B0855642D"
+    - "0xCdE7411dEAd6698E1effa8Ef64FB0063857E7e7f"
+- name: elonx.co
+  url: http://elonx.co
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1ELoNKrzDHQHrPozNT4QKsbBL1rsvdfm7"
+    ETH:
+    - "0x1D153deE0A823e9238b4F2E83758E27Be3f1158e"
+    XRP:
+    - "rLp4FVEPo5evkpoGjJ4yxHUerRoWRc5rH4"
+- name: muskspacex.org
+  url: http://muskspacex.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BcUR3gUdP8ofhqNaRtWFtChE4fifxK46C"
+    ETH:
+    - "0xa71073cbc47c62257a0749503bdbd4d9b5595294"
+- name: pool.balancer.dev
+  url: http://pool.balancer.dev
+  category: Phishing
+  subcategory: Balancer
+  description: "Fake Balancer site phishing for private keys with a fake MetaMask popup - POST //vooom-6652.restdb.io/rest/bala (apikey: 5ef928e3a529a1752c476ac1)"
+  reporter: CryptoScamDB
