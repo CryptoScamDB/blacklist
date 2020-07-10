@@ -59733,3 +59733,165 @@
     BTC:
     - "1JackMa9SumkJEKDV8aMd8y1xrhEPyEgRt"
   reporter: CryptoScamDB
+- name: cryptotabhack.com
+  url: http://cryptotabhack.com
+  category: Scamming
+  subcategory: Generator
+  description: "Fake crypto generator - asking for fee to get free bitcoin"
+  addresses:
+    BTC:
+    - "17CZGv5MHrj6hK7qfPShcfYYXPQ2W1GCx2"
+  reporter: CryptoScamDB
+- name: freebitgenerator.com
+  url: http://freebitgenerator.com
+  category: Scamming
+  subcategory: Generator
+  description: "Fake crypto generator - asking for fee to get free bitcoin"
+  addresses:
+    BTC:
+    - "1Dec5eKfUGVuW6iFcCcGWsLFesjpzvTEyp"
+  reporter: CryptoScamDB
+- name: tron-project.com
+  url: http://tron-project.com
+  category: Malware
+  subcategory: Giveaway
+  description: "Fake giveaway hosting malware/trojan - https://app.any.run/tasks/fa854a34-f9c9-4be6-9bfc-529ed16c94c3"
+  reporter: CryptoScamDB
+- name: wwwguarda.co
+  url: http://wwwguarda.co
+  category: Phishing
+  subcategory: Guarda
+  description: "Fake Guarda wallet phishing for secrets with POST /?act=up&kk2=l"
+  reporter: CryptoScamDB
+- name: wwwthetatoken.org
+  url: http://wwwthetatoken.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: hetatoken.org
+  url: http://hetatoken.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: thetatoken.cn
+  url: http://thetatoken.cn
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: tetatoken.org
+  url: http://tetatoken.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: lumiwalle.com
+  url: http://lumiwalle.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: luiwallet.com
+  url: http://luiwallet.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: lumiwalet.com
+  url: http://lumiwalet.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: umiwallet.com
+  url: http://umiwallet.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: lumiwallt.com
+  url: http://lumiwallt.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: lumiwallet.net
+  url: http://lumiwallet.net
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: lumwallet.com
+  url: http://lumwallet.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: wwwlumiwallet.com
+  url: http://wwwlumiwallet.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: lumiwllet.com
+  url: http://lumiwllet.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: thetaoken.org
+  url: http://thetaoken.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: thetatken.org
+  url: http://thetatken.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: thetatoen.org
+  url: http://thetatoen.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: thetatokn.org
+  url: http://thetatokn.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: wwwwhitecoin.info
+  url: http://wwwwhitecoin.info
+  category: Phishing
+  subcategory: Whitecoin
+  description: "Fake Whitecoin wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: lmiwallet.com
+  url: http://lmiwallet.com
+  category: Phishing
+  subcategory: Lumi
+  description: "Fake Lumi wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: theatoken.org
+  url: http://theatoken.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: thetatoke.org
+  url: http://thetatoke.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
+- name: thtatoken.org
+  url: http://thtatoken.org
+  category: Phishing
+  subcategory: Theta
+  description: "Fake Theta wallet phishing for secrets with POST /?act=up"
+  reporter: CryptoScamDB
