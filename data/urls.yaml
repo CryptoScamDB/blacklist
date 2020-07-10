@@ -59916,3 +59916,9 @@
   subcategory: Recovery
   description: "Fake fund recovery service"
   reporter: CryptoScamDB
+- name: uniswop.exchange
+  url: http://uniswop.exchange
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php (suspected address: 0xa5ea7f0314bf7b4e383d6b7a233d8ef6b5f82dd8) - https://twitter.com/sniko_/status/1281670831106658311"
+  reporter: CryptoScamDB
