@@ -59895,3 +59895,24 @@
   subcategory: Theta
   description: "Fake Theta wallet phishing for secrets with POST /?act=up"
   reporter: CryptoScamDB
+- name: event-eth.info
+  url: http://event-eth.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x015a8f02b4e55b3c93678e5b44f7205ff9e8ece2"
+  reporter: CryptoScamDB
+- name: bat-airdrop.com
+  url: http://bat-airdrop.com
+  category: Phishing
+  subcategory: Bat
+  description: "Fake BAT airdrop phishing for secrets with POST /sign.php (promoted on twitter by id: 1227974606448885760)"
+  reporter: CryptoScamDB
+- name: fundsretrieve.com
+  url: http://fundsretrieve.com
+  category: Scamming
+  subcategory: Recovery
+  description: "Fake fund recovery service"
+  reporter: CryptoScamDB
