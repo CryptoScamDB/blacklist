@@ -56308,8 +56308,10 @@
   addresses:
     BTC:
     - "15GZu1S2xSvtN2jLeSPfbLj2ARUekAEPEf"
+    - "1LHhZGVPJiozBiZUMGJUFbeefqCbLfMAkP"
     ETH:
     - "0xD1a64A4486DbEdC49B4c361e6AaB35a3C6d2A796"
+    - "0x9b5b46A975623382C9d58DB4a2515B117b05DE0e"
     XRP:
     - "rNcYLJyWZ1UX8ZujqaDdcNKrjdBJoVGHAG"
   reporter: CryptoScamDB         
@@ -59921,4 +59923,131 @@
   category: Phishing
   subcategory: Uniswap
   description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php (suspected address: 0xa5ea7f0314bf7b4e383d6b7a233d8ef6b5f82dd8) - https://twitter.com/sniko_/status/1281670831106658311"
+  reporter: CryptoScamDB
+- name: ethermoneymachine.com
+  url: http://ethermoneymachine.com
+  category: Scamming
+  subcategory: Investment
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: uniswapv3.org
+  url: http://uniswapv3.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST //vooom-6652.restdb.io/rest/unis (api key: 5ef928e3a529a1752c476ac1)"
+  reporter: CryptoScamDB
+- name: trezor.li
+  url: http://trezor.li
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /ssnd.php"
+  reporter: CryptoScamDB
+- name: xn--rezor-6db.com
+  url: http://xn--rezor-6db.com
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets"
+  reporter: CryptoScamDB
+- name: drop-eth.info
+  url: http://drop-eth.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x429ce0f6927954fea3392eaa76dbffe2e3d428c2"
+    - "0xb366898b85ce3ee45d5909372fc67456f3f336aa"
+  reporter: CryptoScamDB
+- name: coin-free-exchange.cf
+  url: http://coin-free-exchange.cf
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Wallet site phishing for secrets with POST /log.php"
+  reporter: CryptoScamDB
+- name: ethfree.info
+  url: http://ethfree.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xA5A0Db2Cc28D009b2bCcFc5bCBDe8A3AEdf80030"
+  reporter: CryptoScamDB
+- name: accountviewer.stellar.org.vc
+  url: http://accountviewer.stellar.org.vc
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Steller wallet phishing for secrets"
+  reporter: CryptoScamDB
+- name: eth-info.org
+  url: http://eth-info.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x60322FAfA022cAEBeeCd0E037Bd6b163daC3d485"
+  reporter: CryptoScamDB
+- name: ada-event.info
+  url: http://ada-event.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "Ae2tdPwUPEZ6jn1jacyDMaAoA6c6nBtr2SSD4CbzJzxmpF7wyTnszHfbo14"
+  reporter: CryptoScamDB
+- name: cardanoevent.com
+  url: http://cardanoevent.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "DdzFFzCqrhsfyCWHHEB2cxTcyfHPQ2hvLeWTyoQakgMnBp1PhQ1cxhRjbTre5kagogYnmikQgVgS37zvUKav7DFaRqMRL2brNShutUyA"
+  reporter: CryptoScamDB
+- name: cardanofund.info
+  url: http://cardanofund.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "Ae2tdPwUPEZLiZe6qkunFRRJyqopFAWcT788p3bDfy29j4hTHgMTYPBCfqr"
+  reporter: CryptoScamDB
+- name: adafund.net
+  url: http://adafund.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "DdzFFzCqrhseytiRpDcypHQUhYyb6JAz7L1qEksuTtg66fMNd8o6zFKLcJVvox8Pvkn2kZVv6FnxuLc7RB2pRSwakBMLUrxpXpKJhF8J"
+  reporter: CryptoScamDB
+- name: spacex-5000btc.com
+  url: http://spacex-5000btc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1SpaceNwUFXnLGsjmXfu4H5acvzx6nS65"
+  reporter: CryptoScamDB
+- name: fundgemini.com
+  url: http://fundgemini.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Geminim9d6T5UDrwpnRZ14zuoat2ZDToY"
+  reporter: CryptoScamDB
+- name: ethfoundation.info
+  url: http://ethfoundation.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x061bF8Eb985F02a5d267adDCa60e692533d7779C"
   reporter: CryptoScamDB
