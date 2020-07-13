@@ -60051,3 +60051,138 @@
     ETH:
     - "0x061bF8Eb985F02a5d267adDCa60e692533d7779C"
   reporter: CryptoScamDB
+- name: cardanoevent.org
+  url: http://cardanoevent.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "DdzFFzCqrhsiHFrQ1qaoFu42fM2SAQNYmKEgtEkfUY16JwkNsWEoKL1hHS1nfmPGHpu3ZTSAhSmFz1RQtiNC7Db58mVg8AHhEx3Z2moT"
+  reporter: CryptoScamDB
+- name: event-eth.com
+  url: http://event-eth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC4F9fe6F5410a4f4118C25E122F9f3979FfDf235"
+  reporter: CryptoScamDB
+- name: adafund.pro
+  url: http://adafund.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "DdzFFzCqrhsyZBNKUwv3GijbztzW6diMSSbvHfGv2CXGaV5vnLy9WpFTQNaby7ZaUYtLK9j4dasEPvJvVUFNfPs9Sm4Zf8L1bznJagDg"
+  reporter: CryptoScamDB
+- name: event-ada.info
+  url: http://event-ada.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "DdzFFzCqrhsqinQYzSLDoLUMiRqxM23o4a6hFQ1xQPARKbkWd1a9bmVcbVDWQjbocMTVBC6TTedNg5Vk3E4S3HWXiWd5KboEhFEbsdoA"
+  reporter: CryptoScamDB
+- name: cardano-info.us
+  url: http://cardano-info.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "Ae2tdPwUPEZNC8fNPMB3TLxBgtaEPG7H89oD6ZFRxmYKazNd3ppKp4QHMG7"
+  reporter: CryptoScamDB
+- name: ethfundx.info
+  url: http://ethfundx.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xD033e9033c15Bf16c7bf02DB442ff492cabC8dfA"
+  reporter: CryptoScamDB
+- name: eth-free.com
+  url: http://eth-free.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xDce3819395c1a72b30cAEe3dDB83138F7A93194a"
+  reporter: CryptoScamDB
+- name: brainpromo.info
+  url: http://brainpromo.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Brain6mL3WAVe98gKTXXVDQZ528Q53uqj"
+  reporter: CryptoScamDB
+- name: joerogan.fund
+  url: http://joerogan.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1N6Lzm2FUfnsBsrGXkCAmc4v7xetbhMtTL"
+  reporter: CryptoScamDB
+- name: binancefund.org
+  url: http://binancefund.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19tPkpYxtq9XpYT8n9u4SK7V3dcm9cKK3i"
+  reporter: CryptoScamDB
+- name: brock-btc.com
+  url: http://brock-btc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "358arZYMSNEaHSYDKhz9XCyixxU5BEGwWJ"
+  reporter: CryptoScamDB
+- name: cardano-ada.info
+  url: http://cardano-ada.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "DdzFFzCqrhsn4HdDiA6sXbSLQsyzn1kHeyBp45ybpoWfRzXMizj5n2qmiLvKbxLCMtLwoi6pdoDUsTmPpXncoR7GbHT6vQGPf8HsnMuk"
+  reporter: CryptoScamDB
+- name: ethuman.com
+  url: http://ethuman.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x546D0FbE36B105D219EE326A0946d81b2FAeE028"
+  reporter: CryptoScamDB
+- name: ethxevent-participate.com
+  url: http://ethxevent-participate.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xa91875fB18Cadb4e728DAd7F7e11Ed28b6286Fbc"
+  reporter: CryptoScamDB
+- name: kanyebtc.org
+  url: http://kanyebtc.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1KanyevWspyHgwFxGm67ZDynoNHdWCrZwU"
+  reporter: CryptoScamDB
