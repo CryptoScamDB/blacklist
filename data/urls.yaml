@@ -59680,6 +59680,7 @@
   addresses:
     ETH:
     - "0x540947739CDF166fB32cCfD8b51474FCe6997736"
+    - "0xd154C247bfc6fAad6494EE634Ae6a40DB60b3367"
   reporter: CryptoScamDB
 - name: bezos-amazon.top
   url: http://bezos-amazon.top
@@ -60185,4 +60186,98 @@
   addresses:
     BTC:
     - "1KanyevWspyHgwFxGm67ZDynoNHdWCrZwU"
+  reporter: CryptoScamDB
+- name: tesla3.gifts
+  url: http://tesla3.gifts
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17t1FmyjybsA9v5TDX1eiuXX7kYF31PT5a"
+    ETH:
+    - "0x933B60E1fCF840F9cb86BBA98077b4e9ae0A91D6"
+  reporter: CryptoScamDB
+- name: muskpromotion.com
+  url: http://muskpromotion.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MuskJozYFQ56EVxHzg2rcZjPV91QNBH3H"
+    ETH:
+    - "0x546D0FbE36B105D219EE326A0946d81b2FAeE028"
+  reporter: CryptoScamDB
+- name: musk-coin.com
+  url: http://musk-coin.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: musk-gifts.com
+  url: http://musk-gifts.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: login.xn--blockchin-h2a.com
+  url: http://login.xn--blockchin-h2a.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain site phishing for logins"
+  reporter: CryptoScamDB
+- name: login.xn--blockcha-91a41g.com
+  url: http://login.xn--blockcha-91a41g.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain site phishing for logins"
+  reporter: CryptoScamDB
+- name: login.xn--bockchain-0e5h.com 
+  url: http://login.xn--bockchain-0e5h.com 
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain site phishing for logins"
+  reporter: CryptoScamDB
+- name: billgatesbtc.com
+  url: http://billgatesbtc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Gatesdpu66R35jGVKktLYNWrEypmTmjpg"
+  reporter: CryptoScamDB
+- name: smartcontractbiz.com
+  url: http://smartcontractbiz.com
+  category: Scamming
+  subcategory: Ponzi
+  description: "Promoting a ponzi scheme - forsage"
+  reporter: CryptoScamDB
+- name: link-drop.net
+  url: http://link-drop.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2A1fb4a63257F0BcA0B48bf55EDa5AC746B8a75b"
+  reporter: CryptoScamDB
+- name: im-creator.com
+  url: http://im-creator.com
+  category: Scamming
+  subcategory: Investment
+  description: "Fake Article pointing users to fake investment platform - bitcoinmonth-top.info"
+  reporter: CryptoScamDB
+- name: bitcoinmonth-top.info
+  url: http://bitcoinmonth-top.info
+  category: Scamming
+  subcategory: Investment
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: verify.paxfulsupport.online
+  url: http://verify.paxfulsupport.online
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful phishing for details with POST //verify.paxfulsupport.online/kyc/verify-details/"
   reporter: CryptoScamDB
