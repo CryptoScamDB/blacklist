@@ -60281,3 +60281,33 @@
   subcategory: Paxful
   description: "Fake Paxful phishing for details with POST //verify.paxfulsupport.online/kyc/verify-details/"
   reporter: CryptoScamDB
+- name: tronairdrop.com
+  url: http://tronairdrop.com
+  category: Malware
+  subcategory: Tron
+  description: "Fake Tron airdrop prompting malware - https://app.any.run/tasks/8eba6336-a61f-4f80-9f36-3f1103b1d339"
+  reporter: CryptoScamDB
+- name: node.uniswapv1v2.app
+  url: http://node.uniswapv1v2.app
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST //vooom-6652.restdb.io/rest/unis"
+  reporter: CryptoScamDB  
+- name: uniswapexchange.online
+  url: http://uniswapexchange.online
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST //uniswop.shop/googleanalytics.php"
+  reporter: CryptoScamDB  
+- name: uniswop.shop
+  url: http://uniswop.shop
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB  
+- name: xmr-wallet.com
+  url: http://xmr-wallet.com
+  category: Phishing
+  subcategory: Monero
+  description: "Fake Monero wallet phishing for secrets with POST /send.php"
+  reporter: CryptoScamDB  
