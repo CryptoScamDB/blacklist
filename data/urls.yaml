@@ -60352,8 +60352,8 @@
   reporter: CryptoScamDB
 - name: frezor.us
   url: http://frezor.us
-  category: Scamming
-  subcategory: Exchange
+  category: Phishing
+  subcategory: Trezor
   description: "Fake Trezor site phishing for secrets with POST /ssnd_3.php"
   reporter: CryptoScamDB
 - name: gemini-btc.news
