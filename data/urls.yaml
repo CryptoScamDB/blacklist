@@ -60311,3 +60311,74 @@
   subcategory: Monero
   description: "Fake Monero wallet phishing for secrets with POST /send.php"
   reporter: CryptoScamDB  
+- name: cryptoforhealth.com
+  url: http://cryptoforhealth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
+  reporter: CryptoScamDB
+- name: fundusdt.com
+  url: http://fundusdt.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x521627A7b963700B0Bc6B03956e6FDaaA86f1C1e"
+  reporter: CryptoScamDB
+- name: v4-antpool.com
+  url: http://v4-antpool.com
+  category: Phishing
+  subcategory: Antpool
+  description: "Fake antpool site (coinpayments merchant: 8b6232573cfe7a219e76a9da45db5024)"
+  reporter: CryptoScamDB
+- name: wozbtcfunds-joinpromotion.com
+  url: http://wozbtcfunds-joinpromotion.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3DgNrMHMyoQHT3MD5sgsEWt6mjCEbCCDh5"
+  reporter: CryptoScamDB
+- name: bafbit.com
+  url: http://bafbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: frezor.us
+  url: http://frezor.us
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake Trezor site phishing for secrets with POST /ssnd_3.php"
+  reporter: CryptoScamDB
+- name: gemini-btc.news
+  url: http://gemini-btc.news
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Pm4QQcoXWpX8S4hyEai5obzJZMHH6Zw8m"
+  reporter: CryptoScamDB
+- name: cryptominer.tel
+  url: http://cryptominer.tel
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake web miner scamming for deposits"
+  addresses:
+    ETH:
+    - "0xd5a9f47af9b7cd29697da45b295744171f5d78b2"
+    LTC:
+    - "MP8aaUraktPi2LnWxwsKuhZkDaBTPZFJMf"
+  reporter: CryptoScamDB
+- name: bitcryptomania.com
+  url: http://bitcryptomania.com
+  category: Scamming
+  subcategory: Investment
+  description: "Fake investment platform scamming for deposits"
+  reporter: CryptoScamDB
