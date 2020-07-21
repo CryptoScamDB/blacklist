@@ -60382,3 +60382,46 @@
   subcategory: Investment
   description: "Fake investment platform scamming for deposits"
   reporter: CryptoScamDB
+- name: fulcrum.click
+  url: http://fulcrum.click
+  category: Phishing
+  subcategory: Fulcrum
+  description: "Fake Fulcrum UI phishing for deposits"
+  addresses:
+    ETH:
+    - "0x3FC465d1AD56428Ea4d208bDBfDb5c06990Ee05C"
+    - "0xa5b424581C8B8037aB34cf0F3537911a8e7ACA41"
+  reporter: CryptoScamDB
+- name: batairdrop.net
+  url: http://batairdrop.net
+  category: Phishing
+  subcategory: BAT
+  description: "Fake airdrop phishing for keys with POST /sign.php (promoted by twitter id 1227974606448885760)"
+  reporter: CryptoScamDB
+- name: makerdaoweb.org
+  url: http://makerdaoweb.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Fake MakerDao competition)"
+  addresses:
+    ETH:
+    - "0x256D46b673825a5EeDfF1bf8E0a967a5f99Ea1cc"
+  reporter: CryptoScamDB
+- name: ether-promo-participate-now.com
+  url: http://ether-promo-participate-now.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xc8562528E89f27062FB910C64aB6263C5e2AafbB"
+  reporter: CryptoScamDB
+- name: vitalik.top
+  url: http://vitalik.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE08FA33203CaA2E3a4E641B90E92F6F95234099"
+  reporter: CryptoScamDB
