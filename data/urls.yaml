@@ -53800,8 +53800,10 @@
   addresses:
     BTC:
     - "1H2g3ujmyGLS7aMKDkcL8W7FDcRHbeHJDK"
+    - "1PY1yWDqGN5KPhnTwSad3XbtDLXqjXN484"
     ETH:
     - "0xDB9A0EF90fF67B9D0ae480565F7D576F0fd52431"
+    - "0x9735bA8D7374649d188AFaDEa5019e12d2587E00"
   reporter: CryptoScamDB    
 - name: btcgenerator.pro
   url: http://btcgenerator.pro
@@ -60424,4 +60426,104 @@
   addresses:
     ETH:
     - "0xCE08FA33203CaA2E3a4E641B90E92F6F95234099"
+  reporter: CryptoScamDB
+- name: unionfinance.org
+  url: http://unionfinance.org
+  category: Phishing
+  subcategory: Union
+  description: "Fake Union Finance site"
+  addresses:
+    ETH:
+    - "0x90f10470a7E90d9cB74Ceb57cC7AF22a8c4994FF"
+  reporter: CryptoScamDB
+- name: excodus.io
+  url: http://excodus.io
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB
+- name: basbit.com
+  url: http://basbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: digiminer.io
+  url: http://digiminer.io
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake Webminer"
+  addresses:
+    BTC:
+    - "1HBnZtT3s89pPbR7uPTyVv4hfZwFH3iAmG"
+    - "17CZGv5MHrj6hK7qfPShcfYYXPQ2W1GCx2"
+  reporter: CryptoScamDB
+- name: airdropbat.com
+  url: http://airdropbat.com
+  category: Phishing
+  subcategory: BAT
+  description: "Fake airdrop phishing for secrets with POST /sign.php (promoted by twitter id: 1227974606448885760)"
+  reporter: CryptoScamDB
+- name: muskx.co
+  url: http://muskx.co
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1C7Qszf2tEZyvhynpTnNpiqCBgDimMUaj3"
+    ETH:
+    - "0x8A13Db143200a940ce2c01AcaC9a7b5B9F342278"
+  reporter: CryptoScamDB
+- name: daxxcoins.com
+  url: http://daxxcoins.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: eth-event.biz
+  url: http://eth-event.biz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3fEEf6fAaf0a1778f183Ee88cE942edB54f8CCE5"
+  reporter: CryptoScamDB
+- name: blockdrops.info
+  url: http://blockdrops.info
+  category: Phishing
+  subcategory: Giveaway
+  description: "Fake giveaway phishing for secrets with POST //www.cognitoforms.com/forms/public/entry (access_token: h24qBqMS9WiMeUwXSHOb2A_7PViDY_iSHTYHBdRwTO0$)"
+  reporter: CryptoScamDB
+- name: elon-blog.com
+  url: http://elon-blog.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB84eb163a8e00D459098e821F3f7Acd29f208551"
+    BTC:
+    - "1CwtznAUXcUaMDRAi6VFzMeKevpppiUvGU"
+  reporter: CryptoScamDB
+- name: bonus-tesla.com
+  url: http://bonus-tesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB3E979AfDB333BBbdb5e37363Ff8BAa07258Bf3D"
+    BTC:
+    - "13JpzKXcJPKPzqvznQqWmMf6NYBXapcYC8"
+  reporter: CryptoScamDB
+- name: bitminers.store
+  url: http://bitminers.store
+  category: Scamming
+  subcategory: Bitmain
+  description: "Fake Bitmain site"
+  addresses:
+    BTC:
+    - "17F7rv6B1nMyN6jezVnt4z984n15MeeMXN"
   reporter: CryptoScamDB
