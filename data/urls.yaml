@@ -60578,3 +60578,99 @@
   subcategory: Uniswap
   description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
   reporter: CryptoScamDB
+- name: giveaway-eth-trustwallets.000webhostapp.com
+  url: http://giveaway-eth-trustwallets.000webhostapp.com
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet phishing for secrets"
+  reporter: CryptoScamDB
+- name: app-trustwallet.erc20-airdrop.icu
+  url: http://app-trustwallet.erc20-airdrop.icu
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet phishing for secrets with POST //assets-index-files.xyz/snack-VNDC/app.php?attempt=update_security_info_api_keyskip_api_login=1display=pagedirselect=webrootselecthome - being linked from lk.million.money.erc20-airdrop.icu"
+  reporter: CryptoScamDB
+- name: app-trustwallet.rewards-erc20-airdrop.site
+  url: http://app-trustwallet.rewards-erc20-airdrop.site
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet phishing for secrets"
+  reporter: CryptoScamDB
+- name: trustwallet.erc20-airdrop.icu
+  url: http://trustwallet.erc20-airdrop.icu
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet phishing for secrets"
+  reporter: CryptoScamDB
+- name: maezawa-bonus.com
+  url: http://maezawa-bonus.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BRupwMj47uSYB2T7g8mLsTZvEmpRFdY1W"
+  reporter: CryptoScamDB
+- name: gomusk.fun
+  url: http://gomusk.fun
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19UdLwZKxboQCvB2AAddVF7hkXwwPRNfbP"
+    ETH:
+    - "0x9F37c0F7F9d5E8aA3351aFb3D98D0Ae131FB3635"
+  reporter: CryptoScamDB
+-  name: spacex.market
+  url: http://spacex.market
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: elondrops.com
+  url: http://elondrops.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1N9ifUP9unCBRu294xZbEnYL9DDyLePDa1"
+    ETH:
+    - "0x02882F5bd64AF55c3737c480DFe79B0115522f46"
+  reporter: CryptoScamDB
+- name: elonpromo.org
+  url: http://elonpromo.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MUSK19qdVMbLFEAMaeVjB6UpW73RGXSw1"
+    ETH:
+    - "0x3ad072778446db654Dee3FF5f80ac1e5AC12dD56"
+  reporter: CryptoScamDB
+- name: johnpromo.com
+  url: http://johnpromo.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: tesla-bitcoin.info
+  url: http://tesla-bitcoin.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: binance.rewards-programs.org
+  url: http://binance.rewards-programs.org
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST /error.php"
+  reporter: CryptoScamDB
+- name: lcoinbase.com
+  url: http://lcoinbase.com
+  category: Phishing
+  subcategory: Coinbase
+  description: "Fake Coinbase phishing for logins with POST /inloggen.php"
+  reporter: CryptoScamDB
