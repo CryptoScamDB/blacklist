@@ -60527,3 +60527,54 @@
     BTC:
     - "17F7rv6B1nMyN6jezVnt4z984n15MeeMXN"
   reporter: CryptoScamDB
+- name: giveawayairdrop-eth.ga
+  url: http://giveawayairdrop-eth.ga
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust Wallet phishing for secrets with POST /truswallet.php"
+  reporter: CryptoScamDB
+- name: secretmethodsnow.com
+  url: http://secretmethodsnow.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: etherscan.io.rewards-user-info.com
+  url: http://etherscan.io.rewards-user-info.com
+  category: Phishing
+  subcategory: Etherscan
+  description: "Fake etherscan phishing for logins with POST /login.php"
+  reporter: CryptoScamDB
+- name: zedxe.com.rewards-user-info.com
+  url: http://zedxe.com.rewards-user-info.com
+  category: Phishing
+  subcategory: Zedxe
+  description: "Fake Zedxe phishing for logins with POST /login.php"
+  reporter: CryptoScamDB
+- name: multiminer.website
+  url: http://multiminer.website
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake webminer"
+  addresses:
+    BTC:
+    - "3EpfzU9shVqNV8PvNyhCnQBWLSEzDC5FTm"
+  reporter: CryptoScamDB
+- name: landcoinlnc.com
+  url: http://landcoinlnc.com
+  category: Scamming
+  subcategory: ICO
+  description: "Fake team ico website"
+  reporter: CryptoScamDB
+- name: appuniswop.com
+  url: http://appuniswop.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: unisvvap.org
+  url: http://unisvvap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
