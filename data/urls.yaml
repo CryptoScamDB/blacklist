@@ -60622,7 +60622,7 @@
     ETH:
     - "0x9F37c0F7F9d5E8aA3351aFb3D98D0Ae131FB3635"
   reporter: CryptoScamDB
--  name: spacex.market
+- name: spacex.market
   url: http://spacex.market
   category: Scamming
   subcategory: Trust-Trading
