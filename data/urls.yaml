@@ -60674,3 +60674,9 @@
   subcategory: Coinbase
   description: "Fake Coinbase phishing for logins with POST /inloggen.php"
   reporter: CryptoScamDB
+- name: accountviewer.stellar.org.so
+  url: http://accountviewer.stellar.org.so
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar account viewer phishing for logins with POST /post.php"
+  reporter: CryptoScamDB
