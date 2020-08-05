@@ -60680,3 +60680,106 @@
   subcategory: Stellar
   description: "Fake Stellar account viewer phishing for logins with POST /post.php"
   reporter: CryptoScamDB
+- name: ethereumupdate.info
+  url: http://ethereumupdate.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xF558196b277729Dc10486cE0DfC7588466f5c1EC"
+  reporter: CryptoScamDB
+- name: ethereumofficial.org
+  url: http://ethereumofficial.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3AZUS4NGcz4Ca9PMog1xwAzPVqFZ7fedy2"
+  reporter: CryptoScamDB
+- name: social-capital.us
+  url: http://social-capital.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "38XyhvnhmaWCY5o1tUZ4fJXYG2bP2hreUd"
+    - "32VukRYZ2Ax1BM1a2rvkATPox7MbC2EokB"
+    - "3L5ovpafcxgP4zgnvUpCEXkHjnLZkknt9A"
+    - "3QwfGGnSX8Lo8RY544KQNSPMckKe25gb71"
+    - "3M3eoqVGeabEsH7KtDcnad6FAMx64hwWRL"
+  reporter: CryptoScamDB
+- name: ethereum.ltda
+  url: http://ethereum.ltda
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1P9KiSMorbWdWgwDGoj2TaLAmsEid9KjWL"
+    ETH:
+    - "0xAD93FEf882517Ac61d266AD60665b50E6D331C83"
+  reporter: CryptoScamDB
+- name: appuniswap.live
+  url: http://appuniswap.live
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php (redirect from uniswapdex.org)"
+  reporter: CryptoScamDB
+- name: chamathcapital.com
+  url: http://chamathcapital.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3BWDXBQyMAbZKEc8JT5UGdP4Ebi29orqkQ"
+    - "3DcTzg5Gyaj7JSAQu7gkqsoMztzUfwgT4u"
+  reporter: CryptoScamDB
+- name: cardano-page.org
+  url: http://cardano-page.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "DdzFFzCqrhsxVRHtNc8vfrvQBfeRev9gNssNQFrGbKLqT5f5uAE6cJwuUCFx4i754aDZfMiM7CZAwGCLyHEmtPmuVvFxLqWcFrAhLGJV"
+  reporter: CryptoScamDB
+- name: neo-live.org
+  url: http://neo-live.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    NEO:
+    - "AJBM4nbzs8M79k5EioHZrj1QQ9kW2bE97W"
+  reporter: CryptoScamDB
+- name: elonmusk.capital
+  url: http://elonmusk.capital
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18CpTwUqLyUY3K9s6VCNDeQ3noLu3251Ji"
+  reporter: CryptoScamDB
+- name: chamath.fund
+  url: http://chamath.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15Lda7FW6ooCgtKJhMDbm9DCrFjN33Gafg"
+  reporter: CryptoScamDB
+- name: vet.capital
+  url: http://vet.capital
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    VET:
+    - "0x91b99dab2aaa6c87606924e1112c952276cb1b58"
+  reporter: CryptoScamDB
