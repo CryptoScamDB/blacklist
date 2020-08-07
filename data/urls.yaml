@@ -60783,3 +60783,64 @@
     VET:
     - "0x91b99dab2aaa6c87606924e1112c952276cb1b58"
   reporter: CryptoScamDB
+- name: elonmuskevent.com
+  url: http://elonmuskevent.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Musk12cgb4MBVtzECDrhb9dYTYsb8gPCz"
+  reporter: CryptoScamDB
+- name: xn--unswap-q9a.com
+  url: http://xn--unswap-q9a.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php (redirect from uniswapdex.org)"
+  reporter: CryptoScamDB
+- name: bitcoincomputos.com
+  url: http://bitcoincomputos.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake Bitcoin exchange"
+  addresses:
+    BTC:
+    - "19SFqd4iCByXqSqDmEVApA25eGoYknwApT"
+    - "19zyeofprSQc7DMZ93AHS9ZJsEuxcKUXhr"
+  reporter: CryptoScamDB
+- name: bitfurytrade.com
+  url: http://bitfurytrade.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake Investment platform"
+  reporter: CryptoScamDB
+- name: bitfuryweb.com
+  url: http://bitfuryweb.com
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake Webminer platform"
+  reporter: CryptoScamDB
+- name: bitfuryinvest.co
+  url: http://bitfuryinvest.co
+  category: Scamming
+  subcategory: Investments
+  description: "Fake Investment platform"
+  reporter: CryptoScamDB
+- name: appuniswap.live
+  url: http://appuniswap.live
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php (redirect from uniswapdex.org)"
+  reporter: CryptoScamDB
+- name: xn--unswap-xk8b.com
+  url: http://xn--unswap-xk8b.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php (redirect from uniswapdex.org)"
+  reporter: CryptoScamDB
+- name: xn--unswap-4va.com
+  url: http://xn--unswap-4va.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php (redirect from uniswapdex.org)"
+  reporter: CryptoScamDB
