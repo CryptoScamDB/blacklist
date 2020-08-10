@@ -60844,3 +60844,124 @@
   subcategory: Uniswap
   description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php (redirect from uniswapdex.org)"
   reporter: CryptoScamDB
+- name: muskto.fun
+  url: http://muskto.fun
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19UdLwZKxboQCvB2AAddVF7hkXwwPRNfbP"
+    ETH:
+    - "0x9F37c0F7F9d5E8aA3351aFb3D98D0Ae131FB3635"
+  reporter: CryptoScamDB
+- name: musktop.pw
+  url: http://musktop.pw
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: 2ethereum.org
+  url: http://2ethereum.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3ad072778446db654Dee3FF5f80ac1e5AC12dD56"
+  reporter: CryptoScamDB
+- name: spacexethereum.net
+  url: http://spacexethereum.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xD200C6403509589098745490A1fAFA024c987581"
+  reporter: CryptoScamDB
+- name: spacex-eth.biz
+  url: http://spacex-eth.biz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xD5E310BD39cd20EC1db047eC1d28dddF9A520d51"
+  reporter: CryptoScamDB
+- name: xn--niswap-oya.com
+  url: http://xn--niswap-oya.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: wallet.metask.website
+  url: http://wallet.metask.website
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /token.php"
+  reporter: CryptoScamDB
+- name: tesla-musk.net
+  url: http://tesla-musk.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1C79u5iXhxp2fxcAU5CzJF8duEJRridyXq"
+    ETH:
+    - "0xBeFE4154A616DAe79f90d496E104892b14292e17"
+  reporter: CryptoScamDB
+- name: xn--pxfull-pta.com
+  url: http://xn--pxfull-pta.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxul phishing for logins with POST /loading.php"
+  reporter: CryptoScamDB
+- name: trustwalletapp-erc-20-tokens.000webhostapp.com
+  url: http://trustwalletapp-erc-20-tokens.000webhostapp.com
+  category: Phishing
+  subcategory: Trust
+  description: "Fake TrustWallet giveaway phishing for secrets with POST /crypto-wallet.php (/storage/ssd3/236/14557236/public_html/crypto-wallet.php)"
+  reporter: CryptoScamDB
+- name: starlinketh.com
+  url: http://starlinketh.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xb2BFC5fE46C59451E7907bF6Bf54dC9fA47c5602"
+  reporter: CryptoScamDB
+- name: giveaway.is
+  url: http://giveaway.is
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1D4ZoJ7MLhija5iaSjhnwiAdATNLdVfdVk"
+  reporter: CryptoScamDB
+- name: btcsystem-web-app.com
+  url: http://btcsystem-web-app.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: hederabit.com
+  url: http://hederabit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: nivbit.com
+  url: http://nivbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: kavbit.com
+  url: http://kavbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
