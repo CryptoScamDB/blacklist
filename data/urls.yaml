@@ -60965,3 +60965,75 @@
   subcategory: Exchange
   description: "Fake exchange phishing for deposits"
   reporter: CryptoScamDB
+- name: cutve.finance
+  url: http://cutve.finance
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve Finance phishing for secrets with POST /data/index.php"
+  reporter: CryptoScamDB
+- name: appuniswop.org
+  url: http://appuniswop.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: tradergrove.space
+  url: http://tradergrove.space
+  category: Scamming
+  subcategory: Investments
+  description: "Fake Investment platform"
+  reporter: CryptoScamDB
+- name: house-article.space
+  url: http://house-article.space
+  category: Scamming
+  subcategory: Investments
+  description: "Fake Investment platform"
+  reporter: CryptoScamDB
+- name: greece-platform.space
+  url: http://greece-platform.space
+  category: Scamming
+  subcategory: Investments
+  description: "Fake Investment platform"
+  reporter: CryptoScamDB
+- name: musk-send.top
+  url: http://musk-send.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FBujpGzjBdR7vjrHFFTcMqzQFbubvPmGQ"
+  reporter: CryptoScamDB
+- name: btctesla.org
+  url: http://btctesla.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Muskb7s9djSunMWFr4XUdt4hqERzWSjfA"
+  reporter: CryptoScamDB
+- name: muskgive.top
+  url: http://muskgive.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DSTSd3UcYvEpQHXUCrFjVQWiEApb3W4JB"
+  reporter: CryptoScamDB
+- name: cryptos-mask.com
+  url: http://cryptos-mask.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MbgGKAdzsTKiNv3261AxVAJZwPKpBvToA"
+  reporter: CryptoScamDB
+- name: bip39tools.com
+  url: http://bip39tools.com
+  category: Phishing
+  subcategory: General
+  description: "Fake tool sending mnemonics to backend via POST /"
+  reporter: CryptoScamDB
