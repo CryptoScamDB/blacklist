@@ -61037,3 +61037,45 @@
   subcategory: General
   description: "Fake tool sending mnemonics to backend via POST /"
   reporter: CryptoScamDB
+- name: bizstar.icu
+  url: http://bizstar.icu
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: cryptoiqoptions.com
+  url: http://cryptoiqoptions.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: fxpectcrypt.com
+  url: http://fxpectcrypt.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: atomicwallet.website
+  url: http://atomicwallet.website
+  category: Phishing
+  subcategory: Atomic
+  description: "Fake Atomic wallet phishing for secrets with POST /unlock/mnemonic.php (links users to howtotechnaija.com via QR code)"
+  reporter: CryptoScamDB
+- name: moonswap.exchange
+  url: http://moonswap.exchange
+  category: Phishing
+  subcategory: Mooniswap
+  description: "Fake Mooniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: app.xn--uniswp-mta.com
+  url: http://app.xn--uniswp-mta.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: org-connect-wallet.com
+  url: http://org-connect-wallet.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /callback.php"
+  reporter: CryptoScamDB
