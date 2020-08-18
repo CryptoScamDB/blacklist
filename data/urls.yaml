@@ -61079,3 +61079,113 @@
   subcategory: Uniswap
   description: "Fake Uniswap phishing for secrets with POST /callback.php"
   reporter: CryptoScamDB
+- name: check-ledger.com
+  url: http://check-ledger.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: buterin-gold.xyz
+  url: http://buterin-gold.xyz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Fake Airdrop linking users to etherh-vitalik.top"
+  reporter: CryptoScamDB
+- name: etherh-vitalik.top
+  url: http://etherh-vitalik.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC6a4f03F745f4203B2DB7C520b327a27bF070172"
+  reporter: CryptoScamDB
+- name: app.unlswap.org
+  url: http://app.unlswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: coinbitmex.com
+  url: http://coinbitmex.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: crypto-safe.ltd
+  url: http://crypto-safe.ltd
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: bovbit.com
+  url: http://bovbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: zelbit.exchange
+  url: http://zelbit.exchange
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: tevbit.com
+  url: http://tevbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: tocbit.com
+  url: http://tocbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: elonhelp.in
+  url: http://elonhelp.in
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4E825A51b6752D7410690a1Dd5d7D9c4037977E0"
+    BTC:
+    - "12PQy78A2JpUNzr4LKFeHKyLsAo1EEbHU3"
+  reporter: CryptoScamDB
+- name: xrp.ltda
+  url: http://xrp.ltda
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (tag: 101235931)"
+  addresses:
+    XRP:
+    - "rn1mvRe2JTnEXFu6e9w5UE4Sew2Udwm4dv"
+  reporter: CryptoScamDB
+- name: ethevent.top
+  url: http://ethevent.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE0aA8921eF80242F03aE1824E31ccF912bA1EB1"
+  reporter: CryptoScamDB
+- name: app.unjswap.org
+  url: http://app.unjswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: app.uniswap-org.com
+  url: http://app.uniswap-org.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets"
+  reporter: CryptoScamDB
+- name: app.xn--niswap-hq8b.com
+  url: http://app.xn--niswap-hq8b.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
