@@ -61189,3 +61189,21 @@
   subcategory: Uniswap
   description: "Fake Uniswap phishing for secrets with POST /googleanalytics.php"
   reporter: CryptoScamDB
+- name: excodus.cf
+  url: http://excodus.cf
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB
+- name: stellar.org.sb
+  url: http://stellar.org.sb
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for keys with POST /post.php"
+  reporter: CryptoScamDB
+- name: stellar.org.im
+  url: http://stellar.org.im
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for keys with POST /post.php"
+  reporter: CryptoScamDB
