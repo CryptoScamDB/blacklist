@@ -59377,12 +59377,6 @@
   subcategory: Binance
   description: "Fake Binance phishing for secrets with POST /api/validate/"
   reporter: CryptoScamDB
-- name: the-blockchain.com
-  url: http://the-blockchain.com
-  category: Scamming
-  subcategory: Stellar
-  description: "Fake news site directing users to a Fake Stellar site xn--stelar-6db.org"
-  reporter: CryptoScamDB
 - name: arbitragecrypto.org
   url: http://arbitragecrypto.org
   category: Scamming
@@ -60426,6 +60420,7 @@
   addresses:
     ETH:
     - "0xCE08FA33203CaA2E3a4E641B90E92F6F95234099"
+    - "0xCE0B1630A8784407F68184789b64A477d1345890"
   reporter: CryptoScamDB
 - name: unionfinance.org
   url: http://unionfinance.org
@@ -61206,4 +61201,83 @@
   category: Phishing
   subcategory: Stellar
   description: "Fake Stellar site phishing for keys with POST /post.php"
+  reporter: CryptoScamDB
+- name: omg-giveaway.blogspot.com
+  url: http://omg-giveaway.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xabc8b4a3e287339974e51645c2c5d1cee0f25c83"
+  reporter: CryptoScamDB
+- name: uniswap-x.com
+  url: http://uniswap-x.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap"
+  reporter: CryptoScamDB
+- name: omisego-giveaway.blogspot.com
+  url: http://omisego-giveaway.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2135883c8934a4588bAB6efAA785e1C1ae39baEc"
+  reporter: CryptoScamDB
+- name: cryptogifts.s3.us-east-2.amazonaws.com
+  url: http://cryptogifts.s3.us-east-2.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2135883c8934a4588bAB6efAA785e1C1ae39baEc"
+  reporter: CryptoScamDB
+- name: xrp-event.com
+  url: http://xrp-event.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - tag 7777777"
+  addresses:
+    XRP:
+    - "rH53Fwm247eu5LY4Fs5qZEhLqQDBhH7vK4"
+  reporter: CryptoScamDB
+- name: ethoff.org
+  url: http://ethoff.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xAff3c57469d4D7756CAed351Ee154734b7E733Bf"
+  reporter: CryptoScamDB
+- name: fulcrum.nu
+  url: http://fulcrum.nu
+  category: Phishing
+  subcategory: Fulcrum
+  description: "Fake Fulcrum site phishing for funds"
+  addresses:
+    ETH:
+    - "0x00701Ad62D277B0f075fEdBDD33019E0F42a5ED9"
+    - "0xa5b424581C8B8037aB34cf0F3537911a8e7ACA41"
+  reporter: CryptoScamDB    
+- name: eth-giveaway.top
+  url: http://eth-giveaway.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x8532D553Ac7eb83b0A75fa6De3e298106e8BfcB8"
+  reporter: CryptoScamDB
+- name: vit-ethx.top
+  url: http://vit-ethx.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x8532D553Ac7eb83b0A75fa6De3e298106e8BfcB8"
   reporter: CryptoScamDB
