@@ -28182,10 +28182,14 @@
   url: http://ethereum-event.com
   category: Scamming
   subcategory: Trust-Trading
-  description: Trust-Trading site
+  description: "Trust-Trading site  (xrp tag: 100992747)"
   addresses:
     ETH:
     - "0x6668bD45B15E2775F03e738Ef6257637A9745287"
+    - "0xdd1b56BA56a9D2785133ff55dC253cC895A7bbAF"
+    - "0xd7EdBc44364A7A24659e46852E3e070E1E5De5b0"
+    XRP:
+    - "r9ceeCknfMufyvVi1aPjAFxXodbfPmemsf"
   reporter: CryptoScamDB
 - name: ethereum-giveaway.safe-eth.top
   url: http://ethereum-giveaway.safe-eth.top
@@ -61252,6 +61256,7 @@
   addresses:
     ETH:
     - "0xAff3c57469d4D7756CAed351Ee154734b7E733Bf"
+    - "0xB49B016F80303aF3EF407DD1eBf11257A80659D3"
   reporter: CryptoScamDB
 - name: fulcrum.nu
   url: http://fulcrum.nu
@@ -61271,6 +61276,7 @@
   addresses:
     ETH:
     - "0x8532D553Ac7eb83b0A75fa6De3e298106e8BfcB8"
+    - "0xBf087A4C45c3e939d4e530F9dbcda39feD07b51e"
   reporter: CryptoScamDB
 - name: vit-ethx.top
   url: http://vit-ethx.top
@@ -61280,4 +61286,44 @@
   addresses:
     ETH:
     - "0x8532D553Ac7eb83b0A75fa6De3e298106e8BfcB8"
+  reporter: CryptoScamDB
+- name: tesla3-bonus.com
+  url: http://tesla3-bonus.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x48A1b80e1868901479F0eEBec7b66fF23D59e61a"
+    - "0xF4145988fDF8783fEc4aE21f251054846C787cF2"
+  reporter: CryptoScamDB
+- name: coinaxel.com
+  url: http://coinaxel.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for funds via Coinbase Commerce 807a5af7-0584-4e43-94f1-222e7cb1470f"
+  reporter: CryptoScamDB
+- name: uniswap-exchange.com
+  url: http://uniswap-exchange.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap exchange phishing for secrets"
+  reporter: CryptoScamDB
+- name: app.uniswap-exchange.eu
+  url: http://app.uniswap-exchange.eu
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap exchange phishing for secrets"
+  reporter: CryptoScamDB
+- name: appunjswap.org
+  url: http://appunjswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap exchange phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: appuniswop.link
+  url: http://appuniswop.link
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap exchange phishing for secrets with POST /googleanalytics.php"
   reporter: CryptoScamDB
