@@ -61412,3 +61412,66 @@
     - "0x8D1f89E686290A5215579F385b032804A6307B48"
     - "0x16557F52E7695452d5A41774F2fA4Bc3E14a899F"
   reporter: CryptoScamDB
+- name: ethbv.com
+  url: http://ethbv.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE04bB02c933bdAd15c2397b09AF2717CA5819c8"
+  reporter: CryptoScamDB
+- name: officialvitalik.com
+  url: http://officialvitalik.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE0E4be6A8D295bE2C6B65e6dED1484dD34CdB40"
+  reporter: CryptoScamDB
+- name: chainlink-giveaway.blogspot.com
+  url: http://chainlink-giveaway.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x47545d1f047dEfa2E7d543E603D74ab8E26acc91"
+  reporter: CryptoScamDB
+- name: vitalikb.top
+  url: http://vitalikb.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE03c11208ff0A11e092AbA4100Ce6293Fb401f2"
+  reporter: CryptoScamDB
+- name: vitalikbb.top
+  url: http://vitalikbb.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE0B1630A8784407F68184789b64A477d1345890"
+  reporter: CryptoScamDB
+- name: app.xn--unswp-6qa5f.com
+  url: http://app.xn--unswp-6qa5f.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap exchange phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: app.xn--uniswp-0ta.com
+  url: http://app.xn--uniswp-0ta.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap exchange phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: app.xn--nswap-0ua70b.com
+  url: http://app.xn--nswap-0ua70b.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap exchange phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
