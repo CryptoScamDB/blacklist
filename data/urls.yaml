@@ -61327,3 +61327,88 @@
   subcategory: Uniswap
   description: "Fake Uniswap exchange phishing for secrets with POST /googleanalytics.php"
   reporter: CryptoScamDB
+- name: stellar.org.lv
+  url: http://stellar.org.lv
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets with POST /post.php"
+  reporter: CryptoScamDB
+- name: fulcrum.run
+  url: http://fulcrum.run
+  category: Phishing
+  subcategory: Fulcrum
+  description: "Fake Fulcrum tool phishing for funds"
+  addresses:
+    ETH:
+    - "0x87C6Da960D6f4118A7E9584921c7fe25A51aB160"
+    - "0xa5b424581C8B8037aB34cf0F3537911a8e7ACA41"
+  reporter: CryptoScamDB
+- name: elon2.top
+  url: http://elon2.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x0e820c808e514Cc67C193c0828415C70A5f41073"
+    BTC:
+    - "1Ppg8Hwhg1j6vtfh6Jc3gg4gHTw5JXvcfW"
+  reporter: CryptoScamDB
+- name: litecoinminer.space
+  url: http://litecoinminer.space
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake Webminer scamming for deposits - coinpayments merchant id: 82023f56067ff6667f0884a987ce2d81"
+  reporter: CryptoScamDB
+- name: dogecoinminer.space
+  url: http://dogecoinminer.space
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake Webminer scamming for deposits"
+  reporter: CryptoScamDB
+- name: ethereumminer.space
+  url: http://ethereumminer.space
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake Webminer scamming for deposits - coinpayments merchant id: 82023f56067ff6667f0884a987ce2d81"
+  reporter: CryptoScamDB
+- name: bchminer.space
+  url: http://bchminer.space
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake Webminer scamming for deposits"
+  reporter: CryptoScamDB
+- name: dashcoinminer.space
+  url: http://dashcoinminer.space
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake Webminer scamming for deposits"
+  reporter: CryptoScamDB
+- name: btcminer.website
+  url: http://btcminer.website
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake Webminer scamming for deposits"
+  reporter: CryptoScamDB
+- name: morphtoken.co
+  url: http://morphtoken.co
+  category: Phishing
+  subcategory: Morphtoken
+  description: "Fake MorphToken website - see https://redd.it/igi3w4"
+  addresses:
+    BTC:
+    - "1FvDGQivz9SypQTUDL4JCtzhJz46d7SwJb"
+  reporter: CryptoScamDB
+- name: libraglobalcoin.io
+  url: http://libraglobalcoin.io
+  category: Phishing
+  subcategory: Libra
+  description: "Fake Libra crowdsale site"
+  addresses:
+    BTC:
+    - "1KZDCamDi1zZJxrmYTecPpz6YCMGQSwTXQ"
+    - "182JkZCLYs5U2UzuAETc7v5PkidrGcBqPL"
+    ETH:
+    - "0x8D1f89E686290A5215579F385b032804A6307B48"
+    - "0x16557F52E7695452d5A41774F2fA4Bc3E14a899F"
+  reporter: CryptoScamDB
