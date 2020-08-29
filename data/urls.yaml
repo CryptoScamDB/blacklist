@@ -61475,3 +61475,48 @@
   subcategory: Uniswap
   description: "Fake Uniswap exchange phishing for secrets with POST /googleanalytics.php"
   reporter: CryptoScamDB
+- name: stellarpay.org
+  url: http://stellarpay.org
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets with POST /wp-json/contact-form-7/v1/contact-forms/7/feedback"
+  reporter: CryptoScamDB
+- name: omgnetwork.info
+  url: http://omgnetwork.info
+  category: Phishing
+  subcategory: OmiseGo
+  description: "Fake OMG airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: wallet.atomicweb.network
+  url: http://wallet.atomicweb.network
+  category: Phishing
+  subcategory: Atomic
+  description: "Fake Atomic Wallet site phishing for secrets with POST /mnemonic.php"
+  reporter: CryptoScamDB
+- name: ethfo.com
+  url: http://ethfo.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE01bb717Eb5CF550AC2c9941Dc2C8462eEF4355"
+  reporter: CryptoScamDB
+- name: tether-mixer.com
+  url: http://tether-mixer.com
+  category: Scamming
+  subcategory: Mixer
+  description: "Fake Mixer phishing for funds"
+  addresses:
+    ETH:
+    - "0xe8EF8583e947C01f3c2b819a3c378B4AAEE97b42"
+  reporter: CryptoScamDB
+- name: chainlinksgiveaways.blogspot.com
+  url: http://chainlinksgiveaways.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB4BF5Dc6aD21b23d4e94c14ff5B3F60f1636DA7A"
+  reporter: CryptoScamDB
