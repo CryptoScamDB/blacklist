@@ -61520,3 +61520,42 @@
     ETH:
     - "0xB4BF5Dc6aD21b23d4e94c14ff5B3F60f1636DA7A"
   reporter: CryptoScamDB
+- name: binance.oktaplatform.com
+  url: http://binance.oktaplatform.com
+  category: Phishing
+  subcategory: Binance
+  description: "Fake Binance site phishing for logins with POST /login/cert"
+  reporter: CryptoScamDB
+- name: trustswap-rewards-programs-claims-tokens.com
+  url: http://trustswap-rewards-programs-claims-tokens.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST /myetherwallet.php/"
+  reporter: CryptoScamDB
+- name: freebitcoinmining.website
+  url: http://freebitcoinmining.website
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake cloudminer"
+  addresses:
+    BTC:
+    - "19aGJV9X9kETEWZ7kXqXBgm8BJ7xWot1yz"
+  reporter: CryptoScamDB
+- name: trezor.com.se
+  url: http://trezor.com.se
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST //api.telegram.org/bot975551611:AAGIwppN8dEwj9EDArbj1-q8ZJOrhcAILHg/sendMessage?text=<keys>&chat_id=1012841569 - https://twitter.com/Mutex_Lock/status/1301445856206483456"
+  reporter: CryptoScamDB
+- name: wallet.restore-ledger.org
+  url: http://wallet.restore-ledger.org
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /mnemonic.php"
+  reporter: CryptoScamDB
+- name: omisegoairdrop.info
+  url: http://omisegoairdrop.info
+  category: Phishing
+  subcategory: OmiseGo
+  description: "Fake OmiseGo airdrop phishing for secrets with POST /sign.php (promoted by twitter id 1227974606448885760)"
+  reporter: CryptoScamDB
