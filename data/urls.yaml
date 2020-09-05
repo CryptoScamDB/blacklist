@@ -61559,3 +61559,61 @@
   subcategory: OmiseGo
   description: "Fake OmiseGo airdrop phishing for secrets with POST /sign.php (promoted by twitter id 1227974606448885760)"
   reporter: CryptoScamDB
+- name: jdax.market
+  url: http://jdax.market
+  category: Phishing
+  subcategory: Idex
+  description: "Fake Idex market phishing for secrets with POST /data/send_1.php"
+  reporter: CryptoScamDB
+- name: supportbnb.com
+  url: http://supportbnb.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: bin-crypto.com
+  url: http://bin-crypto.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x04DFB08172A29D86dE9A5cC1182EDbeE5D8CDb84"
+    BTC:
+    - "19YhkpB4ZdZB4eBTqbWF7vjWvKccGWHAMW"
+  reporter: CryptoScamDB
+- name: binancefound.com
+  url: http://binancefound.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x8DBe0f0fa03435493B0D7e85bB68CD79A3B9da6e"
+    BTC:
+    - "1MiyRXMDHVquDyRUGvh4uSmVzdvdqgbTvr"
+  reporter: CryptoScamDB
+- name: exoduz.io
+  url: http://exoduz.io
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB
+- name: exodus.sg
+  url: http://exodus.sg
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB
+- name: exodus.cm
+  url: http://exodus.cm
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB
+- name: atomicwllet.io
+  url: http://atomicwllet.io
+  category: Phishing
+  subcategory: Atomic
+  description: "Fake Exodus site phishing for secrets with POST /save.php"
+  reporter: CryptoScamDB
