@@ -61617,3 +61617,24 @@
   subcategory: Atomic
   description: "Fake Exodus site phishing for secrets with POST /save.php"
   reporter: CryptoScamDB
+- name: renairdrop.com
+  url: http://renairdrop.com
+  category: Phishing
+  subcategory: Ren
+  description: "Fake airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: uniswapnode.com
+  url: http://uniswapnode.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST //vooom-6652.restdb.io/rest/unis (x-apikey: 5ef928e3a529a1752c476ac1)"
+  reporter: CryptoScamDB
+- name: drop-eth.org
+  url: http://drop-eth.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x0297772598B604CcE74BAfEA2B863205541934Aa"
+  reporter: CryptoScamDB
