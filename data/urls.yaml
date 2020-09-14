@@ -61638,3 +61638,212 @@
     ETH:
     - "0x0297772598B604CcE74BAfEA2B863205541934Aa"
   reporter: CryptoScamDB
+- name: cryptonil.ltd
+  url: http://cryptonil.ltd
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake doubler"
+  addresses:
+    BTC:
+    - "39Nj3fhsQewWMgcNtQ6cuyuuw78bSPseTy"
+  reporter: CryptoScamDB
+- name: ledger.com.de
+  url: http://ledger.com.de
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets  - https://twitter.com/Mutex_Lock/status/1303364247070691328"
+  reporter: CryptoScamDB
+- name: rewards-coin.000webhostapp.com
+  url: http://rewards-coin.000webhostapp.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST /error.php?access-my-wallet"
+  reporter: CryptoScamDB
+- name: binance-medium.com
+  url: http://binance-medium.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BiNancet7XBKjVWiWRLwjCqW4S6quXJJU"
+    ETH:
+    - "0xe739555Ff1AF220B57d1fBCDf0c7646744e9588a"
+  reporter: CryptoScamDB
+- name: ripplebonus.events
+  url: http://ripplebonus.events
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rJAaMnizp2C9Es6pvpXpentk7gtBim55Xh"
+  reporter: CryptoScamDB
+- name: xrp.ceo
+  url: http://xrp.ceo
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rJFqs6KL3Bof5zDCbiDFd3dCuTRp2QaQab"
+  reporter: CryptoScamDB
+- name: garlinghouse.ceo
+  url: http://garlinghouse.ceo
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rJAaMnizp2C9Es6pvpXpentk7gtBim55Xh"
+  reporter: CryptoScamDB
+- name: sushi-giveaway.blogspot.com
+  url: http://sushi-giveaway.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xb5B964b89c2D4CA339EAB6a03C97eee9b6eACc7C"
+  reporter: CryptoScamDB
+- name: yfi-airdrops.blogspot.com
+  url: http://yfi-airdrops.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x66135496A28c81E22FBe4B9398B25f5cf7022325"
+  reporter: CryptoScamDB
+- name: ethvv.com
+  url: http://ethvv.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE0d99f1772f90a558368E566e81689c357E9047"
+  reporter: CryptoScamDB
+- name: ethef.com
+  url: http://ethef.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE02506Cc742AE7bcF75F0725b05F4AdDfc9403d"
+  reporter: CryptoScamDB
+- name: ethez.com
+  url: http://ethez.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE02506Cc742AE7bcF75F0725b05F4AdDfc9403d"
+  reporter: CryptoScamDB
+- name: ethtd.com
+  url: http://ethtd.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE02506Cc742AE7bcF75F0725b05F4AdDfc9403d"
+  reporter: CryptoScamDB
+- name: ethdf.com
+  url: http://ethdf.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE0c16218576E8c0D0b676723aD12f11534FcaE8"
+  reporter: CryptoScamDB
+- name: vitalik.io
+  url: http://vitalik.io
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE0c16218576E8c0D0b676723aD12f11534FcaE8"
+  reporter: CryptoScamDB
+- name: ethkd.com
+  url: http://ethkd.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE02506Cc742AE7bcF75F0725b05F4AdDfc9403d"
+  reporter: CryptoScamDB
+- name: ethoy.com
+  url: http://ethoy.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE02506Cc742AE7bcF75F0725b05F4AdDfc9403d"
+  reporter: CryptoScamDB
+- name: ethiy.com
+  url: http://ethiy.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE02506Cc742AE7bcF75F0725b05F4AdDfc9403d"
+  reporter: CryptoScamDB
+- name: ethfc.com
+  url: http://ethfc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE02506Cc742AE7bcF75F0725b05F4AdDfc9403d"
+  reporter: CryptoScamDB
+- name: ethff.com
+  url: http://ethff.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE02506Cc742AE7bcF75F0725b05F4AdDfc9403d"
+  reporter: CryptoScamDB
+- name: sushiswap.blogspot.com
+  url: http://sushiswap.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xE79eB5CF318C6Dba47ecaF504e3a462820950c93"
+  reporter: CryptoScamDB
+- name: czbinance.co
+  url: http://czbinance.co
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18nvvvfyrC93YhNiHnDwnEKruXwCx6ZQ6M"
+    ETH:
+    - "0x137f07575E14fC0e2FE1a8004c19eD7Da8163E9B"
+  reporter: CryptoScamDB
+- name: crypto2xpool.com
+  url: http://crypto2xpool.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3CWrSaR8VioxAXuQGPLA43jBb9tY48JumP"
+    ETH:
+    - "0x270d7f9A87859C999D7e229D8a9123fDA8dC6e77"
+    XRP:
+    - "rNuQfd9CKtRoUbkoK6Nr498v62NZktnZw3"
+  reporter: CryptoScamDB
