@@ -61847,3 +61847,50 @@
     XRP:
     - "rNuQfd9CKtRoUbkoK6Nr498v62NZktnZw3"
   reporter: CryptoScamDB
+- name: swerve-finance.com
+  url: http://swerve-finance.com
+  category: Phishing
+  subcategory: Swerve
+  description: "Fake Swerve finance app phishing for funds"
+  addresses:
+    ETH:
+    - "0x13593fC117EA232073eCA3eCeC4451C7AF929B54"
+    - "0xb6Af4f38eEd48Fc7EAc5B2a765b0cAA1BE19Bb5E"
+    - "0x1431b5c053d5e639d9a302d48c18de5fc23a2e61"
+  reporter: CryptoScamDB
+- name: diubit.com
+  url: http://diubit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: riubit.com
+  url: http://riubit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: teslamining.ltd
+  url: http://teslamining.ltd
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake webminer"
+  reporter: CryptoScamDB
+- name: but-send.top
+  url: http://but-send.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC6a4f03F745f4203B2DB7C520b327a27bF070172"
+  reporter: CryptoScamDB
+- name: eth-news.com
+  url: http://eth-news.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6Ae7b0F39EbaC0E0abBC0eD0d741939942a65701"
+  reporter: CryptoScamDB
