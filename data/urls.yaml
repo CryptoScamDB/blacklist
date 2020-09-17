@@ -61894,3 +61894,29 @@
     ETH:
     - "0x6Ae7b0F39EbaC0E0abBC0eD0d741939942a65701"
   reporter: CryptoScamDB
+- name: futures-binance.co
+  url: http://futures-binance.co
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "16RfhfZ5uRk7PRVZ77cmw93FECb8Kij4Wa"
+    ETH:
+    - "0x939D07ae752204f02dC0EA3f607EA50442eb522f"
+  reporter: CryptoScamDB
+- name: uni-giveaway.blogspot.com
+  url: http://uni-giveaway.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCfB92A9D628fAF3Ea43ABA0eF087BfFEfc31c2Ed"
+  reporter: CryptoScamDB
+- name: genscripteth.go.yo.fr
+  url: http://genscripteth.go.yo.fr
+  category: Phishing
+  subcategory: Generator
+  description: "Fake generator phishing for secrets with POST /action.php"
+  reporter: CryptoScamDB
