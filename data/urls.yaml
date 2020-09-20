@@ -61920,3 +61920,42 @@
   subcategory: Generator
   description: "Fake generator phishing for secrets with POST /action.php"
   reporter: CryptoScamDB
+- name: sushi-gifts.blogspot.com
+  url: http://sushi-gifts.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x936013fc672f8dE42c4C02Af0c0EB18a23eBfeC0"
+  reporter: CryptoScamDB
+- name: vbeth.com
+  url: http://vbeth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xCE005DA1073375BF4780aae45fAeD1aA7c94712c"
+  reporter: CryptoScamDB
+- name: uniairdrop.com
+  url: http://uniairdrop.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: unidrop.org
+  url: http://unidrop.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB0091BE2ea814275a4590AFbdf7c609C8e27BFee"
+  reporter: CryptoScamDB
+- name: polkawallets.site
+  url: http://polkawallets.site
+  category: Phishing
+  subcategory: Polkadot
+  description: "Fake Polkawallet site phishing for secrets with POST /mnemonic.php"
+  reporter: CryptoScamDB
