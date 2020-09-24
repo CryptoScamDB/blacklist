@@ -61959,3 +61959,112 @@
   subcategory: Polkadot
   description: "Fake Polkawallet site phishing for secrets with POST /mnemonic.php"
   reporter: CryptoScamDB
+- name: muskbtcx.top
+  url: http://muskbtcx.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FBujpGzjBdR7vjrHFFTcMqzQFbubvPmGQ"
+  reporter: CryptoScamDB
+- name: binance-defi.net
+  url: http://binance-defi.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LWWjzf9bT7MxUuenmT4QCmakZUmKDjJ6P"
+    ETH:
+    - "0xB4fa90E3fc495Ec7C57FC3aA580F07DadEf8e0B3"
+  reporter: CryptoScamDB
+- name: binance-smart.com
+  url: http://binance-smart.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1M7TNrXpBsZJDHxCiDS2YZE5v88tBE9Zxx"
+    ETH:
+    - "0x3C83CeCe2025C51D964DDEe6c7ec9812Aef4F1AD"
+  reporter: CryptoScamDB
+- name: sushigiveaway.com
+  url: http://sushigiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6350fb4a8bc3cda203cfe00f87ba0f7b3bf61600"
+  reporter: CryptoScamDB
+- name: omg-airdrop.io
+  url: http://omg-airdrop.io
+  category: Phishing
+  subcategory: OmgiseGo
+  description: "Fake airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: vifbit.com
+  url: http://vifbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: zifbit.com
+  url: http://zifbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: rifbit.com
+  url: http://rifbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: airdropsushi.com
+  url: http://airdropsushi.com
+  category: Phishing
+  subcategory: Sushi
+  description: "Fake airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: chico-eth.com
+  url: http://chico-eth.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x42551F49c7e7bcC836722B072b52A666B9fFd76b"
+  reporter: CryptoScamDB
+- name: cryptogenscript.com
+  url: http://cryptogenscript.com
+  category: Scamming
+  subcategory: Generator
+  description: "Fake crypto generator phishing for secrets with POST /src/script/post.php"
+  reporter: CryptoScamDB
+- name: officialvbuterin.com
+  url: http://officialvbuterin.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4BE56320C06EF16C1a6A8c747CEc6698628B5196"
+  reporter: CryptoScamDB
+- name: spacexfoundation.com
+  url: http://spacexfoundation.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (xrp destination tag: 100992747)"
+  addresses:
+    ETH:
+    - "0x884c66809091BD332a71db8cbdD67cfC239128FE"
+    - "0x8C4cB3433993B4FAd3C78f692A7d417fAAab3eb9"
+    BTC:
+    - "1CcyxiwdnA27BFadenRayENv6acMWZVm5x"
+    - "1FD4WGrzw3rt2k3Z6xbKLNLren6WAaGfCi"
+    XRP:
+    - "rFqfCQ6cyJAQem9henkQkAsjuXrL4JEuo"
+  reporter: CryptoScamDB
