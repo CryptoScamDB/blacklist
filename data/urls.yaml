@@ -62068,3 +62068,48 @@
     XRP:
     - "rFqfCQ6cyJAQem9henkQkAsjuXrL4JEuo"
   reporter: CryptoScamDB
+- name: un2app.com
+  url: http://un2app.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap app"
+  reporter: CryptoScamDB
+- name: fund-vechain.com
+  url: http://fund-vechain.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (xrp destination tag: 100992747)"
+  addresses:
+    ETH:
+    - "0x84D785f443dF8F1f4e113fCa0b37b0fB59c8a0E0"
+    - "0xd4637c5588242836C28d4bC2Be560B07a49222C3"
+    - "0xb42880C7590320531D1492Ef0ed11Bf84fAB5B8C"
+    BTC:
+    - "1MqkvAoQ47NEFbtqfob5oVTwvwym5C7MhM"
+    XRP:
+    - "rFqfCQ6cyJAQem9henkQkAsjuXrL4JEuo"
+  reporter: CryptoScamDB
+- name: accountviewer.stellar.org.za
+  url: http://accountviewer.stellar.org.za
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: uni-drop.org
+  url: http://uni-drop.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x18F39eAd861d9EDD999900a1Ea8f4193a481E78f"
+  reporter: CryptoScamDB
+- name: unigiveaway.com
+  url: http://unigiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 1521656557)"
+  addresses:
+    ETH:
+    - "0x1a24d08e3e8682c2cd38159ec8006fa5b20c9f1e"
+  reporter: CryptoScamDB
