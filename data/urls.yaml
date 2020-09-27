@@ -62113,3 +62113,50 @@
     ETH:
     - "0x1a24d08e3e8682c2cd38159ec8006fa5b20c9f1e"
   reporter: CryptoScamDB
+- name: etherscan.member.event.monesrg.com
+  url: http://etherscan.member.event.monesrg.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: air-drop.us
+  url: http://air-drop.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9e576C64e79bA7ea4D61642Ab37A3dDFCD52d0e7"
+  reporter: CryptoScamDB
+- name: pyebit.com
+  url: http://pyebit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: eth-fond.info
+  url: http://eth-fond.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xbB1E05701756064Fa32BfeCd35BD96751361CCb0"
+    BTC:
+    - "1LRHhnyHSN2cBS9zZSgT7UdvHJyHVEM8gt"
+  reporter: CryptoScamDB
+- name: ethget.us
+  url: http://ethget.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9e576C64e79bA7ea4D61642Ab37A3dDFCD52d0e7"
+  reporter: CryptoScamDB
+- name: syebit.com
+  url: http://syebit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
