@@ -62160,3 +62160,58 @@
   subcategory: Exchange
   description: "Fake exchange scamming for deposits"
   reporter: CryptoScamDB
+- name: unigiveaway.org
+  url: http://unigiveaway.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 3245494379)"
+  addresses:
+    ETH:
+    - "0xef67efc45ab3a26fcff76c7884603d212c39b75a"
+  reporter: CryptoScamDB
+- name: metamask.site
+  url: http://metamask.site
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
+  reporter: CryptoScamDB
+- name: trustwallet.in
+  url: http://trustwallet.in
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
+  reporter: CryptoScamDB
+- name: unigiveaway.net
+  url: http://unigiveaway.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 2508885097)"
+  addresses:
+    ETH:
+    - "0x5bb6aa761ee435480859124b3db6ecb03550f075"
+  reporter: CryptoScamDB
+- name: info-binance.us
+  url: http://info-binance.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1qey66vhcf7httma2vwyvhheu0fj9r8v07qru077"
+    ETH:
+    - "0x9b1B9d5AD5c3555120861b959D5139d9545AF7c6"
+    XRP:
+    - "r3hqnYyrsYWMFCWrfyL2RgboDL24BukLit"
+  reporter: CryptoScamDB
+- name: accountviewer.stellar.org.in
+  url: http://accountviewer.stellar.org.in
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar wallet phishing for secrets with POST /post.php"
+  reporter: CryptoScamDB
+- name: myus-app.com
+  url: http://myus-app.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Hosting a malicious UniswapDex script - see https://twitter.com/sniko_/status/1311673402797809669 - reported address 0x0Aa068F1066F8168A3772e0BB2c58828A8eb8dB8 (eth)"
+  reporter: CryptoScamDB
