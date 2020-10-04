@@ -62215,3 +62215,54 @@
   subcategory: Uniswap
   description: "Hosting a malicious UniswapDex script - see https://twitter.com/sniko_/status/1311673402797809669 - reported address 0x0Aa068F1066F8168A3772e0BB2c58828A8eb8dB8 (eth)"
   reporter: CryptoScamDB
+- name: uniswap-claim.com
+  url: http://uniswap-claim.com
+  category: Malware
+  subcategory: Uniswap
+  description: "Malware uniswap app - https://app.any.run/tasks/66dc946f-b421-4508-90e1-2f0e9e2a1465 - linked with get-stellar.com"
+  reporter: CryptoScamDB
+- name: get-stellar.com
+  url: http://get-stellar.com
+  category: Malware
+  subcategory: Stellar
+  description: "Fake Stellar site and hosting Malware - https://app.any.run/tasks/6f1c1152-bc72-4b05-9dc9-a3a51d1253b6 - linked with uniswap-claim.com"
+  reporter: CryptoScamDB
+- name: zilliqa-live.org
+  url: http://zilliqa-live.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ZIL:
+    - "zil1d3adrcgd4yt9u52c0mzdm9w8eeqnmt08gkyh88"
+  reporter: CryptoScamDB
+- name: ryebit.com
+  url: http://ryebit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: freeuniswap.com
+  url: http://freeuniswap.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 2508885097)"
+  addresses:
+    ETH:
+    - "0x1f5b1aee0775fb44a3c2b8185d91afb8f0f613ad"
+  reporter: CryptoScamDB
+- name: 10000ethgiveaway.com
+  url: http://10000ethgiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xf3db39d01d7017e3aacb66e9adb2432bdf329cbf"
+  reporter: CryptoScamDB
+- name: bipcalculator.io
+  url: http://bipcalculator.io
+  category: Scamming
+  subcategory: General
+  description: "Fake tool sending keys to Firebase - api key: AIzaSyAZ_-BfVVgTrReW9st3U6h3cLbm7LY4mss"
+  reporter: CryptoScamDB
