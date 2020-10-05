@@ -62189,6 +62189,7 @@
   addresses:
     ETH:
     - "0x5bb6aa761ee435480859124b3db6ecb03550f075"
+    - "0x9961fd00110a4a968ee9f1daeb8f4a87b61f29ce"
   reporter: CryptoScamDB
 - name: info-binance.us
   url: http://info-binance.us
@@ -62265,4 +62266,70 @@
   category: Scamming
   subcategory: General
   description: "Fake tool sending keys to Firebase - api key: AIzaSyAZ_-BfVVgTrReW9st3U6h3cLbm7LY4mss"
+  reporter: CryptoScamDB
+- name: eventuniswap.com
+  url: http://eventuniswap.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x300e5cc5847DB2Ca0190465089b8E568CAa76Fb9"
+  reporter: CryptoScamDB
+- name: xrpceo.com
+  url: http://xrpceo.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rNRe2tt3VwJf6LghGb85pQ3ZMEaeTDuDg3"
+  reporter: CryptoScamDB
+- name: vechainevent.com
+  url: http://vechainevent.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    VET:
+    - "0x2c436ae6d16a46184e142320623cf4a41e5841dc"
+  reporter: CryptoScamDB
+- name: sushiback.com
+  url: http://sushiback.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 963007081)"
+  addresses:
+    ETH:
+    - "0x7337c3e5d030f14bad8b9bf405394bb7bf75f14a"
+  reporter: CryptoScamDB
+- name: login-metamask.com
+  url: http://login-metamask.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
+  reporter: CryptoScamDB
+- name: ripple.supply
+  url: http://ripple.supply
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "r4BdWELq8VYg8esrbWEBXtiL3KodWSG9oD"
+  reporter: CryptoScamDB
+- name: chico-ethers.com
+  url: http://chico-ethers.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xAA8f023923e2b2056296d176D78936B4F530F9ED"
+  reporter: CryptoScamDB
+- name: zillet.org
+  url: http://zillet.org
+  category: Phishing
+  subcategory: Zilliqa
+  description: "Fake Zilliqa wallet phishing for secrets with POST /privateKey.php"
   reporter: CryptoScamDB
