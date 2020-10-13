@@ -62333,3 +62333,148 @@
   subcategory: Zilliqa
   description: "Fake Zilliqa wallet phishing for secrets with POST /privateKey.php"
   reporter: CryptoScamDB
+- name: stellar.org.ng
+  url: http://stellar.org.ng
+  category: Phishing
+  subcategory: Zilliqa
+  description: "Fake Stellar site phishing for keys with POST /post.php (and linking users to accountviewer.stellar.org.bi)"
+  reporter: CryptoScamDB
+- name: yearm.finance
+  url: http://yearm.finance
+  category: Phishing
+  subcategory: Yearn
+  description: "Fake Yearn finance app phishing for keys with POST /send_phrase_metaMask.php"
+  reporter: CryptoScamDB
+- name: dexairdrop-binance.com
+  url: http://dexairdrop-binance.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: btccham.info
+  url: http://btccham.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Cham1hgP6wD4SqyzP1cYhPYLDQoAvMY2W"
+  reporter: CryptoScamDB
+- name: geminixfund.info
+  url: http://geminixfund.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3274d4D6B15EE6C953777BD967A368072D276E41"
+    BTC:
+    - "1EeZV9PhumJ5c7wGGCrE4T7KzW1jhyyFzZ"
+  reporter: CryptoScamDB
+- name: geminidrop.fund
+  url: http://geminidrop.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xdaf0204d6A701Bce78De63D4FDc9F76695A01b1E"
+    BTC:
+    - "34MP7oV2kPgbf2MTrJQfR6HyniqRteF4Kp"
+  reporter: CryptoScamDB
+- name: ripplegift.ceo
+  url: http://ripplegift.ceo
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rsJZK4463qyxkvPKEcu92zbWdYacPJ7fSk"
+  reporter: CryptoScamDB
+- name: ada-give.info
+  url: http://ada-give.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "DdzFFzCqrhtD26CcpSKybxSLz2LHjmD1BaEuPgEmPfNeT3X6DwbzXvEG8yjJcMeau5Xb8Z3T67FcNe2A5XrGPBrn8Vjrp5pR89Gnq7tD"
+  reporter: CryptoScamDB
+- name: winnerscrypto.live
+  url: http://winnerscrypto.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x886C18194BC6BC30086cB29D41082AA7574048dB"
+  reporter: CryptoScamDB
+- name: uni-fund.info
+  url: http://uni-fund.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2d675e9Df1B5F36FDc5480718161cc1f041140Cd"
+  reporter: CryptoScamDB
+- name: get-geth.com
+  url: http://get-geth.com
+  category: Malware
+  subcategory: Geth
+  description: "Malware geth - https://twitter.com/vdWijden/status/1315409065636495361"
+  reporter: CryptoScamDB
+- name: get-geth.org
+  url: http://get-geth.org
+  category: Malware
+  subcategory: Geth
+  description: "Malware geth - https://twitter.com/vdWijden/status/1315409065636495361"
+  reporter: CryptoScamDB
+- name: xrp-giveaway.blogspot.com
+  url: http://xrp-giveaway.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rLzfYc9TACqPApggW2avMYdAg4LqVwN38j"
+  reporter: CryptoScamDB
+- name: uniswap.ug
+  url: http://uniswap.ug
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xE99aB3035Cffc3810c9A9b96B8f2fA2f9c140403"
+  reporter: CryptoScamDB
+- name: accountviewer.stellar.org.bi
+  url: http://accountviewer.stellar.org.bi
+  category: Phishing
+  subcategory: Zilliqa
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: dexuniswap.org
+  url: http://dexuniswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake uniswap phishing for secrets with POST /send_phrase_metaMask.php"
+  reporter: CryptoScamDB
+- name: ethereum.ug
+  url: http://ethereum.ug
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3731eE38b675d83b61cFf716d4530cDD11F02812"
+  reporter: CryptoScamDB
+- name: uniswap-paper.s3.eu-west-3.amazonaws.com
+  url: http://uniswap-paper.s3.eu-west-3.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xED1eAB18667aD15c161A227C462f5196bF071580"
+  reporter: CryptoScamDB
