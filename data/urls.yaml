@@ -62336,7 +62336,7 @@
 - name: stellar.org.ng
   url: http://stellar.org.ng
   category: Phishing
-  subcategory: Zilliqa
+  subcategory: Stellar
   description: "Fake Stellar site phishing for keys with POST /post.php (and linking users to accountviewer.stellar.org.bi)"
   reporter: CryptoScamDB
 - name: yearm.finance
@@ -62451,7 +62451,7 @@
 - name: accountviewer.stellar.org.bi
   url: http://accountviewer.stellar.org.bi
   category: Phishing
-  subcategory: Zilliqa
+  subcategory: Stellar
   description: "Fake Stellar site phishing for secrets"
   reporter: CryptoScamDB
 - name: dexuniswap.org
