@@ -62516,3 +62516,48 @@
   subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
   reporter: CryptoScamDB
+- name: pdfescape.su
+  url: http://pdfescape.su
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet site phishing for secrets with POST /claimx.php (redirected from get30bnb.live)"
+  reporter: CryptoScamDB
+- name: uniswap.org.claim-tokens-airdrop.info
+  url: http://uniswap.org.claim-tokens-airdrop.info
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST /error.php?access-my-wallet"
+  reporter: CryptoScamDB
+- name: aavelend.com
+  url: http://aavelend.com
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave site"
+  reporter: CryptoScamDB
+- name: aave-defi.com
+  url: http://aave-defi.com
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave site directing users to app.trieaharderewa.com"
+  reporter: CryptoScamDB
+- name: bitcoinnow.bid
+  url: http://bitcoinnow.bid
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake btc generator"
+  addresses:
+    BTC:
+    - "1M5kNCeceBN2mUtSX7PDZ7tWE46M3ySwvA"
+  reporter: CryptoScamDB
+- name: sushiswapclasslc.org
+  url: http://sushiswapclasslc.org
+  category: Phishing
+  subcategory: Sushi
+  description: "Fake Sushiswap site phishing for secrets with POST /send_phrase_metaMask.php"
+  reporter: CryptoScamDB
+- name: bithau.com
+  url: http://bithau.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
