@@ -62478,3 +62478,41 @@
     ETH:
     - "0xED1eAB18667aD15c161A227C462f5196bF071580"
   reporter: CryptoScamDB
+- name: elongift.s3.eu-west-2.amazonaws.com
+  url: http://elongift.s3.eu-west-2.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xEE62e9461e001843a1Aa21D7c4C3C64d17E10514"
+    BTC:
+    - "1DDxChE7xJbEzUw5x3z6N8U2tag84cL99L"
+  reporter: CryptoScamDB
+- name: bitnau.com
+  url: http://bitnau.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: unigiv.com
+  url: http://unigiv.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - promoted by twitter id 3021372786"
+  addresses:
+    ETH:
+    - "0x3017cd896750c05018d7948c7c3b0070b30269a4"
+  reporter: CryptoScamDB
+- name: trustwallettoken.io
+  url: http://trustwallettoken.io
+  category: Phishing
+  subcategory: Trust
+  description: "Fake Trust wallet site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
+  reporter: CryptoScamDB
+- name: metamaskwallet.io
+  url: http://metamaskwallet.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
+  reporter: CryptoScamDB
