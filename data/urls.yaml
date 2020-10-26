@@ -62561,3 +62561,73 @@
   subcategory: Exchange
   description: "Fake exchange scamming for deposits"
   reporter: CryptoScamDB
+- name: giveawaysushi.com
+  url: http://giveawaysushi.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - promoted by twitter id 1900436629"
+  addresses:
+    ETH:
+    - "0x0b79daa40ec15bad56961689e9f3346f49d20602"
+  reporter: CryptoScamDB
+- name: login.blockhaln.com
+  url: http://login.blockhaln.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain site phishing for logins - https://twitter.com/sniko_/status/1319319946246184963"
+  reporter: CryptoScamDB
+- name: buterin.s3.eu-west-2.amazonaws.com
+  url: http://buterin.s3.eu-west-2.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xdb72d3cbe827afa4b223cd928e4f9bed7418444e"
+  reporter: CryptoScamDB
+- name: cryptovitalik.s3-us-west-1.amazonaws.com
+  url: http://cryptovitalik.s3-us-west-1.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6984331F60B7F3225C106bb58Ea1B31093722ae3"
+  reporter: CryptoScamDB
+- name: eth.ug
+  url: http://eth.ug
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EThEReUmrzv5G8ywv13cSeQUqLW2NWbKN"
+    ETH:
+    - "0x0000000012ba45c32e4380a42ee524fe30502943"
+  reporter: CryptoScamDB
+- name: oldmyetherwallet.com
+  url: http://oldmyetherwallet.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet"
+  reporter: CryptoScamDB
+- name: gift-eth.info
+  url: http://gift-eth.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC3C364E29B9c37102dD5aEeE28e9283d4Da42c4c"
+  reporter: CryptoScamDB
+- name: ripple.ug
+  url: http://ripple.ug
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1L5qAQiFeDu7BpL1Y7WULfDaghzbP2rbgn"
+    XRP:
+    - "rJBzQ9o5LQkA1J8YQsuKjLae6JYPGQ7YMo"
+  reporter: CryptoScamDB
