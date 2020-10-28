@@ -62631,3 +62631,54 @@
     XRP:
     - "rJBzQ9o5LQkA1J8YQsuKjLae6JYPGQ7YMo"
   reporter: CryptoScamDB
+- name: eth2020.top
+  url: http://eth2020.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x92fbf673935c28296e33170C1F70A33d95cDA6DC"
+  reporter: CryptoScamDB
+- name: xripplex.tumblr.com
+  url: http://xripplex.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rPYFin9J1WeqEzU7DAg1z33FZp6rbYTin4"
+  reporter: CryptoScamDB
+- name: btc-gift.blogspot.com
+  url: http://btc-gift.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MkLLYs8KsJDC3AnYo21chVKMiCy64hHVu"
+  reporter: CryptoScamDB
+- name: curve.fyi
+  url: http://curve.fyi
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve finance phishing for funds"
+  reporter: CryptoScamDB
+- name: xn--ldger-n51b.com
+  url: http://xn--ldger-n51b.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets - https://twitter.com/brunobar79/status/1321249231596855298"
+  reporter: CryptoScamDB
+- name: xn--ldger-6za.com
+  url: http://xn--ldger-6za.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /upload.php - https://twitter.com/brunobar79/status/1321570348568137728"
+  reporter: CryptoScamDB
+- name: uniairdrop.org
+  url: http://uniairdrop.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake airdrop phishing for secrets with POST /sign.php - promoted by twitter id 1679558912"
+  reporter: CryptoScamDB
