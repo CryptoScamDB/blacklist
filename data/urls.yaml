@@ -62682,3 +62682,117 @@
   subcategory: Uniswap
   description: "Fake airdrop phishing for secrets with POST /sign.php - promoted by twitter id 1679558912"
   reporter: CryptoScamDB
+- name: xn--ledgr-q51b.com
+  url: http://xn--ledgr-q51b.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site hosting malware executables of Ledger Live (sha256sum: 307d9f5e4b85d1209753a90220cb3cf6e590288af57d81fb6a282c5d1a6d68df)  - https://redd.it/jkue2s"
+  reporter: CryptoScamDB
+- name: keepkey.app
+  url: http://keepkey.app
+  category: Phishing
+  subcategory: Keepkey
+  description: "Fake KeepKey website phishing for secrets with POST / - promoted by chrome extension edhjpclmgebeknpblibimffefcallglh"
+  reporter: CryptoScamDB
+- name: ethgiveaways.me
+  url: http://ethgiveaways.me
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x0f3257e9513f4812bf015efc5022f16bfef0cfa8"
+  reporter: CryptoScamDB
+- name: ethx2.io
+  url: http://ethx2.io
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x906047a5b110144e12ad2aad35762a51f421492e"
+  reporter: CryptoScamDB
+- name: ledgerorigin.com
+  url: http://ledgerorigin.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST / - promoted by chrome extension mdddpanepdpjmhgadcmbcbdcbjcdejnd"
+  reporter: CryptoScamDB
+- name: yrean.finance
+  url: http://yrean.finance
+  category: Phishing
+  subcategory: Yearn
+  description: "Fake Yearn website phishing for secrets with POST /send_phrase_metaMask.php"
+  reporter: CryptoScamDB
+- name: curve.si
+  url: http://curve.si
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve website phishing for funds"
+  addresses:
+    ETH:
+    - "0x254CcDE325aAEed21ae5f98B5C301FDfe42ADB9a"
+  reporter: CryptoScamDB
+- name: metamask.bonus-erc20-token.info
+  url: http://metamask.bonus-erc20-token.info
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /error.php?access-my-wallet"
+  reporter: CryptoScamDB
+- name: dice2win.co
+  url: http://dice2win.co
+  category: Phishing
+  subcategory: Dice2win
+  description: "Fake Dice2Win site"
+  addresses:
+    ETH:
+    - "0x13235fC8fdb64e9dF8CD940020127582b8A24187"
+  reporter: CryptoScamDB
+- name: ledgir.xyz
+  url: http://ledgir.xyz
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /save_data.php"
+  reporter: CryptoScamDB
+- name: xn--ldgr-vvac.com
+  url: http://xn--ldgr-vvac.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /update/upload.php"
+  reporter: CryptoScamDB
+- name: lebqer.xyz
+  url: http://lebqer.xyz
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets"
+  reporter: CryptoScamDB
+- name: uniswapofficial.com
+  url: http://uniswapofficial.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: bitcoins-gift.blogspot.com
+  url: http://bitcoins-gift.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Pt1AJSrVba6NuprSkKWcUMzs1MfgfsPJP"
+  reporter: CryptoScamDB
+- name: eth-gift.blogspot.com
+  url: http://eth-gift.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3c39c2FD79B55827793B0Fa3023980297F796d80"
+  reporter: CryptoScamDB
+- name: uniswapairdrop.info
+  url: http://uniswapairdrop.info
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php - promoted by twitter id 1679558912"
+  reporter: CryptoScamDB
