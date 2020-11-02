@@ -62838,8 +62838,8 @@
   subcategory: Zillet
   description: "Fake Zillet wallet phishing for secrets with POST /static/class/privatekeyform.php"
   reporter: CryptoScamDB
-- name: ocean-airdrop.com
-  url: http://ocean-airdrop.com
+- name: airdropocean.com
+  url: http://airdropocean.com
   category: Phishing
   subcategory: Ocean
   description: "Fake ocean airdrop phishing for secrets with POST /sign.php - promoted by twitter id 2296354727"
