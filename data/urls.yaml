@@ -62844,3 +62844,15 @@
   subcategory: Ocean
   description: "Fake ocean airdrop phishing for secrets with POST /sign.php - promoted by twitter id 2296354727"
   reporter: CryptoScamDB
+- name: xn--rpple-n4a.net
+  url: http://xn--rpple-n4a.net
+  category: Phishing
+  subcategory: Ripple
+  description: "Fake Ripple/XRP staking platform phishing for secrets (email from noreply@avana.asia)"
+  reporter: CryptoScamDB
+- name: metamask.org-swap.app
+  url: http://metamask.org-swap.app
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /RM2.php"
+  reporter: CryptoScamDB
