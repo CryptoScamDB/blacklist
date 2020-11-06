@@ -62856,3 +62856,123 @@
   subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets with POST /RM2.php"
   reporter: CryptoScamDB
+- name: musk-coins.com
+  url: http://musk-coins.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17QHRv8nwvHFRLxMmrHN4bkku1x9iFveq7"
+    ETH:
+    - "0x99F3D11527C4ca9Dd4E7E2320Ccec21c08abAec5"
+  reporter: CryptoScamDB
+- name: muskprize.fun
+  url: http://muskprize.fun
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FEvSo3JrsRZ4fLyftNrmdgZ9EiKcahMWJ"
+    ETH:
+    - "0xde9A8E63E74a13C4b19ab736d9296fB1C14919a2"
+  reporter: CryptoScamDB
+- name: getmusk.fun
+  url: http://getmusk.fun
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FEvSo3JrsRZ4fLyftNrmdgZ9EiKcahMWJ"
+    ETH:
+    - "0xde9A8E63E74a13C4b19ab736d9296fB1C14919a2"
+  reporter: CryptoScamDB
+- name: spacexlive.top
+  url: http://spacexlive.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19TRvAmAnJgvAAPTJCwX1we9WborRobzfG"
+  reporter: CryptoScamDB
+- name: elonbtcx.com
+  url: http://elonbtcx.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1LECt1tmoZeKVN1KuERjoT6o5hgck8M2J1"
+  reporter: CryptoScamDB
+- name: eth67.blogspot.com
+  url: http://eth67.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xBc8E9A20DAa70D2FFC43a0133A49B0F736CA505c"
+  reporter: CryptoScamDB
+- name: airdrop-ocean.com
+  url: http://airdrop-ocean.com
+  category: Phishing
+  subcategory: Ocean
+  description: "Fake ocean airdrop phishing for secrets with POST /sign.php - promoted by twitter id 2296354727"
+  reporter: CryptoScamDB
+- name: stellar-info.org
+  url: http://stellar-info.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XLM:
+    - "GD6SGGRNKOPICVXA5LJCOLPQ37VD7LC66Y3MKBM62KPCBUELX2ZLH7LB"
+  reporter: CryptoScamDB
+- name: stake-ethereum.org
+  url: http://stake-ethereum.org
+  category: Phishing
+  subcategory: Ethereum
+  description: "Fake Ethereum staking dashboard phishing for funds - https://twitter.com/scott_lew_is/status/1324450480857243649"
+  reporter: CryptoScamDB
+- name: oceanairdrop.info
+  url: http://oceanairdrop.info
+  category: Phishing
+  subcategory: Ocean
+  description: "Fake ocean airdrop phishing for secrets with POST /sign.php - promoted by twitter id 2296354727"
+  reporter: CryptoScamDB
+- name: eth-generator.com
+  url: http://eth-generator.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3cd6ef508c1c448e293075f1de2ae96a49e18895"
+  reporter: CryptoScamDB
+- name: tether-tumbler.com
+  url: http://tether-tumbler.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xDA314D80D6440254bAfdf555d917193f769D46BD"
+  reporter: CryptoScamDB
+- name: uni-promo.net
+  url: http://uni-promo.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x953a16aA90ff214a8572447293E6a06A057211AB"
+  reporter: CryptoScamDB
+- name: airdrop-uniswap.com
+  url: http://airdrop-uniswap.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php - promoted by twitter id 1679558912"
+  reporter: CryptoScamDB
