@@ -62604,6 +62604,7 @@
     - "1EThEReUmrzv5G8ywv13cSeQUqLW2NWbKN"
     ETH:
     - "0x0000000012ba45c32e4380a42ee524fe30502943"
+    - "0x00000000445b63fff54af1ea544ff62ae96e0b15"
   reporter: CryptoScamDB
 - name: oldmyetherwallet.com
   url: http://oldmyetherwallet.com
@@ -62975,4 +62976,91 @@
   category: Phishing
   subcategory: Uniswap
   description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php - promoted by twitter id 1679558912"
+  reporter: CryptoScamDB
+- name: money-tesla.com
+  url: http://money-tesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17LbSvu9KGDXeVP1qJT6MyWpbPrTKpBzyc"
+    - "14vRwgbwmj7PR565nNGvWt14vfiCm5NSnP"
+    ETH:
+    - "0x9854311E8AD9b6D1f563e96110CAF404e4E446D7"
+    - "0xaF2120d2E63fAF0dCD2987Ac3ACCc93BE6d853b8"
+  reporter: CryptoScamDB
+- name: restore-ledgerwallet.org
+  url: http://restore-ledgerwallet.org
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /mnemonic.php"
+  reporter: CryptoScamDB
+- name: dropmusk.in
+  url: http://dropmusk.in
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14wgjXQxXu34pycusw155yAqTxaSGs6i91"
+    ETH:
+    - "0x2B227C59510bAffc02A844d0f95baA33B9C640fc"
+  reporter: CryptoScamDB
+- name: chrome-extension.link
+  url: http://chrome-extension.link
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask extension product page phishing for secrets with POST /nkbihfbeogaeaoehlefnkodbefgpgknn/349a0d6b-9b45-4b67-9f88-b5a9eb787710/download/success.php"
+  reporter: CryptoScamDB
+- name: uniswap.bid
+  url: http://uniswap.bid
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /processing.php"
+  reporter: CryptoScamDB
+- name: curve.run
+  url: http://curve.run
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve site directing users to chrome-extension.link (metamask secret phish)"
+  reporter: CryptoScamDB
+- name: moz-extension.link
+  url: http://moz-extension.link
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask extension product page phishing for secrets with POST /daeac674-c4be-4320-8598-0cd7072e3fdb/349a0d6b-9b45-4b67-9f88-b5a9eb787710/download/success.php"
+  reporter: CryptoScamDB
+- name: claimuni.com
+  url: http://claimuni.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake uniswap airdrop phishing for secrets with POST /sign.php - promoted by twitter id 1679558912"
+  reporter: CryptoScamDB
+- name: ltcminer.com
+  url: http://ltcminer.com
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake LTC webminer scamming for deposits"
+  addresses:
+    LTC:
+    - "LUzdQH7weQZiS5xzRnvLYKy8ysmdBWXGxg"
+    - "Ldw8wLYmPa4F93S8qmzpUrz23tqCsdwULJ"
+  reporter: CryptoScamDB
+- name: metaswap.dev
+  url: http://metaswap.dev
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask page phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
+  reporter: CryptoScamDB
+- name: eth-found.live
+  url: http://eth-found.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18BwwfaCmsZr1DwPdBRryLaKTGFHyKmF9t"
+    ETH:
+    - "0xB6e1AA84145c259C6DDAd5447f6B436f80C025c8"
   reporter: CryptoScamDB
