@@ -62468,6 +62468,7 @@
   addresses:
     ETH:
     - "0x3731eE38b675d83b61cFf716d4530cDD11F02812"
+    - "0x0000000086c5d614bec59dfd2c9b88f7cb57f23c"
   reporter: CryptoScamDB
 - name: uniswap-paper.s3.eu-west-3.amazonaws.com
   url: http://uniswap-paper.s3.eu-west-3.amazonaws.com
@@ -63063,4 +63064,143 @@
     - "18BwwfaCmsZr1DwPdBRryLaKTGFHyKmF9t"
     ETH:
     - "0xB6e1AA84145c259C6DDAd5447f6B436f80C025c8"
+  reporter: CryptoScamDB
+- name: polkadot-airdrop.info
+  url: http://polkadot-airdrop.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOT:
+    - "13DUJB2UFQYJNG8eAgvbPUDZowTnb45cq7EM7WvtkNksPMZW"
+    BTC:
+    - "3HAd74JCRofZfd5fBu7V48qCv7yTYeBHnK"
+  reporter: CryptoScamDB
+- name: elonmuskxpro.com
+  url: http://elonmuskxpro.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x75B393208842A6CE0794A18F79D0E7c8805a3bBb"
+    BTC:
+    - "129dwqW6hn34d6iPpeSkz7bfZm1pcMj4dD"
+    XRP:
+    - "r93urjWPyDbaMU8sv3dx33UrNh2RJKJfsu"
+  reporter: CryptoScamDB
+- name: yearnyfi.blogspot.com
+  url: http://yearnyfi.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - directed from yearn-finance-gift.medium.com/yearn-finance-announces-1000-yfi-gift-bfac6331b107"
+  addresses:
+    ETH:
+    - "0x3da35833d1968b12b17488277CE85A0eA1518813"
+  reporter: CryptoScamDB
+- name: claimocean.com
+  url: http://claimocean.com
+  category: Phishing
+  subcategory: Ocean
+  description: "Fake Ocean airdrop phishing for secrets with POST /sign.php - promoted by twitter id 2296354727"
+  reporter: CryptoScamDB
+- name: maticwallet.network
+  url: http://maticwallet.network
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake Metamask wallet phishing for secrets with POST /phpconnect.php"
+  reporter: CryptoScamDB
+- name: 2eth.site
+  url: http://2eth.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MpBhH3BkSNFr88A9PNihabxWG6YpHJwHa"
+    ETH:
+    - "0x26196A80a8A37bdD4ec2E246EB600aA2B7f8289E"
+  reporter: CryptoScamDB
+- name: yflinkreward.com
+  url: http://yflinkreward.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xda9C6C6BA4973D99071cEF9D1CE1006cB3545846"
+  reporter: CryptoScamDB
+- name: plckle.finance
+  url: http://plckle.finance
+  category: Phishing
+  subcategory: Pickle
+  description: "Fake Pickle finance dapp phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: picklee.finance
+  url: http://picklee.finance
+  category: Phishing
+  subcategory: Pickle
+  description: "Fake Pickle finance dapp phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: tokenpocket-pro.web.app
+  url: http://tokenpocket-pro.web.app
+  category: Phishing
+  subcategory: TokenPocket
+  description: "Fake TokenPocket phishing for secrets with POST /connect.php"
+  reporter: CryptoScamDB
+- name: metabrowser.org
+  url: http://metabrowser.org
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake Metamask phishing for secrets with POST /check.php"
+  reporter: CryptoScamDB
+- name: coinzor.com
+  url: http://coinzor.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Scam exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: coinvoz.com
+  url: http://coinvoz.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Scam exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: coinroz.com
+  url: http://coinroz.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Scam exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: wozbit.com
+  url: http://wozbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Scam exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: crypto-gives.s3.us-east-2.amazonaws.com
+  url: http://crypto-gives.s3.us-east-2.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18YCvzAakqKXWed2fEaHgsi5sSjBqJpca4"
+    ETH:
+    - "0x3c39c2FD79B55827793B0Fa3023980297F796d80"
+  reporter: CryptoScamDB
+- name: onkbit.com
+  url: http://onkbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Scam exchange phishing for deposits"
+  reporter: CryptoScamDB
+- name: coinbase-payments.blogspot.com
+  url: http://coinbase-payments.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "178B5aQcLnVmer3Hq52HzE1eGPU35QK4jr"
   reporter: CryptoScamDB
