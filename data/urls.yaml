@@ -63204,3 +63204,148 @@
     BTC:
     - "178B5aQcLnVmer3Hq52HzE1eGPU35QK4jr"
   reporter: CryptoScamDB
+- name: stellar.org.ma
+  url: http://stellar.org.ma
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: accountviewer.stellar.org.ma
+  url: http://accountviewer.stellar.org.ma
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: specialgift122.blogspot.com
+  url: http://specialgift122.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x92fbf673935c28296e33170C1F70A33d95cDA6DC"
+  reporter: CryptoScamDB
+- name: browsermask.org
+  url: http://browsermask.org
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /check.php"
+  reporter: CryptoScamDB
+- name: profit-booster.xyz
+  url: http://profit-booster.xyz
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3MiQqtPxN1S58FbPMFoJW5zGbAcGS1oBt6"
+  reporter: CryptoScamDB
+- name: xeth2.github.io
+  url: http://xeth2.github.io
+  category: Scamming
+  subcategory: Staking
+  description: "Fake Eth2 staking app"
+  addresses:
+    ETH:
+    - "0xAe26f602Cd02cFA83f46f8eA90d6dCcCE5e208BA"
+  reporter: CryptoScamDB
+- name: tesla-btc.info
+  url: http://tesla-btc.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NuueFvePGrWQv3tWqNNPUwDwB319SScTw"
+    ETH:
+    - "0xF243E2FAbb67CBa2b5DbDF35B2CA02c508748955"
+  reporter: CryptoScamDB
+- name: musk-giving.com
+  url: http://musk-giving.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BtgMgeKCRup34YaqFmprX98US1Byy3inS"
+    ETH:
+    - "0x7654A81AC0a85Dd669c718c2EA32400236cb7E46"
+  reporter: CryptoScamDB
+- name: coinbase2x.online
+  url: http://coinbase2x.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1qyannuefvq604fqqqxdn2km4tvytf2up67evw9f"
+    ETH:
+    - "0xfeaa2288d98FB4886A45bb153fcC05bc7a2De8DA"
+    XRP:
+    - "rhYEFiSRARVRA7Bkt3eG1XSBe2v5bTXwgT"
+  reporter: CryptoScamDB
+- name: uni-token.com
+  url: http://uni-token.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake uniswap airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: geminigift.org
+  url: http://geminigift.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3PBtQyabrhmnfbZ1ynNQBty153wMFJW9dM"
+    ETH:
+    - "0x91E92019251Fb184030Caa874B45926C39dd900c"
+  reporter: CryptoScamDB
+- name: bitcoin-revolution.2020-order.monster
+  url: http://bitcoin-revolution.2020-order.monster
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: bitcoin-revolution.inestovo2020.xyz
+  url: http://bitcoin-revolution.inestovo2020.xyz
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: bitcoin-revolution.onyxtrade.monster
+  url: http://bitcoin-revolution.onyxtrade.monster
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: exodus.casa
+  url: http://exodus.casa
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake exodus phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: yfiairdrop.com
+  url: http://yfiairdrop.com
+  category: Phishing
+  subcategory: Yfi
+  description: "Fake YFI airdrop phishing for secrets with POST /sign.php - promoted by twitter id 1900436629"
+  reporter: CryptoScamDB
+- name: eth66.blogspot.com
+  url: http://eth66.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x49202aa9D52c0f4352d31d731eB50822f9D8525b"
+  reporter: CryptoScamDB
+- name: ethpos.org
+  url: http://ethpos.org
+  category: Scamming
+  subcategory: Staking
+  description: "Malicious Ethereum 2 PoS staking platform"
+  addresses:
+    ETH:
+    - "0x36d52e59a2f498db8f45838fe468c0424bc3c3d0"
+  reporter: CryptoScamDB
