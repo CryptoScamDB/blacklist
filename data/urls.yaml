@@ -63349,3 +63349,143 @@
     ETH:
     - "0x36d52e59a2f498db8f45838fe468c0424bc3c3d0"
   reporter: CryptoScamDB
+- name: makerdao-info.com
+  url: http://makerdao-info.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x50Ebc5BC66D59585E3b1295cc08BB5610d3A7682"
+  reporter: CryptoScamDB
+- name: yfiget.org
+  url: http://yfiget.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x46A9cED2e87b3a78FEf88237A1A4ceAa22307968"
+  reporter: CryptoScamDB
+- name: paypalbtc.org
+  url: http://paypalbtc.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PAYPRAKcnQyqnLMA7WyLTyzWakXVidx6W"
+  reporter: CryptoScamDB
+- name: udrop.finance
+  url: http://udrop.finance
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x613a204424c8ceb65F2147CA05CA4e8A898b998d"
+    BTC:
+    - "3HANYFxVja3NPp99qBUCp3NM18KZYQHQ46"
+  reporter: CryptoScamDB
+- name: xrp-reward.org
+  url: http://xrp-reward.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rwvtuT3tuhg17iCWYNTZr4vBLbihDoYvFB"
+  reporter: CryptoScamDB
+- name: litecoingiveaway-live.com
+  url: http://litecoingiveaway-live.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    LTC:
+    - "ltc1qek0d8mvrej647gaskun3tl3jsdyhkg55232ykq"
+  reporter: CryptoScamDB
+- name: gemini.social
+  url: http://gemini.social
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB22402C458ddD1676BC69Cc16142385d6Dbc38C1"
+    BTC:
+    - "17VtppiNq33jyhejB6YWARTk2EQsZxyGqH"
+  reporter: CryptoScamDB
+- name: unigive.net
+  url: http://unigive.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC60F19452C7E656bB0b85D52E4fb01cDe4D3E8c8"
+  reporter: CryptoScamDB
+- name: ether-give.ceo
+  url: http://ether-give.ceo
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EDPf5KsWitkwGC4qYhDVmUVVhSYHMSTHe"
+    ETH:
+    - "0xC4645AD7C005B29d501d2D8366048541e1B40012"
+  reporter: CryptoScamDB
+- name: unipromotion.net
+  url: http://unipromotion.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x87d7DA420Bda88693D945475A75F2D4A849f8d93"
+  reporter: CryptoScamDB
+- name: woodfund.info
+  url: http://woodfund.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd8268dde6d829859b89FB24b43E3610Ccf165619"
+    BTC:
+    - "1N7JQTerZSpKS6MTQpGKbTpVg2nsdcnrey"
+  reporter: CryptoScamDB
+- name: celiswap.com
+  url: http://celiswap.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x1D6cd1fBC644AD737DB641f0dc91D2634Dc8440e"
+  reporter: CryptoScamDB
+- name: ufibit.com
+  url: http://ufibit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: curves.fi
+  url: http://curves.fi
+  category: Phishing
+  subcategory: Curve
+  description: "Fake CurveFinance phishing for funds"
+  addresses:
+    ETH:
+    - "0x254CcDE325aAEed21ae5f98B5C301FDfe42ADB9a"
+  reporter: CryptoScamDB  
+- name: curves.exchange
+  url: http://curves.exchange
+  category: Phishing
+  subcategory: Curve
+  description: "Fake CurveFinance phishing for funds"
+  addresses:
+    ETH:
+    - "0x254CcDE325aAEed21ae5f98B5C301FDfe42ADB9a"
+  reporter: CryptoScamDB  
