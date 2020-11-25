@@ -63188,6 +63188,7 @@
     - "18YCvzAakqKXWed2fEaHgsi5sSjBqJpca4"
     ETH:
     - "0x3c39c2FD79B55827793B0Fa3023980297F796d80"
+    - "0x969244F550a683e6E3425C7CB87aA6aFe5FDA253"
   reporter: CryptoScamDB
 - name: onkbit.com
   url: http://onkbit.com
@@ -63489,3 +63490,111 @@
     ETH:
     - "0x254CcDE325aAEed21ae5f98B5C301FDfe42ADB9a"
   reporter: CryptoScamDB  
+- name: takebtc.net
+  url: http://takebtc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x09552613455a76d5818ba0f2a7eb6b40cec067fe"
+    BTC:
+    - "3EqxxxS6vPjFavutvSu18duPUWecW5N1Yz"
+  reporter: CryptoScamDB
+- name: btc-gemini.live
+  url: http://btc-gemini.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PTdn1dQVgg6pve4pBQzWqe8zn7HqWKtrK"
+  reporter: CryptoScamDB
+- name: paypal-btc.com
+  url: http://paypal-btc.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PayPaL86RnzarEsWAZqENKVi1g8bBmNig"
+  reporter: CryptoScamDB
+- name: bitcoin-revolution2.cashvolume.monster
+  url: http://bitcoin-revolution2.cashvolume.monster
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: uniswaps.app
+  url: http://uniswaps.app
+  category: Malware
+  subcategory: Uniswap
+  description: "Fake uniswap hosting malware (sha256sum 387647957efaa16119bafd0976ec8d58f99c3e680507a124223fda8943e44ea3)"
+  reporter: CryptoScamDB
+- name: app.uniswap.claim-airdrop-uniswap-v2.info
+  url: http://app.uniswap.claim-airdrop-uniswap-v2.info
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake uniswap phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: chainlink.click
+  url: http://chainlink.click
+  category: Phishing
+  subcategory: Chainlink
+  description: "Fake chainlink airdrop phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: chrome-extension.info
+  url: http://chrome-extension.info
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask website phishing for secrets with POST /nkbihfbeogaeaoehlefnkodbefgpgknn/349a0d6b-9b45-4b67-9f88-b5a9eb787710/download/success.php"
+  reporter: CryptoScamDB
+- name: coinarbitrade.com
+  url: http://coinarbitrade.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  addresses:
+    BTC:
+    - "15xMmuzquoQ3oSU64BM33iBKK2qLWnXoDY"
+  reporter: CryptoScamDB
+- name: bitcointrader.trckoffers.xyz
+  url: http://bitcointrader.trckoffers.xyz
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: ripple-xrp.me
+  url: http://ripple-xrp.me
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rJnScWydYsnL1PJWc79wGGTfKPrJkXnJEV"
+  reporter: CryptoScamDB
+- name: accountts-binance.com
+  url: http://accountts-binance.com
+  category: Phishing
+  subcategory: Binance
+  description: "Fake Binance phishing for logins with POST /_ini.php"
+  reporter: CryptoScamDB
+- name: xn--lgder-6za.com
+  url: http://xn--lgder-6za.com
+  category: Malware
+  subcategory: Ledger
+  description: "Fake Ledger site hosting malware (sha256sum 307d9f5e4b85d1209753a90220cb3cf6e590288af57d81fb6a282c5d1a6d68df)"
+  reporter: CryptoScamDB
+- name: coinbaseairdrop.com
+  url: http://coinbaseairdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BWUEnnRjUWVd5gn11uMeAz9QZWGGM3RaR"
+    ETH:
+    - "0x6CA461Ea72c474f13bf93e7188d5B8128c86a855"
+    XRP:
+    - "rEwhRh72riz6nn47caLvnkb1LdqbQj6Xtg"
+  reporter: CryptoScamDB
