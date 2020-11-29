@@ -63598,3 +63598,146 @@
     XRP:
     - "rEwhRh72riz6nn47caLvnkb1LdqbQj6Xtg"
   reporter: CryptoScamDB
+- name: ripplebonus.us
+  url: http://ripplebonus.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rs7w4eg5Vcr433ktgEUnomMfxMjhBoZWcF"
+  reporter: CryptoScamDB
+- name: litecoin-event.net
+  url: http://litecoin-event.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    LTC:
+    - "LMXfStKhazNaJBgAuF7QjtuiohAoHPiAUL"
+  reporter: CryptoScamDB
+- name: thebigdeal.clickfunnels.com
+  url: http://thebigdeal.clickfunnels.com
+  category: Scamming
+  subcategory: Investments
+  description: "Fake investment platform"
+  reporter: CryptoScamDB
+- name: easyripple.claims
+  url: http://easyripple.claims
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rhjYRPqPQQHuzFGYbnt3cKCgSqHx1VD7MT"
+  reporter: CryptoScamDB
+- name: xrp-fund.live
+  url: http://xrp-fund.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rnVUVM5JmtbV8F1gxwTPyJTbSm3ytKmT9q"
+  reporter: CryptoScamDB
+- name: coinbaseeth.org
+  url: http://coinbaseeth.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: geminisspaymentsd.blogspot.com
+  url: http://geminisspaymentsd.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Dix2bjnGEEay8JsbuyssWYCKdJ2FtuSKJ"
+  reporter: CryptoScamDB
+- name: ripple-spark.info
+  url: http://ripple-spark.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rahQuyvi4ZFohPqTUnoxxvDdimTYvKrLa8"
+  reporter: CryptoScamDB
+- name: eosauthority.link
+  url: http://eosauthority.link
+  category: Phishing
+  subcategory: EOS
+  description: "Fake EOS site phishing for secrets with POST /processpk.php"
+  reporter: CryptoScamDB
+- name: zillet.net
+  url: http://zillet.net
+  category: Phishing
+  subcategory: Zillet
+  description: "Fake Zilliqa wallet phishing for secrets with POST /phrase.php"
+  reporter: CryptoScamDB
+- name: wallet.cosmostation.network
+  url: http://wallet.cosmostation.network
+  category: Phishing
+  subcategory: Cosmo
+  description: "Fake Cosmo wallet phishing for secrets with POST /phrase.php"
+  reporter: CryptoScamDB
+- name: installmeta.com
+  url: http://installmeta.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /check.php"
+  reporter: CryptoScamDB
+- name: ripple-xrp.live
+  url: http://ripple-xrp.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "r4uknNUEi5WSPGtgzGbLJY1tDmWbMsb9DE"
+  reporter: CryptoScamDB
+- name: dropbinance.exchange
+  url: http://dropbinance.exchange
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1qxegrjz4hq38acqrqt4f02staecdx8gpdan7da2"
+    ETH:
+    - "0x6710d545500350470244a7C7A722491Cc6540C81"
+  reporter: CryptoScamDB
+- name: bithomp.work
+  url: http://bithomp.work
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rE4QWibTgheDaKZurfGi3ybsfXk4ohFByS"
+  reporter: CryptoScamDB
+- name: aaveapp.com
+  url: http://aaveapp.com
+  category: Malware
+  subcategory: Aave
+  description: "Fake Aave website hosting malware - sha256sum 28aad89b06771774903176a98b02b2b6260a6ce04be3ffacb4d764d624be0355"
+  reporter: CryptoScamDB
+- name: marketplace.axieinfinity.com.inventoryclaim.defi-universe.vip
+  url: http://marketplace.axieinfinity.com.inventoryclaim.defi-universe.vip
+  category: Phishing
+  subcategory: Axie
+  description: "Fake axieinfinity site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: axieinfinity.com.aave.defi-universe.vip
+  url: http://axieinfinity.com.aave.defi-universe.vip
+  category: Phishing
+  subcategory: Axie
+  description: "Fake axieinfinity site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: 88mph.app.defi-universe.vip
+  url: http://88mph.app.defi-universe.vip
+  category: Phishing
+  subcategory: 88mph
+  description: "Fake 88mph site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
