@@ -63741,3 +63741,139 @@
   subcategory: 88mph
   description: "Fake 88mph site phishing for secrets with POST /claim.php"
   reporter: CryptoScamDB
+- name: charles-hoskinson.live
+  url: http://charles-hoskinson.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "addr1qxmzd3np2kpyg6nxrjeeht4w6638xkg3azkas0xnurxzrtthn8xfcjphkne7ytdg2elppeawx8jcx2jcjj7n5xdnq7kszv8ud0"
+  reporter: CryptoScamDB
+- name: uniswapdrop.finance
+  url: http://uniswapdrop.finance
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x80e8374A89c514340a7886dEFabFc338dff34d86"
+  reporter: CryptoScamDB
+- name: uniswap-airdrop.io
+  url: http://uniswap-airdrop.io
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake uniswap airdrop phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: xn--stellr-7za.org
+  url: http://xn--stellr-7za.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake stellar site phishing for secrets with POST /sdk.php"
+  reporter: CryptoScamDB
+- name: stellarclaim.org
+  url: http://stellarclaim.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Stellar site - https://twitter.com/sniko_/status/1333802885386145794"
+  reporter: CryptoScamDB
+- name: unidrop.pro
+  url: http://unidrop.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: fund-gemini.net
+  url: http://fund-gemini.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Gemini8n769FPqciBWEuvqpA2ea3SB3oF"
+  reporter: CryptoScamDB
+- name: xn--rpple-cta.com
+  url: http://xn--rpple-cta.com
+  category: Phishing
+  subcategory: Ripple
+  description: "Fake XRP site phishing for secrets"
+  reporter: CryptoScamDB
+- name: unipromo.app
+  url: http://unipromo.app
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xa83060a89300c76b26Aa1af767b8AF23fAeF4C29"
+    - "0x27eA854AdDE0006C3194E32747A332aEf7783aCD"
+  reporter: CryptoScamDB
+- name: ripple2021.com
+  url: http://ripple2021.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rUeTkeLr8Qc1frMjzo3PgXwdJ6mC3ox8Qk"
+  reporter: CryptoScamDB
+- name: xn--stelar-ycb.org
+  url: http://xn--stelar-ycb.org
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets with POST /account-viewer/sdk.php"
+  reporter: CryptoScamDB
+- name: btcprominer.life
+  url: http://btcprominer.life
+  category: Scamming
+  subcategory: Miner
+  description: "Fake web miner"
+  reporter: CryptoScamDB
+- name: marketplace-axieinfinity.com
+  url: http://marketplace-axieinfinity.com
+  category: Phishing
+  subcategory: Axie
+  description: "Fake AxieInfinity site phishing for secrets with POST //marketplace.axieinfinity.com.inventoryclaim.defi-universe.vip/core/unit-class.php?c=<secret>"
+  reporter: CryptoScamDB
+- name: ripple-labs.dev
+  url: http://ripple-labs.dev
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "r9DSbW8NXn1cYCXEQEpeDCxNos1Wr3fbUT"
+  reporter: CryptoScamDB
+- name: xrp2021.net
+  url: http://xrp2021.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rfu822JSH4zVRJJmGeUZQbMZcJeTTDXNK4"
+  reporter: CryptoScamDB
+- name: ethuniswap.com
+  url: http://ethuniswap.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php (promoted by twitter id: 963007081)"
+  reporter: CryptoScamDB
+- name: sushiswapcoin.com
+  url: http://sushiswapcoin.com
+  category: Phishing
+  subcategory: Sushi
+  description: "Fake Sushi airdrop phishing for secrets with POST /sign.php (promoted by twitter id: 1900436629)"
+  reporter: CryptoScamDB
+- name: ledgerlive.io
+  url: http://ledgerlive.io
+  category: Malware
+  subcategory: Ledger
+  description: "Fake Ledger live applications (sha256sum 75aeace5a0602c78047f26884f71209beb4336fc3a2cb18f8d140afd605e43bb)"
+  reporter: CryptoScamDB
+- name: installmetamask.com
+  url: http://installmetamask.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets"
+  reporter: CryptoScamDB
