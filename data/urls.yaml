@@ -63768,13 +63768,13 @@
 - name: xn--stellr-7za.org
   url: http://xn--stellr-7za.org
   category: Phishing
-  subcategory: Uniswap
+  subcategory: Stellar
   description: "Fake stellar site phishing for secrets with POST /sdk.php"
   reporter: CryptoScamDB
 - name: stellarclaim.org
   url: http://stellarclaim.org
   category: Phishing
-  subcategory: Uniswap
+  subcategory: Stellar
   description: "Fake Stellar site - https://twitter.com/sniko_/status/1333802885386145794"
   reporter: CryptoScamDB
 - name: unidrop.pro
