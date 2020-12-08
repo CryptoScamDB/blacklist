@@ -63877,3 +63877,54 @@
   subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets"
   reporter: CryptoScamDB
+- name: install-metamask-io.com
+  url: http://install-metamask-io.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask phishing for secrets with POST /sent.php"
+  reporter: CryptoScamDB
+- name: give-crypto.s3-us-west-2.amazonaws.com
+  url: http://give-crypto.s3-us-west-2.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: etheruniswap.com
+  url: http://etheruniswap.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php (promoted by twitter id: 1679558912)"
+  reporter: CryptoScamDB
+- name: uniswap-bonus.com
+  url: http://uniswap-bonus.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php (promoted by twitter id: 1900436629)"
+  reporter: CryptoScamDB
+- name: metamaskapp.com
+  url: http://metamaskapp.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
+  reporter: CryptoScamDB
+- name: maskmeta.xyz
+  url: http://maskmeta.xyz
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /success.php"
+  reporter: CryptoScamDB
+- name: walletconnect.info
+  url: http://walletconnect.info
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect phishing for secrets with POST /home.php"
+  reporter: CryptoScamDB
+- name: 247cryptotrade.online
+  url: http://247cryptotrade.online
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  addresses:
+    XRP:
+    - "36PnmArrW8fX1FhHmPwKZUsQWtH7U9MyAt"
+  reporter: CryptoScamDB
