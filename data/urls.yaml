@@ -63928,3 +63928,50 @@
     XRP:
     - "36PnmArrW8fX1FhHmPwKZUsQWtH7U9MyAt"
   reporter: CryptoScamDB
+- name: muskx.online
+  url: http://muskx.online
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3NeKHDYzTPWrys2aHrxqZGFP1ZLmj33k2N"
+    ETH:
+    - "0x4E0DD44228E5dE35dc1dA92ea4B5d4AbE08f4246"
+  reporter: CryptoScamDB
+- name: xn--ledr-dxa0756b.com
+  url: http://xn--ledr-dxa0756b.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site hosting malware (sha256sum 1aa12431a521fc556f03b9e1c6a092cbe39f95c9c873a803751357150a41c4d6)"
+  reporter: CryptoScamDB
+- name: mark-direct.com
+  url: http://mark-direct.com
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: trust-myfood.com
+  url: http://trust-myfood.com
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: enjin-books.com
+  url: http://enjin-books.com
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: brigadtechnic.com
+  url: http://brigadtechnic.com
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: secure-beta.com
+  url: http://secure-beta.com
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
