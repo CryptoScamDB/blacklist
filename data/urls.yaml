@@ -63948,30 +63948,30 @@
 - name: mark-direct.com
   url: http://mark-direct.com
   category: Phishing
-  subcategory: TrustWallet
+  subcategory: Trust
   description: "Fake TrustWallet phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB
 - name: trust-myfood.com
   url: http://trust-myfood.com
   category: Phishing
-  subcategory: TrustWallet
+  subcategory: Trust
   description: "Fake TrustWallet phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB
 - name: enjin-books.com
   url: http://enjin-books.com
   category: Phishing
-  subcategory: TrustWallet
+  subcategory: Trust
   description: "Fake TrustWallet phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB
 - name: brigadtechnic.com
   url: http://brigadtechnic.com
   category: Phishing
-  subcategory: TrustWallet
+  subcategory: Trust
   description: "Fake TrustWallet phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB
 - name: secure-beta.com
   url: http://secure-beta.com
   category: Phishing
-  subcategory: TrustWallet
+  subcategory: Trust
   description: "Fake TrustWallet phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB
