@@ -63942,3 +63942,20 @@
   subcategory: Trust
   description: "Fake TrustWallet phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB
+- name: binance2021.com
+  url: http://binance2021.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18v6DhnLZQ132Z1fEVW4TyNhtkmieM2qsq"
+    ETH:
+    - "0xb16742b92f8236a4b92d31b39ea041d9f4336d5f"
+  reporter: CryptoScamDB
+- name: ripple.com.so
+  url: http://ripple.com.so
+  category: Phishing
+  subcategory: Ripple
+  description: "Fake Ripple site phishing for secrets"
+  reporter: CryptoScamDB
