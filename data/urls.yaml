@@ -63959,3 +63959,54 @@
   subcategory: Ripple
   description: "Fake Ripple site phishing for secrets"
   reporter: CryptoScamDB
+- name: letmecrypto.com
+  url: http://letmecrypto.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: bittque.com
+  url: http://bittque.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: coingecko.pro
+  url: http://coingecko.pro
+  category: Scamming
+  subcategory: Coingecko
+  description: "Fake Coingecko swap service"
+  addresses:
+    BTC:
+    - "37N2icAKAoukW9uHgvfYWgzaXp2JTJDZJF"
+  reporter: CryptoScamDB
+- name: slolzfr.com
+  url: http://slolzfr.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /uniswap/submit.php (apk namespace com.labose.trabolle)"
+  reporter: CryptoScamDB
+- name: xrp.limited
+  url: http://xrp.limited
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rMGaqB9cz6E9ZcaWptx25kVX4niFUtFGn2"
+  reporter: CryptoScamDB
+- name: ripple.promo
+  url: http://ripple.promo
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rKjov4pGUFz3Ez7f8yUckhQWiUKfpmN2tZ"
+  reporter: CryptoScamDB
+- name: metamaskwallet.net
+  url: http://metamaskwallet.net
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
+  reporter: CryptoScamDB
