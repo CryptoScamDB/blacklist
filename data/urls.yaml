@@ -64010,3 +64010,73 @@
   subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
   reporter: CryptoScamDB
+- name: fundmusk.com
+  url: http://fundmusk.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    XRP:
+    - "rUQrQNPjvN9DPDjwtRaBLFTKNxqNR2gHxJ"
+    ETH:
+    - "0xc9210947C6e63826EeC92f396Ab4FFA32C5e32BF"
+    BTC:
+    - "1AmsPFUVkpt1i3pAcAGLJjba2soKs9yMZh"
+  reporter: CryptoScamDB
+- name: binan.in
+  url: http://binan.in
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1ERNNsmERCjB29NwWrqt27tVJwSEXxCrKm"
+    ETH:
+    - "0x80B29b841E203c638b8F46F7a0763fC80856767A"
+  reporter: CryptoScamDB
+- name: binancetwitter.com
+  url: http://binancetwitter.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site linking users to binan.in"
+  addresses:
+    BTC:
+    - "1ERNNsmERCjB29NwWrqt27tVJwSEXxCrKm"
+    ETH:
+    - "0x80B29b841E203c638b8F46F7a0763fC80856767A"
+  reporter: CryptoScamDB
+- name: live-spacex.com
+  url: http://live-spacex.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18pmjeGWCvqUZytNd3aixonzEySNrovFzU"
+    ETH:
+    - "0xaeff507bc059a52cc19163d1769d828cf685f3b8"
+  reporter: CryptoScamDB
+- name: metamaskweb.com
+  url: http://metamaskweb.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /logs/seedphrase.php"
+  reporter: CryptoScamDB
+- name: 1inch.app
+  url: http://1inch.app
+  category: Phishing
+  subcategory: 1inch
+  description: "Fake 1inch app"
+  reporter: CryptoScamDB
+- name: 1inch-exchange.com
+  url: http://1inch-exchange.com
+  category: Phishing
+  subcategory: 1inch
+  description: "Fake 1inch app"
+  reporter: CryptoScamDB
+- name: uniswapsite.com
+  url: http://uniswapsite.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /sign.php - promoted by twitter id 1900436629"
+  reporter: CryptoScamDB
