@@ -63972,3 +63972,114 @@
   subcategory: Uniswap
   description: "Fake Uniswap site phishing for secrets with POST /sign.php - promoted by twitter id 1900436629"
   reporter: CryptoScamDB
+- name: uniswapupdate.com
+  url: http://uniswapupdate.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake uniswap site phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: live-tesla.com
+  url: http://live-tesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "188GXACkWA9MEiXA1df4rHynn992iV93TE"
+    ETH:
+    - "0x31efcbf8ae69dcbe6770b1ce7f0c61c216aa2236"
+  reporter: CryptoScamDB
+- name: elon.fund
+  url: http://elon.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MusKazBTGrxfAXKSeVM9kBKmFdBPUkQ5V"
+    ETH:
+    - "0xE30a737e9a711D24bDEb0afF7e1f87A1c0E53636"
+  reporter: CryptoScamDB
+- name: ethgive.org
+  url: http://ethgive.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18i35LKaxwr5br5MtocbiTVYcd6rusUHiv"
+    ETH:
+    - "0x7C0f8FfdCe15f94e3bC7F3fA4c22a5d0Ee08ae2B"
+  reporter: CryptoScamDB
+- name: elongive.us
+  url: http://elongive.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (Xrp tag: 7777777)"
+  addresses:
+    BTC:
+    - "1g2cRrGqCX1LCEmtqsQy3YhkSTfTwkmD9"
+    ETH:
+    - "0xBD2d1cc9627f1d791B184600CA950328644C8eb2"
+    XRP:
+    - "rE7Gc1GqVG6oLbWkA7vYyySJTxS5gzRxJC"
+  reporter: CryptoScamDB
+- name: uniiswaap.org
+  url: http://uniiswaap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake uniswap site phishing with POST //formspree.io/f/mbjpzwll"
+  reporter: CryptoScamDB
+- name: cardano2021.us
+  url: http://cardano2021.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "addr1qyzm8sdsu2u7kj4fnf0egu0ysp4qjr8p27503zy6pggc8m66tfuxswf8qun4d6d8gzlgsll22fe5gs2swxuhfunq9xyscqggxr"
+  reporter: CryptoScamDB
+- name: newledgerweb.com
+  url: http://newledgerweb.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for keys with POST /telegramform/php/send-message.php"
+  reporter: CryptoScamDB
+- name: elonreward.info
+  url: http://elonreward.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MuskHeGo7M2nTAz16PxSGzP5w1qDsNKb3"
+  reporter: CryptoScamDB
+- name: verifyaccounts.io
+  url: http://verifyaccounts.io
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake wallet site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: yearnapp.finance
+  url: http://yearnapp.finance
+  category: Malware
+  subcategory: Yearn
+  description: "Fake Yearn app hosting malware (sha256sum: 9a965cef211a0b96adfb96ce94e0a6a28b9f0c30e55af413f3d44c976ee236e1)"
+  reporter: CryptoScamDB
+- name: ethgives.com
+  url: http://ethgives.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Hgz3yX1VRkFmMX5ztpDWFKWMYyMfvdsU6"
+    ETH:
+    - "0x620378b3Be2f7BD6D159ba5e7bD7155099EE4829"
+  reporter: CryptoScamDB
+- name: sushiswapclassic.app
+  url: http://sushiswapclassic.app
+  category: Malware
+  subcategory: Sushi
+  description: "Fake SushiSwap app hosting malware (sha256sum: 73974b430a9641a9809ac76d34139c250972b486a0ebf50eb0e3af681b0c08b5)"
+  reporter: CryptoScamDB
