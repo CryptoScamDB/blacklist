@@ -568,12 +568,6 @@
   subcategory: OmiseGO
   description: fake ico site
   reporter: CryptoScamDB
-- name: twitter.com/omise__go
-  url: http://twitter.com/omise__go
-  category: Fake ICO
-  subcategory: OmiseGO
-  description: fake twitter
-  reporter: CryptoScamDB
 - name: tenx-tech.com
   url: http://tenx-tech.com
   category: Fake ICO
@@ -64082,4 +64076,62 @@
   category: Malware
   subcategory: Sushi
   description: "Fake SushiSwap app hosting malware (sha256sum: 73974b430a9641a9809ac76d34139c250972b486a0ebf50eb0e3af681b0c08b5)"
+  reporter: CryptoScamDB
+- name: muskdrop.life
+  url: http://muskdrop.life
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17asUxdYXzEBfucSfM69nDeSAm5bif3ffx"
+    ETH:
+    - "0xeAFdd7D181ff72F4B66132A9ffE35D3F077790D2"
+  reporter: CryptoScamDB
+- name: epaymentbtc.tumblr.com
+  url: http://epaymentbtc.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "368Qqzc77bi2J4ddPqKkJVTk1Ps9ZT6HBh"
+  reporter: CryptoScamDB
+- name: epaymenteth.tumblr.com
+  url: http://epaymenteth.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x49b766acf65e62519c14b89a168d161313fd5f15"
+  reporter: CryptoScamDB
+- name: christmasbit.tumblr.com
+  url: http://christmasbit.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "368Qqzc77bi2J4ddPqKkJVTk1Ps9ZT6HBh"
+    ETH:
+    - "0x49b766acf65e62519c14b89a168d161313fd5f15"
+  reporter: CryptoScamDB
+- name: uniswap-crypto.com
+  url: http://uniswap-crypto.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php - promoted by twitter id: 1227974606448885760"
+  reporter: CryptoScamDB
+- name: uniswap-defi.com
+  url: http://uniswap-defi.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php - promoted by twitter id: 1227974606448885760"
+  reporter: CryptoScamDB
+- name: uniswapairdrop.org
+  url: http://uniswapairdrop.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php - promoted by twitter id: 1587773215"
   reporter: CryptoScamDB
