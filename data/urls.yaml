@@ -568,12 +568,6 @@
   subcategory: OmiseGO
   description: fake ico site
   reporter: CryptoScamDB
-- name: twitter.com/omise__go
-  url: http://twitter.com/omise__go
-  category: Fake ICO
-  subcategory: OmiseGO
-  description: fake twitter
-  reporter: CryptoScamDB
 - name: tenx-tech.com
   url: http://tenx-tech.com
   category: Fake ICO

@@ -140,3 +140,9 @@
     ETH:
     - "0xe5b913f91f2b90c5cd04d711e1eb3214c56dba98"
   reporter: CryptoScamDB
+- name: twitter.com/omise__go
+  url: http://twitter.com/omise__go
+  category: Fake ICO
+  subcategory: OmiseGO
+  description: fake twitter
+  reporter: CryptoScamDB
