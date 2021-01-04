@@ -64135,3 +64135,124 @@
   subcategory: Uniswap
   description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php - promoted by twitter id: 1587773215"
   reporter: CryptoScamDB
+- name: elon-found.tumblr.com
+  url: http://elon-found.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "39Gof9kcr51Hw44MTu65KERjYhYp199ji9"
+    ETH:
+    - "0x18531881be3dbda5894077ab0cf6db4d039970b0"
+  reporter: CryptoScamDB
+- name: paytopayethx.tumblr.com
+  url: http://paytopayethx.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x18531881be3dbda5894077ab0cf6db4d039970b0"
+  reporter: CryptoScamDB
+- name: paytopaybtcx.tumblr.com
+  url: http://paytopaybtcx.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "39Gof9kcr51Hw44MTu65KERjYhYp199ji9"
+  reporter: CryptoScamDB
+- name: bancora.network
+  url: http://bancora.network
+  category: Phishing
+  subcategory: Bancor
+  description: "Fake Bancor site phishing for keys with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: mybc-funds.tumblr.com
+  url: http://mybc-funds.tumblr.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4314Acf1cbbd1081cE588D933a17995fce349C0B"
+    BTC:
+    - "bc1qj7ppae27tcju2qy88c3xmaa8jlc5vrkn470ems"
+  reporter: CryptoScamDB
+- name: mybi.ga
+  url: http://mybi.ga
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4314Acf1cbbd1081cE588D933a17995fce349C0B"
+    BTC:
+    - "bc1qj7ppae27tcju2qy88c3xmaa8jlc5vrkn470ems"
+  reporter: CryptoScamDB
+- name: uniswaphold.com
+  url: http://uniswaphold.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap airdrop phishing for secrets with POST /sign.php - promoted by twitter id: 1227617073171517442"
+  reporter: CryptoScamDB
+- name: elon-crypto.fund
+  url: http://elon-crypto.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC0193a9D5817090A684e6e19ccF9A9f333F13BA6"
+    BTC:
+    - "1MUSK1w47VAuqZfzK84maeaMhoZvYBqLyC"
+  reporter: CryptoScamDB
+- name: bitcupcoins.com
+  url: http://bitcupcoins.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: xn--stllar-4ua.com
+  url: http://xn--stllar-4ua.com
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: mailsrv-stellar.com
+  url: http://mailsrv-stellar.com
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: xn--stllar-cva.com
+  url: http://xn--stllar-cva.com
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: ripple.com.lv
+  url: http://ripple.com.lv
+  category: Phishing
+  subcategory: Ripple
+  description: "Fake Ripple site phishing for secrets"
+  reporter: CryptoScamDB
+- name: myetherwallet.comim.org
+  url: http://myetherwallet.comim.org
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with POST /Record.php"
+  reporter: CryptoScamDB
+- name: musk-event.org
+  url: http://musk-event.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x33431508fF6df7e16D7dDe03f76b037a164Ecf97"
+    BTC:
+    - "1MusK15oUKXF3x6B3g1p4FDJc3zPuLQ9PM"
+  reporter: CryptoScamDB
