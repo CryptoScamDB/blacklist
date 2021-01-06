@@ -64256,3 +64256,97 @@
     BTC:
     - "1MusK15oUKXF3x6B3g1p4FDJc3zPuLQ9PM"
   reporter: CryptoScamDB
+- name: polkadot-airdrop.live
+  url: http://polkadot-airdrop.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOT:
+    - "15x6f6M42ccmTq3emCtyCZUKCbYLH3msCPmHGnEgwUxZRAu4"
+  reporter: CryptoScamDB
+- name: wallet-connect.net
+  url: http://wallet-connect.net
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /static/class/1phrase.php"
+  reporter: CryptoScamDB
+- name: wallet-connect.org
+  url: http://wallet-connect.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /static/class/1phrase.php"
+  reporter: CryptoScamDB
+- name: xn--stellr-mta.com
+  url: http://xn--stellr-mta.com
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: app.uniswap.tokens-airdrop-holders.com
+  url: http://app.uniswap.tokens-airdrop-holders.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: cryptfundz.com
+  url: http://cryptfundz.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1GAMt1Ga4AkMFst9tsKj6UD6EGarH5QzDW"
+    XRP:
+    - "rsMx78Bjsv4Vqrwxr6cs6sNtMn8eFngHUc"
+    ETH:
+    - "0xE2A81B9bc68230FE5a50dec5d480D1C18152c493"
+  reporter: CryptoScamDB
+- name: tether-usdt-mixer.com
+  url: http://tether-usdt-mixer.com
+  category: Scamming
+  subcategory: Mixer
+  description: "Fake mixer scamming deposits"
+  addresses:
+    ETH:
+    - "0xe6658E21A598a58ccd829f4863a252006E86Ff9D"
+  reporter: CryptoScamDB
+- name: anonymous-tether-mixer.com
+  url: http://anonymous-tether-mixer.com
+  category: Scamming
+  subcategory: Mixer
+  description: "Fake mixer scamming deposits"
+  addresses:
+    ETH:
+    - "0x059483A622B625546DC8D2de7Bac0e9e4FBAb27A"
+  reporter: CryptoScamDB
+- name: ethereums-mixer.com
+  url: http://ethereums-mixer.com
+  category: Scamming
+  subcategory: Mixer
+  description: "Fake mixer scamming deposits"
+  addresses:
+    ETH:
+    - "0xAE17b84D587BFcF70c94F2dBcD4644E9F3D24f80"
+  reporter: CryptoScamDB
+- name: ethereum-mixer.com
+  url: http://ethereum-mixer.com
+  category: Scamming
+  subcategory: Mixer
+  description: "Fake mixer scamming deposits"
+  addresses:
+    ETH:
+    - "0xBB64C7e2032df5949d9f30080093f05E8C90dc74"
+  reporter: CryptoScamDB
+- name: thetamaintoken.online
+  url: http://thetamaintoken.online
+  category: Phishing
+  subcategory: Theta
+  description: "Fake ThetaWallet phishing for secrets with POST /unlock/privatekey.php"
+  reporter: CryptoScamDB
+- name: metamask.iologin.org
+  url: http://metamask.iologin.org
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets"
+  reporter: CryptoScamDB
