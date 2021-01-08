@@ -64350,3 +64350,81 @@
   subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets"
   reporter: CryptoScamDB
+- name: gemini-giveaways.blogspot.com
+  url: http://gemini-giveaways.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: geminipaymewnt.blogspot.com
+  url: http://geminipaymewnt.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1E22wfpRtQFtWzf8Xksa8T9VsbByVFph8s"
+  reporter: CryptoScamDB
+- name: ledger-updates.com
+  url: http://ledger-updates.com
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with POST /update.php?userId=<email>"
+  reporter: CryptoScamDB
+- name: wave-airdrop.live
+  url: http://wave-airdrop.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    WAVES:
+    - "3P3RchRFHbmeyb4nuBWKnAHGNoAcjSQt3rZ"
+  reporter: CryptoScamDB
+- name: connectionlivewallet.io
+  url: http://connectionlivewallet.io
+  category: Phishing
+  subcategory: Wallet
+  description: "Fake Wallet site phishing for secrets"
+  reporter: CryptoScamDB
+- name: dai-stablecoin.com
+  url: http://dai-stablecoin.com
+  category: Phishing
+  subcategory: MakerDao
+  description: "Fake MakerDao wallet phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: jxxll.fun
+  url: http://jxxll.fun
+  category: Phishing
+  subcategory: Jaxx
+  description: "Fake Jaxx site phishing for secrets with POST /api.php"
+  reporter: CryptoScamDB
+- name: libertyjaxx.live
+  url: http://libertyjaxx.live
+  category: Phishing
+  subcategory: Jaxx
+  description: "Fake Jaxx site phishing for secrets with POST /api.php"
+  reporter: CryptoScamDB
+- name: branch-trust-wallet.000webhostapp.com
+  url: http://branch-trust-wallet.000webhostapp.com
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet site phishing for secrets with POST /login.php"
+  reporter: CryptoScamDB
+- name: org-appconnect.com
+  url: http://org-appconnect.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /callback.php"
+  reporter: CryptoScamDB
+- name: io-update.com
+  url: http://io-update.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /callback.php"
+  reporter: CryptoScamDB
+- name: app.liquidity-pool-uniswap.org
+  url: http://app.liquidity-pool-uniswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
