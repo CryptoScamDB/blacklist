@@ -64428,3 +64428,108 @@
   subcategory: Uniswap
   description: "Fake Uniswap phishing for secrets with POST /claim.php"
   reporter: CryptoScamDB
+- name: btcfaze.com
+  url: http://btcfaze.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: gemini-giveaways2.blogspot.com
+  url: http://gemini-giveaways2.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1CZA6v4XzPQmC599WmSvbvsu2r8UEUUbHi"
+  reporter: CryptoScamDB
+- name: geminipayments.blogspot.com
+  url: http://geminipayments.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1cD2EEwxjVYqwP83Pah21PLnqD3PMJc6i"
+  reporter: CryptoScamDB
+- name: musk-free.com
+  url: http://musk-free.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x12b1036Ed346381fcCcacAB8b02491Ff37f87D82"
+    BTC:
+    - "16ShxhEXxzFyyEFeRkNbJDEHb3zuvTdSuH"
+  reporter: CryptoScamDB
+- name: tesla-promo.org
+  url: http://tesla-promo.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB5E8780f0f2328288FCa05bb5D77065FEC2eBcA2"
+    BTC:
+    - "1MusK1HoQi7ULXJdodirUsHiZfyN7z5puP"
+  reporter: CryptoScamDB
+- name: musk-crypto.fund
+  url: http://musk-crypto.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x38a19CA0b320012b1AC6227e391C11C34A12131b"
+    BTC:
+    - "1MUSK1Je69ucdgjgMrwHb7DR9YxgzEvSKQ"
+  reporter: CryptoScamDB
+- name: bolancer.exchange
+  url: http://bolancer.exchange
+  category: Phishing
+  subcategory: Balancer
+  description: "Fake Balance site phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: bolancer.info
+  url: http://bolancer.info
+  category: Phishing
+  subcategory: Balancer
+  description: "Fake Balance site phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: app.v2-uniswap.org
+  url: http://app.v2-uniswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Balance site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: info-uniswap.org
+  url: http://info-uniswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Balance site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: balancerc.exchange
+  url: http://balancerc.exchange
+  category: Phishing
+  subcategory: Balancer
+  description: "Fake Balancer site phishing for secrets with POST /check.php"
+  reporter: CryptoScamDB
+- name: compound.fyi
+  url: http://compound.fyi
+  category: Phishing
+  subcategory: Compound
+  description: "Fake Compound site phishing for secrets"
+  reporter: CryptoScamDB
+- name: curve.onl
+  url: http://curve.onl
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve site"
+  reporter: CryptoScamDB
+- name: app-aave.org
+  url: http://app-aave.org
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave app phishing for secrets with POST /"
+  reporter: CryptoScamDB
