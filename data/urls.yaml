@@ -64295,7 +64295,7 @@
   subcategory: Trust-Trading
   description: "Trust trading scam site"
   addresses:
-    BTC:
+    BTC:∂ç
     - "1GAMt1Ga4AkMFst9tsKj6UD6EGarH5QzDW"
     XRP:
     - "rsMx78Bjsv4Vqrwxr6cs6sNtMn8eFngHUc"
@@ -64451,6 +64451,7 @@
   addresses:
     BTC:
     - "1cD2EEwxjVYqwP83Pah21PLnqD3PMJc6i"
+    - "15UAeCqhcj1mx5KerF7Y5HkD1LbxFNq4Qu"
   reporter: CryptoScamDB
 - name: musk-free.com
   url: http://musk-free.com
@@ -64532,4 +64533,136 @@
   category: Phishing
   subcategory: Aave
   description: "Fake Aave app phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: bitcoinonlinepool.com
+  url: http://bitcoinonlinepool.com
+  category: Scamming
+  subcategory: Webminer
+  description: "Fake webminer"
+  reporter: CryptoScamDB
+- name: etherairdrop.io
+  url: http://etherairdrop.io
+  category: Phishing
+  subcategory: Ethereum
+  description: "Fake Ethereum2.0 airdrop site phishing for secrets with POST /success.php"
+  reporter: CryptoScamDB
+- name: integrationwallet.com
+  url: http://integrationwallet.com
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake Wallet phishing for secrets with POST //cryptoo-api.herokuapp.com/api/v1/validate"
+  reporter: CryptoScamDB
+- name: xrphere.com
+  url: http://xrphere.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rB4N75r3QAQ2npBhjS6b9a411PCHUfm8we"
+  reporter: CryptoScamDB
+- name: zilliqa.cf
+  url: http://zilliqa.cf
+  category: Phishing
+  subcategory: Zilliqa
+  description: "Fake Zilliqa wallet phishing for secrets with POST //platform2021.000webhostapp.com/zil.php?connect-wallet"
+  reporter: CryptoScamDB
+- name: gemini-gifts-2021.blogspot.com
+  url: http://gemini-gifts-2021.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "184zt1KTS6DRCsVLcLxtnHfKXamXVFFQ8R"
+    - "1H4Qj4gFNdTJU65NirwUJ2M41LMyqi61BE"
+  reporter: CryptoScamDB
+- name: geminipayments2.blogspot.com
+  url: http://geminipayments2.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1H4Qj4gFNdTJU65NirwUJ2M41LMyqi61BE"
+    - "184zt1KTS6DRCsVLcLxtnHfKXamXVFFQ8R"
+  reporter: CryptoScamDB
+- name: elon-free.fund
+  url: http://elon-free.fund
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MUSK1Je69ucdgjgMrwHb7DR9YxgzEvSKQ"
+    ETH:
+    - "0x38a19CA0b320012b1AC6227e391C11C34A12131b"
+  reporter: CryptoScamDB
+- name: stellar.org.mu
+  url: http://stellar.org.mu
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site linking users to accountviewer.stellar.org.mu"
+  reporter: CryptoScamDB
+- name: accountviewer.stellar.org.mu
+  url: http://accountviewer.stellar.org.mu
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: crryptod3423.blogspot.com
+  url: http://crryptod3423.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "184zt1KTS6DRCsVLcLxtnHfKXamXVFFQ8R"
+  reporter: CryptoScamDB
+- name: tornadocash.org
+  url: http://tornadocash.org
+  category: Phishing
+  subcategory: Tornado
+  description: "Fake Tornado cash site phishing for deposits - reported address: 0xf113C9f734745B0D74CA116Eb3767aE73c2f5fc0"
+  reporter: CryptoScamDB
+- name: uniswapbalance.com
+  url: http://uniswapbalance.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /sign.php - promoted by twitter id: 3021372786"
+  reporter: CryptoScamDB
+- name: ethereumgift.us
+  url: http://ethereumgift.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd5381A253E0f14CA010839dd71502E0b35Aed990"
+    BTC:
+    - "1ACeuPXe2LZndccmryL41JnMAhEX2xh4Ts"
+  reporter: CryptoScamDB
+- name: walletconnects.org
+  url: http://walletconnects.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /data/index.php"
+  reporter: CryptoScamDB
+- name: login-metamask.io
+  url: http://login-metamask.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /ajax/apps/formSubmitAjax.php"
+  reporter: CryptoScamDB
+- name: yeanr.finance
+  url: http://yeanr.finance
+  category: Phishing
+  subcategory: Yearn
+  description: "Fake Yearn finance site phishing for secrets with POST /panel1488/action.php?name=MetaMask&phrases=<secret>"
+  reporter: CryptoScamDB
+- name: eth-airdrop.io
+  url: http://eth-airdrop.io
+  category: Phishing
+  subcategory: Ethereum
+  description: "Fake Ethereum2.0 airdrop phishing for secrets with POST /success.php"
   reporter: CryptoScamDB
