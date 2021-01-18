@@ -64666,3 +64666,214 @@
   subcategory: Ethereum
   description: "Fake Ethereum2.0 airdrop phishing for secrets with POST /success.php"
   reporter: CryptoScamDB
+- name: trezor-io.com
+  url: http://trezor-io.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /submit.php (redir from exshengee.com)"
+  reporter: CryptoScamDB
+- name: airdrop-uniswap.info
+  url: http://airdrop-uniswap.info
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets"
+  reporter: CryptoScamDB
+- name: uniswapuser.com
+  url: http://uniswapuser.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets"
+  reporter: CryptoScamDB
+- name: gemini-airdrop.blogspot.com
+  url: http://gemini-airdrop.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1G9EYQuGSMfwRKjzCiSQ5UkWCK37UY7MfK"
+  reporter: CryptoScamDB
+- name: gemini-pay.blogspot.com
+  url: http://gemini-pay.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1G9EYQuGSMfwRKjzCiSQ5UkWCK37UY7MfK"
+  reporter: CryptoScamDB
+- name: uniswap-ico.com
+  url: http://uniswap-ico.com
+  category: Malware
+  subcategory: Uniswap
+  description: "Fake Uniswap site hosting malware (md5: 8adab6dffb524684b60a3fa9353ff970)"
+  reporter: CryptoScamDB
+- name: airdrop-loopring.io
+  url: http://airdrop-loopring.io
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9E469c7Ec3F6cB140D5B40EEE0529F91643147d2"
+  reporter: CryptoScamDB
+- name: xn--treor-7hb.io
+  url: http://xn--treor-7hb.io
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST //wallet.xn--treor-7hb.io"
+  reporter: CryptoScamDB
+- name: stellar.org.ro
+  url: http://stellar.org.ro
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site"
+  reporter: CryptoScamDB
+- name: curvefi.io
+  url: http://curvefi.io
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve site"
+  reporter: CryptoScamDB
+- name: curve.so
+  url: http://curve.so
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve site"
+  reporter: CryptoScamDB
+- name: curwe.fi
+  url: http://curwe.fi
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve site"
+  reporter: CryptoScamDB
+- name: winklevoss-events.blogspot.com
+  url: http://winklevoss-events.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1EQmXiEMgx5Dia1G8UfLRCqgiz3w6yVtbT"
+  reporter: CryptoScamDB
+- name: justinsun.ceo
+  url: http://justinsun.ceo
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    TRX:
+    - "T9zs7iRBoPzUFEjiDVwyghsoEnnzqbtrq2"
+  reporter: CryptoScamDB
+- name: lblhblockchain.com
+  url: http://lblhblockchain.com
+  category: Phishing
+  subcategory: Blockchain
+  description: "Fake Blockchain site phishing for logins"
+  reporter: CryptoScamDB
+- name: walletconnecl.org
+  url: http://walletconnecl.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /wallets"
+  reporter: CryptoScamDB
+- name: dropelon.io
+  url: http://dropelon.io
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd6a9C0C8f87af05a946F5e24A586522Fc61A1311"
+    BTC:
+    - "1HAu2hahZkaAhPwHaKYPz3G3MhXxYagiM"
+  reporter: CryptoScamDB
+- name: givemusk.space
+  url: http://givemusk.space
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x0e6c69bdda36f039d63f328a2e86816daaf98abc"
+    BTC:
+    - "1617EYc574akuPwHfnjHGtoMkHEFEXKeey"
+  reporter: CryptoScamDB
+- name: muskx.digital
+  url: http://muskx.digital
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "rfYVqFL3bs7B7hhP3KR9b8KW628PqVnUmP"
+    ETH:
+    - "0xbE0d3c5F2FcDd55623a85E52eBf7d8dA6b9Edbb9"
+    BTC:
+    - "1QDmTuqHAcW9yLXnx2pc7JCRPwSGHc2C9U"
+  reporter: CryptoScamDB
+- name: uni2021.com
+  url: http://uni2021.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x5CBE85B821B14DF08Fba73b1c37e69ed621f9b52"
+  reporter: CryptoScamDB
+- name: muskfree.com
+  url: http://muskfree.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14ejTnP3byt4s8khoEngqgKTFAPMsnWgiQ"
+    ETH:
+    - "0xa1938d79310eAEc02638a5F64517EC329a4DB5A8"
+  reporter: CryptoScamDB
+- name: muskx.io
+  url: http://muskx.io
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x98E3b489CF416861F6F47A32cBFAdF4B414613Ec"
+  reporter: CryptoScamDB
+- name: uniaward.net
+  url: http://uniaward.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC0857A36Bdf02f027d573E19f4F1719F32610ad7"
+  reporter: CryptoScamDB
+- name: unipromo.org
+  url: http://unipromo.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x911Ffa9Ec83BD443ba040f3C5e576D7601c1A433"
+  reporter: CryptoScamDB
+- name: unireward.org
+  url: http://unireward.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6f38419a097299a5ea8596314bedaa0aa8f8d8c6"
+  reporter: CryptoScamDB
+- name: uniswap.supply
+  url: http://uniswap.supply
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9A55038024DB5d3A87052Ee6D7cF38DF65485A23"
+  reporter: CryptoScamDB
