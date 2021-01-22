@@ -64877,3 +64877,151 @@
     ETH:
     - "0x9A55038024DB5d3A87052Ee6D7cF38DF65485A23"
   reporter: CryptoScamDB
+- name: winklevoss-airdrop.blogspot.com
+  url: http://winklevoss-airdrop.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "37J7m1YnjUFYdxM2rZhWY9Q6TsUX2SgnaZ"
+  reporter: CryptoScamDB
+- name: gemini-giveaway-btc.blogspot.com
+  url: http://gemini-giveaway-btc.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3C1TaQGXGq3cHUgV5JbcgA4mkB5Ttx3ARw"
+    - "37J7m1YnjUFYdxM2rZhWY9Q6TsUX2SgnaZ"
+  reporter: CryptoScamDB
+- name: gemimixx.com
+  url: http://gemimixx.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17ex2DgGpPB7mVgAkztaBoX6CWQHsqWZNJ"
+  reporter: CryptoScamDB
+- name: airdrops-uniswap.org
+  url: http://airdrops-uniswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap app phishing for secrets with POST /?claim"
+  reporter: CryptoScamDB
+- name: ethbtcrelease.com
+  url: http://ethbtcrelease.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19TbHYD9HDs6BbEnB9R2J17LK5t38BLHPz"
+    ETH:
+    - "0x14b8af53B5E1d3A67ab9B5Ef46A90773546259d4"
+  reporter: CryptoScamDB
+- name: online.metamaslk.com
+  url: http://online.metamaslk.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /token.php"
+  reporter: CryptoScamDB
+- name: airdrop-gemini.blogspot.com
+  url: http://airdrop-gemini.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site linking users to paygemini.blogspot.com"
+  addresses:
+    BTC:
+    - "1BoQkb3tNnY2siW9STgqmvNH1TxSBUmiWq"
+  reporter: CryptoScamDB
+- name: paygemini.blogspot.com
+  url: http://paygemini.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BoQkb3tNnY2siW9STgqmvNH1TxSBUmiWq"
+  reporter: CryptoScamDB
+- name: lorebtc.com
+  url: http://lorebtc.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: musk-promo.net
+  url: http://musk-promo.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x72ECf7298752544E4Add202652d542CABAc52cc0"
+    BTC:
+    - "1MusK1mZuSGJVcu3sETfaw611YSrQizF7V"
+  reporter: CryptoScamDB
+- name: elon-landing-prize.blogspot.com
+  url: http://elon-landing-prize.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd2227F40458B8F1Bc2F2b07142541cDb792D3E12"
+    BTC:
+    - "1HvMYYtEpqXDUBf41NBKoJj6h4GxAEYkbh"
+  reporter: CryptoScamDB
+- name: elon-btc-prize.blogspot.com
+  url: http://elon-btc-prize.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1HvMYYtEpqXDUBf41NBKoJj6h4GxAEYkbh"
+  reporter: CryptoScamDB
+- name: elon-prize-eth.blogspot.com
+  url: http://elon-prize-eth.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd2227F40458B8F1Bc2F2b07142541cDb792D3E12"
+  reporter: CryptoScamDB
+- name: gemini-give.com
+  url: http://gemini-give.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Kaq7PHwkECqCTH3X3jHLrv9TSQVuzPCSB"
+  reporter: CryptoScamDB
+- name: 2fa-verify.com
+  url: http://2fa-verify.com
+  category: Phishing
+  subcategory: Coinbase
+  description: "Fake Coinbase site phishing for logins with POST /process.php"
+  reporter: CryptoScamDB
+- name: tron-gassi.com
+  url: http://tron-gassi.com
+  category: Phishing
+  subcategory: 1inch
+  description: "Fake 1inch site phishing for secrets with POST /exchange/start.php?action=login"
+  reporter: CryptoScamDB
+- name: trust-ebook.com
+  url: http://trust-ebook.com
+  category: Phishing
+  subcategory: Yearn
+  description: "Fake Yearn site phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: pros-coinomi.com
+  url: http://pros-coinomi.com
+  category: Phishing
+  subcategory: Yearn
+  description: "Fake Yearn site phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
