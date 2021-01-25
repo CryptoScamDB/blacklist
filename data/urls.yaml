@@ -65025,3 +65025,125 @@
   subcategory: Yearn
   description: "Fake Yearn site phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB
+- name: eth-airdrop-uniswap.org
+  url: http://eth-airdrop-uniswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets (promoted by twitter id: 111605663)"
+  reporter: CryptoScamDB
+- name: btchaze.com
+  url: http://btchaze.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: gemini-lander2.blogspot.com
+  url: http://gemini-lander2.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site directing users to gemin-payments.blogspot.com"
+  addresses:
+    BTC:
+    - "15Fkb8u9oZRzc47c8hvrgMoak1PggtYTvr"
+  reporter: CryptoScamDB
+- name: gemin-payments.blogspot.com
+  url: http://gemin-payments.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15Fkb8u9oZRzc47c8hvrgMoak1PggtYTvr"
+  reporter: CryptoScamDB
+- name: xmr-qr-code-generator.com
+  url: http://xmr-qr-code-generator.com
+  category: Scamming
+  subcategory: General
+  description: "Fake XMR QR code generator"
+  addresses:
+    XMR:
+    - "49sZDrVkFEaUr9HQr6gWsKQCFnnfD8YMYUnqKbnuYsWeiUjYZsqPovwC3WkA23kKiAi9HQeWeJvo93gbdkWKjQJKRY5Jx6h"
+  reporter: CryptoScamDB
+- name: shadebit.com
+  url: http://shadebit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: app.uniswap.info-holders-airdrop.com
+  url: http://app.uniswap.info-holders-airdrop.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site"
+  reporter: CryptoScamDB
+- name: xn--mxer-qpa.money
+  url: http://xn--mxer-qpa.money
+  category: Scamming
+  subcategory: Mixer
+  description: "Fake mixer scamming for deposits"
+  reporter: CryptoScamDB
+- name: harvestfinance.app
+  url: http://harvestfinance.app
+  category: Phishing
+  subcategory: Harvest
+  description: "Fake HarvestFinance app phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: eventvb.com
+  url: http://eventvb.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xebe7EBCD023E4Fa074cf1D570144C23cEFE2D1f1"
+  reporter: CryptoScamDB
+- name: myentnherballet.com
+  url: http://myentnherballet.com
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet phishing for secrets with GET //gesticasa.es/sending.php?message=Private%20key:%20<input> (sending message to 1369689208) (server username: fabio891)"
+  reporter: CryptoScamDB
+- name: geminibonus.us
+  url: http://geminibonus.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xf5b89Dc553D2e074A0e3C9D5e7E315f76D99A5cB"
+    BTC:
+    - "13ox5QZvYGxVQt1zCkL6D1cMied4fndqKh"
+  reporter: CryptoScamDB
+- name: musk2021.us
+  url: http://musk2021.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MusK1yWr8QrmbmHeRvNQfyYazLiBC187G"
+  reporter: CryptoScamDB
+- name: ethgift.us
+  url: http://ethgift.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xc418e516aF3E9b3DBb9679b3C14311d883Df30ef"
+  reporter: CryptoScamDB
+- name: cardanogift.us
+  url: http://cardanogift.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "addr1qy56ljp2az9ejvcs392pem2xmrxrcd4keqnk3q6uxntpzp6jty6nsnw50selsw3ntd38pz02g73j3h8hwyncl7erhqssg4genl"
+  reporter: CryptoScamDB
+- name: metamaskconnect.net
+  url: http://metamaskconnect.net
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /wp-admin/admin-ajax.php"
+  reporter: CryptoScamDB
