@@ -65147,3 +65147,168 @@
   subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets with POST /wp-admin/admin-ajax.php"
   reporter: CryptoScamDB
+- name: vitalikbuterin.io
+  url: http://vitalikbuterin.io
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xE6cfA166542Ac4088E10c215bf9692b4e1309Ca7"
+  reporter: CryptoScamDB
+- name: uniswap-coin.com
+  url: http://uniswap-coin.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /sign.php"
+  reporter: CryptoScamDB
+- name: gemini-event.blogspot.com
+  url: http://gemini-event.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site pointing users to gemini-receive.blogspot.com"
+  reporter: CryptoScamDB
+- name: gemini-receive.blogspot.com
+  url: http://gemini-receive.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BDHXEpnq4qGKJraoPwD6Hs8FRbf2tHkmj"
+  reporter: CryptoScamDB
+- name: undwaple.com
+  url: http://undwaple.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /index.php"
+  reporter: CryptoScamDB
+- name: safety-paxful.com
+  url: http://safety-paxful.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful site phishing for logins"
+  reporter: CryptoScamDB
+- name: plegal-paxful.com
+  url: http://plegal-paxful.com
+  category: Phishing
+  subcategory: Paxful
+  description: "Fake Paxful site phishing for logins"
+  reporter: CryptoScamDB
+- name: gemini-bonus.blogspot.com
+  url: http://gemini-bonus.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site pointing users to gemini-receive.blogspot.com"
+  addresses:
+    BTC:
+    - "1BDHXEpnq4qGKJraoPwD6Hs8FRbf2tHkmj"
+  reporter: CryptoScamDB
+- name: winklevoss-brothers-bonus.blogspot.com
+  url: http://winklevoss-brothers-bonus.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site pointing users to winklevoss-brothers-bit.blogspot.com"
+  reporter: CryptoScamDB
+- name: winklevoss-brothers-bit.blogspot.com
+  url: http://winklevoss-brothers-bit.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: crypto-elon.net
+  url: http://crypto-elon.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3476Y4oqQgoA52tkhrBweDcBcBhnxofqkV"
+    ETH:
+    - "0x4e98d778f28a33ee5cae9c979408648ce6b5af70"
+  reporter: CryptoScamDB
+- name: metamask.io-install.com
+  url: http://metamask.io-install.com
+  category: Phishing
+  subcategory: Metamask
+  description: "Fake MetaMask site phishing for secrets with POST /callback.php"
+  reporter: CryptoScamDB
+- name: socialcapital.page
+  url: http://socialcapital.page
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3CpmJ5jUxhppvpbvEZuKFhF5kqqtRKP73D"
+    ETH:
+    - "0x87426980cCc4Df4C53ADd757F7dA112AA1F3a2DE"
+  reporter: CryptoScamDB
+- name: bitmycap.com
+  url: http://bitmycap.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits - discord giveaway scam"
+  reporter: CryptoScamDB
+- name: binexor.com
+  url: http://binexor.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits - discord giveaway scam"
+  reporter: CryptoScamDB
+- name: musk-prize.com
+  url: http://musk-prize.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MusK1yPYnBtLS2Roq5SiYfEfqNy7AMGcX"
+    ETH:
+    - "0x2043cc4f3C2154f7449d8C67f2D84FaEB570F950"
+  reporter: CryptoScamDB
+- name: elon-bonus.org
+  url: http://elon-bonus.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MusK1yPYnBtLS2Roq5SiYfEfqNy7AMGcX"
+    ETH:
+    - "0x2043cc4f3C2154f7449d8C67f2D84FaEB570F950"
+  reporter: CryptoScamDB
+- name: receiveuniswap.com
+  url: http://receiveuniswap.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST / (promoted by twitter id: 1900436629)"
+  reporter: CryptoScamDB
+- name: claim-crypto.site
+  url: http://claim-crypto.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1HaBWr9HFGaagU6v1B9KzXT9UfAg76scLA"
+    ETH:
+    - "0x2A48544b3b91FC52423067545fC4b86930e7F32b"
+  reporter: CryptoScamDB
+- name: xn--accounts-bnance-epb.com
+  url: http://xn--accounts-bnance-epb.com
+  category: Phishing
+  subcategory: Binance
+  description: "Fake Binance site phishing for logins with POST /_ini.php"
+  reporter: CryptoScamDB
+- name: musk2.top
+  url: http://musk2.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1FzWsY4yhF9VQJjxVXTTgPetnoizVESHpQ"
+    ETH:
+    - "0xa7ec44b9a0b7d45b3fb6eadd10bb7c29d076739c"
+  reporter: CryptoScamDB
