@@ -65575,3 +65575,24 @@
   subcategory: Aave
   description: "Fake Aave site phishing for secrets with GET /submit.php?seed=<secret>"
   reporter: CryptoScamDB
+- name: dpitokendrops.com
+  url: http://dpitokendrops.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x5821cFB6D4E8a8B04dBFD6410e9D37955aFEa3CD"
+  reporter: CryptoScamDB
+- name: uniswap-free.com
+  url: http://uniswap-free.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets"
+  reporter: CryptoScamDB
+- name: 1inchx.exchange
+  url: http://1inchx.exchange
+  category: Phishing
+  subcategory: 1inch
+  description: "Fake 1inch site"
+  reporter: CryptoScamDB
