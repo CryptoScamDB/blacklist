@@ -65312,3 +65312,266 @@
     ETH:
     - "0xa7ec44b9a0b7d45b3fb6eadd10bb7c29d076739c"
   reporter: CryptoScamDB
+- name: univwaps.com
+  url: http://univwaps.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /LmVMosniVAoUQYeEAPJRaaHonHWolgkjmxaVbnrkVjSakglVGlwoFfhOEveBjZuUbQgUTzxrxkcweCZHnXYlBVnqFRxIOW"
+  reporter: CryptoScamDB
+- name: gemini-gives.com
+  url: http://gemini-gives.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xf62960f4b886fF538ECcd07ad2d3Bfa69dF956Bc"
+  reporter: CryptoScamDB
+- name: chamath-social.com
+  url: http://chamath-social.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xb2961F4e089C4a935899B05e4ad0cC6082319917"
+    BTC:
+    - "3HaCC1F9jbL7BFfZwVGC1yBqwjHNvYVEV9"
+  reporter: CryptoScamDB
+- name: coinrayz.com
+  url: http://coinrayz.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: xn--ave-sgz.com
+  url: http://xn--ave-sgz.com
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave app phishing for secrets with POST /call-form.php"
+  reporter: CryptoScamDB
+- name: walletsconnect.online
+  url: http://walletsconnect.online
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /phpmail/metamask/mnemonic.php"
+  reporter: CryptoScamDB
+- name: walletsconnect.top
+  url: http://walletsconnect.top
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with //api.emailjs.com/api/v1.0/email/send (user_id: user_AtVRIuuzMmiRQBNjI60yB)"
+  reporter: CryptoScamDB
+- name: walletsconnect.org
+  url: http://walletsconnect.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake Walletconnect site phishing for secrets with POST /wallets/actions.php"
+  reporter: CryptoScamDB
+- name: zapperi.fi
+  url: http://zapperi.fi
+  category: Phishing
+  subcategory: Zapper
+  description: "Fake Zapper site"
+  reporter: CryptoScamDB
+- name: synthetix.us
+  url: http://synthetix.us
+  category: Malware
+  subcategory: Synthetix
+  description: "Fake Synthetix website hosting malware - sha256sum:02a6412539659cc0b9da432edc3bd982652f1e4adc2b0be7473b691c057f2197 md5sum:a499c34128417a2387cd9b"
+  reporter: CryptoScamDB
+- name: coinbase.com.auth-value-token-9929929.ru
+  url: http://coinbase.com.auth-value-token-9929929.ru
+  category: Phishing
+  subcategory: Coinbase
+  description: "Fake Coinbase site"
+  reporter: CryptoScamDB
+- name: coinbase.com.secure-account188.ru
+  url: http://coinbase.com.secure-account188.ru
+  category: Phishing
+  subcategory: Coinbase
+  description: "Fake Coinbase site directing users to //coinbase.com.auth-token-authentication-value-4782365234.ru/base.php?token=checkauth1010101010"
+  reporter: CryptoScamDB
+- name: integratewallet.live
+  url: http://integratewallet.live
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST //cryptooo-api.herokuapp.com/api/v1/validateOptions"
+  reporter: CryptoScamDB
+- name: uniswapgiveaway.com
+  url: http://uniswapgiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 1012427454)"
+  addresses:
+    ETH:
+    - "0xB69149F8b9322EC0cf8020DF22C237640c6791F1"
+  reporter: CryptoScamDB
+- name: sushiairdrop.net
+  url: http://sushiairdrop.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 454174458)"
+  addresses:
+    ETH:
+    - "0xBd0A11654D863D95bF5F4396F6D6A1f5fB1698ca"
+  reporter: CryptoScamDB
+- name: giveawayuniswap.com
+  url: http://giveawayuniswap.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 1012427454)"
+  reporter: CryptoScamDB
+- name: exodus-update.com
+  url: http://exodus-update.com
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus site phishing for secrets with POST /update?userID=<user_email>"
+  reporter: CryptoScamDB
+- name: connectionlivewallet.org
+  url: http://connectionlivewallet.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST //82746f7aa0a569538ee924c29c3fa16c.m.pipedream.net"
+  reporter: CryptoScamDB
+- name: uniswapback.com
+  url: http://uniswapback.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 1012427454)"
+  reporter: CryptoScamDB
+- name: app.uniswap.org.adhef.com
+  url: http://app.uniswap.org.adhef.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /metaconnect/check.php"
+  reporter: CryptoScamDB
+- name: uni2021.org
+  url: http://uni2021.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xd90268a971d739D25E2D3DD06404a38b17e06694"
+  reporter: CryptoScamDB
+- name: 2021uni.org
+  url: http://2021uni.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x2Ce845Ba873d4CAACc787f3e978fFA671052c83B"
+  reporter: CryptoScamDB
+- name: 1icnch.exchange
+  url: http://1icnch.exchange
+  category: Phishing
+  subcategory: 1inch
+  description: "Fake 1inch site"
+  reporter: CryptoScamDB
+- name: coinwoz.com
+  url: http://coinwoz.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: myetherwallet.comat.cc
+  url: http://myetherwallet.comat.cc
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet site phishing for secrets with POST /Record.php"
+  reporter: CryptoScamDB
+- name: stellar.org.ag
+  url: http://stellar.org.ag
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site linking users to //accountviewer.stellar.org.ag"
+  reporter: CryptoScamDB
+- name: accountviewer.stellar.org.ag
+  url: http://accountviewer.stellar.org.ag
+  category: Phishing
+  subcategory: Stellar
+  description: "Fake Stellar site phishing for secrets"
+  reporter: CryptoScamDB
+- name: myetpwallet.000webhostapp.com
+  url: http://myetpwallet.000webhostapp.com
+  category: Phishing
+  subcategory: Metaverse
+  description: "Fake MetaVerse wallet phishing for secrets with POST /validate.php"
+  reporter: CryptoScamDB
+- name: opexchange24.com
+  url: http://opexchange24.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: cryptogiftsgive.neocities.org
+  url: http://cryptogiftsgive.neocities.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xc6A098044200726e7f0edB9927B2531757ADB59f"
+  reporter: CryptoScamDB
+- name: adalife.io
+  url: http://adalife.io
+  category: Phishing
+  subcategory: Cardano
+  description: "Fake Cardano web wallet"
+  reporter: CryptoScamDB
+- name: adallte.io
+  url: http://adallte.io
+  category: Phishing
+  subcategory: Cardano
+  description: "Fake Cardano web wallet"
+  reporter: CryptoScamDB
+- name: adailte.io
+  url: http://adailte.io
+  category: Phishing
+  subcategory: Cardano
+  description: "Fake Cardano web wallet"
+  reporter: CryptoScamDB
+- name: adalite.pro
+  url: http://adalite.pro
+  category: Phishing
+  subcategory: Cardano
+  description: "Fake Cardano web wallet"
+  reporter: CryptoScamDB
+- name: adalife.so
+  url: http://adalife.so
+  category: Phishing
+  subcategory: Cardano
+  description: "Fake Cardano web wallet"
+  reporter: CryptoScamDB
+- name: adaiite.io
+  url: http://adaiite.io
+  category: Phishing
+  subcategory: Cardano
+  description: "Fake Cardano web wallet"
+  reporter: CryptoScamDB
+- name: accounts-binance-log-in.com
+  url: http://accounts-binance-log-in.com
+  category: Phishing
+  subcategory: Binance
+  description: "Fake Binance site phishing for logins with POST /_ini.php"
+  reporter: CryptoScamDB
+- name: wsbcap.com
+  url: http://wsbcap.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: uniswapnodev2.com
+  url: http://uniswapnodev2.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /submit.php"
+  reporter: CryptoScamDB
+- name: aave.pw
+  url: http://aave.pw
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave site phishing for secrets with GET /submit.php?seed=<secret>"
+  reporter: CryptoScamDB
