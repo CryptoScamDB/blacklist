@@ -65275,8 +65275,10 @@
   addresses:
     BTC:
     - "1MusK1yPYnBtLS2Roq5SiYfEfqNy7AMGcX"
+    - "1MusKZyWTzV59tMP7snHRqFnuNJ68GwQLw"
     ETH:
     - "0x2043cc4f3C2154f7449d8C67f2D84FaEB570F950"
+    - "0x1A158d1d9501E3aEDc14A6A8F78fA4520b94714c"
   reporter: CryptoScamDB
 - name: receiveuniswap.com
   url: http://receiveuniswap.com
@@ -65595,4 +65597,220 @@
   category: Phishing
   subcategory: 1inch
   description: "Fake 1inch site"
+  reporter: CryptoScamDB
+- name: harvestfinance.co
+  url: http://harvestfinance.co
+  category: Phishing
+  subcategory: HarvestFinance
+  description: "Fake HarvestFinance site phishing for secrets with GET /submit.php?seed=<secret>"
+  reporter: CryptoScamDB
+- name: wallet-validation.online
+  url: http://wallet-validation.online
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake WebWallet phishing for secrets with POST /indexform.php"
+  reporter: CryptoScamDB
+- name: cryptorevoltpro.com
+  url: http://cryptorevoltpro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: next.btc-trade-app.club
+  url: http://next.btc-trade-app.club
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-bitcoin-benefit-pro.com
+  url: http://the-bitcoin-benefit-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: btcfuture.bitcoinbuyers.online
+  url: http://btcfuture.bitcoinbuyers.online
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: thebitqtapp.com
+  url: http://thebitqtapp.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-cryptocode-pro.com
+  url: http://the-cryptocode-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-dubailifestyle-pro.com
+  url: http://the-dubailifestyle-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-bitcoin-rejoin-pro.com
+  url: http://the-bitcoin-rejoin-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: bitcoin-revivalpro.com
+  url: http://bitcoin-revivalpro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: bitcoincircuitnow.com
+  url: http://bitcoincircuitnow.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: crypto-genisus.com
+  url: http://crypto-genisus.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: bitcoincash-grab.com
+  url: http://bitcoincash-grab.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-bitcoin-millionaire.com
+  url: http://the-bitcoin-millionaire.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-cryptosoft-pro.com
+  url: http://the-cryptosoft-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-ai-stock-profit-pro.com
+  url: http://the-ai-stock-profit-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: bitcoin-billionaire-pro.com
+  url: http://bitcoin-billionaire-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-bitcoin-optimizer-pro.com
+  url: http://the-bitcoin-optimizer-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-crypto-nationapp.com
+  url: http://the-crypto-nationapp.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-crypt-ex-pro.com
+  url: http://the-crypt-ex-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-bitcoin-futureapp.com
+  url: http://the-bitcoin-futureapp.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-bitcoin-supreme.com
+  url: http://the-bitcoin-supreme.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: bitcointrader.ai
+  url: http://bitcointrader.ai
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: the-cryptogenius-pro.com
+  url: http://the-cryptogenius-pro.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: fxstocktradesoption.com
+  url: http://fxstocktradesoption.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: fxtradingassets.com
+  url: http://fxtradingassets.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: cryptotradeassets.com
+  url: http://cryptotradeassets.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: fxtradeassets.com
+  url: http://fxtradeassets.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: crypstrade.co
+  url: http://crypstrade.co
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: fnxcrypto.com
+  url: http://fnxcrypto.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: indexcryptofx.com
+  url: http://indexcryptofx.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: bluewavefxc.online
+  url: http://bluewavefxc.online
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: bitcoin-evolution.co
+  url: http://bitcoin-evolution.co
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: bitcoin-rush.co
+  url: http://bitcoin-rush.co
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
+  reporter: CryptoScamDB
+- name: optimumtraders.live
+  url: http://optimumtraders.live
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake crypto trading portal phishing for personal infomation"
   reporter: CryptoScamDB
