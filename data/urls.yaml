@@ -66424,3 +66424,229 @@
     DOGE:
     - "D7mKX7TPddPWjq3sv6cXkX7Um5PEQtRS8h"
   reporter: CryptoScamDB
+- name: ewalletconnect.link
+  url: http://ewalletconnect.link
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /en/import/1.php"
+  reporter: CryptoScamDB
+- name: eloninvesting.com
+  url: http://eloninvesting.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1368WRJcEfohtNqt57up7pyAJYTvrjUowW"
+  reporter: CryptoScamDB
+- name: dropxtesla.com
+  url: http://dropxtesla.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1D5onh8HPB9XxiDmPYr4TeVboLiqckrzZL"
+    ETH:
+    - "0xE23a07e1a06e071b14c49906B3256AF84D6adFB4"
+    DOGE:
+    - "DD3B1pYJWJXj75Dm19u1BZs7dU1Q8AiZFr"
+  reporter: CryptoScamDB
+- name: elonfundx.com
+  url: http://elonfundx.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "17GhevPZFxeSmi7QozH9fe1kNiVVJrK1Uy"
+    ETH:
+    - "0xE8A880e8ABaD66F5cd814C2365Dc682A6B46e20A"
+    DOGE:
+    - "DCUdtTMFugSvwrRfQuBTTfPf7is7WhYmH7"
+  reporter: CryptoScamDB
+- name: claimbitcoin.pro
+  url: http://claimbitcoin.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BteMuGfZZ7nWFwRrTJrr6hwtvhtb6nopD"
+  reporter: CryptoScamDB
+- name: musk-givebtc.s3.eu-west-3.amazonaws.com
+  url: http://musk-givebtc.s3.eu-west-3.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BteMuGfZZ7nWFwRrTJrr6hwtvhtb6nopD"
+  reporter: CryptoScamDB
+- name: coindrop.vip
+  url: http://coindrop.vip
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15T24duLFp8j45JdKkFNB8GoZs8mBmo2RJ"
+  reporter: CryptoScamDB
+- name: bluproducts.com
+  url: http://bluproducts.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1q6nuhe3fwhcdqk05f2fz8ccgfw7gtk8sd7e7gwj"
+  reporter: CryptoScamDB
+- name: musk-ch.com
+  url: http://musk-ch.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "bc1qh66h4zd4t3kvgl7dsjh8faye6lemwsfmfryymt"
+    ETH:
+    - "0xcf1e9dc94fae45b5d4c02144513c2b83bcf3d62e"
+    DOGE:
+    - "DKDm8JgTqEAW9UthGxmzf5duFgjG1eRK4D"
+  reporter: CryptoScamDB
+- name: coinevent.net
+  url: http://coinevent.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PciLFDyywRBe3SCLRYaLDs6QHvU8zAcpf"
+    ETH:
+    - "0x561C14Dad7666b88253B2aCF24630Dcd4E66DB9C"
+  reporter: CryptoScamDB
+- name: coinevents2021info.depenax769.repl.co
+  url: http://coinevents2021info.depenax769.repl.co
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PciLFDyywRBe3SCLRYaLDs6QHvU8zAcpf"
+    ETH:
+    - "0x561C14Dad7666b88253B2aCF24630Dcd4E66DB9C"
+  reporter: CryptoScamDB
+- name: muskbit.club
+  url: http://muskbit.club
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15T24duLFp8j45JdKkFNB8GoZs8mBmo2RJ"
+  reporter: CryptoScamDB
+- name: muskgiveaway2021.blogspot.com
+  url: http://muskgiveaway2021.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3Pp4jL7XyjU3RvUvfcGLJ5XS49Tp8CAmp6"
+  reporter: CryptoScamDB
+- name: ilogivemus-2021.info
+  url: http://ilogivemus-2021.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12Ss9yu4pvQWjQgNwzXpbt1LwsnWD9kXHf"
+    ETH:
+    - "0xeD80d06d49EFcB4FAc90546De2b8d71Bb2f724C0"
+  reporter: CryptoScamDB
+- name: connectionlivewallets.org
+  url: http://connectionlivewallets.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /forms/contact.php"
+  reporter: CryptoScamDB
+- name: claim-btc.net
+  url: http://claim-btc.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOGE:
+    - "D9FJGn7mLu54D4S6BuBye6rBYe42TFDqNf"
+    ETH:
+    - "0xDDe55203D297E1BE8aB127b7e78990Ca15C4B050"
+    BTC:
+    - "181QLx1cvW6JAxG1GUJBB7U5epEqkB2sxK"
+  reporter: CryptoScamDB
+- name: start-gemini.blogspot.com
+  url: http://start-gemini.blogspot.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1GemKNoZH9wsh1oTPRFzTp5iZTjNBE5Q2r"
+  reporter: CryptoScamDB
+- name: bitzchanger.com
+  url: http://bitzchanger.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: dot4.top
+  url: http://dot4.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOT:
+    - "1Z5ohZkHN4TjWeKpcA3tqpd4uNSA3r9fzsEG9aviDUWAeo2"
+  reporter: CryptoScamDB
+- name: xn--metamsk-en4c.com
+  url: http://xn--metamsk-en4c.com
+  category: Phishing
+  subcategory: Metamask
+  description: "Fake MetaMask site phishing for secrets with POST /import.php"
+  reporter: CryptoScamDB
+- name: uniswapaddress.com
+  url: http://uniswapaddress.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 2984108125)"
+  addresses:
+    ETH:
+    - "0x90Debc62a8c541c1b3bB5e5D18dbD01661125Ee6"
+  reporter: CryptoScamDB
+- name: stellar-airdrop.com
+  url: http://stellar-airdrop.com
+  category: Malware
+  subcategory: Stellar
+  description: "Fake Stellar site hosting malware"
+  reporter: CryptoScamDB
+- name: uni-project.org
+  url: http://uni-project.org
+  category: Malware
+  subcategory: Uniswap
+  description: "Fake Uniswap site hosting malware (sha256: CE9E56AF0D46C6178787CFC2A63B8C2BC74B8A48803157CCCE06B57E60491607)"
+  reporter: CryptoScamDB
+- name: freeunigiveaway.com
+  url: http://freeunigiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 2984108125)"
+  addresses:
+    ETH:
+    - "0x6d7e7BA61dE1d09940A60a2F4f154E9927Ad4562"
+  reporter: CryptoScamDB
+- name: letbybit.com
+  url: http://letbybit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
