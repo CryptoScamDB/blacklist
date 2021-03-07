@@ -52266,6 +52266,9 @@
   addresses:
     ETH:
     - "0xc1ebbca5e7048d0c694377fe821bec6d4eeabe23" 
+    - "0x26f83beb9808a23A23DcA1a7Ed334578FC7337AA"
+    BTC:
+    - "19xrkxrcFCRa8dQb5mNFrmuD9b6CmxnaBN"
   reporter: CryptoScamDB       
 - name: myetherwallet-extra-bonuses.000webhostapp.com
   url: http://myetherwallet-extra-bonuses.000webhostapp.com
@@ -66649,4 +66652,49 @@
   category: Scamming
   subcategory: Exchange
   description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: uniswapgiveaway.info
+  url: http://uniswapgiveaway.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 484975566)"
+  reporter: CryptoScamDB
+- name: newuniswap.com
+  url: http://newuniswap.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 2984108125)"
+  addresses:
+    ETH:
+    - "0x6bBfC1e0127Fe52b391efEF48a5509bB0A8ea25F"
+  reporter: CryptoScamDB
+- name: 4link.one
+  url: http://4link.one
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xfB611E1d66b6477cCfA8aF9980F9d1203F892604"
+  reporter: CryptoScamDB
+- name: ethlegit.com
+  url: http://ethlegit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: fxopel.com
+  url: http://fxopel.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: doge21.net
+  url: http://doge21.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOGE:
+    - "AAMDvf9zWoUf4zbXiEeM5ziJTmWU77nQxy"
   reporter: CryptoScamDB
