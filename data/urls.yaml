@@ -67010,3 +67010,72 @@
     ETH:
     - "0x97b65fd1d762F809747432C09760985566edFF12"
   reporter: CryptoScamDB
+- name: walletsconnect­.net
+  url: http://walletsconnect­.net
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /actions.php"
+  reporter: CryptoScamDB
+- name: uniswaep.com
+  url: http://uniswaep.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /token1.php"
+  reporter: CryptoScamDB
+- name: uniswapnodev1­.com
+  url: http://uniswapnodev1­.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with GET /send?seed=<seed>&name=Mnemonic"
+  reporter: CryptoScamDB
+- name: btcfast.vip
+  url: http://btcfast.vip
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PBRDzhbFT7L6FJyfTVfkbLRiRAj3mJRcs"
+  reporter: CryptoScamDB
+- name: getbtc.top
+  url: http://getbtc.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1P4AvntwmwV3DmJreemkZSB14J3hxRALSA"
+  reporter: CryptoScamDB
+- name: elonmusk-giveaway.s3.amazonaws.com
+  url: http://elonmusk-giveaway.s3.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1P4AvntwmwV3DmJreemkZSB14J3hxRALSA"
+  reporter: CryptoScamDB
+- name: getbtc.one
+  url: http://getbtc.one
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1PBRDzhbFT7L6FJyfTVfkbLRiRAj3mJRcs"
+  reporter: CryptoScamDB
+- name: konomi.io
+  url: http://konomi.io
+  category: Scamming
+  subcategory: Konomi
+  description: "Fake crowdsale site"
+  addresses:
+    ETH:
+    - "0xB87A5F660fda9C3f7A3B8E854DD6d8CB677e7a87"
+  reporter: CryptoScamDB
+- name: app.uniswap.holders-airdrop.com
+  url: http://app.uniswap.holders-airdrop.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
