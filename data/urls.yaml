@@ -67079,3 +67079,143 @@
   subcategory: Uniswap
   description: "Fake Uniswap site phishing for secrets with POST /claim.php"
   reporter: CryptoScamDB
+- name: wasabbi.eu
+  url: http://wasabbi.eu
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /data/index.php"
+  reporter: CryptoScamDB
+- name: panswapcake.com
+  url: http://panswapcake.com
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake Pancake Swap site phishing for secrets with POST /zuksess.php"
+  reporter: CryptoScamDB
+- name: sushifinance.us
+  url: http://sushifinance.us
+  category: Malware
+  subcategory: Sushi
+  description: "Fake Sushi website hosting malware - sha256sum: ec982480cef70b5cfe481745c534d89562a1c27ddd23fff32448d37fd64a5c43"
+  reporter: CryptoScamDB
+- name: xn--unswaep-sfb.com
+  url: http://xn--unswaep-sfb.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap phishing for secrets with POST /token.php"
+  reporter: CryptoScamDB
+- name: xrp21.net
+  url: http://xrp21.net
+  category: Scamming
+  subcategory: Trust-Trading
+  reporter: CryptoScamDB
+- name: dodoex.live
+  url: http://dodoex.live
+  category: Malware
+  subcategory: Dodo
+  description: "Fake Dodo site hosting malware (MD5: edfb11930ae84f31b3040c3e8cb79355)"
+  reporter: CryptoScamDB
+- name: ada-cardano.us
+  url: http://ada-cardano.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ADA:
+    - "addr1qy0hf7rkkgpu94raw07lulkpvs70gcq0m86yrcfty65ruvh7ktwhp7rsmrf30w678mknrc767aj7fratdsfjk0yz8myqz3u7zd"
+  reporter: CryptoScamDB
+- name: musk.info
+  url: http://musk.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "197Uq75LArvJLNdrBRG7RcXwrXrDaAWbuf"
+    ETH:
+    - "0x274eCdBD1c439B7D12780E500F49A109850E414C"
+    DOGE:
+    - "DTeHsXycskSJsNVogjxa88QfYw7M7WgFvK"
+  reporter: CryptoScamDB
+- name: smartintegration.live
+  url: http://smartintegration.live
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect phishing for secrets with POST //cryptooo-api.herokuapp.com/api/v1/validateOptions"
+  reporter: CryptoScamDB
+- name: oferonrain.web.app
+  url: http://oferonrain.web.app
+  category: Phishing
+  subcategory: Rainbow
+  description: "Fake Rainbow wallet phishing for keys (Firebase oferonrain.firebaseapp.com) - https://twitter.com/mikedemarais/status/1370087746845433858"
+  reporter: CryptoScamDB
+- name: thegraph.us
+  url: http://thegraph.us
+  category: Malware
+  subcategory: TheGraph
+  description: "Fake TheGraph site hosting malware (sha256sum: 70df2e7cd045758efffee7eea44557edfb9abc751b183f155a45e4672b48aad0)"
+  reporter: CryptoScamDB
+- name: newunigiveaway.com
+  url: http://newunigiveaway.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 1363121774527930380)"
+  addresses:
+    ETH:
+    - "0x748f71497843cde8DF4dB3b46176699F2B0d2d52"
+  reporter: CryptoScamDB
+- name: teslacrypto.top
+  url: http://teslacrypto.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4Ee43484796AEBEe01eE8e39d3A4CCcbbbac136b"
+    BTC:
+    - "3MPEnnuzA9avCR7VqzdJ1cotjhEwhKup8J"
+  reporter: CryptoScamDB
+- name: pancakesswap.com
+  url: http://pancakesswap.com
+  category: Malware
+  subcategory: PancakeSwap
+  description: "Fake Pancake swap site hosting malware"
+  reporter: CryptoScamDB
+- name: daedaluswallet.net
+  url: http://daedaluswallet.net
+  category: Malware
+  subcategory: Daedalus
+  description: "Fake Daedalus site hosting malware"
+  reporter: CryptoScamDB
+- name: wall.prohoster.biz
+  url: http://wall.prohoster.biz
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: elonmusk-gives.s3.amazonaws.com
+  url: http://elonmusk-gives.s3.amazonaws.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1NxPjKQrrhRuALSKy1XJa34im1C3cFzCeR"
+  reporter: CryptoScamDB
+- name: wallet-syn.com
+  url: http://wallet-syn.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect phishing for secrets with POST /import/post.php"
+  reporter: CryptoScamDB
+- name: fantom-foundation.us
+  url: http://fantom-foundation.us
+  category: Malware
+  subcategory: Fantom
+  description: "Fake Fantom site hosting malware FantomUI-v2.1.5.exe (sha256sum: 99199bdb0251a207f87d8a1948dfaa91cd04d7f62826f35ee0bfb3667ca487ff)"
+  reporter: CryptoScamDB
+- name: badgerfi.us
+  url: http://badgerfi.us
+  category: Malware
+  subcategory: BadgerDAO
+  description: "Fake BadgerDAO site hosting malware   BadgerApp-v2.1.0.exe (sha256sum: 26821d0ffc00ff0cdb591df87e509811020a036c9684e2c9c65424229b5b0fa8)"
+  reporter: CryptoScamDB
