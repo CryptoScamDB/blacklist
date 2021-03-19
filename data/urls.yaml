@@ -67433,3 +67433,171 @@
     DOGE:
     - "DUKH8oNSzootszHgXdeoAozR3kEi4VWLi4"
   reporter: CryptoScamDB
+- name: streamearnings.online
+  url: http://streamearnings.online
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: bitswapex.com
+  url: http://bitswapex.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: lemmeoptions.com
+  url: http://lemmeoptions.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: 2021stellar.org
+  url: http://2021stellar.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XLM:
+    - "GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A"
+  reporter: CryptoScamDB
+- name: maxxiscoin.net
+  url: http://maxxiscoin.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: pennytoken.online
+  url: http://pennytoken.online
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: corexbit.com
+  url: http://corexbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: banesconsults.com
+  url: http://banesconsults.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: bitcoinaste.com
+  url: http://bitcoinaste.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: betcryptoplay.com
+  url: http://betcryptoplay.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: wavebtc.com
+  url: http://wavebtc.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: pencakeswap.finance
+  url: http://pencakeswap.finance
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake PancakeSwap site phishing for secrets with POST /googleanalytics.php"
+  reporter: CryptoScamDB
+- name: bitmarketcoins.com
+  url: http://bitmarketcoins.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: tricoinx.com
+  url: http://tricoinx.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: liquidity-morpheus.network
+  url: http://liquidity-morpheus.network
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x96138A27E84Bcb0f166A384aa42A6D1d0fafcC2c"
+  reporter: CryptoScamDB
+- name: geocrypto.net
+  url: http://geocrypto.net
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: bittyex.com
+  url: http://bittyex.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: validatemetamaskwallet.io
+  url: http://validatemetamaskwallet.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /insert_phrase.php"
+  reporter: CryptoScamDB
+- name: royalcrypto247.com
+  url: http://royalcrypto247.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: defibitex.com
+  url: http://defibitex.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: bitexcore.com
+  url: http://bitexcore.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: buxcoins.com
+  url: http://buxcoins.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: bitxary.com
+  url: http://bitxary.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: bitsraise.com
+  url: http://bitsraise.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: monobtc.com
+  url: http://monobtc.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: coinsray.com
+  url: http://coinsray.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: bitschanger.com
+  url: http://bitschanger.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
