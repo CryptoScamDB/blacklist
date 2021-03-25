@@ -67698,7 +67698,7 @@
 - name: uniswup.com
   url: http://uniswup.com
   category: Phishing
-  subcategory: WalletConnect
+  subcategory: Uniswap
   description: "Fake Uniswap site phishing for secrets with POST /LmVMosniVAoUQYeEAPJRaaHonHWolgkjmxaVbnrkVjSakglVGlwoFfhOEveBjZuUbQgUTzxrxkcweCZHnXYlBVnqFRxIOWAMDPVc.php"
   reporter: CryptoScamDB
 - name: exchange-sushi.net-liquidity-rewards.site
