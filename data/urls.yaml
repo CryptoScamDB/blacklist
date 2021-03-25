@@ -67601,3 +67601,188 @@
   subcategory: Exchange
   description: "Fake exchange scamming for deposits"
   reporter: CryptoScamDB
+- name: myelonx.org
+  url: http://myelonx.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "14fhbJaxfmNfNyFrN2z4QMccbHgxX7Aqnb"
+    ETH:
+    - "0x22E49d0Cb3241B8439e8b0f698aEBBd3e6b2Dc3B"
+  reporter: CryptoScamDB
+- name: walletconnects.co
+  url: http://walletconnects.co
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /privatekey.php"
+  reporter: CryptoScamDB
+- name: cryptodep.com
+  url: http://cryptodep.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: bittrillex.com
+  url: http://bittrillex.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: reobit.com
+  url: http://reobit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: weetbit.com
+  url: http://weetbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: crypexchanger.com
+  url: http://crypexchanger.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: defitradecoin.com
+  url: http://defitradecoin.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: walletliveconnection.com
+  url: http://walletliveconnection.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST //formspree.io/f/mgepbgjo"
+  reporter: CryptoScamDB
+- name: zilliqa-web.site
+  url: http://zilliqa-web.site
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ZIL:
+    - "zil1hjp44n8w24ghgep7x6284890t5e6f5jp88xw02"
+  reporter: CryptoScamDB
+- name: btcethdoge.cash
+  url: http://btcethdoge.cash
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12mj3gjqg2QdXCoLHA4zzxCo4i3VEYGTmp"
+    ETH:
+    - "0x15bC68E479ddB8F09A4661E81168aF72357fc868"
+    DOGE:
+    - "DDsdyBdKvHeAj1ELDcb3oCd2Go25WSuEML"
+  reporter: CryptoScamDB
+- name: promo-btc.us
+  url: http://promo-btc.us
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "12A5wxUQPTGyrQYHeBxRZ34VD1ckyDZCpL"
+    ETH:
+    - "0x04dc08fd2eE1831CCdE581CA3B467c2A8c1fD745"
+    DOGE:
+    - "DN2fwWCB5RLSzQtXoD3ki3d4iRXZpZarwf"
+  reporter: CryptoScamDB
+- name: uniswup.com
+  url: http://uniswup.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake Uniswap site phishing for secrets with POST /LmVMosniVAoUQYeEAPJRaaHonHWolgkjmxaVbnrkVjSakglVGlwoFfhOEveBjZuUbQgUTzxrxkcweCZHnXYlBVnqFRxIOWAMDPVc.php"
+  reporter: CryptoScamDB
+- name: exchange-sushi.net-liquidity-rewards.site
+  url: http://exchange-sushi.net-liquidity-rewards.site
+  category: Phishing
+  subcategory: Sushi
+  description: "Fake Sushi site phishing for secrets with POST /v2/metamask"
+  reporter: CryptoScamDB
+- name: airdropstart.net
+  url: http://airdropstart.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1HLhzZoMKFY9ph921DRKv694kWJJ7zrrS9"
+  reporter: CryptoScamDB
+- name: walletconnectsupport.live
+  url: http://walletconnectsupport.live
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /connect/import.php"
+  reporter: CryptoScamDB
+- name: walletconnectrestore.link
+  url: http://walletconnectrestore.link
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /connect/import.php"
+  reporter: CryptoScamDB
+- name: app.uniswap.token-airdrop.com
+  url: http://app.uniswap.token-airdrop.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: polkadot-airdrop.org
+  url: http://polkadot-airdrop.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOT:
+    - "12We44NDCNUWa9tnfgxmSc38vDXFXcnLDkGdL2Xy45mnhZ52"
+  reporter: CryptoScamDB
+- name: connectionwallet-link.live
+  url: http://connectionwallet-link.live
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets"
+  reporter: CryptoScamDB
+- name: walletsync.site
+  url: http://walletsync.site
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /import/actions.php"
+  reporter: CryptoScamDB
+- name: webwalletsconnect.site
+  url: http://webwalletsconnect.site
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /import/mnemonic.php"
+  reporter: CryptoScamDB
+- name: uniswap-eth-drop.org
+  url: http://uniswap-eth-drop.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /metamask.php?claim"
+  reporter: CryptoScamDB
+- name: coin-give.com
+  url: http://coin-give.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1E9VmVF8c9hrC7BjTRVMWgA2p1LFZbK5pR"
+    ETH:
+    - "0xDA208b041b641a1a80c6DDD974F0f70b62c1a0cc"
+    DOGE:
+    - "DBjTDtA55ZQ18LbCNWcQNipQcn4ZDZzrK1"
+  reporter: CryptoScamDB
+- name: sushiswaps.org
+  url: http://sushiswaps.org
+  category: Phishing
+  subcategory: Sushi
+  description: "Fake Sushiswap site hosting malware (SushiUI-2.2.6.exe md5:e43f46dab6177d69a21113553382f309)"
+  reporter: CryptoScamDB
