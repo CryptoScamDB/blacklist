@@ -67786,3 +67786,85 @@
   subcategory: Sushi
   description: "Fake Sushiswap site hosting malware (SushiUI-2.2.6.exe md5:e43f46dab6177d69a21113553382f309)"
   reporter: CryptoScamDB
+- name: casper-tokensale.com
+  url: http://casper-tokensale.com
+  category: Scamming
+  subcategory: Casper
+  description: "Fake Casper crowdsale site"
+  addresses:
+    ETH:
+    - "0x0cEC142D56c27b7973fd067EA906eeAA511DBb25"
+    - "0xbAFa4087B5dbb5cB9B40180BB7dd6a053e29e137"
+  reporter: CryptoScamDB
+- name: wallet.exodus.com.b37dx.sehzadelerdagitim.com
+  url: http://wallet.exodus.com.b37dx.sehzadelerdagitim.com
+  category: Phishing
+  subcategory: Exodus
+  description: "Fake Exodus wallet phishing for secrets with POST /Terms.php"
+  reporter: CryptoScamDB
+- name: pancakswap.com
+  url: http://pancakswap.com
+  category: Phishing
+  subcategory: Pancakeswap
+  description: "Fake PancakeSwap site phishing for secrets with POST /success.php"
+  reporter: CryptoScamDB
+- name: metamaskwallet.org
+  url: http://metamaskwallet.org
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /success.php"
+  reporter: CryptoScamDB
+- name: metamaskrestores.link
+  url: http://metamaskrestores.link
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with GET /unlock/mnemonic.php?mnemonic=<mnemonic>&submit= "
+  reporter: CryptoScamDB
+- name: walletconnectionlive.live
+  url: http://walletconnectionlive.live
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site"
+  reporter: CryptoScamDB
+- name: walletconnectlive.vip
+  url: http://walletconnectlive.vip
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site"
+  reporter: CryptoScamDB
+- name: tesladrop21.com
+  url: http://tesladrop21.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: walletsconnect.host
+  url: http://walletsconnect.host
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /actions.php"
+  reporter: CryptoScamDB
+- name: walletsconnectapp.com
+  url: http://walletsconnectapp.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /actions.php"
+  reporter: CryptoScamDB
+- name: pancake.walletsconnections.com
+  url: http://pancake.walletsconnections.com
+  category: Phishing
+  subcategory: Pancakeswap
+  description: "Fake Pancakeswap site"
+  reporter: CryptoScamDB
+- name: walletsconnections.com
+  url: http://walletsconnections.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /actions.php"
+  reporter: CryptoScamDB
+- name: walletsconnect.dev
+  url: http://walletsconnect.dev
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /actions.php"
+  reporter: CryptoScamDB
