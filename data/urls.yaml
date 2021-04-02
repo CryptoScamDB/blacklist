@@ -67868,3 +67868,131 @@
   subcategory: WalletConnect
   description: "Fake WalletConnect site phishing for secrets with POST /actions.php"
   reporter: CryptoScamDB
+- name: metamaskwallets.link
+  url: http://metamaskwallets.link
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /mnemonic.php"
+  reporter: CryptoScamDB
+- name: trustswap-airdrop.com
+  url: http://trustswap-airdrop.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xBe5b36AfF444Ba3E098ed201D39B855C12432192"
+  reporter: CryptoScamDB
+- name: smartwalletrestore.com
+  url: http://smartwalletrestore.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /inc/privatekey.php"
+  reporter: CryptoScamDB
+- name: polkastarter.ws
+  url: http://polkastarter.ws
+  category: Scamming
+  subcategory: Polkastarter
+  description: "Fake Polkastarter crowdsale site"
+  addresses:
+    ETH:
+    - "0xEcB8bD33470867a81955cFC0FD69E5b2613a8eAB"
+  reporter: CryptoScamDB
+- name: polkamon.co
+  url: http://polkamon.co
+  category: Scamming
+  subcategory: Pmon
+  description: "Fake Pmon crowdsale site"
+  addresses:
+    ETH:
+    - "0x6B39f494fb6c9b1193f9E0fBd2Ed3d9D2Be2b18f"
+  reporter: CryptoScamDB
+- name: metamaskwalletrestore.com
+  url: http://metamaskwalletrestore.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /restore/inc/include.php"
+  reporter: CryptoScamDB
+- name: pancakeswap.finance.airdrop-info-protocol.com
+  url: http://pancakeswap.finance.airdrop-info-protocol.com
+  category: Phishing
+  subcategory: Pancakeswap
+  description: "Fake Pancakeswap site"
+  reporter: CryptoScamDB
+- name: opencea.io
+  url: http://opencea.io
+  category: Phishing
+  subcategory: Opensea
+  description: "Fake OpenSea site"
+  reporter: CryptoScamDB
+- name: walletconnectliv.org
+  url: http://walletconnectliv.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /wp-admin/admin-ajax.php"
+  reporter: CryptoScamDB
+- name: teslatw.org
+  url: http://teslatw.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "16PTdcui5Gy1QYqBK2hvdJmMJHe2DbTqD"
+    ETH:
+    - "0x90BDa34FB66c7eAD43CF8955ecdD8676102095eA"
+  reporter: CryptoScamDB
+- name: binoroix.com
+  url: http://binoroix.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: april.trade
+  url: http://april.trade
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MuskFNrzeNPUko87QLAL1AFZDbPmQHxwY"
+    ETH:
+    - "0xB80D1e6E3c807D10E44B24329EdA26CE02AeC129"
+  reporter: CryptoScamDB
+- name: walletbloksconnect.live
+  url: http://walletbloksconnect.live
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /integratedwalletsubmit.php"
+  reporter: CryptoScamDB
+- name: walletconnectbot.com
+  url: http://walletconnectbot.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /page%202/page%203/import.php"
+  reporter: CryptoScamDB
+- name: trezar.io
+  url: http://trezar.io
+  category: Phishing
+  subcategory: Trezor
+  description: "Fake Trezor site phishing for secrets with POST /send_details.php"
+  reporter: CryptoScamDB
+- name: musk2x-event.live
+  url: http://musk2x-event.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1BeChmhZbW5cYrQvWx62LzLFhXjakRpYrK"
+    ETH:
+    - "0xCfa357dbFb0157b538cB05961B46C558e389CBAf"
+    DOGE:
+    - "DAJgNas6QkfE2AG2fZRN5YVeJKY2me1eTP"
+  reporter: CryptoScamDB
+- name: pancakeswap-restore.finance
+  url: http://pancakeswap-restore.finance
+  category: Phishing
+  subcategory: Pancakeswap
+  description: "Fake Pancakeswap site phishing for secrets with POST /action/phrase"
+  reporter: CryptoScamDB
