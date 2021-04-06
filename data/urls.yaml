@@ -67996,3 +67996,45 @@
   subcategory: Pancakeswap
   description: "Fake Pancakeswap site phishing for secrets with POST /action/phrase"
   reporter: CryptoScamDB
+- name: metamaskswalletsio.com
+  url: http://metamaskswalletsio.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /restore/restore.php"
+  reporter: CryptoScamDB
+- name: metamaskwallets.link
+  url: http://metamaskwallets.link
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /unlock/mnemonic.php"
+  reporter: CryptoScamDB
+- name: polkadotlive.network
+  url: http://polkadotlive.network
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOT:
+    - "1kkuZEr93AtZL9mDyo2ZBXLm7cjCpABiitieYVhKLFniP2m"
+  reporter: CryptoScamDB
+- name: metamaskconnect.online
+  url: http://metamaskconnect.online
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /mnemonic.php"
+  reporter: CryptoScamDB
+- name: claimpolkadot.network
+  url: http://claimpolkadot.network
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOT:
+    - "15LmfYr1UwK9ghjn5cNYoBmApaiWGFNnhBdm6nQF87vY2AcV"
+  reporter: CryptoScamDB
+- name: uniswep-app.com
+  url: http://uniswep-app.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap app phishing for secrets with POST /token.php"
+  reporter: CryptoScamDB
