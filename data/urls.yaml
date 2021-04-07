@@ -68038,3 +68038,78 @@
   subcategory: Uniswap
   description: "Fake Uniswap app phishing for secrets with POST /token.php"
   reporter: CryptoScamDB
+- name: walletwebconnect.online
+  url: http://walletwebconnect.online
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets"
+  reporter: CryptoScamDB
+- name: myetherswallet.online
+  url: http://myetherswallet.online
+  category: Phishing
+  subcategory: MyEtherWallet
+  description: "Fake MyEtherWallet site phishing for secrets with POST /unlock/mnemonic.php"
+  reporter: CryptoScamDB
+- name: bitfug.com
+  url: http://bitfug.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: wallectconnection.info
+  url: http://wallectconnection.info
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /action/phrase"
+  reporter: CryptoScamDB
+- name: restore-ledgerlivewallet.org
+  url: http://restore-ledgerlivewallet.org
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with GET /unlock/privatekey.php?privateKey=<key>&password=&submit="
+  reporter: CryptoScamDB
+- name: elonmusk6.com
+  url: http://elonmusk6.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "15e7Z6bECrLWs8Na6AMhGHs5ccMoaLuKVg"
+    ETH:
+    - "0x3f6aFcf3cac5f7E74825CBFcA7De1076bC7E2d1A"
+  reporter: CryptoScamDB
+- name: walletsrestore.io
+  url: http://walletsrestore.io
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /action/phrase"
+  reporter: CryptoScamDB
+- name: verifywallets.io
+  url: http://verifywallets.io
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /verify.php?cmd=login_submit"
+  reporter: CryptoScamDB
+- name: uniswap-event.net
+  url: http://uniswap-event.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x922f419C0F282E2379005a2be675239323B52808"
+  reporter: CryptoScamDB
+- name: musk-x.net
+  url: http://musk-x.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3Hk7Lw6gHU6kiiYLb2ZWMM5FJ9MbMJbi2q"
+    ETH:
+    - "0xC9CE9222dAA8A61D3d1A308D01c6FC08a281460a"
+    DOGE:
+    - "DUKH8oNSzootszHgXdeoAozR3kEi4VWLi4"
+  reporter: CryptoScamDB
