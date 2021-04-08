@@ -68113,3 +68113,206 @@
     DOGE:
     - "DUKH8oNSzootszHgXdeoAozR3kEi4VWLi4"
   reporter: CryptoScamDB
+- name: metamaskwallets.live
+  url: http://metamaskwallets.live
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /mnemonic.php"
+  reporter: CryptoScamDB
+- name: www-kraken-logins-tr.com
+  url: http://www-kraken-logins-tr.com
+  category: Phishing
+  subcategory: Kraken
+  description: "Fake Kraken site phishing for logins with POST /indexSend.php"
+  reporter: CryptoScamDB
+- name: ethernity.me
+  url: http://ethernity.me
+  category: Scamming
+  subcategory: Ethernity
+  description: "Fake Ethernity crowdsale site"
+  addresses:
+    ETH:
+    - "0xD8E2e5EEbAd1BEf6d7fFd6CdA3914144C60532F4"
+  reporter: CryptoScamDB
+- name: cryptoroz.com
+  url: http://cryptoroz.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: polkastater.link
+  url: http://polkastater.link
+  category: Phishing
+  subcategory: Polkastar
+  description: "Fake Polkastar website phishing for secrets with POST /wp-json/metform/v1/entries/insert/18"
+  reporter: CryptoScamDB
+- name: thesmartwalletrestore.live
+  url: http://thesmartwalletrestore.live
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /action/phrase"
+  reporter: CryptoScamDB
+- name: corebux.com
+  url: http://corebux.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site - fake web miner"
+  addresses:
+    ETH:
+    - "0x922f419C0F282E2379005a2be675239323B52808"
+  reporter: CryptoScamDB
+- name: btcgives.org
+  url: http://btcgives.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1McDeartB7LHX1XpExhbunXwpmoKZzVL9G"
+    ETH:
+    - "0xF0228393141c74C118c8d414eAC5eeDf3c2110F1"
+    DOGE:
+    - "DCoWGSXF6wcTAsJUD6bxAixxhi6zvEpPgD"
+  reporter: CryptoScamDB
+- name: btcgeneration.vip
+  url: http://btcgeneration.vip
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Psmmf82sQhQdDjLGR9m5Ksh9VyNCLotKk"
+    ETH:
+    - "0x3547eb2901e8D8fB3E7d512f3d485323f794DfA2"
+    DOGE:
+    - "DHLCBsf6nPqRVTpMnGDgjsEuoqTiL5KU7i"
+  reporter: CryptoScamDB
+- name: nextgeneration.blog
+  url: http://nextgeneration.blog
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Psmmf82sQhQdDjLGR9m5Ksh9VyNCLotKk"
+    ETH:
+    - "0x3547eb2901e8D8fB3E7d512f3d485323f794DfA2"
+    DOGE:
+    - "DHLCBsf6nPqRVTpMnGDgjsEuoqTiL5KU7i"
+  reporter: CryptoScamDB
+- name: zilletinfo.com
+  url: http://zilletinfo.com
+  category: Phishing
+  subcategory: Zilliqa
+  description: "Fake Zilliqa web wallet phishing for secrets with POST /privatekeyform.php"
+  reporter: CryptoScamDB
+- name: bitboxapp.xyz
+  url: http://bitboxapp.xyz
+  category: Phishing
+  subcategory: Bitbox
+  description: "Fake Bitbox site phishing for secrets with POST /wp-admin/admin-ajax.php"
+  reporter: CryptoScamDB
+- name: ethereumgift.me
+  url: http://ethereumgift.me
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x345774f20716f672bde3da60ba6d872a320db6c7"
+  reporter: CryptoScamDB
+- name: www-etherscan.com
+  url: http://www-etherscan.com
+  category: Scamming
+  subcategory: Etherscan
+  description: "Fake Etherscan site"
+  reporter: CryptoScamDB
+- name: zilliqamerits.com
+  url: http://zilliqamerits.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ZIL:
+    - "zil1u2sty6yxq6adnaqwr2krsde02ta5y2h3r4jq0n"
+  reporter: CryptoScamDB
+- name: teslagate.top
+  url: http://teslagate.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1HNDeuTCJ8kc9L4wmVoZCyhQkfxwnpwiMy"
+  reporter: CryptoScamDB
+- name: airdrophost.net
+  url: http://airdrophost.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1MJUQW74k7wxbktuanoLqUmuX3B8boEY7"
+    ETH:
+    - "0xDba8f7ba4be466e03BC7d7c6E86F95b36da1b642"
+  reporter: CryptoScamDB
+- name: embitcoins.org
+  url: http://embitcoins.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1nFzj9BvzBe6JpvejpfjUQJ2MQ232NNxK"
+    ETH:
+    - "0xF0228393141c74C118c8d414eAC5eeDf3c2110F1"
+    DOGE:
+    - "DRuGdfAcGso7adhmGXqvku5Gw63fL2kn7a"
+  reporter: CryptoScamDB
+- name: elonairdrop.top
+  url: http://elonairdrop.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "3Eaiq1yZ6XxEkXfhvwWckfegaTpnBFVP8r"
+  reporter: CryptoScamDB
+- name: gemini21.org
+  url: http://gemini21.org
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1A5bacid96sK7PciNakgusfzKr7Rwrwbsd"
+  reporter: CryptoScamDB
+- name: rpldrop.net
+  url: http://rpldrop.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    XRP:
+    - "r9f6ZpjEp8PxkddDxvDgiomGVezqJwWjkU"
+  reporter: CryptoScamDB
+- name: 4gemini.com
+  url: http://4gemini.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1A5bacid96sK7PciNakgusfzKr7Rwrwbsd"
+  reporter: CryptoScamDB
+- name: spacexgive.net
+  url: http://spacexgive.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "19AZGzNC1MqSvzL3Zi8TQds8r2BJGUZnMX"
+    ETH:
+    - "0x57FF65d71ea1C53D763dc991bb3250263D1BBa6F"
+  reporter: CryptoScamDB
