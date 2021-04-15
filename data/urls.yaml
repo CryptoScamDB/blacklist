@@ -68316,3 +68316,42 @@
     ETH:
     - "0x57FF65d71ea1C53D763dc991bb3250263D1BBa6F"
   reporter: CryptoScamDB
+- name: unitokengive.com
+  url: http://unitokengive.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 3054125718)"
+  addresses:
+    ETH:
+    - "0x88983632e6e8b4232a08EF53db218510124c2048"
+  reporter: CryptoScamDB
+- name: synthetixcoin.com
+  url: http://synthetixcoin.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: app.uniswap.liquidity-holder.com
+  url: http://app.uniswap.liquidity-holder.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: app.uniswap.holder-liquidity.com
+  url: http://app.uniswap.holder-liquidity.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: app.uniswap.info-liquidity.com
+  url: http://app.uniswap.info-liquidity.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
+- name: app.uniswap.org-info-liquidity.com
+  url: http://app.uniswap.org-info-liquidity.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /claim.php"
+  reporter: CryptoScamDB
