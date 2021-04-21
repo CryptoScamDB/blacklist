@@ -68355,3 +68355,126 @@
   subcategory: Uniswap
   description: "Fake Uniswap site phishing for secrets with POST /claim.php"
   reporter: CryptoScamDB
+- name: instadapp.net
+  url: http://instadapp.net
+  category: Phishing
+  subcategory: Instadapp
+  description: "Fake Instadapp site phishing for secrets with POST /check.php"
+  reporter: CryptoScamDB
+- name: unifreebonus.com
+  url: http://unifreebonus.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x94a0f0cf2b8f2E99Ba98Da529e1d352607BA68E1"
+  reporter: CryptoScamDB
+- name: app.uniswap.org.solidity-web3.com
+  url: http://app.uniswap.org.solidity-web3.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets"
+  reporter: CryptoScamDB
+- name: uniswap-ethernode.org
+  url: http://uniswap-ethernode.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for secrets with POST /?claim"
+  reporter: CryptoScamDB
+- name: polkadot-gift.info
+  url: http://polkadot-gift.info
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOT:
+    - "15qfYtQaRHHqxxAhRX5qKh6HXeWaSaF7rLfzjLtgW27USYH1"
+  reporter: CryptoScamDB
+- name: www-kraken-logins-te.com
+  url: http://www-kraken-logins-te.com
+  category: Phishing
+  subcategory: Kraken
+  description: "Fake Kraken site phishing for logins with POST /indexSend.php"
+  reporter: CryptoScamDB
+- name: www-kraken-logins-pe.com
+  url: http://www-kraken-logins-pe.com
+  category: Phishing
+  subcategory: Kraken
+  description: "Fake Kraken site phishing for logins with POST /indexSend.php"
+  reporter: CryptoScamDB
+- name: walletconnectsupports.net
+  url: http://walletconnectsupports.net
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets"
+  reporter: CryptoScamDB
+- name: glavebtc.com
+  url: http://glavebtc.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: elonmusk.app
+  url: http://elonmusk.app
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1DzwwKTd3F3TNqFSuzN7m366uDopFUghbb"
+  reporter: CryptoScamDB
+- name: smartwalletrestore.io
+  url: http://smartwalletrestore.io
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake WebWallet phishing for secrets with POST /action/phrase"
+  reporter: CryptoScamDB
+- name: dodoexe.com
+  url: http://dodoexe.com
+  category: Phishing
+  subcategory: Dodo
+  description: "Fake Dodo site phishing for secrets with POST /check.php"
+  reporter: CryptoScamDB
+- name: polkadotswallet.website
+  url: http://polkadotswallet.website
+  category: Phishing
+  subcategory: Polkadot
+  description: "Fake Polkadot WebWallet phishing for secrets with POST /mnemonic.php"
+  reporter: CryptoScamDB
+- name: betradebit.com
+  url: http://betradebit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: coinrau.com
+  url: http://coinrau.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: walletconnectdapp.link
+  url: http://walletconnectdapp.link
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets"
+  reporter: CryptoScamDB
+- name: paidnetwork.live
+  url: http://paidnetwork.live
+  category: Phishing
+  subcategory: PaidNetwork
+  description: "Fake PaidNetwork site phishing for secrets with POST /mailer/metamaskwallet.php"
+  reporter: CryptoScamDB
+- name: foundatlon.app
+  url: http://foundatlon.app
+  category: Phishing
+  subcategory: Foundation
+  description: "Fake Foundationapp site phishing for secrets with POST /check.php"
+  reporter: CryptoScamDB
+- name: trustwalletrestore.org
+  url: http://trustwalletrestore.org
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet site phishing for secrets"
+  reporter: CryptoScamDB
