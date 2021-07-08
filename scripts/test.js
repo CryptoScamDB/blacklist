@@ -1,6 +1,7 @@
 const assert = require('assert');
 const yaml = require('js-yaml');
 const fs = require('fs');
+const dict = require('./dictionary.json');
 
 describe('YAML Validator', function() {
 	describe('urls.yaml', function() {
@@ -16,6 +17,20 @@ describe('YAML Validator', function() {
 		it('every entry should have valid keys (url/category/subcategory/description/addresses/coin/reporter)', function() {
 			assert.deepEqual(yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => Object.keys(entry).some(key => !['name','url','category','subcategory','description','addresses','reporter','coin'].includes(key))),[]);
 		});
+		it('every entry should have a valid category', function() {
+			assert.deepEqual(yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
+				if('category' in entry) {
+					dict.CATEGORIES.includes(entry.category)
+				}
+			}), [])
+		})
+		it('every entry should have a valid subcategory', function() {
+			assert.deepEqual(yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
+				if('subcategory' in entry) {
+					dict.SUBCATEGORIES.includes(entry.subcategory)
+				}
+			}), [])
+		})
 	});
 	describe('Additions', function() {
 		
