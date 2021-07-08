@@ -68503,7 +68503,7 @@
   subcategory: WalletConnect
   description: "Fake WalletConnect phishing for secrets with POST /forms/contact.php"
   reporter: CryptoScamDB
-- name: polkadot-airdropcampaign.network 
+- name: polkadot-airdropcampaign.network
   url: http://polkadot-airdropcampaign.network
   category: Scamming
   subcategory: Trust-Trading
