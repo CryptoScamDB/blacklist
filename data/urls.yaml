@@ -68478,3 +68478,242 @@
   subcategory: TrustWallet
   description: "Fake TrustWallet site phishing for secrets"
   reporter: CryptoScamDB
+- name: musk-founder.com
+  url: http://musk-founder.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "169GN79kFk68mk3DZ9ffWkbspv7QAihA9N"
+    ETH:
+    - "0x104A71FaDe2AA952cC0884386843bE80Eb89b709"
+    DOGE:
+    - "DBGsgB942EN37R9XZaSrgfm7Cp5vxb627b"
+  reporter: CryptoScamDB
+- name: terolbit.com
+  url: http://terolbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: fixedwallet.org
+  url: http://fixedwallet.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect phishing for secrets with POST /forms/contact.php"
+  reporter: CryptoScamDB
+- name: polkadot-airdropcampaign.network
+  url: http://polkadot-airdropcampaign.network
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    DOT:
+    - "128yJEQjj3chFwgvWwp47tDPP1GewnJLz46et8dvRpq63JPX"
+  reporter: CryptoScamDB
+- name: zapper.ws
+  url: http://zapper.ws
+  category: Malware
+  subcategory: Zapper
+  description: "Fake Zapper site hosting malware (sha256sum: ca71c5a2b40e2c747b6bd860a3bc7a1b51fb6532a4dbd5fba550d3827bf9503b)"
+  reporter: CryptoScamDB
+- name: ledgerlive.com.de
+  url: http://ledgerlive.com.de
+  category: Phishing
+  subcategory: Ledger
+  description: "Fake Ledger site phishing for secrets with GET /send?seed=<secrets>"
+  reporter: CryptoScamDB
+- name: bitgoodey.com
+  url: http://bitgoodey.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: elondrop.pro
+  url: http://elondrop.pro
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: pancakeswap-airdropcampaign.finance
+  url: http://pancakeswap-airdropcampaign.finance
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake PancakeSwap site phishing for secrets"
+  reporter: CryptoScamDB
+- name: pancakeswapconnect.com
+  url: http://pancakeswapconnect.com
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake PancakeSwap site phishing for secrets with POST //api.activatewallet.live/pancake"
+  reporter: CryptoScamDB
+- name: pancakeswapwalletsvalidation.finance
+  url: http://pancakeswapwalletsvalidation.finance
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake PancakseSwap phishing for secrets with POST /email.php"
+  reporter: CryptoScamDB
+- name: walletsconnection.app
+  url: http://walletsconnection.app
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /response.php"
+  reporter: CryptoScamDB
+- name: walletsconnectsupports.io
+  url: http://walletsconnectsupports.io
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets"
+  reporter: CryptoScamDB
+- name: www-logins-kraken-lo.com
+  url: http://www-logins-kraken-lo.com
+  category: Phishing
+  subcategory: Kraken
+  description: "Fake Kraken site phishing for logins with POST /indexSend.php"
+  reporter: CryptoScamDB
+- name: www-logins-kraken-ma.com
+  url: http://www-logins-kraken-ma.com
+  category: Phishing
+  subcategory: Kraken
+  description: "Fake Kraken site phishing for logins with POST /indexSend.php"
+  reporter: CryptoScamDB
+- name: www-logins-kraken-ru.com
+  url: http://www-logins-kraken-ru.com
+  category: Phishing
+  subcategory: Kraken
+  description: "Fake Kraken site phishing for logins with POST /indexSend.php"
+  reporter: CryptoScamDB
+- name: www-logins-kraken-su.com
+  url: http://www-logins-kraken-su.com
+  category: Phishing
+  subcategory: Kraken
+  description: "Fake Kraken site phishing for logins with POST /indexSend.php"
+  reporter: CryptoScamDB
+- name: 1inch.new
+  url: http://1inch.new
+  category: Phishing
+  subcategory: 1inch
+  description: "Fake 1inch site"
+  reporter: CryptoScamDB
+- name: inchswap.com
+  url: http://inchswap.com
+  category: Phishing
+  subcategory: 1inch
+  description: "Fake 1inch site"
+  reporter: CryptoScamDB
+- name: pancakebonus.com
+  url: http://pancakebonus.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xb18BEde2d20aF54B2535d63b63EeE93293465bD3"
+  reporter: CryptoScamDB
+- name: nexus-swap.com
+  url: http://nexus-swap.com
+  category: Phishing
+  subcategory: Nexus
+  description: "Fake Nexus site directing users to tronlink-wallet.com to steal secrets"
+  reporter: CryptoScamDB
+- name: tronlink-wallet.com
+  url: http://tronlink-wallet.com
+  category: Phishing
+  subcategory: WebWallet
+  description: "Fake WebWallet phishing for secrets"
+  reporter: CryptoScamDB
+- name: ripple.gr.com
+  url: http://ripple.gr.com
+  category: Phishing
+  subcategory: Ripple
+  description: "Fake Ripple site phishing for secrets"
+  reporter: CryptoScamDB
+- name: axieninfinity.com
+  url: http://axieninfinity.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site"
+  reporter: CryptoScamDB
+- name: free.marketplace.axieninfinity.com
+  url: http://free.marketplace.axieninfinity.com
+  category: Phishing
+  subcategory: AxieInfinity
+  description: "Fake AxieInfinity site"
+  reporter: CryptoScamDB
+- name: thortrading.com
+  url: http://thortrading.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: snlmusk.com
+  url: http://snlmusk.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "18PGZEDKrVQCSWCFbu3kY9y6vxQe1965Pb"
+    ETH:
+    - "0xB35871708771080feaD87E5b0F93293B1eea5E55"
+    DOGE:
+    - "D6A9twP63p2QwZy2FbVw3K9moXRZvZ7U9i"
+  reporter: CryptoScamDB
+- name: uniholders.com
+  url: http://uniholders.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site (promoted by twitter id: 446364639)"
+  addresses:
+    ETH:
+    - "0x3483Fe6152626b4d3A1D2D3217BA8d1BEC6efcB2"
+  reporter: CryptoScamDB
+- name: nslgives.com
+  url: http://nslgives.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1H2U97kRxzYLH68Zqh6FZQu8uEw7YuVP84"
+    ETH:
+    - "0x5A821b1FEB3627Ac20de5F91D9e2774D628BBB99"
+    DOGE:
+    - "DHBy3vbUcoEG9tos72szta7E8Y8vBkfXkd"
+  reporter: CryptoScamDB
+- name: snlday.top
+  url: http://snlday.top
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1Musk6BzxELMyLJAJPx2nUXTLfHkGqi5Cz"
+    ETH:
+    - "0x7C81dDf645c9a09400b0abb52BA0D222c9d03516"
+    - "0x712bBE2847239513eCbf0cC65C8e6Bf2f7403319"
+    DOGE:
+    - "DQRcNG6CWoMLa5BBrzSRcfdTZvDd2kZLP3"
+  reporter: CryptoScamDB
+- name: polkastarter.click
+  url: http://polkastarter.click
+  category: Scamming
+  subcategory: Polkastarter
+  description: "Fake Polkastarter website"
+  reporter: CryptoScamDB
+- name: trustwallets.me
+  url: http://trustwallets.me
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet site phishing for secrets with POST /1/index.php"
+  reporter: CryptoScamDB
+- name: freematic.gifts
+  url: http://freematic.gifts
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xB661a8C0872FAc5a4ea5714c1E034E5Fd6e40ca4"
+  reporter: CryptoScamDB
