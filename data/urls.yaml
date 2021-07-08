@@ -63,7 +63,7 @@
 - name: my-etherwallet.com
   url: http://my-etherwallet.com
   category: Phishing
-  subcategory: Classic Ether Wallet
+  subcategory: ClassicEtherWallet
   description: phishing (linked to *.ether-api.com). did not 404.,MEW Deployed. redirects
     to classic ether wallet
   reporter: CryptoScamDB
@@ -173,16 +173,16 @@
   reporter: CryptoScamDB
 - name: blocklichan.info
   url: http://blocklichan.info
-  subcategory: Blockchain.info
+  subcategory: Blockchain
   reporter: CryptoScamDB
 - name: bloclkicihan.info
   url: http://bloclkicihan.info
-  subcategory: Blockchain.info
+  subcategory: Blockchain
   reporter: CryptoScamDB
 - name: district-0x.io
   url: http://district-0x.io
   category: Fake ICO
-  subcategory: district0x
+  subcategory: District0x
   description: fake ICO site w/ fake address.
   addresses:
     ETH:
@@ -237,7 +237,7 @@
 - name: district0x.net
   url: http://district0x.net
   category: Fake ICO
-  subcategory: district0x
+  subcategory: District0x
   description: fake ICO site w/ fake address. Mirrored from district0x.io/ by HTTrack
     Website Copier/3.x [XR&CO'2014], Fri, 14 Jul 2017 08:59:16 GMT
   addresses:
@@ -361,20 +361,20 @@
   reporter: CryptoScamDB
 - name: aragonproject.io
   url: http://aragonproject.io
-  category: 3 ANT
+  category: Phishing
   subcategory: Aragon
   description: malicious / phishing
   reporter: CryptoScamDB
 - name: etherclassicwallet.com
   url: http://etherclassicwallet.com
   category: Phishing
-  subcategory: Classic Ether Wallet
+  subcategory: ClassicEtherWallet
   description: phishing
   reporter: CryptoScamDB
 - name: myetcwallet.com
   url: http://myetcwallet.com
   category: Phishing
-  subcategory: Classic Ether Wallet
+  subcategory: ClassicEtherWallet
   description: phishing (redirects to etherclassicwallet .com)
   reporter: CryptoScamDB
 - name: myetherwallet.cz
@@ -565,7 +565,7 @@
 - name: omg-omise.co
   url: http://omg-omise.co
   category: Fake ICO
-  subcategory: OmiseGO
+  subcategory: OmiseGo
   description: fake ico site
   reporter: CryptoScamDB
 - name: tenx-tech.com
@@ -11223,7 +11223,7 @@
 - name: OmiseGO.com
   url: https://OmiseGO.com
   category: Phishing
-  subcategory: OmiseGO
+  subcategory: OmiseGo
   addresses:
     ETH:
     - "0x89C98CC6D9917B615257e5704e83906402f0f91f"
@@ -11242,7 +11242,7 @@
 - name: OmiseGO.net
   url: https://OmiseGO.net
   category: Phishing
-  subcategory: OmiseGO
+  subcategory: OmiseGo
   addresses:
     ETH:
     - "0x1e80dad60d19fb8159af3f440a8ceaa0e5581847"
@@ -11321,7 +11321,7 @@
 - name: omise-omg.com
   url: https://omise-omg.com
   category: Phishing
-  subcategory: OmiseGO
+  subcategory: OmiseGo
   reporter: CryptoScamDB
 - name: myethwallet.io
   url: https://myethwallet.io
@@ -11408,7 +11408,7 @@
 - name: omise-go.io
   url: http://omise-go.io
   category: Phishing
-  subcategory: OmiseGO
+  subcategory: OmiseGo
   addresses:
     ETH:
     - "0xda657e9fa116900fab8178e5580a3a6cedd89f3c"
@@ -11467,7 +11467,7 @@
 - name: kinico.net
   url: http://kinico.net
   category: Phishing
-  subcategory: Kin
+  subcategory: KIN
   reporter: CryptoScamDB
 - name: herotoken.co
   url: http://herotoken.co
@@ -11501,7 +11501,7 @@
 - name: omise.com.co
   url: https://omise.com.co
   category: Phishing
-  subcategory: OmiseGO
+  subcategory: OmiseGo
   reporter: CryptoScamDB
 - name: myelterwallet.com
   url: https://myelterwallet.com
@@ -11545,7 +11545,7 @@
 - name: omise-go.org
   url: http://omise-go.org/
   category: Phishing
-  subcategory: OmiseGO
+  subcategory: OmiseGo
   reporter: CryptoScamDB
 - name: ethereumwallet-kr.info
   url: https://ethereumwallet-kr.info/
@@ -11584,7 +11584,7 @@
 - name: the-ether.pro
   url: https://www.the-ether.pro
   category: Scamming
-  subcategory: Web Wallet
+  subcategory: WebWallet
   addresses:
     ETH:
     - "0xc4b51a247514901faf1b6b1da9f0836066e64407"
@@ -11602,7 +11602,7 @@
 - name: omisego.com.co
   url: https://omisego.com.co
   category: Phishing
-  subcategory: OmiseGO
+  subcategory: OmiseGo
   reporter: CryptoScamDB
 - name: qtum-token.com
   url: https://qtum-token.com
@@ -11754,7 +11754,7 @@
 - name: enigma-tokens.co
   url: https://enigma-tokens.co
   category: Phishing
-  subcategory: Engima
+  subcategory: Enigma
   addresses:
     ETH:
     - "0x2D4498a2CF71F5b0946f0ebcfff97ca9D0cd5D04"
@@ -11783,7 +11783,7 @@
   reporter: CryptoScamDB
 - name: pyro0.github.io
   url: https://pyro0.github.io
-  category: Scam
+  category: Scamming
   subcategory: ENS
   addresses:
     ETH:
@@ -11888,7 +11888,7 @@
 - name: 0xtoken.io
   url: https://0xtoken.io
   category: Phishing
-  subcategory: 0xproject
+  subcategory: 0x
   reporter: CryptoScamDB
 - name: shapesshift.io
   url: https://shapesshift.io
@@ -11937,7 +11937,7 @@
 - name: icon.community
   url: https://icon.community
   category: Phishing
-  subcategory: ICON
+  subcategory: Icon
   addresses:
     ETH:
     - "0xca4da1753336aa8340710e0E1a8c0BEE2bFbF56C"
@@ -11961,7 +11961,7 @@
 - name: iconn.foundation
   url: https://iconn.foundation
   category: Phishing
-  subcategory: ICON
+  subcategory: Icon
   addresses:
     ETH:
     - "0xFC74FB0D5df08EC546a3DA18CCc7FBcBe031F5D8"
@@ -11992,7 +11992,7 @@
 - name: reall.markets
   url: http://reall.markets/
   category: Phishing
-  subcategory: REAL
+  subcategory: REALMarkets
   addresses:
     ETH:
     - "0xB116D83C919d6661dc20246D312B702f0cDf297C"
@@ -12033,7 +12033,7 @@
 - name: coinrbase.com
   url: http://coinrbase.com/
   category: Phishing
-  subcategory: Coinibase
+  subcategory: Coinbase
   reporter: CryptoScamDB
 - name: myetherumwalletview.com
   url: http://myetherumwalletview.com/
@@ -12082,7 +12082,7 @@
 - name: myetherwallets.info
   url: http://mmyetherwallets.info/
   category: Phishing
-  subcategory: MyEtherWallet'
+  subcategory: MyEtherWallet
   reporter: CryptoScamDB
 - name: myetherwallet.com.ailogin.me
   url: http://myetherwallet.com.ailogin.me/
@@ -12139,7 +12139,7 @@
   reporter: CryptoScamDB
 - name: wallet-ethereum.org
   url: http://wallet-ethereum.org/
-  category: Scam
+  category: Scamming
   subcategory: WebWallet
   reporter: CryptoScamDB
 - name: request-network.com
@@ -12206,7 +12206,7 @@
 - name: cobinhood.io
   url: http://cobinhood.io/
   category: Phishing
-  subcategory: Cobinhood
+  subcategory: CobinHood
   addresses:
     ETH:
     - "0x920aDc9A060cdA345fdEc2fdeBAd6EBF38eDf83D"
@@ -12305,8 +12305,8 @@
   reporter: CryptoScamDB
 - name: etiam.io
   url: http://etiam.io/
-  category: Scam
-  subcategory: SALT
+  category: Scamming
+  subcategory: Salt
   reporter: CryptoScamDB
 - name: enjincoin.me
   url: http://enjincoin.me/
@@ -12342,7 +12342,7 @@
   reporter: CryptoScamDB
 - name: shapeshiff.io
   url: http://shapeshiff.io/
-  category: Scam
+  category: Scamming
   subcategory: Shapeshift
   reporter: CryptoScamDB
 - name: myetherwalletip.com
@@ -12976,7 +12976,7 @@
 - name: quantslamp.com
   url: http://quantslamp.com/
   category: Phishing
-  subcategory: Quantstamp
+  subcategory: QuantStamp
   addresses:
     ETH:
     - "0xda1cC010259496d407a764c381D0E82182D68D89"
@@ -13118,7 +13118,7 @@
 - name: xn--quanttamp-42b.com
   url: http://xn--quanttamp-42b.com/
   category: Phishing
-  subcategory: Quantstamp
+  subcategory: QuantStamp
   addresses:
     ETH:
     - "0x0ae775637e63Fa95855246Fd82e96802D05883Fc"
@@ -13134,12 +13134,12 @@
 - name: saltending.com
   url: http://saltending.com/
   category: Phishing
-  subcategory: SALT
+  subcategory: Salt
   reporter: CryptoScamDB
 - name: omise-go.tech
   url: http://omise-go.tech/
   category: Phishing
-  subcategory: OmiseGO
+  subcategory: OmiseGo
   description: Fake airdrop site, asking for private keys
   addresses:
     ETH:
@@ -13195,7 +13195,7 @@
 - name: quantstamp-ico.com
   url: http://quantstamp-ico.com
   category: Phishing
-  subcategory: Quanstamp
+  subcategory: QuantStamp
   description: Fake crowdsale site
   addresses:
     ETH:
@@ -13219,7 +13219,7 @@
 - name: qauntstamp.com
   url: http://qauntstamp.com
   category: Phishing
-  subcategory: Quanstamp
+  subcategory: QuantStamp
   description: Fake crowdsale site
   addresses:
     ETH:
@@ -13501,7 +13501,7 @@
 - name: quamtstamp.com
   url: http://quamtstamp.com
   category: Phishing
-  subcategory: Quantstamp
+  subcategory: QuantStamp
   description: Fake Quantstamp airdrop site - also linking to fake MEW sites
   reporter: CryptoScamDB
 - name: xn--myeherwallet-4j5f.com
@@ -13552,7 +13552,7 @@
 - name: quanttstamp.com
   url: http://quanttstamp.com
   category: Phishing
-  subcategory: Quantstamp
+  subcategory: QuantStamp
   description: Fake Quantstamp airdrop site - linking to fake MEW
   reporter: CryptoScamDB
 - name: t0zero.com
@@ -13594,7 +13594,7 @@
 - name: qauntstanp.com
   url: http://qauntstanp.com
   category: Phishing
-  subcategory: Quantstamp
+  subcategory: QuantStamp
   description: Fake Quantstamp site
   reporter: CryptoScamDB
 - name: gladius.ws
@@ -13735,7 +13735,7 @@
 - name: superbitcoin-blockchain.info
   url: http://superbitcoin-blockchain.info
   category: Phishing
-  subcategory: Blockchain.info
+  subcategory: Blockchain
   description: Fake blockchain site
   reporter: CryptoScamDB
 - name: xn--myetherwalle-xoc.com
@@ -13780,7 +13780,7 @@
 - name: redpulsetoken.co
   url: http://redpulsetoken.co
   category: Phishing
-  subcategory: Redpulse
+  subcategory: RedPulse
   description: Fake Red-Pulse airdrop site asking for private keys
   reporter: CryptoScamDB
 - name: xn--metherwalet-ns8ep4b.com
@@ -13960,7 +13960,7 @@
   reporter: CryptoScamDB
 - name: paxful.com.ng
   url: http://paxful.com.ng
-  category: Scam
+  category: Scamming
   subcategory: Paxful
   description: Fake Paxful site
   reporter: CryptoScamDB
@@ -14033,7 +14033,7 @@
 - name: singularty.net
   url: http://singularty.net
   category: Phishing
-  subcategory: Singularity
+  subcategory: SingularityNET
   description: Fake Singularity crowdsale site
   addresses:
     ETH:
@@ -14319,7 +14319,7 @@
 - name: xn--bittrx-th8b.com
   url: http://xn--bittrx-th8b.com
   category: Phishing
-  subcategory: Bittex
+  subcategory: Bittrex
   description: Fake Bittrex - IDN homographic attack
   reporter: CryptoScamDB
 - name: selfkeys.org
@@ -14590,7 +14590,7 @@
 - name: appcoinsproject.com
   url: http://appcoinsproject.com
   category: Phishing
-  subcategory: Appcoinsproject
+  subcategory: Appcoins
   description: Fake Appcoinsproject airdrop site asking for private keys
   reporter: CryptoScamDB
 - name: xn--coinelegraph-wk5f.com
@@ -14629,7 +14629,7 @@
 - name: quanstamptoken.tk
   url: http://quanstamptoken.tk
   category: Phishing
-  subcategory: Quanstamp
+  subcategory: QuantStamp
   description: Fake Quanstamp site - hosted on the same server as many other scams/phishing
     domains
   reporter: CryptoScamDB
@@ -14713,7 +14713,7 @@
 - name: xn--quanstamp-8s6d.com
   url: http://xn--quanstamp-8s6d.com
   category: Phishing
-  subcategory: Quanstamp
+  subcategory: QuantStamp
   description: Fake Quanstamp
   reporter: CryptoScamDB
 - name: appcoinstoken.org
@@ -14906,7 +14906,7 @@
 - name: etlherdelta.com
   url: http://etlherdelta.com
   category: Phishing
-  subcategory: Etherdelta
+  subcategory: EtherDelta
   description: Fake Etherdelta
   reporter: CryptoScamDB
 - name: etlherzero.com
@@ -15122,7 +15122,7 @@
 - name: cobin-hood.com
   url: http://cobin-hood.com
   category: Phishing
-  subcategory: Cobinhood
+  subcategory: CobinHood
   description: Fake Cobinhood crowdsale site
   addresses:
     ETH:
@@ -15194,7 +15194,7 @@
 - name: beetoken-ico.eu
   url: http://beetoken-ico.eu
   category: Phishing
-  subcategory: Bee
+  subcategory: Beetoken
   description: Fake Beetoken crowdsale site
   addresses:
     ETH:
@@ -15341,7 +15341,7 @@
 - name: beetoken-ico.com
   url: http://beetoken-ico.com
   category: Phishing
-  subcategory: Bee
+  subcategory: Beetoken
   description: Fake Bee token crowdsale site
   addresses:
     ETH:
@@ -15994,7 +15994,7 @@
 - name: metamaskgiveaway.xyz
   url: https://metamaskgiveaway.xyz
   category: Phishing
-  subcategory: Metamask
+  subcategory: MetaMask
   description: Fake giveaway phishing for seed phrases
   reporter: CryptoScamDB
 - name: dock.so
@@ -16192,7 +16192,7 @@
 - name: forkdeita.github.io
   url: https://forkdeita.github.io
   category: Phishing
-  subcategory: Forkdelta
+  subcategory: ForkDelta
   description: Fake ForkDelta phishing for private keys
   reporter: CryptoScamDB
 - name: ton.fund
@@ -16760,7 +16760,7 @@
 - name: tomo-coin.io
   url: https://tomo-coin.io
   category: Phishing
-  subcategory: Tomo
+  subcategory: Tomochain
   description: Fake Tomo crowdsale site
   addresses:
     ETH:
@@ -16851,7 +16851,7 @@
 - name: tomocoln.io
   url: http://tomocoln.io
   category: Phishing
-  subcategory: Tomo
+  subcategory: Tomochain
   description: Fake Tomo crowdsale site
   addresses:
     ETH:
@@ -16940,7 +16940,7 @@
 - name: bittrex-give.com
   url: http://bittrex-give.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -16949,7 +16949,7 @@
 - name: odachi.neocities.org
   url: http://odachi.neocities.org
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -16973,7 +16973,7 @@
 - name: eth.secure-transactionssecure.com
   url: http://eth.secure-transactionssecure.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -16982,7 +16982,7 @@
 - name: transfer-eth.neocities.org
   url: http://transfer-eth.neocities.org
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -16991,7 +16991,7 @@
 - name: reeveclancy.wixsite.com
   url: http://reeveclancy.wixsite.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam (looks like a fake ICO - send ETH and have a 92%
     chance of winning 100ETH - no contract address)
   addresses:
@@ -17001,7 +17001,7 @@
 - name: eth953883.htmlcomponentservice.com
   url: http://eth953883.htmlcomponentservice.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17028,7 +17028,7 @@
 - name: eth-transactions.neocities.org
   url: http://eth-transactions.neocities.org
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17055,7 +17055,7 @@
 - name: myetherwallet.com.send-transaction_8hlg6z8mgt6zyg.ilil.pw
   url: http://myetherwallet.com.send-transaction_8hlg6z8mgt6zyg.ilil.pw
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17064,7 +17064,7 @@
 - name: binance-give.com
   url: http://binance-give.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17073,7 +17073,7 @@
 - name: binance.bitballoon.com
   url: http://binance.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17082,7 +17082,7 @@
 - name: eth-giveaway-209.statichtmlapp.com
   url: http://eth-giveaway-209.statichtmlapp.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17091,7 +17091,7 @@
 - name: geocities.ws/transaction/
   url: http://geocities.ws/transaction/
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17100,7 +17100,7 @@
 - name: xn--binnce-y0a.com
   url: http://xn--binnce-y0a.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17115,7 +17115,7 @@
 - name: ethereum-giveaway.info
   url: http://ethereum-giveaway.info
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: 'Trust-Trading scam promoted by twitter id: 956921522102456320'
   addresses:
     ETH:
@@ -17124,7 +17124,7 @@
 - name: bonus.etherpayout.com
   url: http://bonus.etherpayout.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17145,7 +17145,7 @@
 - name: ethfreepays.com
   url: http://ethfreepays.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17184,7 +17184,7 @@
 - name: telegra.ph
   url: http://telegra.ph
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17193,7 +17193,7 @@
 - name: eth-giveaway-514.htmlcomponentservice.com
   url: http://eth-giveaway-514.htmlcomponentservice.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17208,7 +17208,7 @@
 - name: eth-cz-319.htmlcomponentservice.com
   url: http://eth-cz-319.htmlcomponentservice.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17314,7 +17314,7 @@
 - name: eth-giveaway-706.htmlcomponentservice.com
   url: http://eth-giveaway-706.htmlcomponentservice.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17323,7 +17323,7 @@
 - name: icoeth.tk
   url: http://icoeth.tk
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17332,7 +17332,7 @@
 - name: eth-giveaway.com
   url: http://eth-giveaway.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17347,7 +17347,7 @@
 - name: eth-giveaway.info
   url: http://eth-giveaway.info
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17374,7 +17374,7 @@
 - name: ether-promo.bitballoon.com
   url: http://ether-promo.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17383,7 +17383,7 @@
 - name: ethfreegive.com
   url: http://ethfreegive.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-Trading scam
   addresses:
     ETH:
@@ -17409,13 +17409,13 @@
   reporter: CryptoScamDB
 - name: immvrse.io
   url: http://immvrse.io
-  category: ImmVRse
+  category: Scamming
   description: Fake crowdsale site
   reporter: CryptoScamDB
 - name: etherscanio.github.io
   url: http://etherscanio.github.io
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17424,7 +17424,7 @@
 - name: ethfreecandy.bitballoon.com
   url: http://ethfreecandy.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17433,7 +17433,7 @@
 - name: otoeveryday.info
   url: http://otoeveryday.info
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17442,7 +17442,7 @@
 - name: eth-transaction.secure.kissr.com
   url: http://eth-transaction.secure.kissr.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17457,7 +17457,7 @@
 - name: smartexchangecenter.tk
   url: http://smartexchangecenter.tk
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17466,7 +17466,7 @@
 - name: coin-promos.com
   url: http://coin-promos.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17475,7 +17475,7 @@
 - name: campaigntoken.blogspot.de
   url: http://campaigntoken.blogspot.de
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17493,7 +17493,7 @@
 - name: paymentaddress.tumblr.com
   url: http://paymentaddress.tumblr.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17502,7 +17502,7 @@
 - name: promo-trx.tk
   url: http://promo-trx.tk
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17511,7 +17511,7 @@
 - name: ethfreepay.com
   url: http://ethfreepay.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17520,7 +17520,7 @@
 - name: eth-promo.bitballoon.com
   url: http://eth-promo.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17529,7 +17529,7 @@
 - name: eth.vote
   url: http://eth.vote
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17550,13 +17550,13 @@
 - name: eth-giveaway.gq
   url: http://eth-giveaway.gq
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: 'Trust-trading scam - suspected address: 0xEE14140F20fB737809ca206C238382b3F802Ca6C'
   reporter: CryptoScamDB
 - name: ethergiveawaytweet.tk
   url: http://ethergiveawaytweet.tk
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17580,7 +17580,7 @@
 - name: html.house/7htud1qm.html
   url: http://html.house/7htud1qm.html
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17595,7 +17595,7 @@
 - name: ethereumtrans.com
   url: http://ethereumtrans.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17610,7 +17610,7 @@
 - name: coinbase-secure-a2k34j.bitballoon.com
   url: http://coinbase-secure-a2k34j.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17634,7 +17634,7 @@
 - name: ethfreeget.com
   url: http://ethfreeget.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17643,7 +17643,7 @@
 - name: b197c5a2-4c4a-408f-8197-93c81bd6e165.htmlcomponentservice.com
   url: http://b197c5a2-4c4a-408f-8197-93c81bd6e165.htmlcomponentservice.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17652,7 +17652,7 @@
 - name: giveaway.etherbonuses.com
   url: http://giveaway.etherbonuses.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17667,7 +17667,7 @@
 - name: ethereum-transfer.online
   url: http://ethereum-transfer.online
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17676,7 +17676,7 @@
 - name: trust-cryptopayment.com
   url: http://trust-cryptopayment.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17686,7 +17686,7 @@
 - name: binance-promo.net
   url: http://binance-promo.net
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17695,7 +17695,7 @@
 - name: eth.hn
   url: http://eth.hn
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17704,7 +17704,7 @@
 - name: info-transaction.com
   url: http://info-transaction.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17713,7 +17713,7 @@
 - name: airdrop-ether.bitballoon.com
   url: http://airdrop-ether.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17722,7 +17722,7 @@
 - name: html.house/8lt97peg.html
   url: http://html.house/8lt97peg.html
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17743,7 +17743,7 @@
 - name: et.gl
   url: http://et.gl
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17752,7 +17752,7 @@
 - name: owainpritchard.co.uk
   url: http://owainpritchard.co.uk/request/index.php
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17767,7 +17767,7 @@
 - name: ethgive.github.io
   url: http://ethgive.github.io
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17776,7 +17776,7 @@
 - name: big-promo-march.tumblr.com
   url: http://big-promo-march.tumblr.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17785,7 +17785,7 @@
 - name: giveaway-payment-add.bitballoon.com
   url: http://giveaway-payment-add.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17794,7 +17794,7 @@
 - name: secure-s28h3h2j54jehdh43jh3k5h42l4h23hk6l49sjxvsatoshilite.bitballoon.com
   url: http://secure-s28h3h2j54jehdh43jh3k5h42l4h23hk6l49sjxvsatoshilite.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17803,7 +17803,7 @@
 - name: html.house/gv9995gt.html
   url: http://html.house/gv9995gt.html
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17812,7 +17812,7 @@
 - name: etherfreegive.com
   url: http://etherfreegive.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17821,7 +17821,7 @@
 - name: eth-promo.com
   url: http://eth-promo.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17830,7 +17830,7 @@
 - name: eth-giveaway-vote.bitballoon.com
   url: http://eth-giveaway-vote.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17839,7 +17839,7 @@
 - name: eth.vg
   url: http://eth.vg
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17854,7 +17854,7 @@
 - name: musk.gift
   url: http://musk.gift
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17869,7 +17869,7 @@
 - name: eth.altervista.org
   url: http://eth.altervista.org
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17896,7 +17896,7 @@
 - name: binance.ethdeal.info
   url: http://binance.ethdeal.info
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17914,7 +17914,7 @@
 - name: eths.bz
   url: http://eths.bz
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17923,7 +17923,7 @@
 - name: etherscan-giveaway.epizy.com
   url: http://etherscan-giveaway.epizy.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17941,7 +17941,7 @@
 - name: geth.cc
   url: http://geth.cc
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17962,7 +17962,7 @@
 - name: ethopen.com
   url: http://ethopen.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17971,7 +17971,7 @@
 - name: ethpayment.bitballoon.com
   url: http://ethpayment.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -17980,7 +17980,7 @@
 - name: jsfiddle.net/coinbaseethereum/jpL9n72s/show/
   url: http://jsfiddle.net/coinbaseethereum/jpL9n72s/show/
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -18022,7 +18022,7 @@
 - name: ethdrop.info
   url: http://ethdrop.info
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -18031,7 +18031,7 @@
 - name: ethpayd.com
   url: http://ethpayd.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -18041,7 +18041,7 @@
 - name: giveaway-ethereum.org
   url: http://giveaway-ethereum.org
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -18050,7 +18050,7 @@
 - name: secure-eth-transactions.bitballoon.com
   url: http://secure-eth-transactions.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -18059,7 +18059,7 @@
 - name: paveldurov.bitballoon.com
   url: http://paveldurov.bitballoon.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -18122,7 +18122,7 @@
 - name: eth-transaction.site44.com
   url: http://eth-transaction.site44.com
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -18131,7 +18131,7 @@
 - name: hederashashgraph.com
   url: http://hederashashgraph.com
   category: Phishing
-  subcategory: Hedera
+  subcategory: HederaHashGraph
   description: Fake Hedera HashGraph crowdsale site
   addresses:
     ETH:
@@ -18149,7 +18149,7 @@
 - name: eths.vu
   url: http://eths.vu
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -18182,7 +18182,7 @@
 - name: claim.ethdeal.info
   url: http://claim.ethdeal.info
   category: Scamming
-  subcategory: Trust-trading
+  subcategory: Trust-Trading
   description: Trust-trading scam
   addresses:
     ETH:
@@ -18477,7 +18477,7 @@
 - name: kinecosystem.net
   url: http://kinecosystem.net
   category: Phishing
-  subcategory: Kin
+  subcategory: KIN
   description: Fake airdrop phishing for private keys
   reporter: CryptoScamDB
 - name: coinbaseassist.info
@@ -18888,7 +18888,7 @@
 - name: centratoken.site
   url: http://centratoken.site
   category: Phishing
-  subcategory: Centra
+  subcategory: CentraTech
   description: Fake Centra tech refund site - send CTR tokens to get a refund
   addresses:
     ETH:
@@ -19033,7 +19033,7 @@
 - name: hederahashgraph.tokencrowdsale.info
   url: http://hederahashgraph.tokencrowdsale.info
   category: Phishing
-  subcategory: Hedera
+  subcategory: HederaHashGraph
   description: Fake Hedera crowdsale site
   addresses:
     ETH:
@@ -20060,7 +20060,7 @@
 - name: hederahashgraph.infotokensale.com
   url: http://hederahashgraph.infotokensale.com
   category: Phishing
-  subcategory: Hederahash
+  subcategory: HederaHashGraph
   description: Fake Hederahash crowdsale site
   addresses:
     ETH:
@@ -20349,19 +20349,19 @@
 - name: hitlbtc.com
   url: http://hitlbtc.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc login
   reporter: CryptoScamDB
 - name: hittbte.com
   url: http://hittbte.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc login
   reporter: CryptoScamDB
 - name: xn--htbtc-q81b.com
   url: http://xn--htbtc-q81b.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc login
   reporter: CryptoScamDB
 - name: myetherwallet-xn1.com
@@ -20408,7 +20408,7 @@
 - name: quarkchain-token.io
   url: http://quarkchain-token.io
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -21104,7 +21104,7 @@
 - name: quarkchain-ico.io
   url: http://quarkchain-ico.io
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: 'Fake Quarkchain crowdsale site. Suspected address: 0xb29a0b9b4d32c9cd39c02d0f19a6a8bbb3047ceb'
   addresses:
     ETH:
@@ -21322,7 +21322,7 @@
 - name: hederahashgraph.online
   url: http://hederahashgraph.online
   category: Phishing
-  subcategory: Hedera
+  subcategory: HederaHashGraph
   description: Fake Hedera hashgraph crowdsale site
   addresses:
     ETH:
@@ -21424,7 +21424,7 @@
 - name: hederahashgraph.store
   url: http://hederahashgraph.store
   category: Phishing
-  subcategory: Hedera
+  subcategory: HederaHashGraph
   description: Fake Hedera hashgraph crowdsale site
   addresses:
     ETH:
@@ -21433,7 +21433,7 @@
 - name: quarkchain.tech
   url: http://quarkchain.tech
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -21676,13 +21676,13 @@
 - name: rebellios.com
   url: http://rebellios.com
   category: Phishing
-  subcategory: Rebillious
+  subcategory: Rebellious
   description: Fake Rebillious airdrop phishing for private keys
   reporter: CryptoScamDB
 - name: kinecosystems.org
   url: http://kinecosystems.org
   category: Phishing
-  subcategory: Kin
+  subcategory: KIN
   description: Fake KIN airdrop site phishing for private keys
   addresses:
     ETH:
@@ -21697,7 +21697,7 @@
 - name: quarkchain.website
   url: http://quarkchain.website
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -21706,7 +21706,7 @@
 - name: quark-chain.io
   url: http://quark-chain.io
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -21715,19 +21715,19 @@
 - name: quarkchaln.io
   url: http://quarkchaln.io
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Suspicious quarkchain crowdsale domain
   reporter: CryptoScamDB
 - name: quarkchain.org
   url: http://quarkchain.org
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Suspicious quarkchain crowdsale domain
   reporter: CryptoScamDB
 - name: kinecosystem.io
   url: http://kinecosystem.io
   category: Phishing
-  subcategory: Kin
+  subcategory: KIN
   description: Fake Kin airdrop site phishing for private keys
   reporter: CryptoScamDB
 - name: i-idex.market
@@ -21739,7 +21739,7 @@
 - name: forkdelta.net
   url: http://forkdelta.net
   category: Phishing
-  subcategory: Forkdelta
+  subcategory: ForkDelta
   description: Fake ForkDelta
   reporter: CryptoScamDB
 - name: promo-give-ethereum.org
@@ -21781,13 +21781,13 @@
 - name: xn--tbtc-upa94a.com
   url: https://xn--tbtc-upa94a.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Hitbtc IDN homograph attack domain
   reporter: CryptoScamDB
 - name: xn--itbtc-9g1b.com
   url: https://xn--itbtc-9g1b.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Hitbtc IDN homograph attack domain
   reporter: CryptoScamDB
 - name: myetherwalleth.org
@@ -21799,7 +21799,7 @@
 - name: brickblocks.io
   url: https://brickblocks.io
   category: Phishing
-  subcategory: Brickblocks
+  subcategory: Brickblock
   description: Fake Brickblocks crowdsale site
   addresses:
     ETH:
@@ -21814,13 +21814,13 @@
 - name: brickblock.cc
   url: https://brickblock.cc
   category: Phishing
-  subcategory: Brickblocks
+  subcategory: Brickblock
   description: 'Fake Brickblocks crowdsale site. Suspected address: 0xf346fdCd5A205bA8F25edf0ffcddcc7a6583ac65'
   reporter: CryptoScamDB
 - name: quarkchain.de
   url: https://quarkchain.de
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: 'Fake Quarkchain crowdsale site. Suspected address: 0xa0d4bee1beeafce031c56cfb40210746cc6ab2d0'
   addresses:
     ETH:
@@ -21915,13 +21915,13 @@
 - name: yobittrading.net
   url: https://yobittrading.net
   category: Phishing
-  subcategory: Yobit
+  subcategory: YoBit
   description: Fake Yobit login
   reporter: CryptoScamDB
 - name: yobit-trading.net
   url: https://yobit-trading.net
   category: Phishing
-  subcategory: Yobit
+  subcategory: YoBit
   description: Fake Yobit login
   reporter: CryptoScamDB
 - name: telegram-token.io
@@ -21942,7 +21942,7 @@
 - name: privcoin.io
   url: https://privcoin.io
   category: Scamming
-  subcategory: Mixers
+  subcategory: Mixer
   description: Fake Ethereum mixer
   reporter: CryptoScamDB
 - name: free-eth.paperplane.io
@@ -22004,7 +22004,7 @@
 - name: xn--htbt-3oa0a.com
   url: https://xn--htbt-3oa0a.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc - IDN homograph attack domain
   reporter: CryptoScamDB
 - name: xn--myethewallt-crb9748g.com
@@ -22206,7 +22206,7 @@
 - name: omisegowallet.network
   url: https://omisegowallet.network
   category: Phishing
-  subcategory: Omise
+  subcategory: OmiseGo
   description: Fake Omise web wallet
   addresses:
     ETH:
@@ -22233,7 +22233,7 @@
 - name: quarkchain-presale.io
   url: https://quarkchain-presale.io
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -22324,7 +22324,7 @@
 - name: hydroplatform.org
   url: https://hydroplatform.org
   category: Phishing
-  subcategory: Hydro
+  subcategory: Hydrogen
   description: Fake airdrop directing users to a fake MyEtherWallet xn--myetherwalt-crb27c[dot]com/signmsg.html
   reporter: CryptoScamDB
 - name: xn--myetherwalt-crb27c.com
@@ -22337,7 +22337,7 @@
 - name: quarkchains.io
   url: https://quarkchains.io
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -22355,7 +22355,7 @@
 - name: hydroggenplatform.com
   url: https://hydroggenplatform.com
   category: Phishing
-  subcategory: Hydro
+  subcategory: Hydrogen
   description: Fake Hydro site linking to a fake MyEtherWallet - xn--myetherwalt-crb27c.com
   reporter: CryptoScamDB
 - name: ldcx.market
@@ -22385,7 +22385,7 @@
 - name: xn--tbtc-zpa34a.com
   url: https://xn--tbtc-zpa34a.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc site phishing for logins
   reporter: CryptoScamDB
 - name: pundix.tech
@@ -22397,7 +22397,7 @@
 - name: tokenairdrop.typeform.com
   url: https://tokenairdrop.typeform.com
   category: Phishing
-  subcategory: Hydro
+  subcategory: Hydrogen
   description: 'Fake Hydro airdrop directing users to a fake MyEtherWallet - xn--myetherwalt-0rb64c.com.
     Suspected address: 0xCF02680e5f057D41A68C3DA6221Ade6609833e5a 0xbF30cBF5DD5fbf040A1fA8B7388F756F624AfDeF'
   reporter: CryptoScamDB
@@ -22485,7 +22485,7 @@
 - name: quarkchain.pl
   url: https://quarkchain.pl
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -23003,7 +23003,7 @@
 - name: hydroraindrop.typeform.com
   url: http://hydroraindrop.typeform.com
   category: Phishing
-  subcategory: Hydro
+  subcategory: Hydrogen
   description: Fake Hydro airdrop phishing for private keys
   reporter: CryptoScamDB
 - name: ethconfirm.info
@@ -23410,7 +23410,7 @@
 - name: quarkchain.in
   url: https://quarkchain.in
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -23518,7 +23518,7 @@
 - name: quarkchain.pub
   url: https://quarkchain.pub
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -24122,7 +24122,7 @@
 - name: quarkchain.supply
   url: https://quarkchain.supply
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake Quarkchain crowdsale site
   addresses:
     ETH:
@@ -25609,8 +25609,8 @@
   reporter: CryptoScamDB
 - name: free-ethereum.us
   url: http://free-ethereum.us
-  category: Giveaway
-  subcategory: Fake giveaway
+  category: Scamming
+  subcategory: Trust-Trading
   description: Fake giveaway
   reporter: CryptoScamDB
 - name: tron-mainnet.network
@@ -25844,7 +25844,7 @@
 - name: quarkchain.typeform.com
   url: http://quarkchain.typeform.com
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake airdrop directing users to a fake MyEtherWallet - xn--myethrwalett-8vb19c.net
   reporter: CryptoScamDB
 - name: bibox-exchange.com
@@ -28276,7 +28276,7 @@
 - name: idiex.market
   url: https://idiex.market
   category: Phishing
-  subcategory: IDEX
+  subcategory: Idex
   description: Fake IDEX market stealing keys
   reporter: CryptoScamDB
 - name: ethtransfer.online
@@ -28657,7 +28657,7 @@
 - name: yobit.tilda.ws
   url: https://yobit.tilda.ws
   category: Scamming
-  subcategory: Yobit
+  subcategory: YoBit
   description: Fake Yobit investment site - 2% daily returns
   addresses:
     ETH:
@@ -28943,7 +28943,7 @@
 - name: hitbtc-login.com
   url: https://hitbtc-login.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc site phishing for logins
   reporter: CryptoScamDB
 - name: promobinance.com
@@ -30114,7 +30114,7 @@
 - name: hydrogen-raindrop.bitballoon.com
   url: https://hydrogen-raindrop.bitballoon.com
   category: Phishing
-  subcategory: Hydro
+  subcategory: Hydrogen
   description: Fake airdrop form directing users to a fake MyEtherWallet - www.myetherwallet.ethersignmsg.services
     via https://bit.ly/2ufxyjC
   reporter: CryptoScamDB
@@ -30999,7 +30999,7 @@
 - name: metamaskpro.io
   url: http://metamaskpro.io
   category: Phishing
-  subcategory: Metamask
+  subcategory: MetaMask
   description: Promoting a fake MetaMask - https://chrome.google.com/webstore/detail/metamask-pro/bjhhmlocoehibjnebcaedkhecggonhne/
   reporter: CryptoScamDB
 - name: www-bitfinex.com
@@ -31254,19 +31254,19 @@
 - name: authhitbtc.com
   url: https://authhitbtc.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Suspcious hitbtc domain targetting login
   reporter: CryptoScamDB
 - name: hltbtc.cam
   url: https://hltbtc.cam
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc phishing for logins
   reporter: CryptoScamDB
 - name: hiitdtc.com
   url: https://hiitdtc.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Suspcious hitbtc domain phishing for logins
   reporter: CryptoScamDB
 - name: idex-markt-roosen-gmbh.com
@@ -32264,7 +32264,7 @@
 - name: lhitlbtc.hosstinger.info
   url: https://lhitlbtc.hosstinger.info
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc phishing for logins
   reporter: CryptoScamDB
 - name: shapeshift-exchange.online
@@ -32734,7 +32734,7 @@
 - name: hitbtc.mobi
   url: https://hitbtc.mobi
   category: Phishing
-  subcategory: HitBtc
+  subcategory: HitBTC
   description: Fake HitBtc phishing for logins
   reporter: CryptoScamDB
 - name: kraken-validation.com
@@ -32788,7 +32788,7 @@
 - name: view-wallel.info
   url: https://view-wallel.info
   category: Phishing
-  subcategory: Ddex
+  subcategory: DDEX
   description: Fake Ddex stealing keys with POST /callback.php
   reporter: CryptoScamDB
 - name: myetheruvvalleet.xyz
@@ -33328,13 +33328,13 @@
 - name: lhitdtc.com
   url: https://lhitdtc.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc site phishing for logins
   reporter: CryptoScamDB
 - name: lhitlbtc.com
   url: https://lhitlbtc.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc site phishing for logins
   reporter: CryptoScamDB
 - name: lkralken.com
@@ -33364,7 +33364,7 @@
 - name: yobirt.net
   url: https://yobirt.net
   category: Phishing
-  subcategory: Yobit
+  subcategory: YoBit
   description: Fake Yobit site phishing for logins
   reporter: CryptoScamDB
 - name: safeclaims.space
@@ -33761,7 +33761,7 @@
 - name: ycbit.net
   url: http://ycbit.net
   category: Phishing
-  subcategory: Yobit
+  subcategory: YoBit
   description: Suspcious Yobit (not deployed yet)
   reporter: CryptoScamDB
 - name: kuccin.com
@@ -33773,7 +33773,7 @@
 - name: lnitbtc.com
   url: http://lnitbtc.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Suspcious Hitbtc (not deployed yet)
   reporter: CryptoScamDB
 - name: www-nycryqto.com
@@ -34901,7 +34901,7 @@
 - name: bestchagne.com
   url: http://bestchagne.com
   category: Phishing
-  subcategory: Best
+  subcategory: Binance
   description: Fake Binance exchange phishing for logins with POST /_indexSend.php
   reporter: CryptoScamDB
 - name: biftinex.org
@@ -36874,7 +36874,7 @@
 - name: iost.gift
   url: http://iost.gift
   category: Phishing
-  subcategory: IOST
+  subcategory: Iost
   description: Fake IOST airdrop site phishing for private keys
   reporter: CryptoScamDB
 - name: ethactivate.com
@@ -38587,19 +38587,19 @@
 - name: hitbtcrecovery.com
   url: http://hitbtcrecovery.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Suspicious hitbtc domain
   reporter: CryptoScamDB
 - name: hitbtc-ads.com
   url: http://hitbtc-ads.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Suspicious hitbtc domain
   reporter: CryptoScamDB
 - name: hitbtc-adv.com
   url: http://hitbtc-adv.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Suspicious hitbtc domain
   reporter: CryptoScamDB
 - name: gemini-wallet.com
@@ -39421,7 +39421,7 @@
 - name: hitbtcspace.herokuapp.com
   url: http://hitbtcspace.herokuapp.com
   category: Phishing
-  subcategory: HitBtc
+  subcategory: HitBTC
   description: Fake Hitbtc site
   reporter: CryptoScamDB
 - name: 2fa-paxful.com
@@ -39706,7 +39706,7 @@
 - name: hitbtc.li
   url: http://hitbtc.li
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake HitBTC phishing for logins with POST /phone.php and POST /sms-code.php
   reporter: CryptoScamDB
 - name: xn--spectroconn-7zb.com
@@ -39736,19 +39736,19 @@
 - name: xn--hibtc-leb.com
   url: http://xn--hibtc-leb.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake HitBTC site phishing for logins
   reporter: CryptoScamDB
 - name: hitbtc-eu.com
   url: http://hitbtc-eu.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Suspicious HitBTC domain - nothing deployed yet
   reporter: CryptoScamDB
 - name: hitbtc.cam
   url: http://hitbtc.cam
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Suspicious HitBTC domain - kit not deployed yet
   reporter: CryptoScamDB
 - name: get-5k-promo.website
@@ -40560,7 +40560,7 @@
 - name: hitloek.info
   url: http://hitloek.info
   category: Phishing
-  subcategory: HitBtc
+  subcategory: HitBTC
   description: Fake HitBTC phishing for logins with POST /controller/email.php (also
     hosting a Gmail phishing kit on www.hitloek.info/gmail)
   reporter: CryptoScamDB
@@ -40624,7 +40624,7 @@
 - name: hitbtc.website
   url: http://hitbtc.website
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Suspicious Hitbtc domain
   reporter: CryptoScamDB
 - name: scris.club
@@ -40934,7 +40934,7 @@
 - name: yobilt.net
   url: http://yobilt.net
   category: Phishing
-  subcategory: Yobit
+  subcategory: YoBit
   description: Fake Yobit phishing for logins with POST /send.php
   reporter: CryptoScamDB
 - name: bloclkchain.co
@@ -41298,7 +41298,7 @@
 - name: hitbtc.pratiktlyukleme.com
   url: http://hitbtc.pratiktlyukleme.com
   category: Phishing
-  subcategory: HitBtc
+  subcategory: HitBTC
   description: Fake Hitbtc phishing for logins (and email passwords) with POST /index--_.php
   reporter: CryptoScamDB
 - name: xn--mercaox-rrb.com
@@ -41473,7 +41473,7 @@
 - name: ehitbtc.com.viptempobetgirisi.com
   url: http://ehitbtc.com.viptempobetgirisi.com
   category: Phishing
-  subcategory: HitBtc
+  subcategory: HitBTC
   description: Fake HitBtc phishing for logins with POST /index--_.php
   reporter: CryptoScamDB
 - name: musk.plus
@@ -42948,7 +42948,7 @@
 - name: quarkairdrop.com
   url: http://quarkairdrop.com
   category: Phishing
-  subcategory: Quarkchain
+  subcategory: QuarkChain
   description: Fake airdrop phishing for keys with POST /sign.php
   reporter: CryptoScamDB
 - name: crypterium.site
@@ -43316,9 +43316,8 @@
 - name: hydroproject.io
   url: http://hydroproject.io
   category: Phishing
-  subcategory: Hydro
-  description: Phishing for private keys with POST /api/v1.php - reported address
-    0xac1Ee036c52D20aD437A1DC46056b9aBF0cF1Ca0
+  subcategory: Hydrogen
+  description: Phishing for private keys with POST /api/v1.php - reported address 0xac1Ee036c52D20aD437A1DC46056b9aBF0cF1Ca0
   reporter: CryptoScamDB
 - name: karatbars-affiliate-bonus.com
   url: http://karatbars-affiliate-bonus.com
@@ -43426,7 +43425,7 @@
 - name: wallet.hydroproject.io
   url: http://wallet.hydroproject.io
   category: Phishing
-  subcategory: Hydro
+  subcategory: Hydrogen
   description: Phishing for private keys with POST /api/v1.php
   reporter: CryptoScamDB
 - name: myetcvwallet.com
@@ -43673,7 +43672,7 @@
 - name: hydrowallet.io
   url: http://hydrowallet.io
   category: Phishing
-  subcategory: Hydro
+  subcategory: Hydrogen
   description: 'Fake Wallet phishing for keys with POST /api/v1.php - reported address:
     0x54d2fb4f6EF43bc3B0Ec0EfE62400C2603ed136F'
   reporter: CryptoScamDB
@@ -44597,7 +44596,7 @@
 - name: fetchai.org
   url: http://fetchai.org
   category: Phishing
-  subcategory: FetchAi
+  subcategory: FetchAI
   description: Fake FetchAI crowdsale site
   addresses:
     ETH:
@@ -44606,7 +44605,7 @@
 - name: fetchai.co
   url: http://fetchai.co
   category: Phishing
-  subcategory: FetchAi
+  subcategory: FetchAI
   description: Fake FetchAI crowdsale site
   addresses:
     ETH:
@@ -44638,7 +44637,7 @@
 - name: fetch-ai.net
   url: http://fetch-ai.net
   category: Phishing
-  subcategory: FetchAi
+  subcategory: FetchAI
   description: Fake FetchAI crowdsale site
   addresses:
     BTC:
@@ -46074,7 +46073,7 @@
 - name: atomicwallet.tech
   url: http://atomicwallet.tech
   category: Phishing
-  subcategory: Atomic
+  subcategory: AtomicWallet
   description: Fake Atomic Wallet
   reporter: CryptoScamDB
 - name: microtestdigitalagency.host
@@ -46139,7 +46138,7 @@
 - name: coinmining.website
   url: http://coinmining.website
   category: Phishing
-  subcategory: Miner
+  subcategory: Mining
   description: Fake webminer phishing for KYC details
   reporter: CryptoScamDB
 - name: coinpromo.icu
@@ -46347,7 +46346,7 @@
 - name: electrum.mx
   url: http://electrum.mx
   category: Phishing
-  subcategory: Electrun
+  subcategory: Electrum
   description: Fake Electrum site
   reporter: CryptoScamDB
 - name: l-jaxx.io
@@ -48004,7 +48003,7 @@
 - name: hitbtc.co.ua
   url: http://hitbtc.co.ua
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake Hitbtc phishing for logins with POST /login.php
   reporter: CryptoScamDB
 - name: binance-claims.netlify.com
@@ -48262,7 +48261,7 @@
 - name: hiltbtc.com
   url: http://hiltbtc.com
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: Fake HitBTC phishing for logins with POST /login.php
   reporter: CryptoScamDB
 - name: login.bilockcnain.com
@@ -51177,7 +51176,7 @@
 - name: ddexbit.com
   url: http://ddexbit.com
   category: Phishing
-  subcategory: Ddex
+  subcategory: DDEX
   description: "Fake ddex phishing for deposits"
   addresses:
     BTC:
@@ -52835,7 +52834,7 @@
 - name: bedstchange.pp.ru
   url: http://bedstchange.pp.ru
   category: Phishing
-  subcategory: Bestchange
+  subcategory: BestChange
   description: "Fake BestChange site"
   reporter: CryptoScamDB         
 - name: saitodai.app
@@ -53105,7 +53104,7 @@
 - name: hitbrc.ru
   url: http://hitbrc.ru
   category: Phishing
-  subcategory: Hitbtc
+  subcategory: HitBTC
   description: "Fake Hitbtc phishing for logins with POST /login.php"
   reporter: CryptoScamDB         
 - name: geminieth.com
@@ -55620,7 +55619,7 @@
 - name: xn--bstchnge-4za91c.net
   url: http://xn--bstchnge-4za91c.net
   category: Phishing
-  subcategory: Bestchange
+  subcategory: BestChange
   description: "Fake bestchange phishing for deposits"
   reporter: CryptoScamDB           
 - name: eventmusk.com
@@ -55931,7 +55930,7 @@
 - name: 300dollarsdaily.com
   url: http://300dollarsdaily.com
   category: Malware
-  subcategory: Miner
+  subcategory: Mining
   description: "Hosting malware - fake bitcoin miner - https://app.any.run/tasks/1a375849-32da-4c1c-bc04-591f5eb71f54"
   reporter: CryptoScamDB        
 - name: ethereum-eth.info
@@ -56806,7 +56805,7 @@
 - name: atomicwallet.ltd
   url: http://atomicwallet.ltd
   category: Phishing
-  subcategory: Atomic
+  subcategory: AtomicWallet
   description: "Fake AtomicWallet complaint form phishing for secrets"
   reporter: CryptoScamDB       
 - name: wallet-coinomi-giveaway.000webhostapp.com
@@ -57701,7 +57700,7 @@
 - name: metarnask.io
   url: https://metarnask.io
   category: Phishing
-  subcategory: Metamask
+  subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets with POST /save.php"
   reporter: CryptoScamDB
 - name: mycrypto.ml
@@ -57767,7 +57766,7 @@
 - name: mastercoin.top
   url: http://mastercoin.top
   category: Scamming
-  subcategory: Miner
+  subcategory: Mining
   description: "Fake webminer"
   addresses:
     ETH:
@@ -58257,7 +58256,7 @@
 - name: miningbase.cloud
   url: http://miningbase.cloud
   category: Scamming
-  subcategory: Miner
+  subcategory: Mining
   description: "Fake webminer"
   addresses:
     BTC:
@@ -58350,7 +58349,7 @@
 - name: makerdao.redeem.fund
   url: http://makerdao.redeem.fund
   category: Phishing
-  subcategory: MakerDao
+  subcategory: MakerDAO
   description: "Fake Sai to Dai bridge phihsing for funds"
   addresses:
     ETH:
@@ -58486,7 +58485,7 @@
 - name: atomic.im
   url: http://atomic.im
   category: Phishing
-  subcategory: Atomic
+  subcategory: AtomicWallet
   description: "Fake Atomic wallet download - https://twitter.com/scott_lew_is/status/1269390111961219074"
   reporter: CryptoScamDB 
 - name: exodus.vc
@@ -58507,7 +58506,7 @@
 - name: makerdao.redeem.bz
   url: http://makerdao.redeem.bz
   category: Phishing
-  subcategory: MakerDao
+  subcategory: MakerDAO
   description: "Fake Sai to Dai bridge phihsing for funds"
   addresses:
     ETH:
@@ -58516,7 +58515,7 @@
 - name: btconline.io
   url: http://btconline.io
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake online mining pool"
   addresses:
     BTC:
@@ -58587,7 +58586,7 @@
 - name: quickbtcminer.com
   url: http://quickbtcminer.com
   category: Malware
-  subcategory: Miner
+  subcategory: Mining
   description: "Malware miner"
   reporter: CryptoScamDB   
 - name: teslax.in
@@ -59332,7 +59331,7 @@
 - name: atomicapp.ltd
   url: http://atomicapp.ltd
   category: Phishing
-  subcategory: Atomic
+  subcategory: AtomicWallet
   description: "Fake Atomic wallet phishing for secrets with POST //vladlad.com/api/"
   reporter: CryptoScamDB
 - name: ripplewalletapps.com
@@ -60224,7 +60223,7 @@
 - name: cryptominer.tel
   url: http://cryptominer.tel
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake web miner scamming for deposits"
   addresses:
     ETH:
@@ -60306,7 +60305,7 @@
 - name: digiminer.io
   url: http://digiminer.io
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake Webminer"
   addresses:
     BTC:
@@ -60409,7 +60408,7 @@
 - name: multiminer.website
   url: http://multiminer.website
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake webminer"
   addresses:
     BTC:
@@ -60672,7 +60671,7 @@
 - name: bitfuryweb.com
   url: http://bitfuryweb.com
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake Webminer platform"
   reporter: CryptoScamDB
 - name: bitfuryinvest.co
@@ -60913,7 +60912,7 @@
 - name: atomicwallet.website
   url: http://atomicwallet.website
   category: Phishing
-  subcategory: Atomic
+  subcategory: AtomicWallet
   description: "Fake Atomic wallet phishing for secrets with POST /unlock/mnemonic.php (links users to howtotechnaija.com via QR code)"
   reporter: CryptoScamDB
 - name: moonswap.exchange
@@ -61213,37 +61212,37 @@
 - name: litecoinminer.space
   url: http://litecoinminer.space
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake Webminer scamming for deposits - coinpayments merchant id: 82023f56067ff6667f0884a987ce2d81"
   reporter: CryptoScamDB
 - name: dogecoinminer.space
   url: http://dogecoinminer.space
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake Webminer scamming for deposits"
   reporter: CryptoScamDB
 - name: ethereumminer.space
   url: http://ethereumminer.space
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake Webminer scamming for deposits - coinpayments merchant id: 82023f56067ff6667f0884a987ce2d81"
   reporter: CryptoScamDB
 - name: bchminer.space
   url: http://bchminer.space
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake Webminer scamming for deposits"
   reporter: CryptoScamDB
 - name: dashcoinminer.space
   url: http://dashcoinminer.space
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake Webminer scamming for deposits"
   reporter: CryptoScamDB
 - name: btcminer.website
   url: http://btcminer.website
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake Webminer scamming for deposits"
   reporter: CryptoScamDB
 - name: morphtoken.co
@@ -61346,7 +61345,7 @@
 - name: wallet.atomicweb.network
   url: http://wallet.atomicweb.network
   category: Phishing
-  subcategory: Atomic
+  subcategory: AtomicWallet
   description: "Fake Atomic Wallet site phishing for secrets with POST /mnemonic.php"
   reporter: CryptoScamDB
 - name: ethfo.com
@@ -61391,7 +61390,7 @@
 - name: freebitcoinmining.website
   url: http://freebitcoinmining.website
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake cloudminer"
   addresses:
     BTC:
@@ -61470,7 +61469,7 @@
 - name: atomicwllet.io
   url: http://atomicwllet.io
   category: Phishing
-  subcategory: Atomic
+  subcategory: AtomicWallet
   description: "Fake Exodus site phishing for secrets with POST /save.php"
   reporter: CryptoScamDB
 - name: renairdrop.com
@@ -61729,7 +61728,7 @@
 - name: teslamining.ltd
   url: http://teslamining.ltd
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake webminer"
   reporter: CryptoScamDB
 - name: but-send.top
@@ -62663,13 +62662,13 @@
 - name: bestcheinge.com
   url: http://bestcheinge.com
   category: Phishing
-  subcategory: Bestchange
+  subcategory: BestChange
   description: "Fake Bestchange website"
   reporter: CryptoScamDB
 - name: lbestchenge.com
   url: http://lbestchenge.com
   category: Phishing
-  subcategory: Bestchange
+  subcategory: BestChange
   description: "Fake Bestchange website"
   reporter: CryptoScamDB
 - name: ledger.cam
@@ -62897,7 +62896,7 @@
 - name: ltcminer.com
   url: http://ltcminer.com
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake LTC webminer scamming for deposits"
   addresses:
     LTC:
@@ -63582,13 +63581,13 @@
 - name: marketplace.axieinfinity.com.inventoryclaim.defi-universe.vip
   url: http://marketplace.axieinfinity.com.inventoryclaim.defi-universe.vip
   category: Phishing
-  subcategory: Axie
+  subcategory: AxieInfinity
   description: "Fake axieinfinity site phishing for secrets with POST /claim.php"
   reporter: CryptoScamDB
 - name: axieinfinity.com.aave.defi-universe.vip
   url: http://axieinfinity.com.aave.defi-universe.vip
   category: Phishing
-  subcategory: Axie
+  subcategory: AxieInfinity
   description: "Fake axieinfinity site phishing for secrets with POST /claim.php"
   reporter: CryptoScamDB
 - name: 88mph.app.defi-universe.vip
@@ -63682,13 +63681,13 @@
 - name: btcprominer.life
   url: http://btcprominer.life
   category: Scamming
-  subcategory: Miner
+  subcategory: Mining
   description: "Fake web miner"
   reporter: CryptoScamDB
 - name: marketplace-axieinfinity.com
   url: http://marketplace-axieinfinity.com
   category: Phishing
-  subcategory: Axie
+  subcategory: AxieInfinity
   description: "Fake AxieInfinity site phishing for secrets with POST //marketplace.axieinfinity.com.inventoryclaim.defi-universe.vip/core/unit-class.php?c=<secret>"
   reporter: CryptoScamDB
 - name: ripple-labs.dev
@@ -64392,7 +64391,7 @@
 - name: dai-stablecoin.com
   url: http://dai-stablecoin.com
   category: Phishing
-  subcategory: MakerDao
+  subcategory: MakerDAO
   description: "Fake MakerDao wallet phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB
 - name: jxxll.fun
@@ -64540,7 +64539,7 @@
 - name: bitcoinonlinepool.com
   url: http://bitcoinonlinepool.com
   category: Scamming
-  subcategory: Webminer
+  subcategory: WebMiner
   description: "Fake webminer"
   reporter: CryptoScamDB
 - name: etherairdrop.io
@@ -65088,7 +65087,7 @@
 - name: harvestfinance.app
   url: http://harvestfinance.app
   category: Phishing
-  subcategory: Harvest
+  subcategory: HarvestFinance
   description: "Fake HarvestFinance app phishing for secrets with POST /submit.php"
   reporter: CryptoScamDB
 - name: eventvb.com
@@ -65233,7 +65232,7 @@
 - name: metamask.io-install.com
   url: http://metamask.io-install.com
   category: Phishing
-  subcategory: Metamask
+  subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets with POST /callback.php"
   reporter: CryptoScamDB
 - name: socialcapital.page
@@ -66614,7 +66613,7 @@
 - name: xn--metamsk-en4c.com
   url: http://xn--metamsk-en4c.com
   category: Phishing
-  subcategory: Metamask
+  subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets with POST /import.php"
   reporter: CryptoScamDB
 - name: uniswapaddress.com
@@ -66764,7 +66763,7 @@
 - name: appmantradao.com
   url: http://appmantradao.com
   category: Phishing
-  subcategory: Metamask
+  subcategory: MetaMask
   description: "Fake MetaMask site phishing for secrets"
   reporter: CryptoScamDB
 - name: alphafinance.biz
@@ -67805,7 +67804,7 @@
 - name: pancakswap.com
   url: http://pancakswap.com
   category: Phishing
-  subcategory: Pancakeswap
+  subcategory: PancakeSwap
   description: "Fake PancakeSwap site phishing for secrets with POST /success.php"
   reporter: CryptoScamDB
 - name: metamaskwallet.org
@@ -67853,7 +67852,7 @@
 - name: pancake.walletsconnections.com
   url: http://pancake.walletsconnections.com
   category: Phishing
-  subcategory: Pancakeswap
+  subcategory: PancakeSwap
   description: "Fake Pancakeswap site"
   reporter: CryptoScamDB
 - name: walletsconnections.com
@@ -67916,7 +67915,7 @@
 - name: pancakeswap.finance.airdrop-info-protocol.com
   url: http://pancakeswap.finance.airdrop-info-protocol.com
   category: Phishing
-  subcategory: Pancakeswap
+  subcategory: PancakeSwap
   description: "Fake Pancakeswap site"
   reporter: CryptoScamDB
 - name: opencea.io
@@ -67993,7 +67992,7 @@
 - name: pancakeswap-restore.finance
   url: http://pancakeswap-restore.finance
   category: Phishing
-  subcategory: Pancakeswap
+  subcategory: PancakeSwap
   description: "Fake Pancakeswap site phishing for secrets with POST /action/phrase"
   reporter: CryptoScamDB
 - name: metamaskswalletsio.com
@@ -68143,7 +68142,7 @@
 - name: polkastater.link
   url: http://polkastater.link
   category: Phishing
-  subcategory: Polkastar
+  subcategory: Polkastarter
   description: "Fake Polkastar website phishing for secrets with POST /wp-json/metform/v1/entries/insert/18"
   reporter: CryptoScamDB
 - name: thesmartwalletrestore.live
