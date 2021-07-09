@@ -68716,3 +68716,9 @@
     ETH:
     - "0xB661a8C0872FAc5a4ea5714c1E034E5Fd6e40ca4"
   reporter: CryptoScamDB
+- name: test.dev
+  url: http://test.dev
+  category: Scammings
+  subcategory: Trust-trading
+  description: "Testing CI, ignore"
+  reporter: CryptoScamDB
