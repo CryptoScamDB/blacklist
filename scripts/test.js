@@ -18,18 +18,18 @@ describe('YAML Validator', function() {
 			assert.deepEqual(yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => Object.keys(entry).some(key => !['name','url','category','subcategory','description','addresses','reporter','coin'].includes(key))),[]);
 		});
 		it('every entry should have a valid category', function() {
-			assert.deepEqual(yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
+			yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
 				if('category' in entry) {
-					dict.CATEGORIES.includes(entry.category)
+					assert.strictEqual(dict.CATEGORIES.includes(entry.category), true)
 				}
-			}), [])
+			})
 		})
 		it('every entry should have a valid subcategory', function() {
-			assert.deepEqual(yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
+			yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
 				if('subcategory' in entry) {
-					dict.SUBCATEGORIES.includes(entry.subcategory)
+					assert.strictEqual(dict.SUBCATEGORIES.includes(entry.subcategory), true)
 				}
-			}), [])
+			})
 		})
 	});
 	describe('Additions', function() {
