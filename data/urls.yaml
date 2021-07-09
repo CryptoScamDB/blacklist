@@ -68722,3 +68722,9 @@
   subcategory: Trust-trading
   description: "Testing CI, ignore"
   reporter: CryptoScamDB
+- name: test.devdev
+  url: http://test.devdev
+  category: Pishing
+  subcategory: Trust-trading
+  description: "Testing CI, ignore"
+  reporter: CryptoScamDB
