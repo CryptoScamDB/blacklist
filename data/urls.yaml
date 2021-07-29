@@ -68716,3 +68716,60 @@
     ETH:
     - "0xB661a8C0872FAc5a4ea5714c1E034E5Fd6e40ca4"
   reporter: CryptoScamDB
+- name: metatoken.site
+  url: http://metatoken.site
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets"
+  reporter: CryptoScamDB
+- name: multiconcept.net
+  url: http://multiconcept.net
+  category: Phishing
+  subcategory: Multiconcept
+  description: "Fake Multiconcept phishing for secrets with POST /wallet/connect"
+  reporter: CryptoScamDB
+- name: multiapp-connect.org
+  url: http://multiapp-connect.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect phishing for secrets with POST /action/mnemonic.php"
+  reporter: CryptoScamDB
+- name: walletvalidation.info
+  url: http://walletvalidation.info
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect phishing for secrets with POST /import/import.php"
+  reporter: CryptoScamDB
+- name: contactmetamask.com
+  url: http://contactmetamask.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask support site"
+  reporter: CryptoScamDB
+- name: poncakeswap.center
+  url: http://poncakeswap.center
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake Pancakeswap site phishing for secrets with POST //api.unizzer.com/api/microservices/send-email"
+  reporter: CryptoScamDB
+- name: pancakeswap.betav2.com
+  url: http://pancakeswap.betav2.com
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake Pancakeswap site phishing for secrets with POST //api.unizzer.com/api/microservices/send-email"
+  reporter: CryptoScamDB
+- name: stable7.net
+  url: http://stable7.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    BTC:
+    - "1GwTmWdXe2pZtU1673rqogWBP4orhNDahd"
+  reporter: CryptoScamDB
+- name: xn--brav-yva.com
+  url: http://xn--brav-yva.com
+  category: Malware
+  subcategory: Brave
+  description: "Fake Brave site hosting malware - https://twitter.com/bcrypt/status/1420471176137113601"
+  reporter: CryptoScamDB
