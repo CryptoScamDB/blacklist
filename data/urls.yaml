@@ -68773,3 +68773,60 @@
   subcategory: Brave
   description: "Fake Brave site hosting malware - https://twitter.com/bcrypt/status/1420471176137113601"
   reporter: CryptoScamDB
+- name: app.sushicom.site
+  url: http://app.sushicom.site
+  category: Phishing
+  subcategory: Sushi
+  description: "Fake Sushiswap site phishing for secrets with POST /v2/form-write.php"
+  reporter: CryptoScamDB
+- name: sushi-swap.net
+  url: http://sushi-swap.net
+  category: Malware
+  subcategory: Sushi
+  description: "Fake Sushiswap site hosting malware (sha256sum 3cf56a5ef3afb3091c824dd517c2526c352bc46ee5bc7384d385b3523a30693a)"
+  reporter: CryptoScamDB
+- name: vesperbit.com
+  url: http://vesperbit.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: easywebwallet.com
+  url: http://easywebwallet.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets"
+  reporter: CryptoScamDB
+- name: bitlams.com
+  url: http://bitlams.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: cryptowot.com
+  url: http://cryptowot.com
+  category: Scamming
+  subcategory: Exchange
+  description: "Fake exchange scamming for deposits"
+  reporter: CryptoScamDB
+- name: trust-compliance.com
+  url: http://trust-compliance.com
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: wallethomeconnect.live
+  url: http://wallethomeconnect.live
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /wp-admin/admin-ajax.php?action=brizy_submit_form"
+  reporter: CryptoScamDB
+- name: matic.plus
+  url: http://matic.plus
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x9E1A913117947d081DE28F5a7f5e514159e9FdCC"
+  reporter: CryptoScamDB
