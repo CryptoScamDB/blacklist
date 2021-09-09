@@ -68830,3 +68830,12 @@
     ETH:
     - "0x9E1A913117947d081DE28F5a7f5e514159e9FdCC"
   reporter: CryptoScamDB
+- name: eth-teaser.com
+  url: https://eth-teaser.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Fake Giveway site pretending to be Vitalik Buterin - https://twitter.com/Mopsy037 - https://twitter.com/i/lists/1436014429049602053"
+  addresses:
+    ETH:
+    - "0x1e43d16c44b0934b11e4e530236e72e604b46757"
+  reporter: CryptoScamDB
