@@ -68830,3 +68830,120 @@
     ETH:
     - "0x9E1A913117947d081DE28F5a7f5e514159e9FdCC"
   reporter: CryptoScamDB
+- name: badgerdao.io
+  url: http://badgerdao.io
+  category: Phishing
+  subcategory: BadgerDAO
+  description: "Fake BadgerDAO site phishing for secrets"
+  reporter: CryptoScamDB
+- name: badgerdao.app
+  url: http://badgerdao.app
+  category: Phishing
+  subcategory: BadgerDAO
+  description: "Fake BadgerDAO site phishing for secrets"
+  reporter: CryptoScamDB
+- name: pancaketrade.info
+  url: http://pancaketrade.info
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake PancakeSwap site"
+  reporter: CryptoScamDB
+- name: gnosis-airdrop.live
+  url: http://gnosis-airdrop.live
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Fake Gnosis airdrop - bsc contract 0x02C38C6d644cE14f6D15438ec4F8F01D5b5cfE82"
+  addresses:
+    BSC:
+    - "0x02C38C6d644cE14f6D15438ec4F8F01D5b5cfE82"
+  reporter: CryptoScamDB
+- name: metasmasks.io
+  url: http://metasmasks.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /php/setLog.php"
+  reporter: CryptoScamDB
+- name: akswap.org
+  url: http://akswap.org
+  category: Phishing
+  subcategory: Airdrop
+  description: "Malicious site phishing for secrets - https://twitter.com/mdudas/status/1437027902156070917"
+  addresses:
+    ETH:
+    - "0x82dfdb2ec1aa6003ed4acba663403d7c2127ff67"
+  reporter: CryptoScamDB
+- name: ff9.info
+  url: http://ff9.info
+  category: Phishing
+  subcategory: Airdrop
+  description: "Malicious site scamming users from an airdrop - https://twitter.com/sniko_/status/1438643879851528199"
+  addresses:
+    ETH:
+    - "0x34278f6f40079eae344cbac61a764bcf85afc949"
+  reporter: CryptoScamDB
+- name: zepe.vip
+  url: http://zepe.vip
+  category: Phishing
+  subcategory: Airdrop
+  description: "Malicious site scamming users from an airdrop"
+  reporter: CryptoScamDB
+- name: abchange.org
+  url: http://abchange.org
+  category: Phishing
+  subcategory: Airdrop
+  description: "Malicious site scamming users from an airdrop"
+  addresses:
+    ETH:
+    - "0x2ceee24f8d03fc25648c68c8e6569aa0512f6ac3"
+  reporter: CryptoScamDB
+- name: sushi-v3.com
+  url: http://sushi-v3.com
+  category: Malware
+  subcategory: Sushi
+  description: "Fake Sushi site hosting malware (sha256sum: d76e7a14ab20d3f28de1ecef803d8b1629ed077495db5ec7b7f5828ed33c684e)"
+  reporter: CryptoScamDB
+- name: aave-v3.com
+  url: http://aave-v3.com
+  category: Malware
+  subcategory: Aave
+  description: "Fake Aave site hosting malware (sha256sum: 4140fa01cf3a886449c28e556b5f2e8e4a25baadab7a0dc6fbcf16385384eedd)"
+  reporter: CryptoScamDB
+- name: cpensell.co
+  url: http://cpensell.co
+  category: Phishing
+  subcategory: Opensea
+  description: "Fake Opensea site phishing for secrets with POST /verify-step-two.php"
+  reporter: CryptoScamDB
+- name: rswap.link
+  url: http://rswap.link
+  category: Phishing
+  subcategory: Airdrop
+  description: "Malicious site scamming users from an airdrop"
+  reporter: CryptoScamDB
+- name: openisea.com
+  url: http://openisea.com
+  category: Phishing
+  subcategory: Opensea
+  description: "Fake Opensea site phishing for secrets with POST /success.php"
+  reporter: CryptoScamDB
+- name: mediun.co
+  url: http://mediun.co
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0xC93382aD724A1856269b98563E7801fbDfaF7397"
+  reporter: CryptoScamDB
+- name: boredapeyachtclub.app
+  url: http://boredapeyachtclub.app
+  category: Phishing
+  subcategory: BoredApeYachtClub
+  description: "Fake BAYC site phishing for secrets"
+  reporter: CryptoScamDB
+- name: trustwallut.com
+  url: http://trustwallut.com
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet site"
+  reporter: CryptoScamDB
