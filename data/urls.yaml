@@ -68947,3 +68947,47 @@
   subcategory: TrustWallet
   description: "Fake TrustWallet site"
   reporter: CryptoScamDB
+- name: optimusm.io
+  url: http://optimusm.io
+  category: Phishing
+  subcategory: Optimism
+  description: "Fake Optimism site phishing for secrets with POST /data/index.php"
+  reporter: CryptoScamDB
+- name: ethereum-announce.net
+  url: http://ethereum-announce.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x41A23374CD3460461CF4F628cB20Cde4b2fec934"
+  reporter: CryptoScamDB
+- name: univswap.org
+  url: http://univswap.org
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake uniswap site phishing for funds"
+  addresses:
+    ETH:
+    - "0x9c166c4dfC6fc1a9322cd6cD1dfDA004E9E695cD"
+  reporter: CryptoScamDB
+- name: saylor-vision.com
+  url: http://saylor-vision.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x3c757aa881ccF3253E6714092d8955A8AFF24e89"
+    BTC:
+    - "1SAyLor9zrKBYsh1Tdi3X1HVmwxrQC7R8"
+  reporter: CryptoScamDB
+- name: sudoswap.app
+  url: http://sudoswap.app
+  category: Phishing
+  subcategory: Sudoswap
+  description: "Fake Sudoswap phishing for funds"
+  addresses:
+    ETH:
+    - "0xbad759de28618ee641a8c098ee4e79f1a229f7d8"
+  reporter: CryptoScamDB
