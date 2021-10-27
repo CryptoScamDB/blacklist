@@ -68947,6 +68947,187 @@
   subcategory: TrustWallet
   description: "Fake TrustWallet site"
   reporter: CryptoScamDB
+- name: akswapweb.com
+  url: http://akswapweb.com
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0x9cbb3edecdf8649f653ffe492d65bd777f4bc4f01"
+    - "0x82dfdb2ec1aa6003ed4acba663403d7c2127ff671"
+    - "0x9135ad77776671e6d3c2e7df1d1c675d10d9b89e1"
+    - "0x43661f4b1c67dd6c1e48c6faf2887b22aee3ddf51"
+- name: wxfi.org
+  url: http://wxfi.org
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0xd667a84005975eef906e980f200541974a8c97661"
+    - "0xd8ab7a6cef7501bc76cd57c294f41ee804f80f8b1"
+    - "0x9cbb3edecdf8649f653ffe492d65bd777f4bc4f01"
+- name: wxfi.io
+  url: http://wxfi.io
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: dydex.org
+  url: http://dydex.org
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0xffa55849a7309c7f4fb4de88d804fd546a66c2711"
+    - "0x9cbb3edecdf8649f653ffe492d65bd777f4bc4f01"
+- name: dxdex.org
+  url: http://dxdex.org
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: dxdex.co
+  url: http://dxdex.co
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0xe987e2f1cdd80aeea92a9c2b067b592fb698c4a71"
+- name: deapy.net
+  url: http://deapy.net
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0x9cbb3edecdf8649f653ffe492d65bd777f4bc4f01"
+    - "0x01454cdc3fab2a026cc7d1cb2aea9b909d5ba0ee1"
+- name: linkmp.org
+  url: http://linkmp.org
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: zepeweb.com
+  url: http://zepeweb.com
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: eslab.link
+  url: http://eslab.link
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0x9cbb3edecdf8649f653ffe492d65bd777f4bc4f01"
+- name: zepeapp.com
+  url: http://zepeapp.com
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0xfdfc5636e1381efbc73a45bc4b0b10a7720b367e1"
+- name: airstack.info
+  url: http://airstack.info
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: dydex.io
+  url: http://dydex.io
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0xffa55849a7309c7f4fb4de88d804fd546a66c2711"
+    - "0x6bdfe564378613cc59212ef9cd3ab1b0eeec7fdf1"
+- name: sfar.io
+  url: http://sfar.io
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: supdao.com
+  url: http://supdao.com
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0xf12ce5503e4bedb7178951321925e4306c4c3b121"
+- name: rswap.net
+  url: http://rswap.net
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0x26004d228fc8a32c5bd1a106108c8647a455b04a1"
+    - "0xf5b83dcebf96da221ad717aaf13fc25dc96de2be1"
+- name: polybest.io
+  url: http://polybest.io
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: thevera.io
+  url: http://thevera.io
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: theever.io
+  url: http://theever.io
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: airstack.net
+  url: http://airstack.net
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: bestair.io
+  url: http://bestair.io
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: ff9.io
+  url: http://ff9.io
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+- name: ff9.site
+  url: http://ff9.site
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake Airdrop site that steals all the tokens in your wallet"
+  reporter: Coinbase
+  addresses: 
+    ETH:
+    - "0x34278f6f40079eae344cbac61a764bcf85afc9491"
+    - "0x9cbb3edecdf8649f653ffe492d65bd777f4bc4f01"
 - name: optimusm.io
   url: http://optimusm.io
   category: Phishing
