@@ -69172,3 +69172,98 @@
     ETH:
     - "0xbad759de28618ee641a8c098ee4e79f1a229f7d8"
   reporter: CryptoScamDB
+- name: beefyb.finance
+  url: http://beefyb.finance
+  category: Phishing
+  subcategory: Beefy
+  description: "Fake site phishing for secrets with POST /connectt/metamask/googleanalytics.php"
+  reporter: CryptoScamDB
+- name: anyswap.io
+  url: http://anyswap.io
+  category: Phishing
+  subcategory: Anyswap
+  description: "Fake anyswap site"
+  reporter: CryptoScamDB
+- name: dxdex.co
+  url: http://dxdex.co
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake airdrop site phishing for funds"
+  addresses:
+    ETH:
+    - "0xbe8f667e2578d2d3125801696c4dd19f2635c327"
+  reporter: CryptoScamDB
+- name: sync-connwallet.co
+  url: http://sync-connwallet.co
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /form.php"
+  reporter: CryptoScamDB
+- name: beefyp.finance
+  url: http://beefyp.finance
+  category: Phishing
+  subcategory: Beefy
+  description: "Fake site phishing for secrets with POST /connectt/metamask/googleanalytics.php"
+  reporter: CryptoScamDB
+- name: beefyd.finance
+  url: http://beefyd.finance
+  category: Phishing
+  subcategory: Beefy
+  description: "Fake site phishing for secrets with POST /connectt/metamask/googleanalytics.php"
+  reporter: CryptoScamDB
+- name: pancakeswap-dapps.com
+  url: http://pancakeswap-dapps.com
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake Pancake swap site phishing for secrets with POST /Connect/tel.php"
+  reporter: CryptoScamDB
+- name: collab.land.io-invest.org
+  url: http://collab.land.io-invest.org
+  category: Phishing
+  subcategory: Collabland
+  description: "Fake Collab land site phishing for secrets with POST /verify-step-two.php"
+  reporter: CryptoScamDB
+- name: key7.org
+  url: http://key7.org
+  category: Phishing
+  subcategory: Airdrop
+  description: "Malicious token airdrop linking to site phishing for funds - https://twitter.com/sniko_/status/1454217307568451593"
+  addresses:
+    ETH:
+    - "0x995Aa6897e5139f17ca556Cd4465716fdF8D2e4B"
+    - "0x59448ed44a0f106d972775067ac61d950d3b4223"
+  reporter: CryptoScamDB
+- name: key7.net
+  url: http://key7.net
+  category: Phishing
+  subcategory: Airdrop
+  description: "Malicious token airdrop linking to site phishing for funds - https://twitter.com/sniko_/status/1454217307568451593"
+  addresses:
+    ETH:
+    - "0x995Aa6897e5139f17ca556Cd4465716fdF8D2e4B"
+    - "0x59448ed44a0f106d972775067ac61d950d3b4223"
+  reporter: CryptoScamDB
+- name: meta.eip-1559.site
+  url: http://meta.eip-1559.site
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST //formspree.io/f/mrgrlnyv"
+  reporter: CryptoScamDB
+- name: divineanarchy.ink
+  url: http://divineanarchy.ink
+  category: Scamming
+  subcategory: Nft
+  description: "Fake NFT minting site phishing for funds"
+  addresses:
+    ETH:
+    - "0xadf3D14a6C099D8d413ED504974d28589756D9A0"
+  reporter: CryptoScamDB
+- name: wallstreetbulls.to
+  url: http://wallstreetbulls.to
+  category: Scamming
+  subcategory: Nft
+  description: "Fake NFT minting site phishing for funds"
+  addresses:
+    ETH:
+    - "0x14a3cA23787DC89cD508827fd766d8293CcFB91B"
+  reporter: CryptoScamDB
