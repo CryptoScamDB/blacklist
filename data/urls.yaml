@@ -69267,3 +69267,36 @@
     ETH:
     - "0x14a3cA23787DC89cD508827fd766d8293CcFB91B"
   reporter: CryptoScamDB
+- name: dappsbrowser.online
+  url: http://dappsbrowser.online
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing phishing for secrets with POST /unlock/connect/mail.php"
+  reporter: CryptoScamDB
+- name: live-drop.net
+  url: http://live-drop.net
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  reporter: CryptoScamDB
+- name: swap7.io
+  url: http://swap7.io
+  category: Phishing
+  subcategory: Airdrop
+  description: "Malicious airdrop site phishing for funds"
+  addresses:
+    ETH:
+    - "0x02DadC91DACa7c058004d4882D2D7825705e5d56"
+  reporter: CryptoScamDB
+- name: blockchain-nodes.net
+  url: http://blockchain-nodes.net
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake wallet site phishing for secrets"
+  reporter: CryptoScamDB
+- name: ensdomains.app
+  url: http://ensdomains.app
+  category: Phishing
+  subcategory: ENS
+  description: "Fake Ens airdrop claim page phishing for secrets with POST /metamask/action_page.php"
+  reporter: CryptoScamDB
