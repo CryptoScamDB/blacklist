@@ -69300,3 +69300,63 @@
   subcategory: ENS
   description: "Fake Ens airdrop claim page phishing for secrets with POST /metamask/action_page.php"
   reporter: CryptoScamDB
+- name: appwalletsync.net
+  url: http://appwalletsync.net
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets"
+  reporter: CryptoScamDB
+- name: trust-helpwallet.live
+  url: http://trust-helpwallet.live
+  category: Phishing
+  subcategory: TrustWallet
+  description: "Fake TrustWallet site phishing for secrets"
+  reporter: CryptoScamDB
+- name: collaboratiion.com
+  url: http://collaboratiion.com
+  category: Phishing
+  subcategory: CollabLand
+  description: "Fake CollabLand site phishing for secrets with POST //discord.com/api/webhooks/908779288877219960/6S9vM09bvX6YNSqMgbqEtEluYlWSc8zUHae-XHJsM8XC6D4Ut_NwH9fDlodWpruLS0c-"
+  reporter: CryptoScamDB
+- name: flowdao.pro
+  url: http://flowdao.pro
+  category: Phishing
+  subcategory: Airdrop
+  description: "Fake airdrop site phishing for funds (polygon network)"
+  addresses:
+    ETH:
+    - "0xa85f8a198d59f0fda82333be9aeeb50f24dd59ff"
+  reporter: CryptoScamDB
+- name: roll.collab.vote
+  url: http://roll.collab.vote
+  category: Phishing
+  subcategory: CollabLand
+  description: "Fake CollabLand site phishing for secrets with POST /check.php"
+  reporter: CryptoScamDB
+- name: collaboratiion.net
+  url: http://collaboratiion.net
+  category: Phishing
+  subcategory: CollabLand
+  description: "Fake CollabLand site phishing for secrets with POST //discord.com/api/webhooks/909183871759827014/ZN52iigEOxyHldn26ugG0WCpVKmcEfkN5WeMSUCcYKfraUYMqQ9xvSiKBGQQlsP5eS6W"
+  reporter: CryptoScamDB
+- name: validate-collab.land
+  url: http://validate-collab.land
+  category: Phishing
+  subcategory: CollabLand
+  description: "Fake CollabLand site phishing for secrets with POST /verify/verify-step-two.php"
+  reporter: CryptoScamDB
+- name: uniswop-uni.com
+  url: http://uniswop-uni.com
+  category: Phishing
+  subcategory: Uniswap
+  description: "Fake Uniswap site phishing for funds"
+  addresses:
+    ETH:
+    - "0x0a4d484dC1bbFBD6E7E395bd48750979d465Ce77"
+  reporter: CryptoScamDB
+- name: dappsauthsmartconnect.com
+  url: http://dappsauthsmartconnect.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /wp-admin/admin-ajax.php"
+  reporter: CryptoScamDB
