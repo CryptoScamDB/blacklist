@@ -42,6 +42,7 @@
         "Aventus",
         "AxieInfinity",
         "Axpire",
+        "Amazon",
         "Azbit",
         "BAT",
         "Babb",
@@ -232,6 +233,7 @@
         "Google",
         "GreenWallet",
         "Guarda",
+        "Guardian",
         "Hade",
         "HarvestFinance",
         "Havven",
@@ -331,6 +333,7 @@
         "Ocean",
         "Ocoin",
         "Odyssey",
+        "OlympusDAO",
         "Omega",
         "OmiseGo",
         "Open",
@@ -502,6 +505,7 @@
         "Zillet",
         "Zilliqa",
         "Zillow",
-        "Zrx"
+        "Zrx",
+        "Zksync"
     ]
 }
