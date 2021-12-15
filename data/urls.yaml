@@ -69360,3 +69360,63 @@
   subcategory: WalletConnect
   description: "Fake WalletConnect site phishing for secrets with POST /wp-admin/admin-ajax.php"
   reporter: CryptoScamDB
+- name: wallettconnect.co
+  url: http://wallettconnect.co
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /api.php"
+  reporter: CryptoScamDB
+- name: amazon.tokenpre.sale
+  url: http://amazon.tokenpre.sale
+  category: Scamming
+  subcategory: Amazon
+  description: "Fake Amazon tokensale"
+  reporter: CryptoScamDB
+- name: the-guardian.news
+  url: http://the-guardian.news
+  category: Scamming
+  subcategory: Guardian
+  description: "Fake Guardian website promoting fake ICO"
+  reporter: CryptoScamDB
+- name: unlockinglocation.buzz
+  url: http://unlockinglocation.buzz
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /metamask/send.php"
+  reporter: CryptoScamDB
+- name: yeswap.info
+  url: http://yeswap.info
+  category: Phishing
+  subcategory: Airdrop
+  description: "Malicious airdrop site phishing for funds"
+  addresses:
+    ETH:
+    - "0xb699dab9b3f981a01abc0474f085427d20d0d602"
+  reporter: CryptoScamDB
+- name: pancake-crypto.icu
+  url: http://pancake-crypto.icu
+  category: Phishing
+  subcategory: PancakeSwap
+  description: "Fake pancake swap phishing for secrets with POST /telegram.php"
+  reporter: CryptoScamDB
+- name: zksync.sale
+  url: http://zksync.sale
+  category: Phishing
+  subcategory: Zksync
+  description: "Fake zksync crowdsale site"
+  addresses:
+    ETH:
+    - "0x3e3AECEE63CcD5c96Ba6Fa19666D64E194457e06"
+  reporter: CryptoScamDB
+- name: walletapisync.com
+  url: http://walletapisync.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets"
+  reporter: CryptoScamDB
+- name: olympusdao.io
+  url: http://olympusdao.io
+  category: Phishing
+  subcategory: OlympusDAO
+  description: "Fake OlympusDAO phishing for secrets with POST //global-4562.restdb.io/rest/oliiiiiiiimpppppppp"
+  reporter: CryptoScamDB
