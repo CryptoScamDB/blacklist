@@ -27,6 +27,11 @@ describe('YAML Validator', function() {
 		it('every entry should have a valid subcategory', function() {
 			yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
 				if('subcategory' in entry) {
+
+					if(dict.SUBCATEGORIES.includes(entry.subcategory) === false) {
+						console.log(`Dictionary does not include: ${entry.subcategory}`)
+					}
+
 					assert.strictEqual(dict.SUBCATEGORIES.includes(entry.subcategory), true)
 				}
 			})

@@ -69641,7 +69641,7 @@
 - name: opensae-collection.cc
   url: http://opensae-collection.cc
   category: Phishing
-  subcategory: OpenSea
+  subcategory: Opensea
   description: "Fake OpenSea site phishing for secrets with POST /sendform.php"
   reporter: CryptoScamDB
 - name: adidasminting.com
