@@ -69420,3 +69420,445 @@
   subcategory: OlympusDAO
   description: "Fake OlympusDAO phishing for secrets with POST //global-4562.restdb.io/rest/oliiiiiiiimpppppppp"
   reporter: CryptoScamDB
+- name: metamask.io.web7615.web07.bero-webspace.de
+  url: http://metamask.io.web7615.web07.bero-webspace.de
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /log.php"
+  reporter: CryptoScamDB
+- name: live-nft-mint.com
+  url: http://live-nft-mint.com
+  category: Phishing
+  subcategory: Nft
+  description: "Fake NFT minting site phishing for funds"
+  addresses:
+    ETH:
+    - "0x084BAdb343DbB1F4387cFd71fD32c91020E0Fe03"
+  reporter: CryptoScamDB
+- name: ape-coin.net
+  url: http://ape-coin.net
+  category: Phishing
+  subcategory: ApeCoin
+  description: "Fake Ape coin claim site phishing for funds"
+  addresses:
+    ETH:
+    - "0xc4b19a285d68a085912e7ecd200Eb6e8f292C11d"
+    - "0xE3B4233EA0fF16Ac7D62064d13e7Afaa51381590"
+    - "0xb9FfC64F0C0dE762FE3C4aE3EBbD446AC3BeB989"
+    - "0x51Afa730ac699478bA413f987a35E58124E1B842"
+    - "0x80ad4d5b71cCB0C2417337bFCAEad6521255F24f"
+  reporter: CryptoScamDB
+- name: ape-coin.art
+  url: http://ape-coin.art
+  category: Phishing
+  subcategory: ApeCoin
+  description: "Fake Ape coin claim site phishing for funds"
+  addresses:
+    ETH:
+    - "0xe97aeBC8899B1e96f47f8C585a6Ff30776E88129"
+  reporter: CryptoScamDB
+- name: defi-aavev3.link
+  url: http://defi-aavev3.link
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave site phishing for funds"
+  addresses:
+    ETH:
+    - "0xf43Cf0b9c8A65702547B5e6F191E943023b4d6b1"
+  reporter: CryptoScamDB
+- name: eth-aave.org
+  url: http://eth-aave.org
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave site phishing for funds"
+  addresses:
+    ETH:
+    - "0x5a077462e7fb9606f369D665A7648f9dA1634D55"
+  reporter: CryptoScamDB
+- name: defi-aavev3.club
+  url: http://defi-aavev3.club
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave site phishing for funds"
+  addresses:
+    ETH:
+    - "0xf43Cf0b9c8A65702547B5e6F191E943023b4d6b1"
+  reporter: CryptoScamDB
+- name: coinbasecloud.club
+  url: http://coinbasecloud.club
+  category: Phishing
+  subcategory: Coinbase
+  description: "Fake Coinbase site phishing for funds"
+  addresses:
+    ETH:
+    - "0x2fF93158C9Ed52344864374Ed11eB2495f7376e5"
+  reporter: CryptoScamDB
+- name: etoro.zone
+  url: http://etoro.zone
+  category: Phishing
+  subcategory: Etoro
+  description: "Fake Etoro site phishing for funds"
+  addresses:
+    ETH:
+    - "0xc49e407B7bde02d50B0642Ca923b642043e7b76f"
+  reporter: CryptoScamDB
+- name: defi-aavev3.fun
+  url: http://defi-aavev3.fun
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave site phishing for funds"
+  addresses:
+    ETH:
+    - "0xf43Cf0b9c8A65702547B5e6F191E943023b4d6b1"
+  reporter: CryptoScamDB
+- name: eth-panda.com
+  url: http://eth-panda.com
+  category: Phishing
+  subcategory: General
+  description: "Fake site phishing for fundss"
+  addresses:
+    ETH:
+    - "0x7598D3e6E95F0AB85ac74f041DC92a1187b8184E"
+  reporter: CryptoScamDB
+- name: defi-lp.biz
+  url: http://defi-lp.biz
+  category: Phishing
+  subcategory: General
+  description: "Fake site phishing for fundss"
+  addresses:
+    ETH:
+    - "0x8d3A77f21A7055bE53189575B82605E294bDcF9b"
+  reporter: CryptoScamDB
+- name: defi-cloud.cloud
+  url: http://defi-cloud.cloud
+  category: Phishing
+  subcategory: General
+  description: "Fake site phishing for fundss"
+  addresses:
+    ETH:
+    - "0xF13a9923454E39d2EB9728C604A2b342C92E720F"
+  reporter: CryptoScamDB
+- name: eth-aave.xyz
+  url: http://eth-aave.xyz
+  category: Phishing
+  subcategory: Aave
+  description: "Fake Aave site phishing for funds"
+  addresses:
+    ETH:
+    - "0x5a077462e7fb9606f369D665A7648f9dA1634D55"
+  reporter: CryptoScamDB
+- name: ammuni.shop
+  url: http://ammuni.shop
+  category: Phishing
+  subcategory: General
+  description: "Fake site phishing for fundss"
+  addresses:
+    ETH:
+    - "0x7a921F7650Bdf9343C005C0c76dBF4DAaa878568"
+  reporter: CryptoScamDB
+- name: usdt-ether.bet
+  url: http://usdt-ether.bet
+  category: Phishing
+  subcategory: General
+  description: "Fake site phishing for fundss"
+  addresses:
+    ETH:
+    - "0xe59cd19592FB7dBA29fFe8f29556bE244dBCA3b5"
+  reporter: CryptoScamDB
+- name: apescoin.online
+  url: http://apescoin.online
+  category: Phishing
+  subcategory: ApeCoin
+  description: "Fake Ape coin claim site phishing for funds"
+  addresses:
+    ETH:
+    - "0x6261B75c1087198BE93F83D09DF404d8709843Db"
+  reporter: CryptoScamDB
+- name: apecoin.events
+  url: http://apecoin.events
+  category: Phishing
+  subcategory: ApeCoin
+  description: "Fake Ape coin claim site phishing for funds"
+  addresses:
+    ETH:
+    - "0x05836c14De1Bf2ec4428F6eF52FeE285D10cba6f"
+    - "0x9F6a6b61A46cd68180bFD35Da2996721B60512cC"
+  reporter: CryptoScamDB
+- name: cross-chainbot.org
+  url: http://cross-chainbot.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /phrase"
+  reporter: CryptoScamDB
+- name: boredapeproject.com
+  url: http://boredapeproject.com
+  category: Phishing
+  subcategory: ApeCoin
+  description: "Fake Ape coin claim site phishing for funds and secrets with POST /api/addData.php, POST /api/addDataCode.php"
+  addresses:
+    ETH:
+    - "0xB566a04F6F6F3BA0aCbc548f4D9b665A50217C38"
+  reporter: CryptoScamDB
+- name: azuki-drop.com
+  url: http://azuki-drop.com
+  category: Phishing
+  subcategory: Azuki
+  description: "Fake Azuki site phishing for funds"
+  addresses:
+    ETH:
+    - "0x5DF6FFED8B8ac44c49930A5Ae9B39c94A9fCa351"
+  reporter: CryptoScamDB
+- name: beanz-azuki.com
+  url: http://beanz-azuki.com
+  category: Phishing
+  subcategory: Azuki
+  description: "Fake Azuki site phishing for funds"
+  reporter: CryptoScamDB
+- name: azuki-airdrop.com
+  url: http://azuki-airdrop.com
+  category: Phishing
+  subcategory: Azuki
+  description: "Fake Azuki site phishing for funds"
+  reporter: CryptoScamDB
+- name: login1.metemask.today
+  url: http://login1.metemask.today
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /login/key"
+  reporter: CryptoScamDB
+- name: multibridge.tools
+  url: http://multibridge.tools
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /mail.php"
+  reporter: CryptoScamDB
+- name: walletsrestore.store
+  url: http://walletsrestore.store
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /mail.php"
+  reporter: CryptoScamDB
+- name: opensae-collection.cc
+  url: http://opensae-collection.cc
+  category: Phishing
+  subcategory: OpenSea
+  description: "Fake OpenSea site phishing for secrets with POST /sendform.php"
+  reporter: CryptoScamDB
+- name: adidasminting.com
+  url: http://adidasminting.com
+  category: Phishing
+  subcategory: Adidas
+  description: "Fake Adidas NFT site phishing for funds"
+  addresses:
+    ETH:
+    - "0x8b61F3b22866dbeD67312fE19c2E729346289c05"
+  reporter: CryptoScamDB
+- name: databaseactivation.org
+  url: http://databaseactivation.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST /action1/phrase"
+  reporter: CryptoScamDB
+- name: walletdappsap.com
+  url: http://walletdappsap.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: "Fake WalletConnect site phishing for secrets with POST //webflow.com/api/v1/form/617b14e636233e13f7e3727d"
+  reporter: CryptoScamDB
+- name: mints-hapebeast.com
+  url: http://mints-hapebeast.com
+  category: Phishing
+  subcategory: Hape
+  description: "Fake HapeBeast mint website phishing for funds"
+  addresses:
+    ETH:
+    - "0x81D69da76fC4e1806198C485098a5837923995E3"
+  reporter: CryptoScamDB
+- name: currve.io
+  url: http://currve.io
+  category: Phishing
+  subcategory: Curve
+  description: "Fake Curve site phishing for secrets with POST /f.php"
+  reporter: CryptoScamDB
+- name: meta-words.xyz
+  url: http://meta-words.xyz
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /metamaskwallet/send.php"
+  reporter: CryptoScamDB
+- name: nikeminting.com
+  url: http://nikeminting.com
+  category: Phishing
+  subcategory: Nike
+  description: "Fake Nike NFT minting site phishing for deposits"
+  addresses:
+    ETH:
+    - "0x9785E66639b6b8741616181801Fadb7b87a6f25D"
+  reporter: CryptoScamDB
+- name: starlinktoken-presale.com
+  url: http://starlinktoken-presale.com
+  category: Phishing
+  subcategory: Starlink
+  description: "Fake Starlink crowdsale site"
+  reporter: CryptoScamDB
+- name: binance-giveaway.heavenlytunes.co.za
+  url: http://binance-giveaway.heavenlytunes.co.za
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x4a86ad231b145699cd86df12E03AF41cFfF89298"
+    BTC:
+    - "12pA7ENX1JwNQqQM89dZhJnSh969CVT6Us"
+  reporter: CryptoScamDB
+- name: maskbillionairenft.mintplatform.design
+  url: http://maskbillionairenft.mintplatform.design
+  category: Phishing
+  subcategory: Nft
+  description: "Fake NFT minting platform phishing for funds"
+  addresses:
+    ETH:
+    - "0xa51670c6f0F11F727f3606265252E656e729D09a"
+  reporter: CryptoScamDB
+- name: metasercon.com
+  url: http://metasercon.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /import.php"
+  reporter: CryptoScamDB
+- name: verifymeta.net
+  url: http://verifymeta.net
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with  POST /sendphrase.php"
+  reporter: CryptoScamDB
+- name: metamask-xpubs.web.app
+  url: http://metamask-xpubs.web.app
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST //api.telegram.org/bot1989674180:AAEWhxSjURvrXuFqntspj3zZe2abSkpSJWg/sendMessage?chat_id=-650933929&text=MetaMask%20Login%20Recovery%20Phrase%20%20IP:undefined%20|(%20)%20|%202022-2-2%200:6:47%20|%20MetaMask%20Login%20Recovery%20Phrase%20%20"
+  reporter: CryptoScamDB
+- name: officialmm.com
+  url: http://officialmm.com
+  category: Scamming
+  subcategory: Trust-Trading
+  description: "Trust trading scam site"
+  addresses:
+    ETH:
+    - "0x6998E3AaD88A30E4DfA99d23af746cEF58E7c98D"
+  reporter: CryptoScamDB
+- name: metadata.io.tambooks.vn
+  url: http://metadata.io.tambooks.vn
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /id/E426D639DCF2E40B0026D7651921523F/enjine/bec8987/send.php - https://twitter.com/sniko_/status/1491403063802068993"
+  reporter: CryptoScamDB
+- name: metawallet.com.travelplus.gr
+  url: http://metawallet.com.travelplus.gr
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /id/d41d8cd98f00b204e9800998ecf8427e/hc/en/id40301/send.php"
+  reporter: CryptoScamDB
+- name: metamask1.io
+  url: http://metamask1.io
+  category: Malware
+  subcategory: MetaMask
+  description: "Fake MetaMask site hosting malware (sha256sum: ac59174079a58da92abc82d88bfd6273c5bbb3318cd0f1725cf01ebd6454e8de)"
+  reporter: CryptoScamDB
+- name: coolmansuniverse.xyz
+  url: http://coolmansuniverse.xyz
+  category: Phishing
+  subcategory: Coolmansuniverse
+  description: "Fake NFT site phishing for funds"
+  addresses:
+    ETH:
+    - "0x239b4eB7bBbfFafE2C94bd98B01DE9dB7D35ACcf"
+  reporter: CryptoScamDB
+- name: cosmiccats.io.swadexfi.online
+  url: http://cosmiccats.io.swadexfi.online
+  category: Phishing
+  subcategory: Nft
+  description: "Fake NFT site phishing for funds"
+  addresses:
+    ETH:
+    - "0xD85695A6468660B014EfB04Be87e8916E7e330A7"
+  reporter: CryptoScamDB
+- name: mm-service.io
+  url: http://mm-service.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: verifymetamask.io
+  url: http://verifymetamask.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets"
+  reporter: CryptoScamDB
+- name: metawallet.com.travelplus.gr
+  url: http://metawallet.com.travelplus.gr
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /sendphrase.php"
+  reporter: CryptoScamDB
+- name: mm-support.io
+  url: http://mm-support.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets"
+  reporter: CryptoScamDB
+- name: mm-updates.io
+  url: http://mm-updates.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: mm-update.io
+  url: http://mm-update.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: mm-verify.io
+  url: http://mm-verify.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: mm-alert.io
+  url: http://mm-alert.io
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: mysecure-dnsserver.com
+  url: http://mysecure-dnsserver.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /meta/CrYpTo.php"
+  reporter: CryptoScamDB
+- name: wallet-connect-meta.com
+  url: http://wallet-connect-meta.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: wallet-meta-connec.com
+  url: http://wallet-meta-connec.com
+  category: Phishing
+  subcategory: MetaMask
+  description: "Fake MetaMask site phishing for secrets with POST /"
+  reporter: CryptoScamDB
+- name: validationopensea.com
+  url: http://validationopensea.com
+  category: Phishing
+  subcategory: Opensea
+  description: "Fake OpenSea site phishing for secrets with POST /php/enter.php"
+  reporter: CryptoScamDB
+- name: company-atomic.com
+  url: http://company-atomic.com
+  category: Malware
+  subcategory: Atomic
+  description: "Fake atomic wallet site hosting malware (md5: 8ef8c2e63fd68bf1a675909dd6f1d678)"
+  reporter: CryptoScamDB
