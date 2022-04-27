@@ -69861,4 +69861,1471 @@
   category: Malware
   subcategory: AtomicWallet
   description: "Fake atomic wallet site hosting malware (md5: 8ef8c2e63fd68bf1a675909dd6f1d678)"
+- name: serversync.netlify.app
+  url: https://serversync.netlify.app
+  category: Phishing
+  subcategory: WalletConnect
+  description: >-
+    Fake WalletConnect site phishing for secrets with
+    //api.telegram.org/bot5214656462:AAEiHw06jQ0VoJW2NA5yKOnLszuycPJIy2A/ -
+    https://twitter.com/sniko_/status/1513926196773494785
+  reporter: CryptoScamDB
+- name: connectingauth.me
+  url: https://connectingauth.me
+  category: Phishing
+  subcategory: WalletConnect
+  description: Fake WalletConnect site phishing for secrets
+  reporter: CryptoScamDB
+- name: cryptobaseconnect.com
+  url: https://cryptobaseconnect.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: Fake WalletConnect site phishing for secrets
+  reporter: CryptoScamDB
+- name: maincoinvault.com
+  url: https://maincoinvault.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: Fake WalletConnect site phishing for secrets
+  reporter: CryptoScamDB
+- name: dapps-connects.live
+  url: https://dapps-connects.live
+  category: Phishing
+  subcategory: WalletConnect
+  description: Fake WalletConnect site phishing for secrets
+  reporter: CryptoScamDB
+- name: nodifyloop.online
+  url: https://nodifyloop.online
+  category: Phishing
+  subcategory: WalletConnect
+  description: Fake WalletConnect site phishing for secrets
+  reporter: CryptoScamDB
+- name: nft-moonbirds.net
+  url: https://nft-moonbirds.net
+  category: 'Phishing'
+  subcategory: 'Moonbirds'
+  description: >-
+    Fake NFT Moonbirds site -
+    https://twitter.com/sniko_/status/1516115584592883713
+  addresses:
+    ETH:
+      - '0x7B532F02726E66Fb9447CaC7d5a028b9C2a69A5b'
+      - '0x5baF26feDa7361b8FE52362169Ec537F3A8b8346'
+      - '0x423e48678721F66aF6De9CD46AcD318cA52585C9'
+      - '0x5B8Ac72126C5E17eEF19fCd2ee32dBBd83430d32'
+      - '0xe3de02fC19a211C73A6596dB5E41F5d0E9FA24B9'
+  reporter: CryptoScamDB
+- name: azukishop.live
+  url: https://azukishop.live
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT mint site phishing for funds
+  addresses:
+    ETH:
+      - '0x2CcdbFC13aDa8567eb716901408394dDCaE742Db'
+  reporter: CryptoScamDB
+- name: etherealart.nfts-mints.com
+  url: https://etherealart.nfts-mints.com
+  category: Phishing
+  subcategory: Ethereal
+  description: Fake Ethereal NFT minting site phishing for funds
+  addresses:
+    ETH:
+      - '0x2cD6259e9285C650C738198Ed734103c4BB1282E'
+  reporter: CryptoScamDB
+- name: moonbirds.tv
+  url: https://moonbirds.tv
+  category: Phishing
+  subcategory: Moonbirds
+  description: >-
+    Fake Moonbirds NFT site phishing for funds - backend:
+    //api.worthinnft.info:8000/check?address=<address>
+  addresses:
+    ETH:
+      - '0x2A2f378F41567E48AC0D4321540D1bdB222c4A51'
+  reporter: CryptoScamDB
+- name: moonbirds.gifts
+  url: https://moonbirds.gifts
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  reporter: CryptoScamDB
+- name: free-azuki.com
+  url: https://free-azuki.com
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT mint site phishing for funds
+  addresses:
+    ETH:
+      - '0xF324Af68CdC25D79EF88c0B6e58f94fB5E169d53'
+  reporter: CryptoScamDB
+- name: moonbird.claims
+  url: https://moonbird.claims
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xe3de02fC19a211C73A6596dB5E41F5d0E9FA24B9'
+  reporter: CryptoScamDB
+- name: waliet-polgyon.network
+  url: https://waliet-polgyon.network
+  category: Phishing
+  subcategory: 'Wallet'
+  description: Fake Polygon site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: mintmoonbirds.com
+  url: https://mintmoonbirds.com
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x6964a3833D7C8f8b622AD375051A2cfEB1Cea500'
+  reporter: CryptoScamDB
+- name: optimism-sale.com
+  url: https://optimism-sale.com
+  category: Phishing
+  subcategory: Optimism
+  description: Fake Optimism crowdsale site phishing for funds
+  addresses:
+    ETH:
+      - '0x2a92281e377931CB359349C67F8Fe4A7Ad10f9b7'
+  reporter: CryptoScamDB
+- name: azukipubliclimit.com
+  url: https://azukipubliclimit.com
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x7cb961d546da095db59d1cc3c8443287e1782bd0'
+  reporter: CryptoScamDB
+- name: theprimeapeplanetnft.com
+  url: https://theprimeapeplanetnft.com
+  category: Phishing
+  subcategory: Nft
+  description: Fake PrimeApe NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x8a696CA798E65Aa54b6dAfCc811071Dde808C193'
+  reporter: CryptoScamDB
+- name: supports-opensea.com
+  url: https://supports-opensea.com
+  category: Phishing
+  subcategory: Opensea
+  description: >-
+    Fake OpenSea support site phishing for secrets with POST
+    //firestore.googleapis.com/
+    (projects/axieinfinity-supportwallet-db/databases/(default)//support-axiewallet2)
+  reporter: CryptoScamDB
+- name: airdrops-moonbirds.xyz
+  url: https://airdrops-moonbirds.xyz
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x335eEEF8e93A7A757D9e7912044d9cd264e2b2D8'
+  reporter: CryptoScamDB
+- name: moonbirds.claims
+  url: https://moonbirds.claims
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x89B0Ee7A51efe05b0058b53BbC8457025daa5Bc1'
+  reporter: CryptoScamDB
+- name: nft-moonbirds.me
+  url: https://nft-moonbirds.me
+  category: Phishing
+  subcategory: Moonbirds
+  description: >-
+    Fake Moonbirds NFT site phishing for funds (backend
+    //api.moonbird.claims/claim)
+  reporter: CryptoScamDB
+- name: proof-moonbirds.xyz
+  url: https://proof-moonbirds.xyz
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x335eEEF8e93A7A757D9e7912044d9cd264e2b2D8'
+  reporter: CryptoScamDB
+- name: moonbirdsraffle.xyz
+  url: https://moonbirdsraffle.xyz
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x335eEEF8e93A7A757D9e7912044d9cd264e2b2D8'
+  reporter: CryptoScamDB
+- name: moonbirds.top
+  url: https://moonbirds.top
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds (backend //gastats.xyz)
+  reporter: CryptoScamDB
+- name: moonbirds.pro
+  url: https://moonbirds.pro
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xE9D35Ef2D9cfde9D7Be0316024001b462AEaF655'
+  reporter: CryptoScamDB
+- name: moonbirds-raffle.xyz
+  url: https://moonbirds-raffle.xyz
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xdB9f4E452FB4f62b1B125a552AA94d2b09cf3bac'
+  reporter: CryptoScamDB
+- name: claim-moonbirds.xyz
+  url: https://claim-moonbirds.xyz
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x1b18b87Ba3258A61d8563478E0138b75C2DF903c'
+  reporter: CryptoScamDB
+- name: sale-azuki.com
+  url: https://sale-azuki.com
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xBBc7690F4B87bAE67cDcb26e9940E1F88082e4D9'
+  reporter: CryptoScamDB
+- name: doubleyourbitcoins.biz
+  url: https://doubleyourbitcoins.biz
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+      - 1HMc3e1a8iffw16r9vGrkU3NYJ4M1cx7Rj
+  reporter: CryptoScamDB
+- name: disablesignin.com
+  url: https://disablesignin.com
+  category: Phishing
+  subcategory: Coinbase
+  description: >-
+    Fake Coinbase site phishing for logins with POST
+    //disablesignin.com/e/panel/
+  reporter: CryptoScamDB
+- name: uniswap.homes
+  url: https://uniswap.homes
+  category: Phishing
+  subcategory: Uniswap
+  description: 'Fake Uniswap site phishing for funds (backend: //api.swapeuni.com)'
+  addresses:
+    ETH:
+      - '0xA28Db26447053aaa3259500115dAB1DFb32FBDbB'
+    TRX:
+      - TZJcBeCxv9KZPo4rHmGSc2oy3pKtjCFNXA
+    BTC:
+      - 3P686qDfwihmsc1j8ksdtuw9nZGSqerRrr
+  reporter: CryptoScamDB
+- name: walletconnect.vfy-collab.land
+  url: https://walletconnect.vfy-collab.land
+  category: Phishing
+  subcategory: WalletConnect
+  description: >-
+    Fake WalletConnect site phishing for secrets (directs users to
+    //api.vfy-collab.land/)
+  reporter: CryptoScamDB
+- name: api.vfy-collab.land
+  url: https://api.vfy-collab.land
+  category: Phishing
+  subcategory: WalletConnect
+  description: >-
+    Fake WalletConnect site phishing for secrets with POST
+    /wp-admin/admin-ajax.php
+  reporter: CryptoScamDB
+- name: metamask.thetanareina.com
+  url: https://metamask.thetanareina.com
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /public/api/send
+  reporter: CryptoScamDB
+- name: metamask.net.in
+  url: https://metamask.net.in
+  category: 'Phishing'
+  subcategory: MetaMask
+  description: >-
+    Fake MetaMask site with POST
+    //getform.io/f/f0b3ac78-ceb3-4a1c-b69b-5362333baba7
+  reporter: CryptoScamDB
+- name: azuki-official.art
+  url: https://azuki-official.art
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT website phishing for funds
+  addresses:
+    ETH:
+      - '0x17458dB37f4FaEDf8A6648ae8b3791173614cE44'
+  reporter: CryptoScamDB
+- name: boredapeyachtclubnftwebsite.ca
+  url: https://boredapeyachtclubnftwebsite.ca
+  category: Phishing
+  subcategory: BoredApeYachtClub
+  description: Fake BoredApeYachtClub NFT website phishing for funds
+  addresses:
+    ETH:
+      - '0x026416A9AD88a0110630C0e6255c96245b8ECC1B'
+  reporter: CryptoScamDB
+- name: cryptopunks-claim.app
+  url: https://cryptopunks-claim.app
+  category: Phishing
+  subcategory: CryptoPunks
+  description: Fake CryptoPunks NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x733E80C0e11611877deC337017e5D4e875a9D352'
+  reporter: CryptoScamDB
+- name: claim-worldofwomen.art
+  url: https://claim-worldofwomen.art
+  category: Phishing
+  subcategory: WorldOfWoman
+  description: Fake WorldOfWoman NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x733E80C0e11611877deC337017e5D4e875a9D352'
+      - '0xD838c8F2A55562dA7F62EC48eA8E6C11F50b2c9F'
+  reporter: CryptoScamDB
+- name: nft-coinbase.net
+  url: https://nft-coinbase.net
+  category: Phishing
+  subcategory: Coinbase
+  description: Fake Coinbase NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xe1DA53Dd648990afd779e2589A16f34549310C0a'
+  reporter: CryptoScamDB
+- name: claim-coolcatsnft.com
+  url: https://claim-coolcatsnft.com
+  category: Phishing
+  subcategory: Coolcats
+  description: Fake CoolCats NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x733E80C0e11611877deC337017e5D4e875a9D352'
+      - '0xD838c8F2A55562dA7F62EC48eA8E6C11F50b2c9F'
+  reporter: CryptoScamDB
+- name: moonbirds.events
+  url: https://moonbirds.events
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xeaA20d8E3F20598B0Ed4f0C743Ff5BDF12A10F6D'
+  reporter: CryptoScamDB
+- name: claim-bayc.com
+  url: https://claim-bayc.com
+  category: Phishing
+  subcategory: BoredApeYachtClub
+  description: Fake BoredApeYachtClub NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x096F226b05777751047D1caA8e06f350fa7c4677'
+      - '0xD838c8F2A55562dA7F62EC48eA8E6C11F50b2c9F'
+  reporter: CryptoScamDB
+- name: claim-azuki.live
+  url: https://claim-azuki.live
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x096F226b05777751047D1caA8e06f350fa7c4677'
+  reporter: CryptoScamDB
+- name: mint.boredapeclub.org
+  url: https://mint.boredapeclub.org
+  category: Phishing
+  subcategory: BoredApeYachtClub
+  description: Fake BoredApeYachtClub NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xBC2f7c79a95FDD5C0946c358450bBC61466ec3fd'
+  reporter: CryptoScamDB
+- name: beta-nft.market
+  url: https://beta-nft.market
+  category: Phishing
+  subcategory: Coinbase
+  description: Fake Coinbase NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xe1DA53Dd648990afd779e2589A16f34549310C0a'
+  reporter: CryptoScamDB
+- name: azuki.garden
+  url: https://azuki.garden
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x2CbA1C69Ee13D6b42f010DEc79b2a0FAFace15ea'
+      - '0xD838c8F2A55562dA7F62EC48eA8E6C11F50b2c9F'
+  reporter: CryptoScamDB
+- name: azuki-claims.com
+  url: https://azuki-claims.com
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x384A09ceE82159A207d026F642cd2F9249E03f7e'
+      - '0x096F226b05777751047D1caA8e06f350fa7c4677'
+  reporter: CryptoScamDB
+- name: azuki-claim.com
+  url: https://azuki-claim.com
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x34C48501952A0f73b63ec49379C4ebCdEF4ea669'
+      - '0x096F226b05777751047D1caA8e06f350fa7c4677'
+  reporter: CryptoScamDB
+- name: akuziairdrop.com
+  url: https://akuziairdrop.com
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x5F292C79AbFaBD94CB1e66218f3e89f508ade96d'
+      - '0xD838c8F2A55562dA7F62EC48eA8E6C11F50b2c9F'
+  reporter: CryptoScamDB
+- name: opensea-appeal.com
+  url: https://opensea-appeal.com
+  category: Phishing
+  subcategory: Opensea
+  description: >-
+    Fake OpenSea site phishing for secrets with POST
+    //roninupdate-9408f.firebaseapp.com
+  reporter: CryptoScamDB
+- name: moonbirds.id
+  url: https://moonbirds.id
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x81c81539fcCb098905c2E2D62C6BEea6c10355Fa'
+  reporter: CryptoScamDB
+- name: opensealive.help
+  url: https://opensealive.help
+  category: Phishing
+  subcategory: Opensea
+  description: >-
+    Fake OpenSea site phishing for secrets with POST
+    /trustwallet/majorleague/logger.php
+  reporter: CryptoScamDB
+- name: yugalabs.land
+  url: https://yugalabs.land
+  category: Phishing
+  subcategory: BoredApeYachtClub
+  description: Fake BoredApeYachtClub NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x8c7934611b6AD70FBEa13A1593dE167a4689b9A9'
+  reporter: CryptoScamDB
+- name: moonbirds.mints.sbs
+  url: https://moonbirds.mints.sbs
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xd76D483aEC2fa0f91d3F47Df81d99B84f998326d'
+  reporter: CryptoScamDB
+- name: metamaskauthorization.in
+  url: https://metamaskauthorization.in
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: 2022coinbase.net
+  url: https://2022coinbase.net
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+      - '0x8315438A8d29Ef2800c4eDB12E23Dd3660bA7d08'
+    BTC:
+      - 16DeVeEpY6g2Jxha7bLyPx5kLq5fCmKmXE
+    SOL:
+      - AbsW4eYQ4PMgrQipKE8jaHGyHzNtcyKstoWGurmB2a2B
+  reporter: CryptoScamDB
+- name: event-ethereum2022.com
+  url: https://event-ethereum2022.com
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+      - '0xd61FbDbC346026c08ce3982Ff3103Cf94D5802e8'
+  reporter: CryptoScamDB
+- name: metamask-keyst.com
+  url: https://metamask-keyst.com
+  category: 'Phishing'
+  subcategory: MetaMask
+  description: Fake MetaMask site
+  reporter: CryptoScamDB
+- name: coinbasex2.com
+  url: https://coinbasex2.com
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+      - '0xeF044f8499c3B2C8900A4EAa0bCbF54EFf38bAD7'
+    BTC:
+      - 3CfrKG2L7VJpKajJX52ggrFqEfSMmpymaM
+  reporter: CryptoScamDB
+- name: vitalik-event.org
+  url: https://vitalik-event.org
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+      - '0x3e1d0a20ee1dE3F0b189B696AC304CeEb4bD0cf9'
+  reporter: CryptoScamDB
+- name: buy-azuki.com
+  url: https://buy-azuki.com
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xBBc7690F4B87bAE67cDcb26e9940E1F88082e4D9'
+  reporter: CryptoScamDB
+- name: uniswap-pos.me
+  url: https://uniswap-pos.me
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  reporter: CryptoScamDB
+- name: uniswap-pos.work
+  url: https://uniswap-pos.work
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xe22a6e6d3a4f612609d22938281d31f20820ff0e'
+  reporter: CryptoScamDB
+- name: uniswap-pos.monster
+  url: https://uniswap-pos.monster
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xe22a6e6d3a4f612609d22938281d31f20820ff0e'
+  reporter: CryptoScamDB
+- name: event-ether22.com
+  url: https://event-ether22.com
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+      - '0x1985Ff2fbfa434bB54DaB07631934EC438042ee5'
+  reporter: CryptoScamDB
+- name: moonbirds.ml
+  url: https://moonbirds.ml
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x1558c75451eDc46aB0d1Cbf6eB29c7F64Ea08860'
+  reporter: CryptoScamDB
+- name: moonbirds.sale
+  url: https://moonbirds.sale
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x19a02Cc564e51488a673aB9B433730cac075A1F4'
+  reporter: CryptoScamDB
+- name: claim-moonbirds.net
+  url: https://claim-moonbirds.net
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x3a76960a40c255911709801E53D979fA495c7A4b'
+  reporter: CryptoScamDB
+- name: moonbirdsxyz.co
+  url: https://moonbirdsxyz.co
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xAd9939146D36e7185e98Ca3AF416502CDc1B43f0'
+  reporter: CryptoScamDB
+- name: azukiapessocialclub.com
+  url: https://azukiapessocialclub.com
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x8C71aF2149855648F6aB59dac2298448D33C3999'
+  reporter: CryptoScamDB
+- name: metamask.io.web7783.web07.bero-webspace.de
+  url: https://metamask.io.web7783.web07.bero-webspace.de
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with GET /send.php?text={srp}
+  reporter: CryptoScamDB
+- name: metamask.io.verifytoken.in
+  url: https://metamask.io.verifytoken.in
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: metamask.com.4523544325432.bar
+  url: https://metamask.com.4523544325432.bar
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with email to azansean3@gmail.com
+  reporter: CryptoScamDB
+- name: walletconnect.myddns.com
+  url: https://walletconnect.myddns.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: Fake WalletConnect site phishing for secrets with POST /connect/process.php
+  reporter: CryptoScamDB
+- name: moonbirdsdao.io
+  url: https://moonbirdsdao.io
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x6aB591105F2B3312a92e0c92791E45B70734Cdac'
+  reporter: CryptoScamDB
+- name: metamask-verifyprocess.com
+  url: https://metamask-verifyprocess.com
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: binance-giveaway.rashanwalaa.pk
+  url: https://binance-giveaway.rashanwalaa.pk
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BNB:
+      - bnb165zkpmlxdcvhrpd6g9ajkq55uzavsqnr373450
+    BTC:
+      - 1NA8kPAAwLcQ7rNAPfK863hDMSnqhiAkbp
+    ETH:
+      - '0x31F654A311b00c4FFB8E5EbE9E59DC0665e5cd80'
+  reporter: CryptoScamDB
+- name: tesla-bitcoin.org
+  url: https://tesla-bitcoin.org
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+      - 37FjTEs44VMv7wr4eMcanL8MfGCjn5S7ja
+    ETH:
+      - '0x6913679Bad38475C1A3dF6ed6fE36a9939210b9e'
+  reporter: CryptoScamDB
+- name: uniswapwbridge.com
+  url: https://uniswapwbridge.com
+  category: Phishing
+  subcategory: WalletConnect
+  description: >-
+    Fake WalletConnect site phishing for secrets with POST
+    /connect/wallet/validate.php
+  reporter: CryptoScamDB
+- name: coinbase-vip.com
+  url: https://coinbase-vip.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x55d398326f99059fF775485246999027B3197955'
+      - '0x6956b880e77Cba25961AE287B820dfC1DA5500D3'
+  reporter: CryptoScamDB
+- name: uniswap-pos.biz
+  url: https://uniswap-pos.biz
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xe22a6e6d3a4f612609d22938281d31f20820ff0e'
+  reporter: CryptoScamDB
+- name: unlock.wallet.metamask.espritzeby.xyz
+  url: https://unlock.wallet.metamask.espritzeby.xyz
+  category: Phishing
+  subcategory: MetaMask
+  description: >-
+    Fake MetaMask site phishing for secrets with POST
+    //formsubmit.io/send/b30a3d05-4398-4c7c-a89e-4e7c8e3f6619 and
+    //api.telegram.org/bot5283124851:AAEW9227XZfwW0CDwR_Fcyp3mzlz6JvDXO0/sendMessage?chat_id=5082568123&text={secret}
+  reporter: CryptoScamDB
+- name: proof-moonbirds.com
+  url: https://proof-moonbirds.com
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x5AAF521411379Ba4Cddcfd7E24F8EF71881C6305'
+  reporter: CryptoScamDB
+- name: safety-metamask.io
+  url: https://safety-metamask.io
+  category: Phishing
+  subcategory: MetaMask
+  description: >-
+    Fake MetaMask site phishing for secrets with POST
+    //webflow.com/api/v1/form/61dca5079db7ae403842a3ca
+  reporter: CryptoScamDB
+- name: metamask.io.mrtn.be
+  url: https://metamask.io.mrtn.be
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /meta/CrYpTo.php
+  reporter: CryptoScamDB
+- name: mcdex-defi.com
+  url: https://mcdex-defi.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x4c72c070cfc77c8568a0475c0888f7356619a5f7'
+  reporter: CryptoScamDB
+- name: leverj-defi.com
+  url: https://leverj-defi.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xB9012c81Bd95d29b397FE26534d1967c9A1eFD47'
+  reporter: CryptoScamDB
+- name: beameth.com
+  url: https://beameth.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x2f2b4eeb3737103174de546b594749052eaa1401'
+  reporter: CryptoScamDB
+- name: viabtc-svip.com
+  url: https://viabtc-svip.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x77017c2e2258E6927eC4C9Bcc5f22987bdf34BFC'
+  reporter: CryptoScamDB
+- name: usdt-coinbase.xyz
+  url: https://usdt-coinbase.xyz
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xbfa35e24433bc835a7f129b9d8da4d628115b923'
+  reporter: CryptoScamDB
+- name: ethsany.cc
+  url: https://ethsany.cc
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x7BaC92deeadDaa542B6B428847c8ec6F8d74D8f0'
+  reporter: CryptoScamDB
+- name: dydx-amg.com
+  url: https://dydx-amg.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x9B95e694a3d010b187D4970E1A7Ed95a973243ea'
+  reporter: CryptoScamDB
+- name: bancor-vvip.com
+  url: https://bancor-vvip.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x18242C2A38beC6e6Fa6BEcff691e3420B01f90c1'
+  reporter: CryptoScamDB
+- name: bancor-mvp.com
+  url: https://bancor-mvp.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x18242C2A38beC6e6Fa6BEcff691e3420B01f90c1'
+  reporter: CryptoScamDB
+- name: bancor-adm.com
+  url: https://bancor-adm.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x18242C2A38beC6e6Fa6BEcff691e3420B01f90c1'
+  reporter: CryptoScamDB
+- name: bancor-svip.com
+  url: https://bancor-svip.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x18242C2A38beC6e6Fa6BEcff691e3420B01f90c1'
+  reporter: CryptoScamDB
+- name: bancor-dio.com
+  url: https://bancor-dio.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x18242C2A38beC6e6Fa6BEcff691e3420B01f90c1'
+  reporter: CryptoScamDB
+- name: eth-miningfarm.com
+  url: https://eth-miningfarm.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x114DD7Ed78fb31d005b2564ded6F9D13B1ce4FFF'
+  reporter: CryptoScamDB
+- name: viabtc-vip.com
+  url: https://viabtc-vip.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x77017c2e2258E6927eC4C9Bcc5f22987bdf34BFC'
+  reporter: CryptoScamDB
+- name: mooniswap-defi.com
+  url: https://mooniswap-defi.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x78f87b86926a43390B7c8A96Fe09a50c3F48B536'
+  reporter: CryptoScamDB
+- name: dydx-vvip.com
+  url: https://dydx-vvip.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x9B95e694a3d010b187D4970E1A7Ed95a973243ea'
+  reporter: CryptoScamDB
+- name: dydxvip.io
+  url: https://dydxvip.io
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x9B95e694a3d010b187D4970E1A7Ed95a973243ea'
+  reporter: CryptoScamDB
+- name: argent-defi.com
+  url: https://argent-defi.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x49426cc3B12DC8D6efc48E663EA28F58C4c726E1'
+  reporter: CryptoScamDB
+- name: etoro.zone
+  url: https://etoro.zone
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xc49e407B7bde02d50B0642Ca923b642043e7b76f'
+  reporter: CryptoScamDB
+- name: uniswap-defi-vip.com
+  url: https://uniswap-defi-vip.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x84a6a08b31458B705268703464a2710dD56B33A1'
+  reporter: CryptoScamDB
+- name: eth-banko.co
+  url: https://eth-banko.co
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x4d44d92143AC426fA84c864F9D282CA14B60A45b'
+  reporter: CryptoScamDB
+- name: leverjsvip.com
+  url: https://leverjsvip.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xB9012c81Bd95d29b397FE26534d1967c9A1eFD47'
+  reporter: CryptoScamDB
+- name: hydefieco.com
+  url: https://hydefieco.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x773F31f5e83FD92079256d696a0278241b1cB56E'
+  reporter: CryptoScamDB
+- name: defiflexpool-vvip.com
+  url: https://defiflexpool-vvip.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x195632255AcD8182ff5752aaa1210376bF904F06'
+  reporter: CryptoScamDB
+- name: etha.me
+  url: https://etha.me
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xaa1e3C33Fa220D3908cF5fe0dc9776A67A97Bb09'
+  reporter: CryptoScamDB
+- name: aaveeth.top
+  url: https://aaveeth.top
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x9D144fFc9Ab596e97F1A1e9Cc0E029C1C2f05dd7'
+  reporter: CryptoScamDB
+- name: ethtrust.biz
+  url: https://ethtrust.biz
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x1fA3CBD4d066264cabB13a7c562f35cbF25Adfd5'
+  reporter: CryptoScamDB
+- name: defiing.net
+  url: https://defiing.net
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x7497DBA68bBF14C5a8b6B2caE20E92687DB9b34e'
+  reporter: CryptoScamDB
+- name: ethbonus-pool.cc
+  url: https://ethbonus-pool.cc
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xc3db9A8cCce0462E516e8840C756972e139adc39'
+  reporter: CryptoScamDB
+- name: eth-coinbase.org
+  url: https://eth-coinbase.org
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x13D163241CC47d4e99beCE791f75A3aA0f27FcA8'
+  reporter: CryptoScamDB
+- name: ethsany.org
+  url: https://ethsany.org
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xFaa9BE9d6cc650Cc3E577e620781Ff8FE7DABded'
+  reporter: CryptoScamDB
+- name: eth-cbse.xyz
+  url: https://eth-cbse.xyz
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x62F1b75660071C341918C770844a29AF7d97a9aA'
+  reporter: CryptoScamDB
+- name: mining-pool.cc
+  url: https://mining-pool.cc
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x2cdD07cB79B90aDd189612A094431a33d1623f69'
+  reporter: CryptoScamDB
+- name: eth.cgi-service.com
+  url: https://eth.cgi-service.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  reporter: CryptoScamDB
+- name: cb-titan.vip
+  url: https://cb-titan.vip
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x9875AE4Cd2d5B2c5b8116e5565dBa3C7C8953929'
+  reporter: CryptoScamDB
+- name: eth-main.cc
+  url: https://eth-main.cc
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x827eB1D207770d8C651a8d151E2fF35440F74fb1'
+  reporter: CryptoScamDB
+- name: coin-ethgo.co
+  url: https://coin-ethgo.co
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x7da78e7a8E0D70F2C0e26ec8CB5314FaD58DB1D2'
+  reporter: CryptoScamDB
+- name: sal-mining.tools
+  url: https://sal-mining.tools
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x54Fa4cf2F116b850503DaC914db2c94460375B7B'
+  reporter: CryptoScamDB
+- name: coinbaseu2e.com
+  url: https://coinbaseu2e.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  reporter: CryptoScamDB
+- name: boredapeyc.design
+  url: https://boredapeyc.design
+  category: Phishing
+  subcategory: BoredApeYachtClub
+  description: Fake BoredApeYachtClub NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x24f49eA03998550716804963327fFCC1d0AF5098'
+  reporter: CryptoScamDB
+- name: earnshibtoken.com
+  url: https://earnshibtoken.com
+  category: Phishing
+  subcategory: TrustWallet
+  description: Fake TrustWallet site phishing for secrets with POST /send.php
+  reporter: CryptoScamDB
+- name: moonbirds-airdrop.com
+  url: https://moonbirds-airdrop.com
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x5212FCDE5E7DC903230b593E2c0697FCC04B4155'
+  reporter: CryptoScamDB
+- name: walletconnect.updatepage.cc
+  url: https://walletconnect.updatepage.cc
+  category: Phishing
+  subcategory: WalletConnect
+  description: Fake WalletConnect site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: tesla-bitcoin.net
+  url: https://tesla-bitcoin.net
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    BTC:
+      - 37FjTEs44VMv7wr4eMcanL8MfGCjn5S7ja
+    ETH:
+      - '0x6913679Bad38475C1A3dF6ed6fE36a9939210b9e'
+  reporter: CryptoScamDB
+- name: moonbirds-nest.mints.sbs
+  url: https://moonbirds-nest.mints.sbs
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for secrets
+  addresses:
+    ETH:
+      - '0xd76D483aEC2fa0f91d3F47Df81d99B84f998326d'
+  reporter: CryptoScamDB
+- name: k.usdt-etherscan.com
+  url: https://k.usdt-etherscan.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x29082d65530D8faCca62061447080a0aD06bf372'
+    TRX:
+      - TJMrXk3d88w6UzqhrqEDUwB8akKZHwN17Y
+  reporter: CryptoScamDB
+- name: metamask-verifyprocces.com
+  url: https://metamask-verifyprocces.com
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: azukibeans.net
+  url: https://azukibeans.net
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xeadec46cf9f38a29de4291c5bc7dbbea3b55b189'
+  reporter: CryptoScamDB
+- name: usdt-etherscan.com
+  url: https://usdt-etherscan.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x29082d65530d8facca62061447080a0ad06bf372'
+    TRX:
+      - TJMrXk3d88w6UzqhrqEDUwB8akKZHwN17Y
+  reporter: CryptoScamDB
+- name: bitcoin-twitter.org
+  url: https://bitcoin-twitter.org
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  reporter: CryptoScamDB
+- name: proofmoonbirds.com
+  url: https://proofmoonbirds.com
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xC662D15f4F2Af94b6f86c8bC9869618e36d803bF'
+  reporter: CryptoScamDB
+- name: allowlist.mint-moonbirds.xyz
+  url: https://allowlist.mint-moonbirds.xyz
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xFB66DaC386b6227bB17CeF2Eea93536c1712fCCc'
+  reporter: CryptoScamDB
+- name: mint-moonbirds.xyz
+  url: https://mint-moonbirds.xyz
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xF9F64f4184D05CEA96DAcC1BE6fCE277105A7A6b'
+  reporter: CryptoScamDB
+- name: emwalletplan2017.com
+  url: https://emwalletplan2017.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xd6f567573F3f61c459b1277B4F6539Fdc2f03ea7'
+  reporter: CryptoScamDB
+- name: qwe1212.com
+  url: https://qwe1212.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xf8de7a1c7f8a9c45ebe66fa9727f46e65f7aa22e'
+  reporter: CryptoScamDB
+- name: fun-eth.com
+  url: https://fun-eth.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x242f6730830c4ef6b1c98930dd8e4e71854897e2'
+  reporter: CryptoScamDB
+- name: usdt-xyz.com
+  url: https://usdt-xyz.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  reporter: CryptoScamDB
+- name: eth-mask.com
+  url: https://eth-mask.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x37f092b00fc5a70b7bfbd12e2672db764ac85060'
+  reporter: CryptoScamDB
+- name: mining-etherscan.com
+  url: https://mining-etherscan.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x29082d65530D8faCca62061447080a0aD06bf372'
+    TRX:
+      - TJMrXk3d88w6UzqhrqEDUwB8akKZHwN17Y
+  reporter: CryptoScamDB
+- name: v2.coinmine2022.cc
+  url: https://v2.coinmine2022.cc
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x69c9c6873eb48e0925ba6182f22d8d3cba6407fb'
+  reporter: CryptoScamDB
+- name: k.bitflyerr07.com
+  url: https://k.bitflyerr07.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x29082d65530D8faCca62061447080a0aD06bf372'
+    TRX:
+      - TJMrXk3d88w6UzqhrqEDUwB8akKZHwN17Y
+  reporter: CryptoScamDB
+- name: newmine.cc
+  url: https://newmine.cc
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x97feb608d6a1d4eCE850A9526Db25BbD272bE8b0'
+  reporter: CryptoScamDB
+- name: coinbasesi.xyz
+  url: https://coinbasesi.xyz
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0xFb867E6a058209649085a112607feB34d08e3954'
+  reporter: CryptoScamDB
+- name: othersidexbayc.xyz
+  url: https://othersidexbayc.xyz
+  category: Phishing
+  subcategory: BoredApeYachtClub
+  description: >-
+    Fake BoredApeYachtClub OtherSide NFT site phishing for funds (backend:
+    a.gastats.xyz)
+  addresses:
+    ETH:
+      - '0x4305b1372f1b244da0b32aa2b6f8ae0a124b50b8'
+      - '0x144c5b5141cdab13e5b5b22165bf6688ac7212bc'
+  reporter: CryptoScamDB
+- name: geniexyz.claims
+  url: https://geniexyz.claims
+  category: Phishing
+  subcategory: 'Genie'
+  description: Fake Genie site phishing for funds
+  addresses:
+    ETH:
+      - '0x72Eb3Cf00702E50321BB76F441498A5974f85dFf'
+  reporter: CryptoScamDB
+- name: boredapesyachtsclub.com
+  url: https://boredapesyachtsclub.com
+  category: Phishing
+  subcategory: BoredApeYachtClub
+  description: Fake BoredApeYachtClub NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x9e08a25ab36d12d847fd577700f76bc8dd5d559e'
+  reporter: CryptoScamDB
+- name: azukinftdrop.online
+  url: https://azukinftdrop.online
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xf03EAedC6EB086F7FEd66417e4214963E12142A4'
+      - '0xD838c8F2A55562dA7F62EC48eA8E6C11F50b2c9F'
+  reporter: CryptoScamDB
+- name: metamask.weekendchefs.com
+  url: https://metamask.weekendchefs.com
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /system/config.php
+  reporter: CryptoScamDB
+- name: metamask.com.verifytoken.in
+  url: https://metamask.com.verifytoken.in
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: nest.moonbirds.website
+  url: https://nest.moonbirds.website
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x5d6cd02c9e629f0a12f4982add42c8fb42f98352'
+  reporter: CryptoScamDB
+- name: boredapetoken.space
+  url: https://boredapetoken.space
+  category: Phishing
+  subcategory: BoredApeYachtClub
+  description: Fake BoredApeYachtClub NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x5d0c3a2bf2d82ab1f2bc56fcf9310f0ae5b6c3f3'
+      - '0x604636852e1C0d7D1301D938924F80E4f4955Ca9'
+  reporter: CryptoScamDB
+- name: uniswap-web.org
+  url: https://uniswap-web.org
+  category: Phishing
+  subcategory: Uniswap
+  description: >-
+    Fake Uniswap site phishing for secrets with POST
+    //api.emailjs.com/api/v1.0/email/send (user_id=user_kZviXY6LE5sHvizP8nymS)
+  reporter: CryptoScamDB
+- name: uniswapcloud.com
+  url: https://uniswapcloud.com
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    TRX:
+      - TDkUJs5oFbxdFFiCrLuK3ZH2tFRWVNASXs
+  reporter: CryptoScamDB
+- name: coinbasedefi.info
+  url: https://coinbasedefi.info
+  category: Phishing
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    TRX:
+      - TCwkX7ztyJzbuv7WjuuKsB9VCdv2mhYtj8
+  reporter: CryptoScamDB
+- name: giveaway-moonbirds.com
+  url: https://giveaway-moonbirds.com
+  category: 'Scamming'
+  subcategory: Trust-Trading
+  description: Trust trading scam site
+  addresses:
+    ETH:
+      - '0x5beD938a15BFf19907985b0caa725F7f89Ec31b1'
+  reporter: CryptoScamDB
+- name: walletconnectei.diskstation.eu
+  url: https://walletconnectei.diskstation.eu
+  category: Phishing
+  subcategory: WalletConnect
+  description: Fake WalletConnect site phishing for secrets with POST /connect/process.php
+  reporter: CryptoScamDB
+- name: minting-moonbirds.xyz
+  url: https://minting-moonbirds.xyz
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0xa91C4C8EF6d859285E86Ea3d954ecA96aFC34771'
+  reporter: CryptoScamDB
+- name: www-moonbirds-nft.com
+  url: https://www-moonbirds-nft.com
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: www-nftmoonbirds.com
+  url: https://www-nftmoonbirds.com
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: www-moonbirds.com
+  url: https://www-moonbirds.com
+  category: Phishing
+  subcategory: Moonbirds
+  description: Fake Moonbirds NFT site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: azuki.safeminting.io
+  url: https://azuki.safeminting.io
+  category: Phishing
+  subcategory: Azuki
+  description: Fake Azuki NFT site phishing for funds
+  addresses:
+    ETH:
+      - '0x77C6c63Fa99D541d0d4a82cC825Ee29824BdD2a9'
+  reporter: CryptoScamDB
+- name: coinbase-forgott.sytes.net
+  url: https://coinbase-forgott.sytes.net
+  category: Phishing
+  subcategory: Coinbase
+  description: Fake Coinbase site phishing for logins with POST /submit_reset
+  reporter: CryptoScamDB
+- name: walletconnectservice.duckdns.org
+  url: https://walletconnectservice.duckdns.org
+  category: Phishing
+  subcategory: WalletConnect
+  description: Fake WalletConnect site phishing for secrets with POST /mail.php
   reporter: CryptoScamDB
