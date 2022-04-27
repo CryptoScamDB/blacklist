@@ -69563,7 +69563,7 @@
 - name: theprimeapeplanetnft.com
   url: https://theprimeapeplanetnft.com
   category: Phishing
-  subcategory: NFT
+  subcategory: Nft
   description: Fake PrimeApe NFT site phishing for funds
   addresses:
     ETH:
@@ -69572,7 +69572,7 @@
 - name: supports-opensea.com
   url: https://supports-opensea.com
   category: Phishing
-  subcategory: OpenSea
+  subcategory: Opensea
   description: >-
     Fake OpenSea support site phishing for secrets with POST
     //firestore.googleapis.com/
@@ -69869,7 +69869,7 @@
 - name: opensea-appeal.com
   url: https://opensea-appeal.com
   category: Phishing
-  subcategory: OpenSea
+  subcategory: Opensea
   description: >-
     Fake OpenSea site phishing for secrets with POST
     //roninupdate-9408f.firebaseapp.com
@@ -69886,7 +69886,7 @@
 - name: opensealive.help
   url: https://opensealive.help
   category: Phishing
-  subcategory: OpenSea
+  subcategory: Opensea
   description: >-
     Fake OpenSea site phishing for secrets with POST
     /trustwallet/majorleague/logger.php
@@ -69912,8 +69912,8 @@
 - name: metamaskauthorization.in
   url: https://metamaskauthorization.in
   category: Phishing
-  subcategory: MetaMAsk
-  description: Fake MetaMAsk site phishing for secrets with POST /
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /
   reporter: CryptoScamDB
 - name: 2022coinbase.net
   url: https://2022coinbase.net
