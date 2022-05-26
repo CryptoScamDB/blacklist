@@ -20,6 +20,10 @@ describe('YAML Validator', function() {
 		it('every entry should have a valid category', function() {
 			yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
 				if('category' in entry) {
+					if(dict.CATEGORIES.includes(entry.category) === false) {
+						console.log(`Dictionary does not include: ${entry.category}`)
+					}
+
 					assert.strictEqual(dict.CATEGORIES.includes(entry.category), true)
 				}
 			})
