@@ -72929,3 +72929,206 @@
     ETH:
     - '0xB38119F41A46EAc324888AE2382c64aB6F578a47'
   reporter: CryptoScamDB
+- name: ethmetamask.com
+  url: https://ethmetamask.com
+  category: Scamming
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  reporter: CryptoScamDB
+- name: xxxmetamaskxxxwalletxxx.dray-dns.de
+  url: https://xxxmetamaskxxxwalletxxx.dray-dns.de
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /com
+  reporter: CryptoScamDB
+- name: metamask.co.in
+  url: https://metamask.co.in
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /meta/CrYpTo.php
+  reporter: CryptoScamDB
+- name: metamaskxxxupdatexxmaskx.draydns.de
+  url: https://metamaskxxxupdatexxmaskx.draydns.de
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /com
+  reporter: CryptoScamDB
+- name: xxupgrademetamaskxxxxx.dray-dns.de
+  url: https://xxupgrademetamaskxxxxx.dray-dns.de
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /com
+  reporter: CryptoScamDB
+- name: verification-metamask.xyz
+  url: https://verification-metamask.xyz
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for tokens
+  addresses:
+    ETH:
+    - '0xa9Af852c5DD4a26c0a0220ecA66Fc66146856385'
+  reporter: CryptoScamDB
+- name: xxhuntmetamaskxxxx.draydns.de
+  url: https://xxhuntmetamaskxxxx.draydns.de
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /com
+  reporter: CryptoScamDB
+- name: ocmkarma-mint.netlify.app
+  url: https://ocmkarma-mint.netlify.app
+  category: Phishing
+  subcategory: 'OnChainMonkey'
+  description: Fake OnChainMonkey site phishing for assets
+  addresses:
+    ETH:
+    - '0x7e57ac7c18dd697a12a346ee59360ad970557c20'
+  reporter: CryptoScamDB
+- name: dappairdrop.com
+  url: https://dappairdrop.com
+  category: Phishing
+  subcategory: Airdrop
+  description: Fake COT airdrop site phishing for funds
+  addresses:
+    ETH:
+    - '0x90528e15a6f3f9d6c101d71742e586e716988159'
+  reporter: CryptoScamDB
+- name: goblin-town.net
+  url: https://goblin-town.net
+  category: Phishing
+  subcategory: NFT
+  description: Fake NFT site phishing for assets
+  reporter: CryptoScamDB
+- name: ens-domain.org
+  url: https://ens-domain.org
+  category: Phishing
+  subcategory: ENS
+  description: Fake ENS site phishing for secrets with POST /index.php/api/verify
+  reporter: CryptoScamDB
+- name: abracadabra.run
+  url: https://abracadabra.run
+  category: Malware
+  subcategory: Malware
+  description: Fake Abracadabra site hosting malware
+  reporter: CryptoScamDB
+- name: opensea-users-reward.netlify.app
+  url: https://opensea-users-reward.netlify.app
+  category: Phishing
+  subcategory: Opensea
+  description: Fake OpenSea site phishing for secrets with POST //formsubmit.co/d416f210b97f28c96839940938580cad
+  reporter: CryptoScamDB
+- name: speshbabies.com
+  url: https://speshbabies.com
+  category: Phishing
+  subcategory: Coolmansuniverse
+  description: Fake CoolmansUniverse site phishing for assets
+  addresses:
+    ETH:
+    - '0x0bb5690957d9def9ac09da2e9666cb15a4d43800'
+    - '0x4eba1ce155f9dc95d70e5ab2a94898b4f25266ac'
+  reporter: CryptoScamDB
+- name: metamasks-validation.com
+  url: https://metamasks-validation.com
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /mail.php
+  reporter: CryptoScamDB
+- name: china-metamask.vip
+  url: https://china-metamask.vip
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for funds by selling a fake MetaMask token
+  addresses:
+    ETH:
+    - '0xbdb33c68ce4429d8f1256eed0455ee0913a5053e'
+    - '0xec63b755f200757f586b2b7b31f473b090c85bb8'
+  reporter: CryptoScamDB
+- name: metamaskio.live
+  url: https://metamaskio.live
+  category: Malware
+  subcategory: MetaMask
+  description: 'Fake MetaMask site hosting malware sha256: c93129131e775d9a633dd62f99ef5756c3c5c0e00eb8da26f57c24a9987fe913'
+  reporter: CryptoScamDB
+- name: metamaskm.tech
+  url: https://metamaskm.tech
+  category: 'Phishing'
+  subcategory: MetaMask
+  description: Fake MetaMask site directing users to //metamask-v1.oss-cn-hongkong.aliyuncs.com/metamask-v1.apk
+  reporter: CryptoScamDB
+- name: io.metamask.portalhub.in
+  url: https://io.metamask.portalhub.in
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: partners-metamask.com
+  url: https://partners-metamask.com
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for funds
+  addresses:
+    ETH:
+    - '0x777c112507E16B8f4DDE3ec67f4012b4DD6FE59E'
+  reporter: CryptoScamDB
+- name: token-metamask.com
+  url: https://token-metamask.com
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for funds
+  addresses:
+    ETH:
+    - '0x777c112507E16B8f4DDE3ec67f4012b4DD6FE59E'
+  reporter: CryptoScamDB
+- name: openmetamask.org
+  url: https://openmetamask.org
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST //walletconnect-us.herokuapp.com/tsubmit
+  reporter: CryptoScamDB
+- name: metamask-recover.net
+  url: https://metamask-recover.net
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /
+  reporter: CryptoScamDB
+- name: metamask-update.iaibserang.ac.id
+  url: https://metamask-update.iaibserang.ac.id
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /app/main.php
+  reporter: CryptoScamDB
+- name: metamaskm.top
+  url: https://metamaskm.top
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets
+  reporter: CryptoScamDB
+- name: xxxrecoveringphrasemetamaskxxx.dd-dns.de
+  url: https://xxxrecoveringphrasemetamaskxxx.dd-dns.de
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /com
+  reporter: CryptoScamDB
+- name: metamask.wallet-dapps.live
+  url: https://metamask.wallet-dapps.live
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /secure/simple-forms/sendmail.php
+  reporter: CryptoScamDB
+- name: xxxxsecuremetamaskverifyyxxxx.dray-dns.de
+  url: https://xxxxsecuremetamaskverifyyxxxx.dray-dns.de
+  category: Phishing
+  subcategory: MetaMask
+  description: Fake MetaMask site phishing for secrets with POST /com
+  reporter: CryptoScamDB
+- name: china-metamask.us
+  url: https://china-metamask.us
+  category: 'Phishing'
+  subcategory: MetaMask
+  description: Fake MetaMask site directing users to //chaojiapp009.com:1888/AmEI.app
+  reporter: CryptoScamDB
+- name: china-metamask.in
+  url: https://china-metamask.in
+  category: 'Phishing'
+  subcategory: MetaMask
+  description: Fake MetaMask site directing users to //chaojiapp009.com:1888/Qfj5.app
+  reporter: CryptoScamDB
