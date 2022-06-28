@@ -173,6 +173,7 @@
   reporter: CryptoScamDB
 - name: blocklichan.info
   url: http://blocklichan.info
+  category: Phishing
   subcategory: Blockchain
   reporter: CryptoScamDB
 - name: bloclkicihan.info
