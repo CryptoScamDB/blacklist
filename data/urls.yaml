@@ -73150,3 +73150,47 @@
   subcategory: MetaMask
   description: Fake MetaMask site directing users to //chaojiapp009.com:1888/Qfj5.app
   reporter: CryptoScamDB
+- name: etherscan-approve.negle-universet.dk
+  url: 'https://etherscan-approve.negle-universet.dk'
+  category: Phishing
+  subcategory: Etherscan
+  description: >-
+    Fake Etherscan site phishing for secrets with POST
+    /network.approve.ethersan.io/approve/send.php
+  reporter: CryptoScamDB
+- name: coolmansuniversebabies.com
+  url: 'https://coolmansuniversebabies.com'
+  category: Phishing
+  subcategory: Coolmansuniverse
+  description: Fake Coolmansuniverse site phishing for funds
+  addresses:
+    ETH:
+      - '0x4eba1ce155f9dc95d70e5ab2a94898b4f25266ac'
+      - '0x0BB5690957d9def9Ac09dA2e9666cb15a4D43800'
+  reporter: CryptoScamDB
+- name: usdtpos.net
+  url: 'https://usdtpos.net'
+  category: Scamming
+  subcategory: Investment
+  description: Fake investment platform phishing for funds - usdt approve abuse scam
+  addresses:
+    ETH:
+      - '0x726f8c502b37c05cb08642f6350ee8a94e6481ac'
+  reporter: CryptoScamDB
+- name: eth-radar.com
+  url: 'https://eth-radar.com'
+  category: Phishing
+  subcategory: Yearn
+  description: Fake YearnFinance site phishing for funds
+  addresses:
+    ETH:
+      - '0xb6af46be91b1ba4043c99f968c18871d3a763059'
+  reporter: CryptoScamDB
+- name: cecd33.fr
+  url: 'https://cecd33.fr'
+  category: Phishing
+  subcategory: Ledger
+  description: >-
+    Fake Ledger site phishing for secrets with POST
+    /wp-includes/js/crop/ledger/com/support/reset/seed/send.php
+  reporter: CryptoScamDB
