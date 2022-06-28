@@ -21,7 +21,7 @@
   reporter: CryptoScamDB
 - name: coindash.ru
   url: http://coindash.ru
-  category: Fake ICO
+  category: Phishing
   subcategory: Coindash
   description: someone plz check
   reporter: CryptoScamDB
@@ -127,7 +127,7 @@
   reporter: CryptoScamDB
 - name: coindash.ml
   url: http://coindash.ml
-  category: Fake ICO
+  category: Phishing
   subcategory: Coindash
   description: someone plz check
   reporter: CryptoScamDB
@@ -177,11 +177,12 @@
   reporter: CryptoScamDB
 - name: bloclkicihan.info
   url: http://bloclkicihan.info
+  category: Phishing
   subcategory: Blockchain
   reporter: CryptoScamDB
 - name: district-0x.io
   url: http://district-0x.io
-  category: Fake ICO
+  category: Phishing
   subcategory: District0x
   description: fake ICO site w/ fake address.
   addresses:
@@ -236,7 +237,7 @@
   reporter: CryptoScamDB
 - name: district0x.net
   url: http://district0x.net
-  category: Fake ICO
+  category: Phishing
   subcategory: District0x
   description: fake ICO site w/ fake address. Mirrored from district0x.io/ by HTTrack
     Website Copier/3.x [XR&CO'2014], Fri, 14 Jul 2017 08:59:16 GMT
@@ -280,7 +281,7 @@
   reporter: CryptoScamDB
 - name: contribute-status.im
   url: http://contribute-status.im
-  category: Fake ICO
+  category: Phishing
   subcategory: Status
   addresses:
     ETH:
@@ -308,55 +309,71 @@
   reporter: CryptoScamDB
 - name: account-kigo.net
   url: http://account-kigo.net
+  category: Phishing
+  subcategory: Kigo
   description: same guy as to eos-bonus eos-io update-mew and secure-mew. ?. keeping
     for recon
   reporter: CryptoScamDB
 - name: eos-bonus.com
   url: http://eos-bonus.com
-  category: Fake ICO
+  category: Phishing
   subcategory: EOS
   description: same guy as to eos-bonus eos-io update-mew and secure-mew. ?. keeping
     for recon
   reporter: CryptoScamDB
 - name: eos-io.info
   url: http://eos-io.info
-  category: Fake ICO
+  category: Phishing
   subcategory: EOS
   description: same guy as to eos-bonus eos-io update-mew and secure-mew. ?. keeping
     for recon
   reporter: CryptoScamDB
 - name: reservations-kigo.net
   url: http://reservations-kigo.net
+  category: Phishing
+  subcategory: Kigo
   description: same guy as to eos-bonus eos-io update-mew and secure-mew. ?. keeping
     for recon
   reporter: CryptoScamDB
 - name: reservations-lodgix.com
   url: http://reservations-lodgix.com
+  category: Phishing
+  subcategory: Lodgix
   description: same guy as to eos-bonus eos-io update-mew and secure-mew. ?. keeping
     for recon
   reporter: CryptoScamDB
 - name: secure-liverez.com
   url: http://secure-liverez.com
+  category: Phishing
+  subcategory: Liverez
   description: same guy as to eos-bonus eos-io update-mew and secure-mew. ?. keeping
     for recon
   reporter: CryptoScamDB
 - name: secure-onerooftop.com
   url: http://secure-onerooftop.com
+  category: Phishing
+  subcategory: Onerooftop
   description: same guy as to eos-bonus eos-io update-mew and secure-mew. ?. keeping
     for recon
   reporter: CryptoScamDB
 - name: settings-liverez.com
   url: http://settings-liverez.com
+  category: Phishing
+  subcategory: Liverez
   description: same guy as to eos-bonus eos-io update-mew and secure-mew. ?. keeping
     for recon
   reporter: CryptoScamDB
 - name: software-liverez.com
   url: http://software-liverez.com
+  category: Phishing
+  subcategory: Liverez
   description: same guy as to eos-bonus eos-io update-mew and secure-mew. ?. keeping
     for recon
   reporter: CryptoScamDB
 - name: software-lodgix.com
   url: http://software-lodgix.com
+  category: Phishing
+  subcategory: Lodgix
   description: fake ico site
   reporter: CryptoScamDB
 - name: aragonproject.io
@@ -564,24 +581,25 @@
   reporter: CryptoScamDB
 - name: omg-omise.co
   url: http://omg-omise.co
-  category: Fake ICO
+  category: Phishing
   subcategory: OmiseGo
   description: fake ico site
   reporter: CryptoScamDB
 - name: tenx-tech.com
   url: http://tenx-tech.com
-  category: Fake ICO
+  category: Phishing
   subcategory: TenX
   description: phishing
   reporter: CryptoScamDB
 - name: tokensale-tenx.tech
   url: http://tokensale-tenx.tech
-  category: Fake ICO
+  category: Phishing
   subcategory: TenX
   description: fake ico
   reporter: CryptoScamDB
 - name: ubiqcoin.org
   url: http://ubiqcoin.org
+  category: Phishing
   subcategory: Ubiq
   reporter: CryptoScamDB
 - name: etherwallet.co.za
@@ -11199,7 +11217,7 @@
   reporter: CryptoScamDB
 - name: indorsetoken.com
   url: http://indorsetoken.com
-  category: Fake ICO
+  category: Phishing
   subcategory: Indorse
   reporter: CryptoScamDB
 - name: ziber.io
@@ -11315,7 +11333,7 @@
   reporter: CryptoScamDB
 - name: substratum.io
   url: http://substratum.io
-  category: Fake ICO
+  category: Phishing
   subcategory: Substratum
   reporter: CryptoScamDB
 - name: omise-omg.com
@@ -11394,7 +11412,7 @@
 - name: monetha-crowdsale.com
   url: http://monetha-crowdsale.com
   description: "Fake Monetha crowdsale site"
-  category: Fake ICO
+  category: Phishing
   subcategory: Monetha
   addresses:
     ETH:
@@ -27093,7 +27111,7 @@
   reporter: CryptoScamDB
 - name: fantom-foundation.tech
   url: http://fantom-foundation.tech
-  category: Fake ICO
+  category: Phishing
   subcategory: Fantom
   description: Fake Fantom crowdsale site
   addresses:
