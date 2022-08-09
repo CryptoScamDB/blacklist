@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "npm-check-updates": "^16.0.5",
-    "pre-commit": "^1.2.2"
+    "pre-commit": "^1.2.2",
+    "yaml-validator": "^4.0.0"
   }
 }

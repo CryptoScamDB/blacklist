@@ -32,7 +32,7 @@
     ETH:
     - "0xfa2e4bddb3899dFB0d91A70744739d9f76692755"
   reporter: CryptoScamDB
-  - name: twitter.com/VitalikButeriin
+- name: twitter.com/VitalikButeriin
   url: http://twitter.com/VitalikButeriin
   category: Scamming
   subcategory: Trust-Trading
