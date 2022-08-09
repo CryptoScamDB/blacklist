@@ -9,7 +9,7 @@ const readCommands = () => {
 				if(err) {
 					reject(err);
 				} else {
-					resolve(items.map(item => yaml.safeLoad(fs.readFileSync('./commands/' + item, 'utf8'))));
+					resolve(items.map(item => yaml.load(fs.readFileSync('./commands/' + item, 'utf8'))));
 				}
 				
 			});
@@ -22,7 +22,7 @@ const readCommands = () => {
 (async () => {
 	const commands = await readCommands();
 	if(commands.length > 0) {
-		const urls = yaml.safeLoad(fs.readFileSync('./data/urls.yaml', 'utf8'));
+		const urls = yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8'));
 		console.log(commands.length + " commands found");
 		commands.forEach(command => {
 			if(command.type == "ADD") {
