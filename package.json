@@ -4,7 +4,8 @@
   "scripts": {
     "build": "node ./scripts/build.js",
     "test": "mocha ./scripts/test.js",
-    "precommit-msg": "echo 'Pre-commit checks...' && exit 0"
+    "precommit-msg": "echo 'Pre-commit checks...' && exit 0",
+    "prettify": "eslint --fix data/ scripts/"
   },
   "pre-commit": [
     "precommit-msg",
@@ -16,6 +17,10 @@
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-yml": "^1.1.0",
     "npm-check-updates": "^16.0.5",
     "pre-commit": "^1.2.2",
     "yaml-validator": "^4.0.0"
