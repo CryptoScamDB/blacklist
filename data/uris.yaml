@@ -6,9 +6,9 @@
   description: Trust trading 0.5ETH for 5ETH
   addresses:
     ETH:
-    - "0x08389B19ad52f0d983609ab785b3a43A0E90355F"
+      - "0x08389B19ad52f0d983609ab785b3a43A0E90355F"
   reporter: CryptoScamDB
-- name: 'Twitter: EthereumWallets'
+- name: "Twitter: EthereumWallets"
   url: https://twitter.com/EthereumWallets
   category: Phishing
   subcategory: MyEtherWallet
@@ -21,7 +21,7 @@
   description: Trust trading 0.1ETH for 2ETH
   addresses:
     ETH:
-    - "0x7bb386c33486fe345168d0af94bef03897e16022"
+      - "0x7bb386c33486fe345168d0af94bef03897e16022"
   reporter: CryptoScamDB
 - name: twitter.com/Aurora__dao/status/960683836463075328
   url: https://twitter.com/Aurora__dao/status/960683836463075328
@@ -30,52 +30,7 @@
   description: Trust trading scam tweet
   addresses:
     ETH:
-    - "0xfa2e4bddb3899dFB0d91A70744739d9f76692755"
-  reporter: CryptoScamDB
-  - name: twitter.com/VitalikButeriin
-  url: http://twitter.com/VitalikButeriin
-  category: Scamming
-  subcategory: Trust-Trading
-  description: Trust trading 0.1ETH for 2ETH
-  addresses:
-    ETH:
-    - "0x5d82db63cf0c54d47006d416bdc7dab09ea2f3f1"
-  reporter: CryptoScamDB
-- name: twitter.com/VitalikBulerin
-  url: http://twitter.com/VitalikBulerin
-  category: Scamming
-  subcategory: Trust-Trading
-  description: Trust trading 0.1ETH for 2ETH
-  addresses:
-    ETH:
-    - "0xA82C7c0Ef05080463E4ac55DB8b8531007f3A66C"
-  reporter: CryptoScamDB
-- name: twitter.com/2017_binance
-  url: http://twitter.com/2017_binance
-  category: Scamming
-  subcategory: Trust-Trading
-  description: Trust trading 0.1ETH for 2ETH
-  addresses:
-    ETH:
-    - "0xdcd2fb1c1b103c5a591e76798704cfaa27baf6b9"
-  reporter: CryptoScamDB
-- name: twitter.com/VitaliikB
-  url: http://twitter.com/VitaliikB
-  category: Scamming
-  subcategory: Trust-Trading
-  description: Trust trading 0.1ETH for 2ETH
-  addresses:
-    ETH:
-    - "0x5efb7d2ab258b18c8166b0c74fc4117716e52515"
-  reporter: CryptoScamDB
-- name: twitter.com/VitallikButerin
-  url: http://twitter.com/VitallikButerin
-  category: Scamming
-  subcategory: Trust-Trading
-  description: Trust trading 0.1ETH for 2ETH
-  addresses:
-    ETH:
-    - "0x414bca672494b8f078112c52ae258f9e8de1a4a0"
+      - "0xfa2e4bddb3899dFB0d91A70744739d9f76692755"
   reporter: CryptoScamDB
 - name: twitter.com/VitalikButeriin
   url: http://twitter.com/VitalikButeriin
@@ -84,7 +39,52 @@
   description: Trust trading 0.1ETH for 2ETH
   addresses:
     ETH:
-    - "0x3dfE9F7Af8864DF0b7Cc2a20430006fd1af8dA1a"
+      - "0x5d82db63cf0c54d47006d416bdc7dab09ea2f3f1"
+  reporter: CryptoScamDB
+- name: twitter.com/VitalikBulerin
+  url: http://twitter.com/VitalikBulerin
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading 0.1ETH for 2ETH
+  addresses:
+    ETH:
+      - "0xA82C7c0Ef05080463E4ac55DB8b8531007f3A66C"
+  reporter: CryptoScamDB
+- name: twitter.com/2017_binance
+  url: http://twitter.com/2017_binance
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading 0.1ETH for 2ETH
+  addresses:
+    ETH:
+      - "0xdcd2fb1c1b103c5a591e76798704cfaa27baf6b9"
+  reporter: CryptoScamDB
+- name: twitter.com/VitaliikB
+  url: http://twitter.com/VitaliikB
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading 0.1ETH for 2ETH
+  addresses:
+    ETH:
+      - "0x5efb7d2ab258b18c8166b0c74fc4117716e52515"
+  reporter: CryptoScamDB
+- name: twitter.com/VitallikButerin
+  url: http://twitter.com/VitallikButerin
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading 0.1ETH for 2ETH
+  addresses:
+    ETH:
+      - "0x414bca672494b8f078112c52ae258f9e8de1a4a0"
+  reporter: CryptoScamDB
+- name: twitter.com/VitalikButeriin
+  url: http://twitter.com/VitalikButeriin
+  category: Scamming
+  subcategory: Trust-Trading
+  description: Trust trading 0.1ETH for 2ETH
+  addresses:
+    ETH:
+      - "0x3dfE9F7Af8864DF0b7Cc2a20430006fd1af8dA1a"
   reporter: CryptoScamDB
 - name: twitter.com/VitalikButterin
   url: http://twitter.com/VitalikButterin
@@ -93,7 +93,7 @@
   description: Trust trading 0.1ETH for 2ETH
   addresses:
     ETH:
-    - "0x5B6D3d66E18Dfd31ed9A753C406963C401f356C0"
+      - "0x5B6D3d66E18Dfd31ed9A753C406963C401f356C0"
   reporter: CryptoScamDB
 - name: twitter.com/VitalikButeirn
   url: http://twitter.com/VitalikButeirn
@@ -102,7 +102,7 @@
   description: Trust trading 0.1ETH for 2ETH
   addresses:
     ETH:
-    - "0xc8c3234Aea55a5F746b2aE585a849ba0BFa57785"
+      - "0xc8c3234Aea55a5F746b2aE585a849ba0BFa57785"
   reporter: CryptoScamDB
 - name: twitter.com/VitailkButerin
   url: http://twitter.com/VitailkButerin
@@ -111,7 +111,7 @@
   description: Trust trading 0.1ETH for 2ETH
   addresses:
     ETH:
-    - "0x774148e22F021972bfe082e1548E5d9dC6e1D76E"
+      - "0x774148e22F021972bfe082e1548E5d9dC6e1D76E"
   reporter: CryptoScamDB
 - name: twitter.com/VitalkButerin
   url: http://twitter.com/VitalkButerin
@@ -120,7 +120,7 @@
   description: Trust trading 0.1ETH for 2ETH
   addresses:
     ETH:
-    - "0xeeCC46A74ceA6133a12672bD62D5167877B4d521"
+      - "0xeeCC46A74ceA6133a12672bD62D5167877B4d521"
   reporter: CryptoScamDB
 - name: twitter.com/officialmacafee
   url: http://twitter.com/officialmacafee
@@ -129,7 +129,7 @@
   description: Trust trading 0.1ETH for 2ETH
   addresses:
     ETH:
-    - "0xeeCC46A74ceA6133a12672bD62D5167877B4d521"
+      - "0xeeCC46A74ceA6133a12672bD62D5167877B4d521"
   reporter: CryptoScamDB
 - name: twitter.com/VltalikButerin
   url: http://twitter.com/VltalikButerin
@@ -138,7 +138,7 @@
   description: Trust trading 0.1ETH for 2ETH
   addresses:
     ETH:
-    - "0xe5b913f91f2b90c5cd04d711e1eb3214c56dba98"
+      - "0xe5b913f91f2b90c5cd04d711e1eb3214c56dba98"
   reporter: CryptoScamDB
 - name: twitter.com/omise__go
   url: http://twitter.com/omise__go
@@ -146,3 +146,4 @@
   subcategory: OmiseGO
   description: fake twitter
   reporter: CryptoScamDB
+...
