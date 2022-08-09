@@ -48,11 +48,3 @@ describe('YAML Validator', () => {
     });
   });
 });
-
-describe('JSON Validator', () => {
-  describe('twitter.json', () => {
-    it('should contain valid JSON', () => {
-      assert.doesNotThrow(() => JSON.parse(fs.readFileSync('./data/twitter.json', 'utf8')));
-    });
-  });
-});
