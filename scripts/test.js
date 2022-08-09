@@ -1,54 +1,58 @@
+/* eslint-disable no-undef */
 const assert = require('assert');
 const yaml = require('js-yaml');
 const fs = require('fs');
 const dict = require('./dictionary.json');
 
-describe('YAML Validator', function() {
-	describe('urls.yaml', function() {
-		it('should contain valid YAML', function(){
-			assert.doesNotThrow(() => yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')));
-		});
-		it('every entry should have a url', function() {
-			assert.deepEqual(yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => !('url' in entry)),[]);
-		});
-		it('every url should specify its protocol (http:// or https:// or mailto:)', function() {
-			assert.deepEqual(yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => !entry.url.startsWith('http://') && !entry.url.startsWith('https://') && !entry.url.startsWith('mailto:')),[]);
-		});
-		it('every entry should have valid keys (url/category/subcategory/description/addresses/coin/reporter)', function() {
-			assert.deepEqual(yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => Object.keys(entry).some(key => !['name','url','category','subcategory','description','addresses','reporter','coin'].includes(key))),[]);
-		});
-		it('every entry should have a valid category', function() {
-			yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
-				if('category' in entry) {
-					if(dict.CATEGORIES.includes(entry.category) === false) {
-						console.log(`Dictionary does not include: ${entry.category}`)
-					}
+describe('YAML Validator', () => {
+  describe('urls.yaml', () => {
+    it('should contain valid YAML', () => {
+      assert.doesNotThrow(() => yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')));
+    });
+    it('every entry should have a url', () => {
+      assert.deepEqual(yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter((entry) => !('url' in entry)), []);
+    });
+    it('every url should specify its protocol (http:// or https:// or mailto:)', () => {
+      assert.deepEqual(yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter((entry) => !entry.url.startsWith('http://') && !entry.url.startsWith('https://') && !entry.url.startsWith('mailto:')), []);
+    });
+    it('every entry should have valid keys (url/category/subcategory/description/addresses/coin/reporter)', () => {
+      assert.deepEqual(yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter((entry) => Object.keys(entry).some((key) => !['name', 'url', 'category', 'subcategory', 'description', 'addresses', 'reporter', 'coin'].includes(key))), []);
+    });
+    it('every entry should have a valid category', () => {
+      yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter((entry) => {
+        if ('category' in entry) {
+          if (dict.CATEGORIES.includes(entry.category) === false) {
+            console.log(`Dictionary does not include: ${entry.category}`);
+            return false;
+          }
 
-					assert.strictEqual(dict.CATEGORIES.includes(entry.category), true)
-				}
-			})
-		})
-		it('every entry should have a valid subcategory', function() {
-			yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter(entry => {
-				if('subcategory' in entry) {
+          assert.strictEqual(dict.CATEGORIES.includes(entry.category), true);
+          return true;
+        }
+        return false;
+      });
+    });
+    it('every entry should have a valid subcategory', () => {
+      yaml.load(fs.readFileSync('./data/urls.yaml', 'utf8')).filter((entry) => {
+        if ('subcategory' in entry) {
+          if (dict.SUBCATEGORIES.includes(entry.subcategory) === false) {
+            console.log(`Dictionary does not include: ${entry.subcategory}`);
+            return false;
+          }
 
-					if(dict.SUBCATEGORIES.includes(entry.subcategory) === false) {
-						console.log(`Dictionary does not include: ${entry.subcategory}`)
-					}
-
-					assert.strictEqual(dict.SUBCATEGORIES.includes(entry.subcategory), true)
-				}
-			})
-		})
-	});
-	describe('Additions', function() {
-		
-	});
+          assert.strictEqual(dict.SUBCATEGORIES.includes(entry.subcategory), true);
+          return true;
+        }
+        return false;
+      });
+    });
+  });
 });
-describe('JSON Validator', function() {
-	describe('twitter.json', function() {
-		it('should contain valid JSON', function(){
-			assert.doesNotThrow(() => JSON.parse(fs.readFileSync('./data/twitter.json', 'utf8')));
-		});
-	});
+
+describe('JSON Validator', () => {
+  describe('twitter.json', () => {
+    it('should contain valid JSON', () => {
+      assert.doesNotThrow(() => JSON.parse(fs.readFileSync('./data/twitter.json', 'utf8')));
+    });
+  });
 });

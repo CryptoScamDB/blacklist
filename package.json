@@ -5,7 +5,8 @@
     "build": "node ./scripts/build.js",
     "test": "mocha ./scripts/test.js",
     "precommit-msg": "echo 'Pre-commit checks...' && exit 0",
-    "prettify": "eslint --fix data/ scripts/"
+    "prettify": "eslint --fix data/ scripts/",
+    "lint": "eslint data/ scripts/"
   },
   "pre-commit": [
     "precommit-msg",

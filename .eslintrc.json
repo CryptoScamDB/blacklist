@@ -12,5 +12,8 @@
         "sourceType": "module"
     },
     "rules": {
+        "max-len": "off",
+        "no-console": "off",
+        "yml/no-multiple-empty-lines": 1
     }
 }
